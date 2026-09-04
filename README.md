@@ -13,18 +13,18 @@ GitHub and the public API will run on Cloudflare Workers.
 
 ## Current status
 
-Repository and deployment plumbing are connected, but the practice API has not
-been implemented yet.
+Repository and deployment plumbing are connected. The first practice dataset
+has been added, but the API itself has not been implemented yet.
 
-- The GitHub repository contains only this project documentation and ignore
-  rules.
+- The repository contains a validated, flat dataset of 1,000 movies covering
+  1990 through 2026 in `data/movies.json`.
 - Cloudflare Worker `api` is connected to `matt22/cosmic-lab-api`.
 - Cloudflare watches the `main` branch and uses `npx wrangler deploy` as its
   deploy command.
 - The existing endpoint was initially created through Cloudflare and remains
   live from that manual deployment.
 - There is not yet a `wrangler.jsonc`, Worker entry point, package manifest,
-  dataset, API contract, or test suite in this repository.
+  API contract, or test suite in this repository.
 
 Do not assume the code currently running at the endpoint exists in this Git
 repository. Before relying on Git-based deployment, add and test the minimal

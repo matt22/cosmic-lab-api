@@ -1,0 +1,27 @@
+SELECT
+  ?film
+  ?filmLabel
+  ?date
+  ?runtime
+  ?ratingLabel
+  ?imdb
+  ?director
+  ?familyNameLabel
+WHERE {
+  ?film wdt:P31 wd:Q11424;
+    wdt:P577 ?date;
+    wdt:P2047 ?runtime;
+    wdt:P57 ?director;
+    wdt:P1657 ?rating;
+    wdt:P345 ?imdb.
+  ?director wdt:P734 ?familyName.
+
+  FILTER(YEAR(?date) >= 1990 && YEAR(?date) <= 2026)
+
+  SERVICE wikibase:label {
+    bd:serviceParam wikibase:language "en".
+    ?film rdfs:label ?filmLabel.
+    ?rating rdfs:label ?ratingLabel.
+    ?familyName rdfs:label ?familyNameLabel.
+  }
+}
