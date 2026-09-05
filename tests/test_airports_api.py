@@ -3,10 +3,25 @@ from pathlib import Path
 
 from src.airports_api import (
     AIRPORTS_PAGE_SIZE,
+    cache_key,
+    get_result_set,
     load_airports,
     parse_query,
     query_airports,
 )
+
+
+class FakeCache:
+    def __init__(self):
+        self.values = {}
+        self.put_calls = []
+
+    async def get(self, key):
+        return self.values.get(key)
+
+    async def put(self, key, value, **options):
+        self.values[key] = value
+        self.put_calls.append((key, value, options))
 
 
 class AirportsApiTests(unittest.TestCase):
@@ -101,6 +116,32 @@ class AirportsApiTests(unittest.TestCase):
             (repository_root / "src" / "airports.json").read_bytes(),
             (repository_root / "data" / "airports.json").read_bytes(),
         )
+
+
+class AirportsCacheTests(unittest.IsolatedAsyncioTestCase):
+    @classmethod
+    def setUpClass(cls):
+        cls.airports = load_airports()
+
+    async def test_cache_write_uses_configured_ttl(self):
+        cache = FakeCache()
+
+        result_set = await get_result_set(cache, self.airports, "CA", 10800)
+
+        self.assertEqual(len(result_set), 12)
+        self.assertEqual(len(cache.put_calls), 1)
+        key, _, options = cache.put_calls[0]
+        self.assertEqual(key, cache_key("CA"))
+        self.assertEqual(options, {"expirationTtl": 10800})
+
+    async def test_cache_hit_does_not_rewrite_value(self):
+        cache = FakeCache()
+
+        first = await get_result_set(cache, self.airports, "CA", 10800)
+        second = await get_result_set(cache, [], "CA", 10800)
+
+        self.assertEqual(second, first)
+        self.assertEqual(len(cache.put_calls), 1)
 
 
 if __name__ == "__main__":

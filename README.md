@@ -21,6 +21,8 @@ datasets are complete. The first API endpoint is implemented for airports.
 - Cloudflare Worker `api` is connected to `matt22/cosmic-lab-api`.
 - Cloudflare KV namespace `cosmic-lab-api-query-cache` is configured as the
   `QUERY_CACHE` Worker binding in `wrangler.jsonc`.
+- Cached query result sets use dataset-specific TTL variables. All five dataset
+  TTLs currently default to three hours (`10800` seconds).
 - Cloudflare watches the `main` branch. Its existing `npx wrangler deploy`
   command must be changed to `uv run pywrangler deploy` before deploying this
   Python Worker.

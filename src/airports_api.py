@@ -9,6 +9,7 @@ from typing import Any, Mapping, Sequence
 
 AIRPORTS_PAGE_SIZE = 3
 AIRPORTS_PATH = Path(__file__).with_name("airports.json")
+AIRPORTS_CACHE_KEY_VERSION = "2026-09-04"
 
 
 class QueryError(ValueError):
@@ -66,20 +67,63 @@ def serialize_airport(airport: Mapping[str, Any]) -> dict[str, Any]:
     }
 
 
-def query_airports(
-    airports: Sequence[Mapping[str, Any]], state_code: str, page: int
+def build_result_set(
+    airports: Sequence[Mapping[str, Any]], state_code: str
+) -> list[dict[str, Any]]:
+    """Build the complete ordered result set for a state."""
+    return [
+        serialize_airport(airport)
+        for airport in airports
+        if airport["stateCode"] == state_code
+    ]
+
+
+def cache_key(state_code: str) -> str:
+    """Return a versioned key shared by every page of a state query."""
+    return f"api:v1:airports:{AIRPORTS_CACHE_KEY_VERSION}:state_code:{state_code}"
+
+
+async def get_result_set(
+    cache: Any,
+    airports: Sequence[Mapping[str, Any]],
+    state_code: str,
+    ttl_seconds: int,
+) -> list[dict[str, Any]]:
+    """Read a state result set from KV, populating it on a cache miss."""
+    key = cache_key(state_code)
+    cached_value = await cache.get(key)
+    if cached_value is not None:
+        return json.loads(cached_value)
+
+    result_set = build_result_set(airports, state_code)
+    await cache.put(
+        key,
+        json.dumps(result_set, separators=(",", ":")),
+        expirationTtl=ttl_seconds,
+    )
+    return result_set
+
+
+def paginate_result_set(
+    result_set: Sequence[Mapping[str, Any]], page: int
 ) -> dict[str, Any]:
-    """Return one fixed-size page for a state."""
-    matches = [airport for airport in airports if airport["stateCode"] == state_code]
+    """Return one fixed-size page from an ordered airports result set."""
     start_index = (page - 1) * AIRPORTS_PAGE_SIZE
-    page_records = matches[start_index : start_index + AIRPORTS_PAGE_SIZE]
+    page_records = result_set[start_index : start_index + AIRPORTS_PAGE_SIZE]
 
     return {
         "pagination": {
             "page": page,
             "page_size": AIRPORTS_PAGE_SIZE,
             "count": len(page_records),
-            "total": len(matches),
+            "total": len(result_set),
         },
-        "data": [serialize_airport(airport) for airport in page_records],
+        "data": list(page_records),
     }
+
+
+def query_airports(
+    airports: Sequence[Mapping[str, Any]], state_code: str, page: int
+) -> dict[str, Any]:
+    """Build and paginate a result without using a cache."""
+    return paginate_result_set(build_result_set(airports, state_code), page)

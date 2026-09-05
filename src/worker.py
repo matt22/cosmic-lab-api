@@ -4,7 +4,13 @@ from urllib.parse import parse_qs, urlparse
 
 from workers import Response, WorkerEntrypoint
 
-from airports_api import QueryError, load_airports, parse_query, query_airports
+from airports_api import (
+    QueryError,
+    get_result_set,
+    load_airports,
+    paginate_result_set,
+    parse_query,
+)
 
 
 AIRPORTS = load_airports()
@@ -30,4 +36,10 @@ class Default(WorkerEntrypoint):
         except QueryError as error:
             return error_response(str(error), 400)
 
-        return Response.json(query_airports(AIRPORTS, state_code, page))
+        result_set = await get_result_set(
+            self.env.QUERY_CACHE,
+            AIRPORTS,
+            state_code,
+            int(self.env.AIRPORTS_CACHE_TTL_SECONDS),
+        )
+        return Response.json(paginate_result_set(result_set, page))
