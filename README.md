@@ -13,8 +13,8 @@ GitHub and the public API will run on Cloudflare Workers.
 
 ## Current status
 
-Repository and deployment plumbing are connected. The first practice dataset
-has been added, but the API itself has not been implemented yet.
+Repository and deployment plumbing are connected, and the initial practice
+datasets are complete. The API itself has not been implemented yet.
 
 - The repository contains five validated, flat practice datasets in `data/`:
   movies, cities, US airports, books, and fictional service incidents.
@@ -29,6 +29,33 @@ has been added, but the API itself has not been implemented yet.
 Do not assume the code currently running at the endpoint exists in this Git
 repository. Before relying on Git-based deployment, add and test the minimal
 Worker project files locally.
+
+## Available datasets
+
+All datasets are checked-in JSON arrays. Records are intentionally flat: fields
+contain strings, numbers, or documented null values rather than nested objects
+or arrays. Dataset-specific provenance, selection rules, and rebuilding notes
+live in [`data/README.md`](data/README.md).
+
+| File | Records | Fields |
+| --- | ---: | --- |
+| `movies.json` | 1,000 | `id`, `title`, `year`, `runtimeMinutes`, `mpaaRating`, `scoreRating`, `directorLastName` |
+| `cities.json` | 1,000 | `id`, `cityName`, `countryCode`, `countryName`, `continent`, `latitude`, `longitude` |
+| `airports.json` | 100 | `id`, `airportName`, `iataCode`, `icaoCode`, `city`, `stateCode`, `stateName`, `countryCode`, `countryName`, `latitude`, `longitude` |
+| `books.json` | 1,000 | `id`, `title`, `author`, `isbn13`, `publicationDate`, `pages` |
+| `incidents.json` | 100 | `id`, `serviceName`, `severity`, `status`, `startTime`, `endTime` |
+
+The movie, city, airport, and book datasets contain sourced real-world data.
+Incidents are fictional and deterministic. Their null timestamps carry meaning:
+
+- A planned incident has a null `startTime` and a future `endTime` target.
+- An active incident has a populated `startTime` and a null `endTime`.
+- A resolved incident has both timestamps, with the end after the start.
+- Both incident timestamps are never null.
+
+Validation and deterministic build scripts are kept in `scripts/`. Generated
+JSON is committed so the Worker can eventually bundle and serve it without a
+database or a build-time network dependency.
 
 ## Intended architecture
 
@@ -55,13 +82,16 @@ Example endpoints may eventually look like:
 
 ```text
 GET /api/movies
-GET /api/movies?genre=comedy
-GET /api/movies?year=2020&rating_gte=7
-GET /api/movies?sort=rating&order=desc&limit=10
+GET /api/movies?year=2020&scoreRating_gte=7
+GET /api/cities?countryCode=JP&sort=cityName
+GET /api/airports?stateCode=CA
+GET /api/books?publicationDate_gte=2000-01-01&pages_lte=400
+GET /api/incidents?endTime=null
+GET /api/movies?sort=scoreRating&order=desc&limit=10
 ```
 
-The data model, supported operators, response envelope, errors, pagination,
-and practice exercises are intentionally undecided.
+The stored data models are now defined. Supported query operators, response
+envelope, errors, pagination, and practice exercises remain undecided.
 
 ## Suggested next-session checklist
 
@@ -72,7 +102,8 @@ and practice exercises are intentionally undecided.
 4. Run it locally with Wrangler and add a basic automated health check.
 5. Deploy a minimal version through GitHub and verify that the public endpoint
    still works.
-6. Only then design datasets, filtering syntax, exercises, and expected results.
+6. Define filtering, sorting, null handling, pagination, response envelopes,
+   errors, and expected exercise results against the existing datasets.
 
 ## Local repository workflow
 
