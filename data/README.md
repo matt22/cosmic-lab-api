@@ -1,4 +1,41 @@
-# Movies dataset
+# Practice datasets
+
+## Cities
+
+`cities.json` contains the 1,000 most populous unique city/country pairs with
+complete source records. Each object has exactly seven scalar fields:
+
+| Field | Type | Meaning |
+| --- | --- | --- |
+| `id` | integer | Stable dataset ID from 1 through 1,000 |
+| `cityName` | string | UTF-8 city name |
+| `countryCode` | string | Two-letter ISO 3166-1 country code |
+| `countryName` | string | English country name |
+| `continent` | string | Full English continent name |
+| `latitude` | number | WGS 84 latitude, rounded to four decimal places |
+| `longitude` | number | WGS 84 longitude, rounded to four decimal places |
+
+The dataset was generated on 2026-09-04 from the GeoNames
+[`cities15000.zip`](https://download.geonames.org/export/dump/cities15000.zip)
+and [`countryInfo.txt`](https://download.geonames.org/export/dump/countryInfo.txt)
+files. GeoNames data is licensed under
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+Rows without a city name, population, valid country mapping, continent, or
+coordinates are excluded. When GeoNames contains the same city name more than
+once within a country, the highest-population record is retained. Population is
+used only for deterministic selection and is not exposed in the practice data.
+Final records are ordered by city name and country code before IDs are assigned.
+
+Rebuild the dataset with:
+
+```bash
+python3 scripts/build_cities.py \
+  --cities /path/to/cities15000.txt \
+  --countries /path/to/countryInfo.txt
+```
+
+## Movies
 
 `movies.json` is a flat, read-only practice dataset containing 1,000 real
 movies released from 1990 through 2026. Every year in that inclusive range is

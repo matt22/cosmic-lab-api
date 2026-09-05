@@ -1,0 +1,9002 @@
+[
+  {
+    "id": 1,
+    "cityName": "Aba",
+    "countryCode": "NG",
+    "countryName": "Nigeria",
+    "continent": "Africa",
+    "latitude": 5.1066,
+    "longitude": 7.3667
+  },
+  {
+    "id": 2,
+    "cityName": "Abeokuta",
+    "countryCode": "NG",
+    "countryName": "Nigeria",
+    "continent": "Africa",
+    "latitude": 7.1557,
+    "longitude": 3.3451
+  },
+  {
+    "id": 3,
+    "cityName": "Abidjan",
+    "countryCode": "CI",
+    "countryName": "Ivory Coast",
+    "continent": "Africa",
+    "latitude": 5.3544,
+    "longitude": -4.0017
+  },
+  {
+    "id": 4,
+    "cityName": "Abobo",
+    "countryCode": "CI",
+    "countryName": "Ivory Coast",
+    "continent": "Africa",
+    "latitude": 5.4161,
+    "longitude": -4.0159
+  },
+  {
+    "id": 5,
+    "cityName": "Abu Dhabi",
+    "countryCode": "AE",
+    "countryName": "United Arab Emirates",
+    "continent": "Asia",
+    "latitude": 24.4512,
+    "longitude": 54.397
+  },
+  {
+    "id": 6,
+    "cityName": "Abuja",
+    "countryCode": "NG",
+    "countryName": "Nigeria",
+    "continent": "Africa",
+    "latitude": 9.0579,
+    "longitude": 7.4951
+  },
+  {
+    "id": 7,
+    "cityName": "Abū Ghurayb",
+    "countryCode": "IQ",
+    "countryName": "Iraq",
+    "continent": "Asia",
+    "latitude": 33.3056,
+    "longitude": 44.1848
+  },
+  {
+    "id": 8,
+    "cityName": "Acapulco de Juárez",
+    "countryCode": "MX",
+    "countryName": "Mexico",
+    "continent": "North America",
+    "latitude": 16.8494,
+    "longitude": -99.9089
+  },
+  {
+    "id": 9,
+    "cityName": "Accra",
+    "countryCode": "GH",
+    "countryName": "Ghana",
+    "continent": "Africa",
+    "latitude": 5.556,
+    "longitude": -0.1969
+  },
+  {
+    "id": 10,
+    "cityName": "Adachi",
+    "countryCode": "JP",
+    "countryName": "Japan",
+    "continent": "Asia",
+    "latitude": 35.7632,
+    "longitude": 139.8076
+  },
+  {
+    "id": 11,
+    "cityName": "Adana",
+    "countryCode": "TR",
+    "countryName": "Turkey",
+    "continent": "Asia",
+    "latitude": 36.9862,
+    "longitude": 35.3253
+  },
+  {
+    "id": 12,
+    "cityName": "Addis Ababa",
+    "countryCode": "ET",
+    "countryName": "Ethiopia",
+    "continent": "Africa",
+    "latitude": 9.025,
+    "longitude": 38.7469
+  },
+  {
+    "id": 13,
+    "cityName": "Adelaide",
+    "countryCode": "AU",
+    "countryName": "Australia",
+    "continent": "Oceania",
+    "latitude": -34.9287,
+    "longitude": 138.5986
+  },
+  {
+    "id": 14,
+    "cityName": "Aden",
+    "countryCode": "YE",
+    "countryName": "Yemen",
+    "continent": "Asia",
+    "latitude": 12.7796,
+    "longitude": 45.0385
+  },
+  {
+    "id": 15,
+    "cityName": "Agadir",
+    "countryCode": "MA",
+    "countryName": "Morocco",
+    "continent": "Africa",
+    "latitude": 30.4202,
+    "longitude": -9.5982
+  },
+  {
+    "id": 16,
+    "cityName": "Agege",
+    "countryCode": "NG",
+    "countryName": "Nigeria",
+    "continent": "Africa",
+    "latitude": 6.6156,
+    "longitude": 3.3334
+  },
+  {
+    "id": 17,
+    "cityName": "Agra",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 27.1833,
+    "longitude": 78.0167
+  },
+  {
+    "id": 18,
+    "cityName": "Aguascalientes",
+    "countryCode": "MX",
+    "countryName": "Mexico",
+    "continent": "North America",
+    "latitude": 21.8826,
+    "longitude": -102.2843
+  },
+  {
+    "id": 19,
+    "cityName": "Ahmedabad",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 23.0258,
+    "longitude": 72.5873
+  },
+  {
+    "id": 20,
+    "cityName": "Ahvaz",
+    "countryCode": "IR",
+    "countryName": "Iran",
+    "continent": "Asia",
+    "latitude": 31.319,
+    "longitude": 48.6842
+  },
+  {
+    "id": 21,
+    "cityName": "Aihara",
+    "countryCode": "JP",
+    "countryName": "Japan",
+    "continent": "Asia",
+    "latitude": 35.6,
+    "longitude": 139.3167
+  },
+  {
+    "id": 22,
+    "cityName": "Akure",
+    "countryCode": "NG",
+    "countryName": "Nigeria",
+    "continent": "Africa",
+    "latitude": 7.2526,
+    "longitude": 5.1931
+  },
+  {
+    "id": 23,
+    "cityName": "Al Ain City",
+    "countryCode": "AE",
+    "countryName": "United Arab Emirates",
+    "continent": "Asia",
+    "latitude": 24.1917,
+    "longitude": 55.7606
+  },
+  {
+    "id": 24,
+    "cityName": "Al Aḩmadī",
+    "countryCode": "KW",
+    "countryName": "Kuwait",
+    "continent": "Asia",
+    "latitude": 29.0769,
+    "longitude": 48.0839
+  },
+  {
+    "id": 25,
+    "cityName": "Al Mansurah",
+    "countryCode": "EG",
+    "countryName": "Egypt",
+    "continent": "Africa",
+    "latitude": 31.0364,
+    "longitude": 31.3807
+  },
+  {
+    "id": 26,
+    "cityName": "Al Mawşil al Jadīdah",
+    "countryCode": "IQ",
+    "countryName": "Iraq",
+    "continent": "Asia",
+    "latitude": 36.3327,
+    "longitude": 43.1056
+  },
+  {
+    "id": 27,
+    "cityName": "Al Maḩallah al Kubrá",
+    "countryCode": "EG",
+    "countryName": "Egypt",
+    "continent": "Africa",
+    "latitude": 30.9706,
+    "longitude": 31.1669
+  },
+  {
+    "id": 28,
+    "cityName": "Al Ḩudaydah",
+    "countryCode": "YE",
+    "countryName": "Yemen",
+    "continent": "Asia",
+    "latitude": 14.7978,
+    "longitude": 42.9545
+  },
+  {
+    "id": 29,
+    "cityName": "Aleppo",
+    "countryCode": "SY",
+    "countryName": "Syria",
+    "continent": "Asia",
+    "latitude": 36.2012,
+    "longitude": 37.1612
+  },
+  {
+    "id": 30,
+    "cityName": "Alexandria",
+    "countryCode": "EG",
+    "countryName": "Egypt",
+    "continent": "Africa",
+    "latitude": 31.2018,
+    "longitude": 29.9158
+  },
+  {
+    "id": 31,
+    "cityName": "Algiers",
+    "countryCode": "DZ",
+    "countryName": "Algeria",
+    "continent": "Africa",
+    "latitude": 36.7323,
+    "longitude": 3.0875
+  },
+  {
+    "id": 32,
+    "cityName": "Almaty",
+    "countryCode": "KZ",
+    "countryName": "Kazakhstan",
+    "continent": "Asia",
+    "latitude": 43.2525,
+    "longitude": 76.9115
+  },
+  {
+    "id": 33,
+    "cityName": "Alīgarh",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 27.8815,
+    "longitude": 78.0746
+  },
+  {
+    "id": 34,
+    "cityName": "Amman",
+    "countryCode": "JO",
+    "countryName": "Jordan",
+    "continent": "Asia",
+    "latitude": 31.9552,
+    "longitude": 35.945
+  },
+  {
+    "id": 35,
+    "cityName": "Amravati",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 20.9333,
+    "longitude": 77.75
+  },
+  {
+    "id": 36,
+    "cityName": "Amritsar",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 31.6223,
+    "longitude": 74.8753
+  },
+  {
+    "id": 37,
+    "cityName": "Amsterdam",
+    "countryCode": "NL",
+    "countryName": "The Netherlands",
+    "continent": "Europe",
+    "latitude": 52.374,
+    "longitude": 4.8897
+  },
+  {
+    "id": 38,
+    "cityName": "Andijon",
+    "countryCode": "UZ",
+    "countryName": "Uzbekistan",
+    "continent": "Asia",
+    "latitude": 40.7834,
+    "longitude": 72.3507
+  },
+  {
+    "id": 39,
+    "cityName": "Ankang",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 32.68,
+    "longitude": 109.0172
+  },
+  {
+    "id": 40,
+    "cityName": "Ankara",
+    "countryCode": "TR",
+    "countryName": "Turkey",
+    "continent": "Asia",
+    "latitude": 39.9199,
+    "longitude": 32.8543
+  },
+  {
+    "id": 41,
+    "cityName": "Anqing",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 30.5136,
+    "longitude": 117.0472
+  },
+  {
+    "id": 42,
+    "cityName": "Ansan-si",
+    "countryCode": "KR",
+    "countryName": "South Korea",
+    "continent": "Asia",
+    "latitude": 37.3236,
+    "longitude": 126.8219
+  },
+  {
+    "id": 43,
+    "cityName": "Anshan",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 41.1236,
+    "longitude": 122.99
+  },
+  {
+    "id": 44,
+    "cityName": "Anshun",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 26.25,
+    "longitude": 105.9333
+  },
+  {
+    "id": 45,
+    "cityName": "Antalya",
+    "countryCode": "TR",
+    "countryName": "Turkey",
+    "continent": "Asia",
+    "latitude": 36.9081,
+    "longitude": 30.6956
+  },
+  {
+    "id": 46,
+    "cityName": "Antananarivo",
+    "countryCode": "MG",
+    "countryName": "Madagascar",
+    "continent": "Africa",
+    "latitude": -18.9137,
+    "longitude": 47.5361
+  },
+  {
+    "id": 47,
+    "cityName": "Antipolo",
+    "countryCode": "PH",
+    "countryName": "Philippines",
+    "continent": "Asia",
+    "latitude": 14.6258,
+    "longitude": 121.1225
+  },
+  {
+    "id": 48,
+    "cityName": "Anyang",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 36.096,
+    "longitude": 114.3828
+  },
+  {
+    "id": 49,
+    "cityName": "Anyang-si",
+    "countryCode": "KR",
+    "countryName": "South Korea",
+    "continent": "Asia",
+    "latitude": 37.3925,
+    "longitude": 126.9269
+  },
+  {
+    "id": 50,
+    "cityName": "Aracaju",
+    "countryCode": "BR",
+    "countryName": "Brazil",
+    "continent": "South America",
+    "latitude": -10.9111,
+    "longitude": -37.0717
+  },
+  {
+    "id": 51,
+    "cityName": "Arequipa",
+    "countryCode": "PE",
+    "countryName": "Peru",
+    "continent": "South America",
+    "latitude": -16.399,
+    "longitude": -71.5375
+  },
+  {
+    "id": 52,
+    "cityName": "Arifwala",
+    "countryCode": "PK",
+    "countryName": "Pakistan",
+    "continent": "Asia",
+    "latitude": 30.2906,
+    "longitude": 73.0657
+  },
+  {
+    "id": 53,
+    "cityName": "Arusha",
+    "countryCode": "TZ",
+    "countryName": "Tanzania",
+    "continent": "Africa",
+    "latitude": -3.3667,
+    "longitude": 36.6833
+  },
+  {
+    "id": 54,
+    "cityName": "Ashgabat",
+    "countryCode": "TM",
+    "countryName": "Turkmenistan",
+    "continent": "Asia",
+    "latitude": 37.95,
+    "longitude": 58.3833
+  },
+  {
+    "id": 55,
+    "cityName": "Astana",
+    "countryCode": "KZ",
+    "countryName": "Kazakhstan",
+    "continent": "Asia",
+    "latitude": 51.1801,
+    "longitude": 71.446
+  },
+  {
+    "id": 56,
+    "cityName": "Asunción",
+    "countryCode": "PY",
+    "countryName": "Paraguay",
+    "continent": "South America",
+    "latitude": -25.2865,
+    "longitude": -57.647
+  },
+  {
+    "id": 57,
+    "cityName": "Athens",
+    "countryCode": "GR",
+    "countryName": "Greece",
+    "continent": "Europe",
+    "latitude": 37.9838,
+    "longitude": 23.7278
+  },
+  {
+    "id": 58,
+    "cityName": "Auckland",
+    "countryCode": "NZ",
+    "countryName": "New Zealand",
+    "continent": "Oceania",
+    "latitude": -36.8485,
+    "longitude": 174.7635
+  },
+  {
+    "id": 59,
+    "cityName": "Aurangabad",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 19.8776,
+    "longitude": 75.3423
+  },
+  {
+    "id": 60,
+    "cityName": "Austin",
+    "countryCode": "US",
+    "countryName": "United States",
+    "continent": "North America",
+    "latitude": 30.2672,
+    "longitude": -97.7431
+  },
+  {
+    "id": 61,
+    "cityName": "Baghdad",
+    "countryCode": "IQ",
+    "countryName": "Iraq",
+    "continent": "Asia",
+    "latitude": 33.3406,
+    "longitude": 44.4009
+  },
+  {
+    "id": 62,
+    "cityName": "Bahawalpur",
+    "countryCode": "PK",
+    "countryName": "Pakistan",
+    "continent": "Asia",
+    "latitude": 29.3978,
+    "longitude": 71.6752
+  },
+  {
+    "id": 63,
+    "cityName": "Baise",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 23.8901,
+    "longitude": 106.6268
+  },
+  {
+    "id": 64,
+    "cityName": "Baku",
+    "countryCode": "AZ",
+    "countryName": "Azerbaijan",
+    "continent": "Asia",
+    "latitude": 40.3777,
+    "longitude": 49.892
+  },
+  {
+    "id": 65,
+    "cityName": "Balikpapan",
+    "countryCode": "ID",
+    "countryName": "Indonesia",
+    "continent": "Asia",
+    "latitude": -1.2675,
+    "longitude": 116.8289
+  },
+  {
+    "id": 66,
+    "cityName": "Baltimore",
+    "countryCode": "US",
+    "countryName": "United States",
+    "continent": "North America",
+    "latitude": 39.2904,
+    "longitude": -76.6122
+  },
+  {
+    "id": 67,
+    "cityName": "Bamako",
+    "countryCode": "ML",
+    "countryName": "Mali",
+    "continent": "Africa",
+    "latitude": 12.6091,
+    "longitude": -7.9752
+  },
+  {
+    "id": 68,
+    "cityName": "Bandar Lampung",
+    "countryCode": "ID",
+    "countryName": "Indonesia",
+    "continent": "Asia",
+    "latitude": -5.4292,
+    "longitude": 105.2611
+  },
+  {
+    "id": 69,
+    "cityName": "Bandung",
+    "countryCode": "ID",
+    "countryName": "Indonesia",
+    "continent": "Asia",
+    "latitude": -6.9222,
+    "longitude": 107.6069
+  },
+  {
+    "id": 70,
+    "cityName": "Bangkok",
+    "countryCode": "TH",
+    "countryName": "Thailand",
+    "continent": "Asia",
+    "latitude": 13.754,
+    "longitude": 100.5014
+  },
+  {
+    "id": 71,
+    "cityName": "Bangui",
+    "countryCode": "CF",
+    "countryName": "Central African Republic",
+    "continent": "Africa",
+    "latitude": 4.3612,
+    "longitude": 18.555
+  },
+  {
+    "id": 72,
+    "cityName": "Banjarmasin",
+    "countryCode": "ID",
+    "countryName": "Indonesia",
+    "continent": "Asia",
+    "latitude": -3.3199,
+    "longitude": 114.5907
+  },
+  {
+    "id": 73,
+    "cityName": "Bannu",
+    "countryCode": "PK",
+    "countryName": "Pakistan",
+    "continent": "Asia",
+    "latitude": 32.9853,
+    "longitude": 70.604
+  },
+  {
+    "id": 74,
+    "cityName": "Bao'an",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 22.5521,
+    "longitude": 113.8829
+  },
+  {
+    "id": 75,
+    "cityName": "Baoding",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 38.8729,
+    "longitude": 115.4625
+  },
+  {
+    "id": 76,
+    "cityName": "Baoji",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 34.3678,
+    "longitude": 107.237
+  },
+  {
+    "id": 77,
+    "cityName": "Baoshan",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 31.4084,
+    "longitude": 121.4896
+  },
+  {
+    "id": 78,
+    "cityName": "Baotou",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 40.6516,
+    "longitude": 109.8439
+  },
+  {
+    "id": 79,
+    "cityName": "Barcelona",
+    "countryCode": "ES",
+    "countryName": "Spain",
+    "continent": "Europe",
+    "latitude": 41.3888,
+    "longitude": 2.159
+  },
+  {
+    "id": 80,
+    "cityName": "Barcelona",
+    "countryCode": "VE",
+    "countryName": "Venezuela",
+    "continent": "South America",
+    "latitude": 10.1384,
+    "longitude": -64.6877
+  },
+  {
+    "id": 81,
+    "cityName": "Bareilly",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 28.3668,
+    "longitude": 79.4317
+  },
+  {
+    "id": 82,
+    "cityName": "Barnaul",
+    "countryCode": "RU",
+    "countryName": "Russia",
+    "continent": "Europe",
+    "latitude": 53.362,
+    "longitude": 83.7279
+  },
+  {
+    "id": 83,
+    "cityName": "Barquisimeto",
+    "countryCode": "VE",
+    "countryName": "Venezuela",
+    "continent": "South America",
+    "latitude": 10.0647,
+    "longitude": -69.357
+  },
+  {
+    "id": 84,
+    "cityName": "Barranquilla",
+    "countryCode": "CO",
+    "countryName": "Colombia",
+    "continent": "South America",
+    "latitude": 10.9685,
+    "longitude": -74.7813
+  },
+  {
+    "id": 85,
+    "cityName": "Basrah",
+    "countryCode": "IQ",
+    "countryName": "Iraq",
+    "continent": "Asia",
+    "latitude": 30.5085,
+    "longitude": 47.7804
+  },
+  {
+    "id": 86,
+    "cityName": "Batam",
+    "countryCode": "ID",
+    "countryName": "Indonesia",
+    "continent": "Asia",
+    "latitude": 1.1494,
+    "longitude": 104.0249
+  },
+  {
+    "id": 87,
+    "cityName": "Battagram",
+    "countryCode": "PK",
+    "countryName": "Pakistan",
+    "continent": "Asia",
+    "latitude": 34.6772,
+    "longitude": 73.0233
+  },
+  {
+    "id": 88,
+    "cityName": "Bauchi",
+    "countryCode": "NG",
+    "countryName": "Nigeria",
+    "continent": "Africa",
+    "latitude": 10.3103,
+    "longitude": 9.8439
+  },
+  {
+    "id": 89,
+    "cityName": "Bayan Nur",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 40.7414,
+    "longitude": 107.386
+  },
+  {
+    "id": 90,
+    "cityName": "Bazhong",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 31.8694,
+    "longitude": 106.7443
+  },
+  {
+    "id": 91,
+    "cityName": "Bağcılar",
+    "countryCode": "TR",
+    "countryName": "Turkey",
+    "continent": "Asia",
+    "latitude": 41.039,
+    "longitude": 28.8567
+  },
+  {
+    "id": 92,
+    "cityName": "Beijing",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 39.9075,
+    "longitude": 116.3972
+  },
+  {
+    "id": 93,
+    "cityName": "Beira",
+    "countryCode": "MZ",
+    "countryName": "Mozambique",
+    "continent": "Africa",
+    "latitude": -19.8436,
+    "longitude": 34.8389
+  },
+  {
+    "id": 94,
+    "cityName": "Beirut",
+    "countryCode": "LB",
+    "countryName": "Lebanon",
+    "continent": "Asia",
+    "latitude": 33.8933,
+    "longitude": 35.5016
+  },
+  {
+    "id": 95,
+    "cityName": "Bekasi",
+    "countryCode": "ID",
+    "countryName": "Indonesia",
+    "continent": "Asia",
+    "latitude": -6.2349,
+    "longitude": 106.9896
+  },
+  {
+    "id": 96,
+    "cityName": "Belgrade",
+    "countryCode": "RS",
+    "countryName": "Serbia",
+    "continent": "Europe",
+    "latitude": 44.804,
+    "longitude": 20.4651
+  },
+  {
+    "id": 97,
+    "cityName": "Belo Horizonte",
+    "countryCode": "BR",
+    "countryName": "Brazil",
+    "continent": "South America",
+    "latitude": -19.9208,
+    "longitude": -43.9378
+  },
+  {
+    "id": 98,
+    "cityName": "Belém",
+    "countryCode": "BR",
+    "countryName": "Brazil",
+    "continent": "South America",
+    "latitude": -1.4558,
+    "longitude": -48.5044
+  },
+  {
+    "id": 99,
+    "cityName": "Bengaluru",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 12.9719,
+    "longitude": 77.5937
+  },
+  {
+    "id": 100,
+    "cityName": "Bengbu",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 32.9408,
+    "longitude": 117.3608
+  },
+  {
+    "id": 101,
+    "cityName": "Benghazi",
+    "countryCode": "LY",
+    "countryName": "Libya",
+    "continent": "Africa",
+    "latitude": 32.1149,
+    "longitude": 20.0686
+  },
+  {
+    "id": 102,
+    "cityName": "Benin City",
+    "countryCode": "NG",
+    "countryName": "Nigeria",
+    "continent": "Africa",
+    "latitude": 6.3381,
+    "longitude": 5.6258
+  },
+  {
+    "id": 103,
+    "cityName": "Benoni",
+    "countryCode": "ZA",
+    "countryName": "South Africa",
+    "continent": "Africa",
+    "latitude": -26.1885,
+    "longitude": 28.3208
+  },
+  {
+    "id": 104,
+    "cityName": "Benxi",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 41.2886,
+    "longitude": 123.765
+  },
+  {
+    "id": 105,
+    "cityName": "Berlin",
+    "countryCode": "DE",
+    "countryName": "Germany",
+    "continent": "Europe",
+    "latitude": 52.5244,
+    "longitude": 13.4105
+  },
+  {
+    "id": 106,
+    "cityName": "Bhavnagar",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 21.7629,
+    "longitude": 72.1533
+  },
+  {
+    "id": 107,
+    "cityName": "Bhayandar",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 19.3016,
+    "longitude": 72.8511
+  },
+  {
+    "id": 108,
+    "cityName": "Bhilai",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 21.2092,
+    "longitude": 81.4285
+  },
+  {
+    "id": 109,
+    "cityName": "Bhiwandi",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 19.3002,
+    "longitude": 73.0588
+  },
+  {
+    "id": 110,
+    "cityName": "Bhopal",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 23.2547,
+    "longitude": 77.4029
+  },
+  {
+    "id": 111,
+    "cityName": "Bhubaneswar",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 20.2724,
+    "longitude": 85.8338
+  },
+  {
+    "id": 112,
+    "cityName": "Bijie",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 27.3019,
+    "longitude": 105.2863
+  },
+  {
+    "id": 113,
+    "cityName": "Bikaner",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 28.0176,
+    "longitude": 73.3149
+  },
+  {
+    "id": 114,
+    "cityName": "Binzhou",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 37.3667,
+    "longitude": 118.0167
+  },
+  {
+    "id": 115,
+    "cityName": "Birmingham",
+    "countryCode": "GB",
+    "countryName": "United Kingdom",
+    "continent": "Europe",
+    "latitude": 52.4814,
+    "longitude": -1.8998
+  },
+  {
+    "id": 116,
+    "cityName": "Bishkek",
+    "countryCode": "KG",
+    "countryName": "Kyrgyzstan",
+    "continent": "Asia",
+    "latitude": 42.87,
+    "longitude": 74.59
+  },
+  {
+    "id": 117,
+    "cityName": "Biên Hòa",
+    "countryCode": "VN",
+    "countryName": "Vietnam",
+    "continent": "Asia",
+    "latitude": 10.9447,
+    "longitude": 106.8243
+  },
+  {
+    "id": 118,
+    "cityName": "Blantyre",
+    "countryCode": "MW",
+    "countryName": "Malawi",
+    "continent": "Africa",
+    "latitude": -15.785,
+    "longitude": 35.0085
+  },
+  {
+    "id": 119,
+    "cityName": "Bobo-Dioulasso",
+    "countryCode": "BF",
+    "countryName": "Burkina Faso",
+    "continent": "Africa",
+    "latitude": 11.1806,
+    "longitude": -4.2949
+  },
+  {
+    "id": 120,
+    "cityName": "Bogor",
+    "countryCode": "ID",
+    "countryName": "Indonesia",
+    "continent": "Asia",
+    "latitude": -6.5944,
+    "longitude": 106.7892
+  },
+  {
+    "id": 121,
+    "cityName": "Bogotá",
+    "countryCode": "CO",
+    "countryName": "Colombia",
+    "continent": "South America",
+    "latitude": 4.6097,
+    "longitude": -74.0817
+  },
+  {
+    "id": 122,
+    "cityName": "Borama",
+    "countryCode": "SO",
+    "countryName": "Somalia",
+    "continent": "Africa",
+    "latitude": 9.9361,
+    "longitude": 43.1828
+  },
+  {
+    "id": 123,
+    "cityName": "Borivli",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 19.235,
+    "longitude": 72.8598
+  },
+  {
+    "id": 124,
+    "cityName": "Boston",
+    "countryCode": "US",
+    "countryName": "United States",
+    "continent": "North America",
+    "latitude": 42.3584,
+    "longitude": -71.0598
+  },
+  {
+    "id": 125,
+    "cityName": "Bouaké",
+    "countryCode": "CI",
+    "countryName": "Ivory Coast",
+    "continent": "Africa",
+    "latitude": 7.6939,
+    "longitude": -5.0303
+  },
+  {
+    "id": 126,
+    "cityName": "Bozhou",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 33.8772,
+    "longitude": 115.7703
+  },
+  {
+    "id": 127,
+    "cityName": "Brampton",
+    "countryCode": "CA",
+    "countryName": "Canada",
+    "continent": "North America",
+    "latitude": 43.6834,
+    "longitude": -79.7663
+  },
+  {
+    "id": 128,
+    "cityName": "Brasília",
+    "countryCode": "BR",
+    "countryName": "Brazil",
+    "continent": "South America",
+    "latitude": -15.7797,
+    "longitude": -47.9297
+  },
+  {
+    "id": 129,
+    "cityName": "Brazzaville",
+    "countryCode": "CG",
+    "countryName": "Republic of the Congo",
+    "continent": "Africa",
+    "latitude": -4.2661,
+    "longitude": 15.2832
+  },
+  {
+    "id": 130,
+    "cityName": "Brisbane",
+    "countryCode": "AU",
+    "countryName": "Australia",
+    "continent": "Oceania",
+    "latitude": -27.4679,
+    "longitude": 153.0281
+  },
+  {
+    "id": 131,
+    "cityName": "Brooklyn",
+    "countryCode": "US",
+    "countryName": "United States",
+    "continent": "North America",
+    "latitude": 40.6501,
+    "longitude": -73.9496
+  },
+  {
+    "id": 132,
+    "cityName": "Brussels",
+    "countryCode": "BE",
+    "countryName": "Belgium",
+    "continent": "Europe",
+    "latitude": 50.8505,
+    "longitude": 4.3488
+  },
+  {
+    "id": 133,
+    "cityName": "Bucharest",
+    "countryCode": "RO",
+    "countryName": "Romania",
+    "continent": "Europe",
+    "latitude": 44.4323,
+    "longitude": 26.1063
+  },
+  {
+    "id": 134,
+    "cityName": "Bucheon-si",
+    "countryCode": "KR",
+    "countryName": "South Korea",
+    "continent": "Asia",
+    "latitude": 37.4989,
+    "longitude": 126.7831
+  },
+  {
+    "id": 135,
+    "cityName": "Budapest",
+    "countryCode": "HU",
+    "countryName": "Hungary",
+    "continent": "Europe",
+    "latitude": 47.4984,
+    "longitude": 19.0404
+  },
+  {
+    "id": 136,
+    "cityName": "Budta",
+    "countryCode": "PH",
+    "countryName": "Philippines",
+    "continent": "Asia",
+    "latitude": 7.2042,
+    "longitude": 124.4397
+  },
+  {
+    "id": 137,
+    "cityName": "Buenos Aires",
+    "countryCode": "AR",
+    "countryName": "Argentina",
+    "continent": "South America",
+    "latitude": -34.6131,
+    "longitude": -58.3772
+  },
+  {
+    "id": 138,
+    "cityName": "Bujumbura",
+    "countryCode": "BI",
+    "countryName": "Burundi",
+    "continent": "Africa",
+    "latitude": -3.3819,
+    "longitude": 29.3614
+  },
+  {
+    "id": 139,
+    "cityName": "Bukavu",
+    "countryCode": "CD",
+    "countryName": "Democratic Republic of the Congo",
+    "continent": "Africa",
+    "latitude": -2.4908,
+    "longitude": 28.8428
+  },
+  {
+    "id": 140,
+    "cityName": "Bukit Rahman Putra",
+    "countryCode": "MY",
+    "countryName": "Malaysia",
+    "continent": "Asia",
+    "latitude": 3.2173,
+    "longitude": 101.5608
+  },
+  {
+    "id": 141,
+    "cityName": "Bulawayo",
+    "countryCode": "ZW",
+    "countryName": "Zimbabwe",
+    "continent": "Africa",
+    "latitude": -20.15,
+    "longitude": 28.5833
+  },
+  {
+    "id": 142,
+    "cityName": "Buraydah",
+    "countryCode": "SA",
+    "countryName": "Saudi Arabia",
+    "continent": "Asia",
+    "latitude": 26.326,
+    "longitude": 43.975
+  },
+  {
+    "id": 143,
+    "cityName": "Bursa",
+    "countryCode": "TR",
+    "countryName": "Turkey",
+    "continent": "Asia",
+    "latitude": 40.1956,
+    "longitude": 29.0601
+  },
+  {
+    "id": 144,
+    "cityName": "Busan",
+    "countryCode": "KR",
+    "countryName": "South Korea",
+    "continent": "Asia",
+    "latitude": 35.1017,
+    "longitude": 129.03
+  },
+  {
+    "id": 145,
+    "cityName": "Cagayan de Oro",
+    "countryCode": "PH",
+    "countryName": "Philippines",
+    "continent": "Asia",
+    "latitude": 8.4822,
+    "longitude": 124.6472
+  },
+  {
+    "id": 146,
+    "cityName": "Cairo",
+    "countryCode": "EG",
+    "countryName": "Egypt",
+    "continent": "Africa",
+    "latitude": 30.0626,
+    "longitude": 31.2497
+  },
+  {
+    "id": 147,
+    "cityName": "Calgary",
+    "countryCode": "CA",
+    "countryName": "Canada",
+    "continent": "North America",
+    "latitude": 51.0501,
+    "longitude": -114.0853
+  },
+  {
+    "id": 148,
+    "cityName": "Cali",
+    "countryCode": "CO",
+    "countryName": "Colombia",
+    "continent": "South America",
+    "latitude": 3.4305,
+    "longitude": -76.5199
+  },
+  {
+    "id": 149,
+    "cityName": "Callao",
+    "countryCode": "PE",
+    "countryName": "Peru",
+    "continent": "South America",
+    "latitude": -12.0516,
+    "longitude": -77.1345
+  },
+  {
+    "id": 150,
+    "cityName": "Caloocan",
+    "countryCode": "PH",
+    "countryName": "Philippines",
+    "continent": "Asia",
+    "latitude": 14.6495,
+    "longitude": 120.9679
+  },
+  {
+    "id": 151,
+    "cityName": "Calumbo",
+    "countryCode": "AO",
+    "countryName": "Angola",
+    "continent": "Africa",
+    "latitude": -9.1469,
+    "longitude": 13.4194
+  },
+  {
+    "id": 152,
+    "cityName": "Camama",
+    "countryCode": "AO",
+    "countryName": "Angola",
+    "continent": "Africa",
+    "latitude": -8.9361,
+    "longitude": 13.2652
+  },
+  {
+    "id": 153,
+    "cityName": "Camayenne",
+    "countryCode": "GN",
+    "countryName": "Guinea",
+    "continent": "Africa",
+    "latitude": 9.535,
+    "longitude": -13.6878
+  },
+  {
+    "id": 154,
+    "cityName": "Campinas",
+    "countryCode": "BR",
+    "countryName": "Brazil",
+    "continent": "South America",
+    "latitude": -22.9056,
+    "longitude": -47.0608
+  },
+  {
+    "id": 155,
+    "cityName": "Campo Grande",
+    "countryCode": "BR",
+    "countryName": "Brazil",
+    "continent": "South America",
+    "latitude": -20.4428,
+    "longitude": -54.6464
+  },
+  {
+    "id": 156,
+    "cityName": "Cancún",
+    "countryCode": "MX",
+    "countryName": "Mexico",
+    "continent": "North America",
+    "latitude": 21.1743,
+    "longitude": -86.8466
+  },
+  {
+    "id": 157,
+    "cityName": "Cape Town",
+    "countryCode": "ZA",
+    "countryName": "South Africa",
+    "continent": "Africa",
+    "latitude": -33.9258,
+    "longitude": 18.4232
+  },
+  {
+    "id": 158,
+    "cityName": "Caracas",
+    "countryCode": "VE",
+    "countryName": "Venezuela",
+    "continent": "South America",
+    "latitude": 10.488,
+    "longitude": -66.8792
+  },
+  {
+    "id": 159,
+    "cityName": "Cartagena",
+    "countryCode": "CO",
+    "countryName": "Colombia",
+    "continent": "South America",
+    "latitude": 10.3982,
+    "longitude": -75.4933
+  },
+  {
+    "id": 160,
+    "cityName": "Casablanca",
+    "countryCode": "MA",
+    "countryName": "Morocco",
+    "continent": "Africa",
+    "latitude": 33.5883,
+    "longitude": -7.6114
+  },
+  {
+    "id": 161,
+    "cityName": "Cebu City",
+    "countryCode": "PH",
+    "countryName": "Philippines",
+    "continent": "Asia",
+    "latitude": 10.3167,
+    "longitude": 123.8907
+  },
+  {
+    "id": 162,
+    "cityName": "Chandigarh",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 30.7363,
+    "longitude": 76.7884
+  },
+  {
+    "id": 163,
+    "cityName": "Changchun",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 43.88,
+    "longitude": 125.3228
+  },
+  {
+    "id": 164,
+    "cityName": "Changde",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 29.0321,
+    "longitude": 111.6984
+  },
+  {
+    "id": 165,
+    "cityName": "Changning",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 31.2174,
+    "longitude": 121.421
+  },
+  {
+    "id": 166,
+    "cityName": "Changsha",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 28.1987,
+    "longitude": 112.9709
+  },
+  {
+    "id": 167,
+    "cityName": "Changshu",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 31.6461,
+    "longitude": 120.7422
+  },
+  {
+    "id": 168,
+    "cityName": "Changwon",
+    "countryCode": "KR",
+    "countryName": "South Korea",
+    "continent": "Asia",
+    "latitude": 35.2281,
+    "longitude": 128.6811
+  },
+  {
+    "id": 169,
+    "cityName": "Changzhi",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 36.1839,
+    "longitude": 113.1053
+  },
+  {
+    "id": 170,
+    "cityName": "Changzhou",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 31.7736,
+    "longitude": 119.954
+  },
+  {
+    "id": 171,
+    "cityName": "Chaozhou",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 23.654,
+    "longitude": 116.6226
+  },
+  {
+    "id": 172,
+    "cityName": "Charlotte",
+    "countryCode": "US",
+    "countryName": "United States",
+    "continent": "North America",
+    "latitude": 35.2271,
+    "longitude": -80.8431
+  },
+  {
+    "id": 173,
+    "cityName": "Chattogram",
+    "countryCode": "BD",
+    "countryName": "Bangladesh",
+    "continent": "Asia",
+    "latitude": 22.3384,
+    "longitude": 91.8317
+  },
+  {
+    "id": 174,
+    "cityName": "Chelyabinsk",
+    "countryCode": "RU",
+    "countryName": "Russia",
+    "continent": "Europe",
+    "latitude": 55.1611,
+    "longitude": 61.4288
+  },
+  {
+    "id": 175,
+    "cityName": "Chengde",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 40.9519,
+    "longitude": 117.9588
+  },
+  {
+    "id": 176,
+    "cityName": "Chengdu",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 30.6667,
+    "longitude": 104.0667
+  },
+  {
+    "id": 177,
+    "cityName": "Chengtangcun",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 35.0836,
+    "longitude": 117.1907
+  },
+  {
+    "id": 178,
+    "cityName": "Chennai",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 13.0878,
+    "longitude": 80.2785
+  },
+  {
+    "id": 179,
+    "cityName": "Chenzhou",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 25.8,
+    "longitude": 113.0333
+  },
+  {
+    "id": 180,
+    "cityName": "Cheonan",
+    "countryCode": "KR",
+    "countryName": "South Korea",
+    "continent": "Asia",
+    "latitude": 36.8065,
+    "longitude": 127.1522
+  },
+  {
+    "id": 181,
+    "cityName": "Cheongju-si",
+    "countryCode": "KR",
+    "countryName": "South Korea",
+    "continent": "Asia",
+    "latitude": 36.6372,
+    "longitude": 127.4897
+  },
+  {
+    "id": 182,
+    "cityName": "Chiba",
+    "countryCode": "JP",
+    "countryName": "Japan",
+    "continent": "Asia",
+    "latitude": 35.6,
+    "longitude": 140.1167
+  },
+  {
+    "id": 183,
+    "cityName": "Chicago",
+    "countryCode": "US",
+    "countryName": "United States",
+    "continent": "North America",
+    "latitude": 41.85,
+    "longitude": -87.65
+  },
+  {
+    "id": 184,
+    "cityName": "Chiclayo",
+    "countryCode": "PE",
+    "countryName": "Peru",
+    "continent": "South America",
+    "latitude": -6.7701,
+    "longitude": -79.855
+  },
+  {
+    "id": 185,
+    "cityName": "Chihuahua",
+    "countryCode": "MX",
+    "countryName": "Mexico",
+    "continent": "North America",
+    "latitude": 28.6353,
+    "longitude": -106.0889
+  },
+  {
+    "id": 186,
+    "cityName": "Chisinau",
+    "countryCode": "MD",
+    "countryName": "Moldova",
+    "continent": "Europe",
+    "latitude": 47.009,
+    "longitude": 28.8594
+  },
+  {
+    "id": 187,
+    "cityName": "Chizhou",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 30.6613,
+    "longitude": 117.4778
+  },
+  {
+    "id": 188,
+    "cityName": "Chongming",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 31.6185,
+    "longitude": 121.6962
+  },
+  {
+    "id": 189,
+    "cityName": "Chongqing",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 29.5603,
+    "longitude": 106.5577
+  },
+  {
+    "id": 190,
+    "cityName": "Chunian",
+    "countryCode": "PK",
+    "countryName": "Pakistan",
+    "continent": "Asia",
+    "latitude": 30.9662,
+    "longitude": 73.9791
+  },
+  {
+    "id": 191,
+    "cityName": "Chuzhou",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 32.3219,
+    "longitude": 118.2978
+  },
+  {
+    "id": 192,
+    "cityName": "Ciudad Guayana",
+    "countryCode": "VE",
+    "countryName": "Venezuela",
+    "continent": "South America",
+    "latitude": 8.3512,
+    "longitude": -62.641
+  },
+  {
+    "id": 193,
+    "cityName": "Ciudad Juárez",
+    "countryCode": "MX",
+    "countryName": "Mexico",
+    "continent": "North America",
+    "latitude": 31.7202,
+    "longitude": -106.4608
+  },
+  {
+    "id": 194,
+    "cityName": "Ciudad Nezahualcoyotl",
+    "countryCode": "MX",
+    "countryName": "Mexico",
+    "continent": "North America",
+    "latitude": 19.4006,
+    "longitude": -99.0148
+  },
+  {
+    "id": 195,
+    "cityName": "Cixi",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 30.1764,
+    "longitude": 121.2457
+  },
+  {
+    "id": 196,
+    "cityName": "Cochabamba",
+    "countryCode": "BO",
+    "countryName": "Bolivia",
+    "continent": "South America",
+    "latitude": -17.3819,
+    "longitude": -66.1599
+  },
+  {
+    "id": 197,
+    "cityName": "Coimbatore",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 11.0055,
+    "longitude": 76.9661
+  },
+  {
+    "id": 198,
+    "cityName": "Colombo",
+    "countryCode": "LK",
+    "countryName": "Sri Lanka",
+    "continent": "Asia",
+    "latitude": 6.9355,
+    "longitude": 79.8487
+  },
+  {
+    "id": 199,
+    "cityName": "Columbus",
+    "countryCode": "US",
+    "countryName": "United States",
+    "continent": "North America",
+    "latitude": 39.9612,
+    "longitude": -82.9988
+  },
+  {
+    "id": 200,
+    "cityName": "Comilla",
+    "countryCode": "BD",
+    "countryName": "Bangladesh",
+    "continent": "Asia",
+    "latitude": 23.4619,
+    "longitude": 91.185
+  },
+  {
+    "id": 201,
+    "cityName": "Conakry",
+    "countryCode": "GN",
+    "countryName": "Guinea",
+    "continent": "Africa",
+    "latitude": 9.538,
+    "longitude": -13.6773
+  },
+  {
+    "id": 202,
+    "cityName": "Contagem",
+    "countryCode": "BR",
+    "countryName": "Brazil",
+    "continent": "South America",
+    "latitude": -19.9317,
+    "longitude": -44.0536
+  },
+  {
+    "id": 203,
+    "cityName": "Copenhagen",
+    "countryCode": "DK",
+    "countryName": "Denmark",
+    "continent": "Europe",
+    "latitude": 55.6759,
+    "longitude": 12.5655
+  },
+  {
+    "id": 204,
+    "cityName": "Cotonou",
+    "countryCode": "BJ",
+    "countryName": "Benin",
+    "continent": "Africa",
+    "latitude": 6.3654,
+    "longitude": 2.4183
+  },
+  {
+    "id": 205,
+    "cityName": "Coyoacán",
+    "countryCode": "MX",
+    "countryName": "Mexico",
+    "continent": "North America",
+    "latitude": 19.3467,
+    "longitude": -99.1617
+  },
+  {
+    "id": 206,
+    "cityName": "Cuenca",
+    "countryCode": "EC",
+    "countryName": "Ecuador",
+    "continent": "South America",
+    "latitude": -2.8953,
+    "longitude": -78.9963
+  },
+  {
+    "id": 207,
+    "cityName": "Cuiabá",
+    "countryCode": "BR",
+    "countryName": "Brazil",
+    "continent": "South America",
+    "latitude": -15.5961,
+    "longitude": -56.0967
+  },
+  {
+    "id": 208,
+    "cityName": "Culiacán",
+    "countryCode": "MX",
+    "countryName": "Mexico",
+    "continent": "North America",
+    "latitude": 24.8021,
+    "longitude": -107.3942
+  },
+  {
+    "id": 209,
+    "cityName": "Curitiba",
+    "countryCode": "BR",
+    "countryName": "Brazil",
+    "continent": "South America",
+    "latitude": -25.4278,
+    "longitude": -49.2731
+  },
+  {
+    "id": 210,
+    "cityName": "Cuttack",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 20.465,
+    "longitude": 85.8793
+  },
+  {
+    "id": 211,
+    "cityName": "Córdoba",
+    "countryCode": "AR",
+    "countryName": "Argentina",
+    "continent": "South America",
+    "latitude": -31.4065,
+    "longitude": -64.1885
+  },
+  {
+    "id": 212,
+    "cityName": "Cúcuta",
+    "countryCode": "CO",
+    "countryName": "Colombia",
+    "continent": "South America",
+    "latitude": 7.9074,
+    "longitude": -72.5049
+  },
+  {
+    "id": 213,
+    "cityName": "Cần Thơ",
+    "countryCode": "VN",
+    "countryName": "Vietnam",
+    "continent": "Asia",
+    "latitude": 10.0371,
+    "longitude": 105.7883
+  },
+  {
+    "id": 214,
+    "cityName": "Da Nang",
+    "countryCode": "VN",
+    "countryName": "Vietnam",
+    "continent": "Asia",
+    "latitude": 16.0678,
+    "longitude": 108.2208
+  },
+  {
+    "id": 215,
+    "cityName": "Daegu",
+    "countryCode": "KR",
+    "countryName": "South Korea",
+    "continent": "Asia",
+    "latitude": 35.8703,
+    "longitude": 128.5911
+  },
+  {
+    "id": 216,
+    "cityName": "Daejeon",
+    "countryCode": "KR",
+    "countryName": "South Korea",
+    "continent": "Asia",
+    "latitude": 36.3491,
+    "longitude": 127.3849
+  },
+  {
+    "id": 217,
+    "cityName": "Dakar",
+    "countryCode": "SN",
+    "countryName": "Senegal",
+    "continent": "Africa",
+    "latitude": 14.6937,
+    "longitude": -17.4441
+  },
+  {
+    "id": 218,
+    "cityName": "Dalian",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 38.9122,
+    "longitude": 121.6022
+  },
+  {
+    "id": 219,
+    "cityName": "Dallas",
+    "countryCode": "US",
+    "countryName": "United States",
+    "continent": "North America",
+    "latitude": 32.7831,
+    "longitude": -96.8067
+  },
+  {
+    "id": 220,
+    "cityName": "Damascus",
+    "countryCode": "SY",
+    "countryName": "Syria",
+    "continent": "Asia",
+    "latitude": 33.5102,
+    "longitude": 36.2913
+  },
+  {
+    "id": 221,
+    "cityName": "Dammam",
+    "countryCode": "SA",
+    "countryName": "Saudi Arabia",
+    "continent": "Asia",
+    "latitude": 26.4344,
+    "longitude": 50.1033
+  },
+  {
+    "id": 222,
+    "cityName": "Dandong",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 40.1292,
+    "longitude": 124.3947
+  },
+  {
+    "id": 223,
+    "cityName": "Daqing",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 46.5833,
+    "longitude": 125.0
+  },
+  {
+    "id": 224,
+    "cityName": "Dar es Salaam",
+    "countryCode": "TZ",
+    "countryName": "Tanzania",
+    "continent": "Africa",
+    "latitude": -6.8235,
+    "longitude": 39.2695
+  },
+  {
+    "id": 225,
+    "cityName": "Datong",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 40.0936,
+    "longitude": 113.2914
+  },
+  {
+    "id": 226,
+    "cityName": "Davao",
+    "countryCode": "PH",
+    "countryName": "Philippines",
+    "continent": "Asia",
+    "latitude": 7.0731,
+    "longitude": 125.6128
+  },
+  {
+    "id": 227,
+    "cityName": "Daye",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 30.0833,
+    "longitude": 114.95
+  },
+  {
+    "id": 228,
+    "cityName": "Dazhou",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 31.2106,
+    "longitude": 107.4631
+  },
+  {
+    "id": 229,
+    "cityName": "Delhi",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 28.6519,
+    "longitude": 77.2315
+  },
+  {
+    "id": 230,
+    "cityName": "Denpasar",
+    "countryCode": "ID",
+    "countryName": "Indonesia",
+    "continent": "Asia",
+    "latitude": -8.65,
+    "longitude": 115.2167
+  },
+  {
+    "id": 231,
+    "cityName": "Denver",
+    "countryCode": "US",
+    "countryName": "United States",
+    "continent": "North America",
+    "latitude": 39.7392,
+    "longitude": -104.9847
+  },
+  {
+    "id": 232,
+    "cityName": "Depok",
+    "countryCode": "ID",
+    "countryName": "Indonesia",
+    "continent": "Asia",
+    "latitude": -6.4,
+    "longitude": 106.8186
+  },
+  {
+    "id": 233,
+    "cityName": "Dera Ismail Khan",
+    "countryCode": "PK",
+    "countryName": "Pakistan",
+    "continent": "Asia",
+    "latitude": 31.8313,
+    "longitude": 70.9017
+  },
+  {
+    "id": 234,
+    "cityName": "Detroit",
+    "countryCode": "US",
+    "countryName": "United States",
+    "continent": "North America",
+    "latitude": 42.3314,
+    "longitude": -83.0457
+  },
+  {
+    "id": 235,
+    "cityName": "Deyang",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 31.1302,
+    "longitude": 104.382
+  },
+  {
+    "id": 236,
+    "cityName": "Dezhou",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 37.4466,
+    "longitude": 116.3671
+  },
+  {
+    "id": 237,
+    "cityName": "Dhaka",
+    "countryCode": "BD",
+    "countryName": "Bangladesh",
+    "continent": "Asia",
+    "latitude": 23.7104,
+    "longitude": 90.4074
+  },
+  {
+    "id": 238,
+    "cityName": "Dhanbad",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 23.7976,
+    "longitude": 86.4299
+  },
+  {
+    "id": 239,
+    "cityName": "Dhārāvi",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 19.05,
+    "longitude": 72.8667
+  },
+  {
+    "id": 240,
+    "cityName": "Diyarbakır",
+    "countryCode": "TR",
+    "countryName": "Turkey",
+    "continent": "Asia",
+    "latitude": 37.9136,
+    "longitude": 40.2172
+  },
+  {
+    "id": 241,
+    "cityName": "Djibouti",
+    "countryCode": "DJ",
+    "countryName": "Djibouti",
+    "continent": "Africa",
+    "latitude": 11.589,
+    "longitude": 43.145
+  },
+  {
+    "id": 242,
+    "cityName": "Dnipro",
+    "countryCode": "UA",
+    "countryName": "Ukraine",
+    "continent": "Europe",
+    "latitude": 48.4666,
+    "longitude": 35.0407
+  },
+  {
+    "id": 243,
+    "cityName": "Dodoma",
+    "countryCode": "TZ",
+    "countryName": "Tanzania",
+    "continent": "Africa",
+    "latitude": -6.1722,
+    "longitude": 35.7395
+  },
+  {
+    "id": 244,
+    "cityName": "Dombivali",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 19.2167,
+    "longitude": 73.0833
+  },
+  {
+    "id": 245,
+    "cityName": "Donetsk",
+    "countryCode": "UA",
+    "countryName": "Ukraine",
+    "continent": "Europe",
+    "latitude": 48.023,
+    "longitude": 37.8022
+  },
+  {
+    "id": 246,
+    "cityName": "Dongcun",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 36.7767,
+    "longitude": 121.1597
+  },
+  {
+    "id": 247,
+    "cityName": "Dongguan",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 23.018,
+    "longitude": 113.7487
+  },
+  {
+    "id": 248,
+    "cityName": "Dongying",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 37.4627,
+    "longitude": 118.4917
+  },
+  {
+    "id": 249,
+    "cityName": "Dortmund",
+    "countryCode": "DE",
+    "countryName": "Germany",
+    "continent": "Europe",
+    "latitude": 51.5149,
+    "longitude": 7.466
+  },
+  {
+    "id": 250,
+    "cityName": "Douala",
+    "countryCode": "CM",
+    "countryName": "Cameroon",
+    "continent": "Africa",
+    "latitude": 4.0483,
+    "longitude": 9.7043
+  },
+  {
+    "id": 251,
+    "cityName": "Dubai",
+    "countryCode": "AE",
+    "countryName": "United Arab Emirates",
+    "continent": "Asia",
+    "latitude": 25.0772,
+    "longitude": 55.3093
+  },
+  {
+    "id": 252,
+    "cityName": "Dublin",
+    "countryCode": "IE",
+    "countryName": "Ireland",
+    "continent": "Europe",
+    "latitude": 53.3331,
+    "longitude": -6.2489
+  },
+  {
+    "id": 253,
+    "cityName": "Duque de Caxias",
+    "countryCode": "BR",
+    "countryName": "Brazil",
+    "continent": "South America",
+    "latitude": -22.7856,
+    "longitude": -43.3117
+  },
+  {
+    "id": 254,
+    "cityName": "Durban",
+    "countryCode": "ZA",
+    "countryName": "South Africa",
+    "continent": "Africa",
+    "latitude": -29.8579,
+    "longitude": 31.0292
+  },
+  {
+    "id": 255,
+    "cityName": "Dushanbe",
+    "countryCode": "TJ",
+    "countryName": "Tajikistan",
+    "continent": "Asia",
+    "latitude": 38.5358,
+    "longitude": 68.779
+  },
+  {
+    "id": 256,
+    "cityName": "Düsseldorf",
+    "countryCode": "DE",
+    "countryName": "Germany",
+    "continent": "Europe",
+    "latitude": 51.2232,
+    "longitude": 6.7793
+  },
+  {
+    "id": 257,
+    "cityName": "Ecatepec de Morelos",
+    "countryCode": "MX",
+    "countryName": "Mexico",
+    "continent": "North America",
+    "latitude": 19.6049,
+    "longitude": -99.0606
+  },
+  {
+    "id": 258,
+    "cityName": "Edmonton",
+    "countryCode": "CA",
+    "countryName": "Canada",
+    "continent": "North America",
+    "latitude": 53.5501,
+    "longitude": -113.4687
+  },
+  {
+    "id": 259,
+    "cityName": "Edogawe",
+    "countryCode": "JP",
+    "countryName": "Japan",
+    "continent": "Asia",
+    "latitude": 35.6923,
+    "longitude": 139.8731
+  },
+  {
+    "id": 260,
+    "cityName": "El Paso",
+    "countryCode": "US",
+    "countryName": "United States",
+    "continent": "North America",
+    "latitude": 31.7587,
+    "longitude": -106.4869
+  },
+  {
+    "id": 261,
+    "cityName": "Enugu",
+    "countryCode": "NG",
+    "countryName": "Nigeria",
+    "continent": "Africa",
+    "latitude": 6.4413,
+    "longitude": 7.4988
+  },
+  {
+    "id": 262,
+    "cityName": "Erbil",
+    "countryCode": "IQ",
+    "countryName": "Iraq",
+    "continent": "Asia",
+    "latitude": 36.1912,
+    "longitude": 44.0094
+  },
+  {
+    "id": 263,
+    "cityName": "Erzurum",
+    "countryCode": "TR",
+    "countryName": "Turkey",
+    "continent": "Asia",
+    "latitude": 39.9086,
+    "longitude": 41.2769
+  },
+  {
+    "id": 264,
+    "cityName": "Esenyurt",
+    "countryCode": "TR",
+    "countryName": "Turkey",
+    "continent": "Asia",
+    "latitude": 41.027,
+    "longitude": 28.6773
+  },
+  {
+    "id": 265,
+    "cityName": "Eskişehir",
+    "countryCode": "TR",
+    "countryName": "Turkey",
+    "continent": "Asia",
+    "latitude": 39.7767,
+    "longitude": 30.5206
+  },
+  {
+    "id": 266,
+    "cityName": "Essen",
+    "countryCode": "DE",
+    "countryName": "Germany",
+    "continent": "Europe",
+    "latitude": 51.4566,
+    "longitude": 7.0123
+  },
+  {
+    "id": 267,
+    "cityName": "Evaton",
+    "countryCode": "ZA",
+    "countryName": "South Africa",
+    "continent": "Africa",
+    "latitude": -26.5333,
+    "longitude": 27.85
+  },
+  {
+    "id": 268,
+    "cityName": "E’zhou",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 30.3961,
+    "longitude": 114.8865
+  },
+  {
+    "id": 269,
+    "cityName": "Faisalabad",
+    "countryCode": "PK",
+    "countryName": "Pakistan",
+    "continent": "Asia",
+    "latitude": 31.4155,
+    "longitude": 73.0897
+  },
+  {
+    "id": 270,
+    "cityName": "Faridabad",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 28.4112,
+    "longitude": 77.3132
+  },
+  {
+    "id": 271,
+    "cityName": "Feicheng",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 36.2486,
+    "longitude": 116.7658
+  },
+  {
+    "id": 272,
+    "cityName": "Feira de Santana",
+    "countryCode": "BR",
+    "countryName": "Brazil",
+    "continent": "South America",
+    "latitude": -12.2667,
+    "longitude": -38.9667
+  },
+  {
+    "id": 273,
+    "cityName": "Fengxiang",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 30.8584,
+    "longitude": 121.4678
+  },
+  {
+    "id": 274,
+    "cityName": "Fes",
+    "countryCode": "MA",
+    "countryName": "Morocco",
+    "continent": "Africa",
+    "latitude": 34.0331,
+    "longitude": -5.0003
+  },
+  {
+    "id": 275,
+    "cityName": "Fort Worth",
+    "countryCode": "US",
+    "countryName": "United States",
+    "continent": "North America",
+    "latitude": 32.7254,
+    "longitude": -97.3208
+  },
+  {
+    "id": 276,
+    "cityName": "Fortaleza",
+    "countryCode": "BR",
+    "countryName": "Brazil",
+    "continent": "South America",
+    "latitude": -3.7172,
+    "longitude": -38.5431
+  },
+  {
+    "id": 277,
+    "cityName": "Foshan",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 23.0268,
+    "longitude": 113.1315
+  },
+  {
+    "id": 278,
+    "cityName": "Frankfurt am Main",
+    "countryCode": "DE",
+    "countryName": "Germany",
+    "continent": "Europe",
+    "latitude": 50.1155,
+    "longitude": 8.6842
+  },
+  {
+    "id": 279,
+    "cityName": "Freetown",
+    "countryCode": "SL",
+    "countryName": "Sierra Leone",
+    "continent": "Africa",
+    "latitude": 8.4871,
+    "longitude": -13.2356
+  },
+  {
+    "id": 280,
+    "cityName": "Fukuoka",
+    "countryCode": "JP",
+    "countryName": "Japan",
+    "continent": "Asia",
+    "latitude": 33.6,
+    "longitude": 130.4167
+  },
+  {
+    "id": 281,
+    "cityName": "Fushun",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 41.8867,
+    "longitude": 123.9436
+  },
+  {
+    "id": 282,
+    "cityName": "Fuxin",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 42.0156,
+    "longitude": 121.6589
+  },
+  {
+    "id": 283,
+    "cityName": "Fuyang",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 32.9,
+    "longitude": 115.8167
+  },
+  {
+    "id": 284,
+    "cityName": "Fuzhou",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 26.0614,
+    "longitude": 119.3061
+  },
+  {
+    "id": 285,
+    "cityName": "Ganzhou",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 25.8466,
+    "longitude": 114.9326
+  },
+  {
+    "id": 286,
+    "cityName": "Gaziantep",
+    "countryCode": "TR",
+    "countryName": "Turkey",
+    "continent": "Asia",
+    "latitude": 37.0594,
+    "longitude": 37.3825
+  },
+  {
+    "id": 287,
+    "cityName": "Gazipur",
+    "countryCode": "BD",
+    "countryName": "Bangladesh",
+    "continent": "Asia",
+    "latitude": 23.9984,
+    "longitude": 90.4223
+  },
+  {
+    "id": 288,
+    "cityName": "General Santos",
+    "countryCode": "PH",
+    "countryName": "Philippines",
+    "continent": "Asia",
+    "latitude": 6.1128,
+    "longitude": 125.1717
+  },
+  {
+    "id": 289,
+    "cityName": "Ghāziābād",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 28.6654,
+    "longitude": 77.4391
+  },
+  {
+    "id": 290,
+    "cityName": "Giza",
+    "countryCode": "EG",
+    "countryName": "Egypt",
+    "continent": "Africa",
+    "latitude": 30.0094,
+    "longitude": 31.2086
+  },
+  {
+    "id": 291,
+    "cityName": "Glasgow",
+    "countryCode": "GB",
+    "countryName": "United Kingdom",
+    "continent": "Europe",
+    "latitude": 55.8651,
+    "longitude": -4.2576
+  },
+  {
+    "id": 292,
+    "cityName": "Goiânia",
+    "countryCode": "BR",
+    "countryName": "Brazil",
+    "continent": "South America",
+    "latitude": -16.6786,
+    "longitude": -49.2539
+  },
+  {
+    "id": 293,
+    "cityName": "Gold Coast",
+    "countryCode": "AU",
+    "countryName": "Australia",
+    "continent": "Oceania",
+    "latitude": -28.0003,
+    "longitude": 153.4309
+  },
+  {
+    "id": 294,
+    "cityName": "Golfe",
+    "countryCode": "AO",
+    "countryName": "Angola",
+    "continent": "Africa",
+    "latitude": -8.8664,
+    "longitude": 13.2617
+  },
+  {
+    "id": 295,
+    "cityName": "Gorakhpur",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 26.7663,
+    "longitude": 83.3689
+  },
+  {
+    "id": 296,
+    "cityName": "Gothenburg",
+    "countryCode": "SE",
+    "countryName": "Sweden",
+    "continent": "Europe",
+    "latitude": 57.7072,
+    "longitude": 11.9668
+  },
+  {
+    "id": 297,
+    "cityName": "Goyang-si",
+    "countryCode": "KR",
+    "countryName": "South Korea",
+    "continent": "Asia",
+    "latitude": 37.6564,
+    "longitude": 126.835
+  },
+  {
+    "id": 298,
+    "cityName": "Gqeberha",
+    "countryCode": "ZA",
+    "countryName": "South Africa",
+    "continent": "Africa",
+    "latitude": -33.9611,
+    "longitude": 25.6149
+  },
+  {
+    "id": 299,
+    "cityName": "Guadalajara",
+    "countryCode": "MX",
+    "countryName": "Mexico",
+    "continent": "North America",
+    "latitude": 20.6774,
+    "longitude": -103.3475
+  },
+  {
+    "id": 300,
+    "cityName": "Guadalupe",
+    "countryCode": "MX",
+    "countryName": "Mexico",
+    "continent": "North America",
+    "latitude": 25.6766,
+    "longitude": -100.2591
+  },
+  {
+    "id": 301,
+    "cityName": "Guangzhou",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 23.1167,
+    "longitude": 113.25
+  },
+  {
+    "id": 302,
+    "cityName": "Guang’an",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 30.4741,
+    "longitude": 106.637
+  },
+  {
+    "id": 303,
+    "cityName": "Guankou",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 28.1586,
+    "longitude": 113.6271
+  },
+  {
+    "id": 304,
+    "cityName": "Guarulhos",
+    "countryCode": "BR",
+    "countryName": "Brazil",
+    "continent": "South America",
+    "latitude": -23.4628,
+    "longitude": -46.5333
+  },
+  {
+    "id": 305,
+    "cityName": "Guatemala City",
+    "countryCode": "GT",
+    "countryName": "Guatemala",
+    "continent": "North America",
+    "latitude": 14.6407,
+    "longitude": -90.5133
+  },
+  {
+    "id": 306,
+    "cityName": "Guayaquil",
+    "countryCode": "EC",
+    "countryName": "Ecuador",
+    "continent": "South America",
+    "latitude": -2.1962,
+    "longitude": -79.8862
+  },
+  {
+    "id": 307,
+    "cityName": "Guigang",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 23.116,
+    "longitude": 109.5947
+  },
+  {
+    "id": 308,
+    "cityName": "Guilin",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 25.2802,
+    "longitude": 110.2964
+  },
+  {
+    "id": 309,
+    "cityName": "Guiyang",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 26.5833,
+    "longitude": 106.7167
+  },
+  {
+    "id": 310,
+    "cityName": "Gujranwala",
+    "countryCode": "PK",
+    "countryName": "Pakistan",
+    "continent": "Asia",
+    "latitude": 32.1557,
+    "longitude": 74.187
+  },
+  {
+    "id": 311,
+    "cityName": "Guli",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 28.8816,
+    "longitude": 120.0331
+  },
+  {
+    "id": 312,
+    "cityName": "Guntur",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 16.2997,
+    "longitude": 80.4573
+  },
+  {
+    "id": 313,
+    "cityName": "Gurugram",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 28.4601,
+    "longitude": 77.0263
+  },
+  {
+    "id": 314,
+    "cityName": "Gustavo Adolfo Madero",
+    "countryCode": "MX",
+    "countryName": "Mexico",
+    "continent": "North America",
+    "latitude": 19.4939,
+    "longitude": -99.1107
+  },
+  {
+    "id": 315,
+    "cityName": "Guwahati",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 26.1844,
+    "longitude": 91.7458
+  },
+  {
+    "id": 316,
+    "cityName": "Gwalior",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 26.2298,
+    "longitude": 78.1734
+  },
+  {
+    "id": 317,
+    "cityName": "Gwangju",
+    "countryCode": "KR",
+    "countryName": "South Korea",
+    "continent": "Asia",
+    "latitude": 35.1547,
+    "longitude": 126.9156
+  },
+  {
+    "id": 318,
+    "cityName": "Ha'il",
+    "countryCode": "SA",
+    "countryName": "Saudi Arabia",
+    "continent": "Asia",
+    "latitude": 27.5219,
+    "longitude": 41.6907
+  },
+  {
+    "id": 319,
+    "cityName": "Haikou",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 20.0342,
+    "longitude": 110.3465
+  },
+  {
+    "id": 320,
+    "cityName": "Haiphong",
+    "countryCode": "VN",
+    "countryName": "Vietnam",
+    "continent": "Asia",
+    "latitude": 20.8648,
+    "longitude": 106.6834
+  },
+  {
+    "id": 321,
+    "cityName": "Hamamatsu",
+    "countryCode": "JP",
+    "countryName": "Japan",
+    "continent": "Asia",
+    "latitude": 34.7,
+    "longitude": 137.7333
+  },
+  {
+    "id": 322,
+    "cityName": "Hamburg",
+    "countryCode": "DE",
+    "countryName": "Germany",
+    "continent": "Europe",
+    "latitude": 53.5507,
+    "longitude": 9.993
+  },
+  {
+    "id": 323,
+    "cityName": "Handan",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 36.61,
+    "longitude": 114.4876
+  },
+  {
+    "id": 324,
+    "cityName": "Hangzhou",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 30.2936,
+    "longitude": 120.1614
+  },
+  {
+    "id": 325,
+    "cityName": "Hanoi",
+    "countryCode": "VN",
+    "countryName": "Vietnam",
+    "continent": "Asia",
+    "latitude": 21.0245,
+    "longitude": 105.8412
+  },
+  {
+    "id": 326,
+    "cityName": "Hanzhong",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 33.0751,
+    "longitude": 107.0221
+  },
+  {
+    "id": 327,
+    "cityName": "Harare",
+    "countryCode": "ZW",
+    "countryName": "Zimbabwe",
+    "continent": "Africa",
+    "latitude": -17.8277,
+    "longitude": 31.0534
+  },
+  {
+    "id": 328,
+    "cityName": "Harbin",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 45.75,
+    "longitude": 126.65
+  },
+  {
+    "id": 329,
+    "cityName": "Havana",
+    "countryCode": "CU",
+    "countryName": "Cuba",
+    "continent": "North America",
+    "latitude": 23.133,
+    "longitude": -82.383
+  },
+  {
+    "id": 330,
+    "cityName": "Hebi",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 35.7323,
+    "longitude": 114.2862
+  },
+  {
+    "id": 331,
+    "cityName": "Hefei",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 31.8639,
+    "longitude": 117.2808
+  },
+  {
+    "id": 332,
+    "cityName": "Hegang",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 47.3473,
+    "longitude": 130.2903
+  },
+  {
+    "id": 333,
+    "cityName": "Helsinki",
+    "countryCode": "FI",
+    "countryName": "Finland",
+    "continent": "Europe",
+    "latitude": 60.1695,
+    "longitude": 24.9354
+  },
+  {
+    "id": 334,
+    "cityName": "Hengyang",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 26.8895,
+    "longitude": 112.6189
+  },
+  {
+    "id": 335,
+    "cityName": "Hermosillo",
+    "countryCode": "MX",
+    "countryName": "Mexico",
+    "continent": "North America",
+    "latitude": 29.0887,
+    "longitude": -110.9668
+  },
+  {
+    "id": 336,
+    "cityName": "Heshan",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 28.5694,
+    "longitude": 112.3473
+  },
+  {
+    "id": 337,
+    "cityName": "Heze",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 35.2393,
+    "longitude": 115.4736
+  },
+  {
+    "id": 338,
+    "cityName": "Hezhou",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 24.4036,
+    "longitude": 111.5667
+  },
+  {
+    "id": 339,
+    "cityName": "Hiroshima",
+    "countryCode": "JP",
+    "countryName": "Japan",
+    "continent": "Asia",
+    "latitude": 34.4,
+    "longitude": 132.45
+  },
+  {
+    "id": 340,
+    "cityName": "Hlaingthaya",
+    "countryCode": "MM",
+    "countryName": "Myanmar",
+    "continent": "Asia",
+    "latitude": 16.85,
+    "longitude": 96.0667
+  },
+  {
+    "id": 341,
+    "cityName": "Ho Chi Minh City",
+    "countryCode": "VN",
+    "countryName": "Vietnam",
+    "continent": "Asia",
+    "latitude": 10.823,
+    "longitude": 106.6296
+  },
+  {
+    "id": 342,
+    "cityName": "Hohhot",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 40.8106,
+    "longitude": 111.6522
+  },
+  {
+    "id": 343,
+    "cityName": "Hoji ya Henda",
+    "countryCode": "AO",
+    "countryName": "Angola",
+    "continent": "Africa",
+    "latitude": -8.8052,
+    "longitude": 13.2897
+  },
+  {
+    "id": 344,
+    "cityName": "Homs",
+    "countryCode": "SY",
+    "countryName": "Syria",
+    "continent": "Asia",
+    "latitude": 34.724,
+    "longitude": 36.7256
+  },
+  {
+    "id": 345,
+    "cityName": "Honchō",
+    "countryCode": "JP",
+    "countryName": "Japan",
+    "continent": "Asia",
+    "latitude": 35.7013,
+    "longitude": 139.9865
+  },
+  {
+    "id": 346,
+    "cityName": "Hondlon",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 40.6483,
+    "longitude": 109.7939
+  },
+  {
+    "id": 347,
+    "cityName": "Hong Kong",
+    "countryCode": "HK",
+    "countryName": "Hong Kong",
+    "continent": "Asia",
+    "latitude": 22.2783,
+    "longitude": 114.1747
+  },
+  {
+    "id": 348,
+    "cityName": "Hong Kong Island",
+    "countryCode": "HK",
+    "countryName": "Hong Kong",
+    "continent": "Asia",
+    "latitude": 22.263,
+    "longitude": 114.1842
+  },
+  {
+    "id": 349,
+    "cityName": "Hongkou",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 31.25,
+    "longitude": 121.4892
+  },
+  {
+    "id": 350,
+    "cityName": "Houston",
+    "countryCode": "US",
+    "countryName": "United States",
+    "continent": "North America",
+    "latitude": 29.7633,
+    "longitude": -95.3633
+  },
+  {
+    "id": 351,
+    "cityName": "Howrah",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 22.5769,
+    "longitude": 88.3186
+  },
+  {
+    "id": 352,
+    "cityName": "Huai'an",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 33.5886,
+    "longitude": 119.0192
+  },
+  {
+    "id": 353,
+    "cityName": "Huaibei",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 33.9744,
+    "longitude": 116.7917
+  },
+  {
+    "id": 354,
+    "cityName": "Huainan",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 32.6264,
+    "longitude": 116.9969
+  },
+  {
+    "id": 355,
+    "cityName": "Huambo",
+    "countryCode": "AO",
+    "countryName": "Angola",
+    "continent": "Africa",
+    "latitude": -12.7761,
+    "longitude": 15.7392
+  },
+  {
+    "id": 356,
+    "cityName": "Huangpu",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 31.2378,
+    "longitude": 121.4781
+  },
+  {
+    "id": 357,
+    "cityName": "Huangshi",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 30.2471,
+    "longitude": 115.0481
+  },
+  {
+    "id": 358,
+    "cityName": "Hubballi",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 15.3478,
+    "longitude": 75.1338
+  },
+  {
+    "id": 359,
+    "cityName": "Huizhou",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 23.1115,
+    "longitude": 114.4152
+  },
+  {
+    "id": 360,
+    "cityName": "Huludao",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 40.7524,
+    "longitude": 120.8355
+  },
+  {
+    "id": 361,
+    "cityName": "Huzhou",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 30.8703,
+    "longitude": 120.0933
+  },
+  {
+    "id": 362,
+    "cityName": "Huế",
+    "countryCode": "VN",
+    "countryName": "Vietnam",
+    "continent": "Asia",
+    "latitude": 16.4619,
+    "longitude": 107.5955
+  },
+  {
+    "id": 363,
+    "cityName": "Hwaseong-si",
+    "countryCode": "KR",
+    "countryName": "South Korea",
+    "continent": "Asia",
+    "latitude": 37.2068,
+    "longitude": 126.8169
+  },
+  {
+    "id": 364,
+    "cityName": "Hyderabad",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 17.384,
+    "longitude": 78.4564
+  },
+  {
+    "id": 365,
+    "cityName": "Hyderabad",
+    "countryCode": "PK",
+    "countryName": "Pakistan",
+    "continent": "Asia",
+    "latitude": 25.3969,
+    "longitude": 68.3772
+  },
+  {
+    "id": 366,
+    "cityName": "Ibadan",
+    "countryCode": "NG",
+    "countryName": "Nigeria",
+    "continent": "Africa",
+    "latitude": 7.3776,
+    "longitude": 3.9059
+  },
+  {
+    "id": 367,
+    "cityName": "Ibb",
+    "countryCode": "YE",
+    "countryName": "Yemen",
+    "continent": "Asia",
+    "latitude": 13.9667,
+    "longitude": 44.1833
+  },
+  {
+    "id": 368,
+    "cityName": "Ilorin",
+    "countryCode": "NG",
+    "countryName": "Nigeria",
+    "continent": "Africa",
+    "latitude": 8.4966,
+    "longitude": 4.5421
+  },
+  {
+    "id": 369,
+    "cityName": "Incheon",
+    "countryCode": "KR",
+    "countryName": "South Korea",
+    "continent": "Asia",
+    "latitude": 37.4565,
+    "longitude": 126.7052
+  },
+  {
+    "id": 370,
+    "cityName": "Indianapolis",
+    "countryCode": "US",
+    "countryName": "United States",
+    "continent": "North America",
+    "latitude": 39.7684,
+    "longitude": -86.158
+  },
+  {
+    "id": 371,
+    "cityName": "Indore",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 22.7179,
+    "longitude": 75.8333
+  },
+  {
+    "id": 372,
+    "cityName": "Ipoh",
+    "countryCode": "MY",
+    "countryName": "Malaysia",
+    "continent": "Asia",
+    "latitude": 4.5841,
+    "longitude": 101.0829
+  },
+  {
+    "id": 373,
+    "cityName": "Irkutsk",
+    "countryCode": "RU",
+    "countryName": "Russia",
+    "continent": "Europe",
+    "latitude": 52.2957,
+    "longitude": 104.2908
+  },
+  {
+    "id": 374,
+    "cityName": "Isfahan",
+    "countryCode": "IR",
+    "countryName": "Iran",
+    "continent": "Asia",
+    "latitude": 32.6525,
+    "longitude": 51.6746
+  },
+  {
+    "id": 375,
+    "cityName": "Islamabad",
+    "countryCode": "PK",
+    "countryName": "Pakistan",
+    "continent": "Asia",
+    "latitude": 33.7215,
+    "longitude": 73.0433
+  },
+  {
+    "id": 376,
+    "cityName": "Istanbul",
+    "countryCode": "TR",
+    "countryName": "Turkey",
+    "continent": "Asia",
+    "latitude": 41.0138,
+    "longitude": 28.9497
+  },
+  {
+    "id": 377,
+    "cityName": "Itabashi",
+    "countryCode": "JP",
+    "countryName": "Japan",
+    "continent": "Asia",
+    "latitude": 35.7489,
+    "longitude": 139.715
+  },
+  {
+    "id": 378,
+    "cityName": "Izhevsk",
+    "countryCode": "RU",
+    "countryName": "Russia",
+    "continent": "Europe",
+    "latitude": 56.8522,
+    "longitude": 53.1986
+  },
+  {
+    "id": 379,
+    "cityName": "Iztapalapa",
+    "countryCode": "MX",
+    "countryName": "Mexico",
+    "continent": "North America",
+    "latitude": 19.3553,
+    "longitude": -99.0622
+  },
+  {
+    "id": 380,
+    "cityName": "İzmir",
+    "countryCode": "TR",
+    "countryName": "Turkey",
+    "continent": "Asia",
+    "latitude": 38.4127,
+    "longitude": 27.1384
+  },
+  {
+    "id": 381,
+    "cityName": "Jabalpur",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 23.167,
+    "longitude": 79.9501
+  },
+  {
+    "id": 382,
+    "cityName": "Jaboatão dos Guararapes",
+    "countryCode": "BR",
+    "countryName": "Brazil",
+    "continent": "South America",
+    "latitude": -8.1128,
+    "longitude": -35.0147
+  },
+  {
+    "id": 383,
+    "cityName": "Jacksonville",
+    "countryCode": "US",
+    "countryName": "United States",
+    "continent": "North America",
+    "latitude": 30.3322,
+    "longitude": -81.6556
+  },
+  {
+    "id": 384,
+    "cityName": "Jaipur",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 26.9196,
+    "longitude": 75.7878
+  },
+  {
+    "id": 385,
+    "cityName": "Jakarta",
+    "countryCode": "ID",
+    "countryName": "Indonesia",
+    "continent": "Asia",
+    "latitude": -6.2146,
+    "longitude": 106.8451
+  },
+  {
+    "id": 386,
+    "cityName": "Jalandhar",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 31.3256,
+    "longitude": 75.5792
+  },
+  {
+    "id": 387,
+    "cityName": "Jambi City",
+    "countryCode": "ID",
+    "countryName": "Indonesia",
+    "continent": "Asia",
+    "latitude": -1.6,
+    "longitude": 103.6167
+  },
+  {
+    "id": 388,
+    "cityName": "Jamnagar",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 22.4729,
+    "longitude": 70.0667
+  },
+  {
+    "id": 389,
+    "cityName": "Jamshedpur",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 22.8028,
+    "longitude": 86.1855
+  },
+  {
+    "id": 390,
+    "cityName": "Jeddah",
+    "countryCode": "SA",
+    "countryName": "Saudi Arabia",
+    "continent": "Asia",
+    "latitude": 21.4901,
+    "longitude": 39.1862
+  },
+  {
+    "id": 391,
+    "cityName": "Jeonju",
+    "countryCode": "KR",
+    "countryName": "South Korea",
+    "continent": "Asia",
+    "latitude": 35.8219,
+    "longitude": 127.1489
+  },
+  {
+    "id": 392,
+    "cityName": "Jepara",
+    "countryCode": "ID",
+    "countryName": "Indonesia",
+    "continent": "Asia",
+    "latitude": -6.5924,
+    "longitude": 110.671
+  },
+  {
+    "id": 393,
+    "cityName": "Jerusalem",
+    "countryCode": "IL",
+    "countryName": "Israel",
+    "continent": "Asia",
+    "latitude": 31.769,
+    "longitude": 35.2163
+  },
+  {
+    "id": 394,
+    "cityName": "Jhang Sadr",
+    "countryCode": "PK",
+    "countryName": "Pakistan",
+    "continent": "Asia",
+    "latitude": 31.2698,
+    "longitude": 72.3169
+  },
+  {
+    "id": 395,
+    "cityName": "Jiading",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 31.3858,
+    "longitude": 121.2446
+  },
+  {
+    "id": 396,
+    "cityName": "Jiangmen",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 22.5833,
+    "longitude": 113.0833
+  },
+  {
+    "id": 397,
+    "cityName": "Jiangyin",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 31.911,
+    "longitude": 120.263
+  },
+  {
+    "id": 398,
+    "cityName": "Jiaojiang",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 28.6984,
+    "longitude": 121.4733
+  },
+  {
+    "id": 399,
+    "cityName": "Jiaozhou",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 36.2839,
+    "longitude": 120.0033
+  },
+  {
+    "id": 400,
+    "cityName": "Jiaozuo",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 35.2392,
+    "longitude": 113.2391
+  },
+  {
+    "id": 401,
+    "cityName": "Jiaxing",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 30.7522,
+    "longitude": 120.75
+  },
+  {
+    "id": 402,
+    "cityName": "Jieyang",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 23.5418,
+    "longitude": 116.3658
+  },
+  {
+    "id": 403,
+    "cityName": "Jilin",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 43.8465,
+    "longitude": 126.5608
+  },
+  {
+    "id": 404,
+    "cityName": "Jinan",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 36.6683,
+    "longitude": 116.9972
+  },
+  {
+    "id": 405,
+    "cityName": "Jingmen",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 31.0336,
+    "longitude": 112.2047
+  },
+  {
+    "id": 406,
+    "cityName": "Jingzhou",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 30.3503,
+    "longitude": 112.1903
+  },
+  {
+    "id": 407,
+    "cityName": "Jing’an",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 31.22,
+    "longitude": 121.4158
+  },
+  {
+    "id": 408,
+    "cityName": "Jinhua",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 29.1068,
+    "longitude": 119.6442
+  },
+  {
+    "id": 409,
+    "cityName": "Jining",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 35.405,
+    "longitude": 116.5814
+  },
+  {
+    "id": 410,
+    "cityName": "Jinjiang",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 24.8198,
+    "longitude": 118.5742
+  },
+  {
+    "id": 411,
+    "cityName": "Jinshan",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 30.8356,
+    "longitude": 121.2937
+  },
+  {
+    "id": 412,
+    "cityName": "Jinzhong",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 37.684,
+    "longitude": 112.7547
+  },
+  {
+    "id": 413,
+    "cityName": "Jinzhou",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 41.1078,
+    "longitude": 121.1417
+  },
+  {
+    "id": 414,
+    "cityName": "Jiujiang",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 29.7048,
+    "longitude": 116.0021
+  },
+  {
+    "id": 415,
+    "cityName": "Jodhpur",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 26.2684,
+    "longitude": 73.0059
+  },
+  {
+    "id": 416,
+    "cityName": "Johannesburg",
+    "countryCode": "ZA",
+    "countryName": "South Africa",
+    "continent": "Africa",
+    "latitude": -26.2023,
+    "longitude": 28.0436
+  },
+  {
+    "id": 417,
+    "cityName": "Johor Bahru",
+    "countryCode": "MY",
+    "countryName": "Malaysia",
+    "continent": "Asia",
+    "latitude": 1.4655,
+    "longitude": 103.7578
+  },
+  {
+    "id": 418,
+    "cityName": "Joinville",
+    "countryCode": "BR",
+    "countryName": "Brazil",
+    "continent": "South America",
+    "latitude": -26.3044,
+    "longitude": -48.8456
+  },
+  {
+    "id": 419,
+    "cityName": "Jos",
+    "countryCode": "NG",
+    "countryName": "Nigeria",
+    "continent": "Africa",
+    "latitude": 9.9285,
+    "longitude": 8.8921
+  },
+  {
+    "id": 420,
+    "cityName": "João Pessoa",
+    "countryCode": "BR",
+    "countryName": "Brazil",
+    "continent": "South America",
+    "latitude": -7.115,
+    "longitude": -34.8631
+  },
+  {
+    "id": 421,
+    "cityName": "Jājmau",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 26.4304,
+    "longitude": 80.4095
+  },
+  {
+    "id": 422,
+    "cityName": "Kabul",
+    "countryCode": "AF",
+    "countryName": "Afghanistan",
+    "continent": "Asia",
+    "latitude": 34.5281,
+    "longitude": 69.1723
+  },
+  {
+    "id": 423,
+    "cityName": "Kaduna",
+    "countryCode": "NG",
+    "countryName": "Nigeria",
+    "continent": "Africa",
+    "latitude": 10.5264,
+    "longitude": 7.4388
+  },
+  {
+    "id": 424,
+    "cityName": "Kagoshima",
+    "countryCode": "JP",
+    "countryName": "Japan",
+    "continent": "Asia",
+    "latitude": 31.5667,
+    "longitude": 130.55
+  },
+  {
+    "id": 425,
+    "cityName": "Kaifeng",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 34.7986,
+    "longitude": 114.3074
+  },
+  {
+    "id": 426,
+    "cityName": "Kakamega",
+    "countryCode": "KE",
+    "countryName": "Kenya",
+    "continent": "Africa",
+    "latitude": 0.2842,
+    "longitude": 34.7523
+  },
+  {
+    "id": 427,
+    "cityName": "Kallakurichi",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 11.7338,
+    "longitude": 78.9592
+  },
+  {
+    "id": 428,
+    "cityName": "Kalyān",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 19.2437,
+    "longitude": 73.1355
+  },
+  {
+    "id": 429,
+    "cityName": "Kampala",
+    "countryCode": "UG",
+    "countryName": "Uganda",
+    "continent": "Africa",
+    "latitude": 0.3163,
+    "longitude": 32.5822
+  },
+  {
+    "id": 430,
+    "cityName": "Kampung Baru Subang",
+    "countryCode": "MY",
+    "countryName": "Malaysia",
+    "continent": "Asia",
+    "latitude": 3.15,
+    "longitude": 101.5333
+  },
+  {
+    "id": 431,
+    "cityName": "Kananga",
+    "countryCode": "CD",
+    "countryName": "Democratic Republic of the Congo",
+    "continent": "Africa",
+    "latitude": -5.8962,
+    "longitude": 22.4166
+  },
+  {
+    "id": 432,
+    "cityName": "Kanayannur",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 9.9667,
+    "longitude": 76.2667
+  },
+  {
+    "id": 433,
+    "cityName": "Kano",
+    "countryCode": "NG",
+    "countryName": "Nigeria",
+    "continent": "Africa",
+    "latitude": 12.0001,
+    "longitude": 8.5167
+  },
+  {
+    "id": 434,
+    "cityName": "Kanpur",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 26.4652,
+    "longitude": 80.3498
+  },
+  {
+    "id": 435,
+    "cityName": "Kaohsiung",
+    "countryCode": "TW",
+    "countryName": "Taiwan",
+    "continent": "Asia",
+    "latitude": 22.6163,
+    "longitude": 120.3133
+  },
+  {
+    "id": 436,
+    "cityName": "Karachi",
+    "countryCode": "PK",
+    "countryName": "Pakistan",
+    "continent": "Asia",
+    "latitude": 24.8608,
+    "longitude": 67.0104
+  },
+  {
+    "id": 437,
+    "cityName": "Karaj",
+    "countryCode": "IR",
+    "countryName": "Iran",
+    "continent": "Asia",
+    "latitude": 35.8327,
+    "longitude": 50.9915
+  },
+  {
+    "id": 438,
+    "cityName": "Karbala",
+    "countryCode": "IQ",
+    "countryName": "Iraq",
+    "continent": "Asia",
+    "latitude": 32.616,
+    "longitude": 44.0249
+  },
+  {
+    "id": 439,
+    "cityName": "Kathmandu",
+    "countryCode": "NP",
+    "countryName": "Nepal",
+    "continent": "Asia",
+    "latitude": 27.7017,
+    "longitude": 85.3206
+  },
+  {
+    "id": 440,
+    "cityName": "Katsina",
+    "countryCode": "NG",
+    "countryName": "Nigeria",
+    "continent": "Africa",
+    "latitude": 12.9908,
+    "longitude": 7.6018
+  },
+  {
+    "id": 441,
+    "cityName": "Kawaguchi",
+    "countryCode": "JP",
+    "countryName": "Japan",
+    "continent": "Asia",
+    "latitude": 35.8052,
+    "longitude": 139.7107
+  },
+  {
+    "id": 442,
+    "cityName": "Kawasaki",
+    "countryCode": "JP",
+    "countryName": "Japan",
+    "continent": "Asia",
+    "latitude": 35.5206,
+    "longitude": 139.7172
+  },
+  {
+    "id": 443,
+    "cityName": "Kayseri",
+    "countryCode": "TR",
+    "countryName": "Turkey",
+    "continent": "Asia",
+    "latitude": 38.7322,
+    "longitude": 35.4853
+  },
+  {
+    "id": 444,
+    "cityName": "Kazan",
+    "countryCode": "RU",
+    "countryName": "Russia",
+    "continent": "Europe",
+    "latitude": 55.7887,
+    "longitude": 49.1221
+  },
+  {
+    "id": 445,
+    "cityName": "Kennedy",
+    "countryCode": "CO",
+    "countryName": "Colombia",
+    "continent": "South America",
+    "latitude": 4.6165,
+    "longitude": -74.146
+  },
+  {
+    "id": 446,
+    "cityName": "Kermanshah",
+    "countryCode": "IR",
+    "countryName": "Iran",
+    "continent": "Asia",
+    "latitude": 34.3142,
+    "longitude": 47.065
+  },
+  {
+    "id": 447,
+    "cityName": "Khabarovsk",
+    "countryCode": "RU",
+    "countryName": "Russia",
+    "continent": "Europe",
+    "latitude": 48.462,
+    "longitude": 135.0971
+  },
+  {
+    "id": 448,
+    "cityName": "Kharkiv",
+    "countryCode": "UA",
+    "countryName": "Ukraine",
+    "continent": "Europe",
+    "latitude": 49.9818,
+    "longitude": 36.2548
+  },
+  {
+    "id": 449,
+    "cityName": "Khartoum",
+    "countryCode": "SD",
+    "countryName": "Sudan",
+    "continent": "Africa",
+    "latitude": 15.5518,
+    "longitude": 32.5324
+  },
+  {
+    "id": 450,
+    "cityName": "Khartoum North",
+    "countryCode": "SD",
+    "countryName": "Sudan",
+    "continent": "Africa",
+    "latitude": 15.6493,
+    "longitude": 32.5346
+  },
+  {
+    "id": 451,
+    "cityName": "Khulna",
+    "countryCode": "BD",
+    "countryName": "Bangladesh",
+    "continent": "Asia",
+    "latitude": 22.8098,
+    "longitude": 89.5644
+  },
+  {
+    "id": 452,
+    "cityName": "Kigali",
+    "countryCode": "RW",
+    "countryName": "Rwanda",
+    "continent": "Africa",
+    "latitude": -1.95,
+    "longitude": 30.0588
+  },
+  {
+    "id": 453,
+    "cityName": "Kikolo",
+    "countryCode": "AO",
+    "countryName": "Angola",
+    "continent": "Africa",
+    "latitude": -8.7815,
+    "longitude": 13.3338
+  },
+  {
+    "id": 454,
+    "cityName": "Kingston",
+    "countryCode": "JM",
+    "countryName": "Jamaica",
+    "continent": "North America",
+    "latitude": 17.997,
+    "longitude": -76.7936
+  },
+  {
+    "id": 455,
+    "cityName": "Kinshasa",
+    "countryCode": "CD",
+    "countryName": "Democratic Republic of the Congo",
+    "continent": "Africa",
+    "latitude": -4.3276,
+    "longitude": 15.3136
+  },
+  {
+    "id": 456,
+    "cityName": "Kirkuk",
+    "countryCode": "IQ",
+    "countryName": "Iraq",
+    "continent": "Asia",
+    "latitude": 35.4681,
+    "longitude": 44.3922
+  },
+  {
+    "id": 457,
+    "cityName": "Kisangani",
+    "countryCode": "CD",
+    "countryName": "Democratic Republic of the Congo",
+    "continent": "Africa",
+    "latitude": 0.5153,
+    "longitude": 25.191
+  },
+  {
+    "id": 458,
+    "cityName": "Kitakyushu",
+    "countryCode": "JP",
+    "countryName": "Japan",
+    "continent": "Asia",
+    "latitude": 33.8518,
+    "longitude": 130.8503
+  },
+  {
+    "id": 459,
+    "cityName": "Kitwe",
+    "countryCode": "ZM",
+    "countryName": "Zambia",
+    "continent": "Africa",
+    "latitude": -12.8024,
+    "longitude": 28.2132
+  },
+  {
+    "id": 460,
+    "cityName": "Kobe",
+    "countryCode": "JP",
+    "countryName": "Japan",
+    "continent": "Asia",
+    "latitude": 34.6913,
+    "longitude": 135.183
+  },
+  {
+    "id": 461,
+    "cityName": "Kochi",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 9.9399,
+    "longitude": 76.2602
+  },
+  {
+    "id": 462,
+    "cityName": "Kolkata",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 22.5626,
+    "longitude": 88.363
+  },
+  {
+    "id": 463,
+    "cityName": "Kolwezi",
+    "countryCode": "CD",
+    "countryName": "Democratic Republic of the Congo",
+    "continent": "Africa",
+    "latitude": -10.7148,
+    "longitude": 25.4667
+  },
+  {
+    "id": 464,
+    "cityName": "Konya",
+    "countryCode": "TR",
+    "countryName": "Turkey",
+    "continent": "Asia",
+    "latitude": 37.8713,
+    "longitude": 32.4846
+  },
+  {
+    "id": 465,
+    "cityName": "Kota",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 25.1825,
+    "longitude": 75.8391
+  },
+  {
+    "id": 466,
+    "cityName": "Kowloon",
+    "countryCode": "HK",
+    "countryName": "Hong Kong",
+    "continent": "Asia",
+    "latitude": 22.3167,
+    "longitude": 114.1833
+  },
+  {
+    "id": 467,
+    "cityName": "Kraków",
+    "countryCode": "PL",
+    "countryName": "Poland",
+    "continent": "Europe",
+    "latitude": 50.0614,
+    "longitude": 19.9366
+  },
+  {
+    "id": 468,
+    "cityName": "Krasnodar",
+    "countryCode": "RU",
+    "countryName": "Russia",
+    "continent": "Europe",
+    "latitude": 45.0453,
+    "longitude": 38.9818
+  },
+  {
+    "id": 469,
+    "cityName": "Krasnoyarsk",
+    "countryCode": "RU",
+    "countryName": "Russia",
+    "continent": "Europe",
+    "latitude": 56.0374,
+    "longitude": 92.9314
+  },
+  {
+    "id": 470,
+    "cityName": "Kryvyy Rih",
+    "countryCode": "UA",
+    "countryName": "Ukraine",
+    "continent": "Europe",
+    "latitude": 47.9057,
+    "longitude": 33.394
+  },
+  {
+    "id": 471,
+    "cityName": "Kuala Lumpur",
+    "countryCode": "MY",
+    "countryName": "Malaysia",
+    "continent": "Asia",
+    "latitude": 3.1412,
+    "longitude": 101.6865
+  },
+  {
+    "id": 472,
+    "cityName": "Kumamoto",
+    "countryCode": "JP",
+    "countryName": "Japan",
+    "continent": "Asia",
+    "latitude": 32.8059,
+    "longitude": 130.6918
+  },
+  {
+    "id": 473,
+    "cityName": "Kumasi",
+    "countryCode": "GH",
+    "countryName": "Ghana",
+    "continent": "Africa",
+    "latitude": 6.6885,
+    "longitude": -1.6244
+  },
+  {
+    "id": 474,
+    "cityName": "Kunming",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 25.0389,
+    "longitude": 102.7183
+  },
+  {
+    "id": 475,
+    "cityName": "Kunshan",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 31.3776,
+    "longitude": 120.9543
+  },
+  {
+    "id": 476,
+    "cityName": "Kyiv",
+    "countryCode": "UA",
+    "countryName": "Ukraine",
+    "continent": "Europe",
+    "latitude": 50.4547,
+    "longitude": 30.5238
+  },
+  {
+    "id": 477,
+    "cityName": "Kyoto",
+    "countryCode": "JP",
+    "countryName": "Japan",
+    "continent": "Asia",
+    "latitude": 35.0211,
+    "longitude": 135.7538
+  },
+  {
+    "id": 478,
+    "cityName": "Köln",
+    "countryCode": "DE",
+    "countryName": "Germany",
+    "continent": "Europe",
+    "latitude": 50.9333,
+    "longitude": 6.95
+  },
+  {
+    "id": 479,
+    "cityName": "Küçükçekmece",
+    "countryCode": "TR",
+    "countryName": "Turkey",
+    "continent": "Asia",
+    "latitude": 40.991,
+    "longitude": 28.7712
+  },
+  {
+    "id": 480,
+    "cityName": "La Paz",
+    "countryCode": "BO",
+    "countryName": "Bolivia",
+    "continent": "South America",
+    "latitude": -16.5,
+    "longitude": -68.15
+  },
+  {
+    "id": 481,
+    "cityName": "Lagos",
+    "countryCode": "NG",
+    "countryName": "Nigeria",
+    "continent": "Africa",
+    "latitude": 6.4541,
+    "longitude": 3.3947
+  },
+  {
+    "id": 482,
+    "cityName": "Lahore",
+    "countryCode": "PK",
+    "countryName": "Pakistan",
+    "continent": "Asia",
+    "latitude": 31.558,
+    "longitude": 74.3507
+  },
+  {
+    "id": 483,
+    "cityName": "Laibin",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 23.7474,
+    "longitude": 109.2222
+  },
+  {
+    "id": 484,
+    "cityName": "Laiwu",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 36.1928,
+    "longitude": 117.6569
+  },
+  {
+    "id": 485,
+    "cityName": "Laiyang",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 36.9758,
+    "longitude": 120.7136
+  },
+  {
+    "id": 486,
+    "cityName": "Langfang",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 39.5208,
+    "longitude": 116.7147
+  },
+  {
+    "id": 487,
+    "cityName": "Lanzhou",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 36.057,
+    "longitude": 103.8399
+  },
+  {
+    "id": 488,
+    "cityName": "Las Piñas",
+    "countryCode": "PH",
+    "countryName": "Philippines",
+    "continent": "Asia",
+    "latitude": 14.4506,
+    "longitude": 120.9828
+  },
+  {
+    "id": 489,
+    "cityName": "Las Vegas",
+    "countryCode": "US",
+    "countryName": "United States",
+    "continent": "North America",
+    "latitude": 36.175,
+    "longitude": -115.1372
+  },
+  {
+    "id": 490,
+    "cityName": "Latakia",
+    "countryCode": "SY",
+    "countryName": "Syria",
+    "continent": "Asia",
+    "latitude": 35.5312,
+    "longitude": 35.7909
+  },
+  {
+    "id": 491,
+    "cityName": "Leshan",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 29.5623,
+    "longitude": 103.7639
+  },
+  {
+    "id": 492,
+    "cityName": "León de los Aldama",
+    "countryCode": "MX",
+    "countryName": "Mexico",
+    "continent": "North America",
+    "latitude": 21.1218,
+    "longitude": -101.6825
+  },
+  {
+    "id": 493,
+    "cityName": "Lhasa",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 29.65,
+    "longitude": 91.1
+  },
+  {
+    "id": 494,
+    "cityName": "Lianjiang",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 21.6467,
+    "longitude": 110.2817
+  },
+  {
+    "id": 495,
+    "cityName": "Lianyungang",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 34.5984,
+    "longitude": 119.2156
+  },
+  {
+    "id": 496,
+    "cityName": "Liaocheng",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 36.4506,
+    "longitude": 116.0025
+  },
+  {
+    "id": 497,
+    "cityName": "Liaoyang",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 41.2719,
+    "longitude": 123.1731
+  },
+  {
+    "id": 498,
+    "cityName": "Libreville",
+    "countryCode": "GA",
+    "countryName": "Gabon",
+    "continent": "Africa",
+    "latitude": 0.3924,
+    "longitude": 9.4536
+  },
+  {
+    "id": 499,
+    "cityName": "Likasi",
+    "countryCode": "CD",
+    "countryName": "Democratic Republic of the Congo",
+    "continent": "Africa",
+    "latitude": -10.983,
+    "longitude": 26.7384
+  },
+  {
+    "id": 500,
+    "cityName": "Lilongwe",
+    "countryCode": "MW",
+    "countryName": "Malawi",
+    "continent": "Africa",
+    "latitude": -13.9669,
+    "longitude": 33.7873
+  },
+  {
+    "id": 501,
+    "cityName": "Lima",
+    "countryCode": "PE",
+    "countryName": "Peru",
+    "continent": "South America",
+    "latitude": -12.0432,
+    "longitude": -77.0282
+  },
+  {
+    "id": 502,
+    "cityName": "Linfen",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 36.0889,
+    "longitude": 111.5189
+  },
+  {
+    "id": 503,
+    "cityName": "Lingyuan",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 41.24,
+    "longitude": 119.4011
+  },
+  {
+    "id": 504,
+    "cityName": "Linyi",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 35.0631,
+    "longitude": 118.3428
+  },
+  {
+    "id": 505,
+    "cityName": "Liupanshui",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 26.5944,
+    "longitude": 104.8333
+  },
+  {
+    "id": 506,
+    "cityName": "Liuzhou",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 24.324,
+    "longitude": 109.407
+  },
+  {
+    "id": 507,
+    "cityName": "Lomé",
+    "countryCode": "TG",
+    "countryName": "Togo",
+    "continent": "Africa",
+    "latitude": 6.1287,
+    "longitude": 1.2215
+  },
+  {
+    "id": 508,
+    "cityName": "London",
+    "countryCode": "GB",
+    "countryName": "United Kingdom",
+    "continent": "Europe",
+    "latitude": 51.5085,
+    "longitude": -0.1257
+  },
+  {
+    "id": 509,
+    "cityName": "Longyan",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 25.0749,
+    "longitude": 117.0178
+  },
+  {
+    "id": 510,
+    "cityName": "Los Angeles",
+    "countryCode": "US",
+    "countryName": "United States",
+    "continent": "North America",
+    "latitude": 34.0522,
+    "longitude": -118.2437
+  },
+  {
+    "id": 511,
+    "cityName": "Louisville",
+    "countryCode": "US",
+    "countryName": "United States",
+    "continent": "North America",
+    "latitude": 38.2542,
+    "longitude": -85.7594
+  },
+  {
+    "id": 512,
+    "cityName": "Luancheng",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 37.8845,
+    "longitude": 114.6463
+  },
+  {
+    "id": 513,
+    "cityName": "Luanda",
+    "countryCode": "AO",
+    "countryName": "Angola",
+    "continent": "Africa",
+    "latitude": -8.8368,
+    "longitude": 13.2343
+  },
+  {
+    "id": 514,
+    "cityName": "Lubango",
+    "countryCode": "AO",
+    "countryName": "Angola",
+    "continent": "Africa",
+    "latitude": -14.9172,
+    "longitude": 13.4925
+  },
+  {
+    "id": 515,
+    "cityName": "Lubumbashi",
+    "countryCode": "CD",
+    "countryName": "Democratic Republic of the Congo",
+    "continent": "Africa",
+    "latitude": -11.6609,
+    "longitude": 27.4794
+  },
+  {
+    "id": 516,
+    "cityName": "Lucknow",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 26.8393,
+    "longitude": 80.9231
+  },
+  {
+    "id": 517,
+    "cityName": "Ludhiana",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 30.912,
+    "longitude": 75.8538
+  },
+  {
+    "id": 518,
+    "cityName": "Luohe",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 33.5742,
+    "longitude": 114.0326
+  },
+  {
+    "id": 519,
+    "cityName": "Luohu District",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 22.5472,
+    "longitude": 114.1315
+  },
+  {
+    "id": 520,
+    "cityName": "Luoyang",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 34.6735,
+    "longitude": 112.4368
+  },
+  {
+    "id": 521,
+    "cityName": "Lusaka",
+    "countryCode": "ZM",
+    "countryName": "Zambia",
+    "continent": "Africa",
+    "latitude": -15.4067,
+    "longitude": 28.2871
+  },
+  {
+    "id": 522,
+    "cityName": "Luzhou",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 28.8903,
+    "longitude": 105.4257
+  },
+  {
+    "id": 523,
+    "cityName": "Lu’an",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 31.7356,
+    "longitude": 116.5169
+  },
+  {
+    "id": 524,
+    "cityName": "Lviv",
+    "countryCode": "UA",
+    "countryName": "Ukraine",
+    "continent": "Europe",
+    "latitude": 49.8383,
+    "longitude": 24.0232
+  },
+  {
+    "id": 525,
+    "cityName": "Lüliang",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 37.5192,
+    "longitude": 111.1444
+  },
+  {
+    "id": 526,
+    "cityName": "Macau",
+    "countryCode": "MO",
+    "countryName": "Macao",
+    "continent": "Asia",
+    "latitude": 22.2006,
+    "longitude": 113.5461
+  },
+  {
+    "id": 527,
+    "cityName": "Maceió",
+    "countryCode": "BR",
+    "countryName": "Brazil",
+    "continent": "South America",
+    "latitude": -9.6658,
+    "longitude": -35.7353
+  },
+  {
+    "id": 528,
+    "cityName": "Madinah",
+    "countryCode": "SA",
+    "countryName": "Saudi Arabia",
+    "continent": "Asia",
+    "latitude": 24.4686,
+    "longitude": 39.6142
+  },
+  {
+    "id": 529,
+    "cityName": "Madrid",
+    "countryCode": "ES",
+    "countryName": "Spain",
+    "continent": "Europe",
+    "latitude": 40.4165,
+    "longitude": -3.7026
+  },
+  {
+    "id": 530,
+    "cityName": "Madurai",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 9.919,
+    "longitude": 78.1195
+  },
+  {
+    "id": 531,
+    "cityName": "Madīnat an Naşr",
+    "countryCode": "EG",
+    "countryName": "Egypt",
+    "continent": "Africa",
+    "latitude": 30.0667,
+    "longitude": 31.3
+  },
+  {
+    "id": 532,
+    "cityName": "Maianga",
+    "countryCode": "AO",
+    "countryName": "Angola",
+    "continent": "Africa",
+    "latitude": -8.8469,
+    "longitude": 13.237
+  },
+  {
+    "id": 533,
+    "cityName": "Maiduguri",
+    "countryCode": "NG",
+    "countryName": "Nigeria",
+    "continent": "Africa",
+    "latitude": 11.8469,
+    "longitude": 13.1571
+  },
+  {
+    "id": 534,
+    "cityName": "Makassar",
+    "countryCode": "ID",
+    "countryName": "Indonesia",
+    "continent": "Asia",
+    "latitude": -5.1486,
+    "longitude": 119.4319
+  },
+  {
+    "id": 535,
+    "cityName": "Makhachkala",
+    "countryCode": "RU",
+    "countryName": "Russia",
+    "continent": "Europe",
+    "latitude": 42.9778,
+    "longitude": 47.5003
+  },
+  {
+    "id": 536,
+    "cityName": "Makkah",
+    "countryCode": "SA",
+    "countryName": "Saudi Arabia",
+    "continent": "Asia",
+    "latitude": 21.4266,
+    "longitude": 39.8256
+  },
+  {
+    "id": 537,
+    "cityName": "Malang",
+    "countryCode": "ID",
+    "countryName": "Indonesia",
+    "continent": "Asia",
+    "latitude": -7.9797,
+    "longitude": 112.6304
+  },
+  {
+    "id": 538,
+    "cityName": "Malatya",
+    "countryCode": "TR",
+    "countryName": "Turkey",
+    "continent": "Asia",
+    "latitude": 38.3502,
+    "longitude": 38.3167
+  },
+  {
+    "id": 539,
+    "cityName": "Malingao",
+    "countryCode": "PH",
+    "countryName": "Philippines",
+    "continent": "Asia",
+    "latitude": 7.1608,
+    "longitude": 124.475
+  },
+  {
+    "id": 540,
+    "cityName": "Managua",
+    "countryCode": "NI",
+    "countryName": "Nicaragua",
+    "continent": "North America",
+    "latitude": 12.1328,
+    "longitude": -86.2504
+  },
+  {
+    "id": 541,
+    "cityName": "Manaus",
+    "countryCode": "BR",
+    "countryName": "Brazil",
+    "continent": "South America",
+    "latitude": -3.1019,
+    "longitude": -60.025
+  },
+  {
+    "id": 542,
+    "cityName": "Mandalay",
+    "countryCode": "MM",
+    "countryName": "Myanmar",
+    "continent": "Asia",
+    "latitude": 21.9747,
+    "longitude": 96.0836
+  },
+  {
+    "id": 543,
+    "cityName": "Manhattan",
+    "countryCode": "US",
+    "countryName": "United States",
+    "continent": "North America",
+    "latitude": 40.7834,
+    "longitude": -73.9663
+  },
+  {
+    "id": 544,
+    "cityName": "Manila",
+    "countryCode": "PH",
+    "countryName": "Philippines",
+    "continent": "Asia",
+    "latitude": 14.6042,
+    "longitude": 120.9822
+  },
+  {
+    "id": 545,
+    "cityName": "Maoming",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 21.6663,
+    "longitude": 110.9136
+  },
+  {
+    "id": 546,
+    "cityName": "Maputo",
+    "countryCode": "MZ",
+    "countryName": "Mozambique",
+    "continent": "Africa",
+    "latitude": -25.9655,
+    "longitude": 32.5832
+  },
+  {
+    "id": 547,
+    "cityName": "Mar del Plata",
+    "countryCode": "AR",
+    "countryName": "Argentina",
+    "continent": "South America",
+    "latitude": -38.0004,
+    "longitude": -57.5562
+  },
+  {
+    "id": 548,
+    "cityName": "Maracaibo",
+    "countryCode": "VE",
+    "countryName": "Venezuela",
+    "continent": "South America",
+    "latitude": 10.6423,
+    "longitude": -71.6109
+  },
+  {
+    "id": 549,
+    "cityName": "Marrakesh",
+    "countryCode": "MA",
+    "countryName": "Morocco",
+    "continent": "Africa",
+    "latitude": 31.6342,
+    "longitude": -7.9999
+  },
+  {
+    "id": 550,
+    "cityName": "Marseille",
+    "countryCode": "FR",
+    "countryName": "France",
+    "continent": "Europe",
+    "latitude": 43.297,
+    "longitude": 5.3811
+  },
+  {
+    "id": 551,
+    "cityName": "Mashhad",
+    "countryCode": "IR",
+    "countryName": "Iran",
+    "continent": "Asia",
+    "latitude": 36.2981,
+    "longitude": 59.6057
+  },
+  {
+    "id": 552,
+    "cityName": "Matola",
+    "countryCode": "MZ",
+    "countryName": "Mozambique",
+    "continent": "Africa",
+    "latitude": -25.9622,
+    "longitude": 32.4589
+  },
+  {
+    "id": 553,
+    "cityName": "Maturín",
+    "countryCode": "VE",
+    "countryName": "Venezuela",
+    "continent": "South America",
+    "latitude": 9.7457,
+    "longitude": -63.1832
+  },
+  {
+    "id": 554,
+    "cityName": "Ma’anshan",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 31.6858,
+    "longitude": 118.5101
+  },
+  {
+    "id": 555,
+    "cityName": "Mbuji-Mayi",
+    "countryCode": "CD",
+    "countryName": "Democratic Republic of the Congo",
+    "continent": "Africa",
+    "latitude": -6.136,
+    "longitude": 23.5898
+  },
+  {
+    "id": 556,
+    "cityName": "Medan",
+    "countryCode": "ID",
+    "countryName": "Indonesia",
+    "continent": "Asia",
+    "latitude": 3.5833,
+    "longitude": 98.6667
+  },
+  {
+    "id": 557,
+    "cityName": "Medellín",
+    "countryCode": "CO",
+    "countryName": "Colombia",
+    "continent": "South America",
+    "latitude": 6.245,
+    "longitude": -75.5715
+  },
+  {
+    "id": 558,
+    "cityName": "Meerut",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 28.98,
+    "longitude": 77.7064
+  },
+  {
+    "id": 559,
+    "cityName": "Meishan",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 30.0439,
+    "longitude": 103.837
+  },
+  {
+    "id": 560,
+    "cityName": "Meizhou",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 24.2886,
+    "longitude": 116.1177
+  },
+  {
+    "id": 561,
+    "cityName": "Melbourne",
+    "countryCode": "AU",
+    "countryName": "Australia",
+    "continent": "Oceania",
+    "latitude": -37.814,
+    "longitude": 144.9633
+  },
+  {
+    "id": 562,
+    "cityName": "Memphis",
+    "countryCode": "US",
+    "countryName": "United States",
+    "continent": "North America",
+    "latitude": 35.1495,
+    "longitude": -90.049
+  },
+  {
+    "id": 563,
+    "cityName": "Mengzi",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 23.3678,
+    "longitude": 103.3821
+  },
+  {
+    "id": 564,
+    "cityName": "Mexicali",
+    "countryCode": "MX",
+    "countryName": "Mexico",
+    "continent": "North America",
+    "latitude": 32.6278,
+    "longitude": -115.4545
+  },
+  {
+    "id": 565,
+    "cityName": "Mexico City",
+    "countryCode": "MX",
+    "countryName": "Mexico",
+    "continent": "North America",
+    "latitude": 19.4285,
+    "longitude": -99.1277
+  },
+  {
+    "id": 566,
+    "cityName": "Mianyang",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 31.4678,
+    "longitude": 104.6817
+  },
+  {
+    "id": 567,
+    "cityName": "Milan",
+    "countryCode": "IT",
+    "countryName": "Italy",
+    "continent": "Europe",
+    "latitude": 45.4643,
+    "longitude": 9.1895
+  },
+  {
+    "id": 568,
+    "cityName": "Mingguang",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 32.7802,
+    "longitude": 117.9638
+  },
+  {
+    "id": 569,
+    "cityName": "Minhang",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 31.1088,
+    "longitude": 121.3747
+  },
+  {
+    "id": 570,
+    "cityName": "Minsk",
+    "countryCode": "BY",
+    "countryName": "Belarus",
+    "continent": "Europe",
+    "latitude": 53.9002,
+    "longitude": 27.5665
+  },
+  {
+    "id": 571,
+    "cityName": "Mississauga",
+    "countryCode": "CA",
+    "countryName": "Canada",
+    "continent": "North America",
+    "latitude": 43.5789,
+    "longitude": -79.6583
+  },
+  {
+    "id": 572,
+    "cityName": "Mogadishu",
+    "countryCode": "SO",
+    "countryName": "Somalia",
+    "continent": "Africa",
+    "latitude": 2.0371,
+    "longitude": 45.3438
+  },
+  {
+    "id": 573,
+    "cityName": "Mombasa",
+    "countryCode": "KE",
+    "countryName": "Kenya",
+    "continent": "Africa",
+    "latitude": -4.0547,
+    "longitude": 39.6636
+  },
+  {
+    "id": 574,
+    "cityName": "Monrovia",
+    "countryCode": "LR",
+    "countryName": "Liberia",
+    "continent": "Africa",
+    "latitude": 6.3005,
+    "longitude": -10.7969
+  },
+  {
+    "id": 575,
+    "cityName": "Monterrey",
+    "countryCode": "MX",
+    "countryName": "Mexico",
+    "continent": "North America",
+    "latitude": 25.6843,
+    "longitude": -100.3172
+  },
+  {
+    "id": 576,
+    "cityName": "Montevideo",
+    "countryCode": "UY",
+    "countryName": "Uruguay",
+    "continent": "South America",
+    "latitude": -34.9033,
+    "longitude": -56.1882
+  },
+  {
+    "id": 577,
+    "cityName": "Montréal",
+    "countryCode": "CA",
+    "countryName": "Canada",
+    "continent": "North America",
+    "latitude": 45.5088,
+    "longitude": -73.5878
+  },
+  {
+    "id": 578,
+    "cityName": "Morelia",
+    "countryCode": "MX",
+    "countryName": "Mexico",
+    "continent": "North America",
+    "latitude": 19.7008,
+    "longitude": -101.1844
+  },
+  {
+    "id": 579,
+    "cityName": "Morādābād",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 28.8389,
+    "longitude": 78.7768
+  },
+  {
+    "id": 580,
+    "cityName": "Moscow",
+    "countryCode": "RU",
+    "countryName": "Russia",
+    "continent": "Europe",
+    "latitude": 55.752,
+    "longitude": 37.6178
+  },
+  {
+    "id": 581,
+    "cityName": "Mosul",
+    "countryCode": "IQ",
+    "countryName": "Iraq",
+    "continent": "Asia",
+    "latitude": 36.335,
+    "longitude": 43.1189
+  },
+  {
+    "id": 582,
+    "cityName": "Mudanjiang",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 44.548,
+    "longitude": 129.6259
+  },
+  {
+    "id": 583,
+    "cityName": "Mukalla",
+    "countryCode": "YE",
+    "countryName": "Yemen",
+    "continent": "Asia",
+    "latitude": 14.5425,
+    "longitude": 49.1242
+  },
+  {
+    "id": 584,
+    "cityName": "Mulenvos",
+    "countryCode": "AO",
+    "countryName": "Angola",
+    "continent": "Africa",
+    "latitude": -8.8669,
+    "longitude": 13.3344
+  },
+  {
+    "id": 585,
+    "cityName": "Multan",
+    "countryCode": "PK",
+    "countryName": "Pakistan",
+    "continent": "Asia",
+    "latitude": 30.1968,
+    "longitude": 71.4782
+  },
+  {
+    "id": 586,
+    "cityName": "Mumbai",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 19.0728,
+    "longitude": 72.8826
+  },
+  {
+    "id": 587,
+    "cityName": "Munich",
+    "countryCode": "DE",
+    "countryName": "Germany",
+    "continent": "Europe",
+    "latitude": 48.1374,
+    "longitude": 11.5755
+  },
+  {
+    "id": 588,
+    "cityName": "Muscat",
+    "countryCode": "OM",
+    "countryName": "Oman",
+    "continent": "Asia",
+    "latitude": 23.5841,
+    "longitude": 58.4078
+  },
+  {
+    "id": 589,
+    "cityName": "Muzaffarābād",
+    "countryCode": "PK",
+    "countryName": "Pakistan",
+    "continent": "Asia",
+    "latitude": 34.37,
+    "longitude": 73.4708
+  },
+  {
+    "id": 590,
+    "cityName": "Mwanza",
+    "countryCode": "TZ",
+    "countryName": "Tanzania",
+    "continent": "Africa",
+    "latitude": -2.5167,
+    "longitude": 32.9
+  },
+  {
+    "id": 591,
+    "cityName": "Mysuru",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 12.2979,
+    "longitude": 76.6393
+  },
+  {
+    "id": 592,
+    "cityName": "Málaga",
+    "countryCode": "ES",
+    "countryName": "Spain",
+    "continent": "Europe",
+    "latitude": 36.7202,
+    "longitude": -4.4203
+  },
+  {
+    "id": 593,
+    "cityName": "Mérida",
+    "countryCode": "MX",
+    "countryName": "Mexico",
+    "continent": "North America",
+    "latitude": 20.967,
+    "longitude": -89.6232
+  },
+  {
+    "id": 594,
+    "cityName": "N'Djamena",
+    "countryCode": "TD",
+    "countryName": "Chad",
+    "continent": "Africa",
+    "latitude": 12.1067,
+    "longitude": 15.0444
+  },
+  {
+    "id": 595,
+    "cityName": "Nagoya",
+    "countryCode": "JP",
+    "countryName": "Japan",
+    "continent": "Asia",
+    "latitude": 35.1815,
+    "longitude": 136.9064
+  },
+  {
+    "id": 596,
+    "cityName": "Nagpur",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 21.1463,
+    "longitude": 79.0849
+  },
+  {
+    "id": 597,
+    "cityName": "Nairobi",
+    "countryCode": "KE",
+    "countryName": "Kenya",
+    "continent": "Africa",
+    "latitude": -1.2833,
+    "longitude": 36.8167
+  },
+  {
+    "id": 598,
+    "cityName": "Najafgarh",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 28.6092,
+    "longitude": 76.9798
+  },
+  {
+    "id": 599,
+    "cityName": "Namangan",
+    "countryCode": "UZ",
+    "countryName": "Uzbekistan",
+    "continent": "Asia",
+    "latitude": 40.9983,
+    "longitude": 71.6726
+  },
+  {
+    "id": 600,
+    "cityName": "Nampula",
+    "countryCode": "MZ",
+    "countryName": "Mozambique",
+    "continent": "Africa",
+    "latitude": -15.1165,
+    "longitude": 39.2666
+  },
+  {
+    "id": 601,
+    "cityName": "Nanchang",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 28.684,
+    "longitude": 115.8531
+  },
+  {
+    "id": 602,
+    "cityName": "Nanchong",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 30.7951,
+    "longitude": 106.0847
+  },
+  {
+    "id": 603,
+    "cityName": "Nanhai",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 23.0219,
+    "longitude": 113.1428
+  },
+  {
+    "id": 604,
+    "cityName": "Nanjing",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 32.0617,
+    "longitude": 118.7778
+  },
+  {
+    "id": 605,
+    "cityName": "Nanning",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 22.8167,
+    "longitude": 108.3167
+  },
+  {
+    "id": 606,
+    "cityName": "Nanshan Residential",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 22.5333,
+    "longitude": 113.9298
+  },
+  {
+    "id": 607,
+    "cityName": "Nantong",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 32.0303,
+    "longitude": 120.8747
+  },
+  {
+    "id": 608,
+    "cityName": "Nanyang",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 33.0052,
+    "longitude": 112.5466
+  },
+  {
+    "id": 609,
+    "cityName": "Naples",
+    "countryCode": "IT",
+    "countryName": "Italy",
+    "continent": "Europe",
+    "latitude": 40.8522,
+    "longitude": 14.2681
+  },
+  {
+    "id": 610,
+    "cityName": "Narela",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 28.8527,
+    "longitude": 77.0929
+  },
+  {
+    "id": 611,
+    "cityName": "Nashik",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 19.9973,
+    "longitude": 73.791
+  },
+  {
+    "id": 612,
+    "cityName": "Nashville",
+    "countryCode": "US",
+    "countryName": "United States",
+    "continent": "North America",
+    "latitude": 36.1659,
+    "longitude": -86.7844
+  },
+  {
+    "id": 613,
+    "cityName": "Natal",
+    "countryCode": "BR",
+    "countryName": "Brazil",
+    "continent": "South America",
+    "latitude": -5.795,
+    "longitude": -35.2094
+  },
+  {
+    "id": 614,
+    "cityName": "Naucalpan de Juárez",
+    "countryCode": "MX",
+    "countryName": "Mexico",
+    "continent": "North America",
+    "latitude": 19.4785,
+    "longitude": -99.2396
+  },
+  {
+    "id": 615,
+    "cityName": "Navi Mumbai",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 19.0368,
+    "longitude": 73.0158
+  },
+  {
+    "id": 616,
+    "cityName": "Nay Pyi Taw",
+    "countryCode": "MM",
+    "countryName": "Myanmar",
+    "continent": "Asia",
+    "latitude": 19.745,
+    "longitude": 96.1297
+  },
+  {
+    "id": 617,
+    "cityName": "Ndola",
+    "countryCode": "ZM",
+    "countryName": "Zambia",
+    "continent": "Africa",
+    "latitude": -12.9587,
+    "longitude": 28.6366
+  },
+  {
+    "id": 618,
+    "cityName": "Neijiang",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 29.5835,
+    "longitude": 105.0622
+  },
+  {
+    "id": 619,
+    "cityName": "New South Memphis",
+    "countryCode": "US",
+    "countryName": "United States",
+    "continent": "North America",
+    "latitude": 35.0868,
+    "longitude": -90.0568
+  },
+  {
+    "id": 620,
+    "cityName": "New Taipei City",
+    "countryCode": "TW",
+    "countryName": "Taiwan",
+    "continent": "Asia",
+    "latitude": 25.062,
+    "longitude": 121.457
+  },
+  {
+    "id": 621,
+    "cityName": "New Territories",
+    "countryCode": "HK",
+    "countryName": "Hong Kong",
+    "continent": "Asia",
+    "latitude": 22.4244,
+    "longitude": 114.111
+  },
+  {
+    "id": 622,
+    "cityName": "New York City",
+    "countryCode": "US",
+    "countryName": "United States",
+    "continent": "North America",
+    "latitude": 40.7143,
+    "longitude": -74.006
+  },
+  {
+    "id": 623,
+    "cityName": "Niamey",
+    "countryCode": "NE",
+    "countryName": "Niger",
+    "continent": "Africa",
+    "latitude": 13.5137,
+    "longitude": 2.1098
+  },
+  {
+    "id": 624,
+    "cityName": "Niigata",
+    "countryCode": "JP",
+    "countryName": "Japan",
+    "continent": "Asia",
+    "latitude": 37.9226,
+    "longitude": 139.0412
+  },
+  {
+    "id": 625,
+    "cityName": "Ningbo",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 29.8782,
+    "longitude": 121.5494
+  },
+  {
+    "id": 626,
+    "cityName": "Nizhniy Novgorod",
+    "countryCode": "RU",
+    "countryName": "Russia",
+    "continent": "Europe",
+    "latitude": 56.3287,
+    "longitude": 44.002
+  },
+  {
+    "id": 627,
+    "cityName": "Nouakchott",
+    "countryCode": "MR",
+    "countryName": "Mauritania",
+    "continent": "Africa",
+    "latitude": 18.0858,
+    "longitude": -15.9785
+  },
+  {
+    "id": 628,
+    "cityName": "Nova Iguaçu",
+    "countryCode": "BR",
+    "countryName": "Brazil",
+    "continent": "South America",
+    "latitude": -22.7592,
+    "longitude": -43.4511
+  },
+  {
+    "id": 629,
+    "cityName": "Novosibirsk",
+    "countryCode": "RU",
+    "countryName": "Russia",
+    "continent": "Europe",
+    "latitude": 55.0226,
+    "longitude": 82.9317
+  },
+  {
+    "id": 630,
+    "cityName": "Nowrangapur",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 19.2311,
+    "longitude": 82.5483
+  },
+  {
+    "id": 631,
+    "cityName": "Odesa",
+    "countryCode": "UA",
+    "countryName": "Ukraine",
+    "continent": "Europe",
+    "latitude": 46.4857,
+    "longitude": 30.7438
+  },
+  {
+    "id": 632,
+    "cityName": "Okayama",
+    "countryCode": "JP",
+    "countryName": "Japan",
+    "continent": "Asia",
+    "latitude": 34.65,
+    "longitude": 133.9333
+  },
+  {
+    "id": 633,
+    "cityName": "Oklahoma City",
+    "countryCode": "US",
+    "countryName": "United States",
+    "continent": "North America",
+    "latitude": 35.4676,
+    "longitude": -97.5164
+  },
+  {
+    "id": 634,
+    "cityName": "Omdurman",
+    "countryCode": "SD",
+    "countryName": "Sudan",
+    "continent": "Africa",
+    "latitude": 15.6445,
+    "longitude": 32.4777
+  },
+  {
+    "id": 635,
+    "cityName": "Omsk",
+    "countryCode": "RU",
+    "countryName": "Russia",
+    "continent": "Europe",
+    "latitude": 54.9924,
+    "longitude": 73.3686
+  },
+  {
+    "id": 636,
+    "cityName": "Onitsha",
+    "countryCode": "NG",
+    "countryName": "Nigeria",
+    "continent": "Africa",
+    "latitude": 6.1498,
+    "longitude": 6.7857
+  },
+  {
+    "id": 637,
+    "cityName": "Oran",
+    "countryCode": "DZ",
+    "countryName": "Algeria",
+    "continent": "Africa",
+    "latitude": 35.6991,
+    "longitude": -0.6359
+  },
+  {
+    "id": 638,
+    "cityName": "Ordos",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 39.6086,
+    "longitude": 109.7816
+  },
+  {
+    "id": 639,
+    "cityName": "Osaka",
+    "countryCode": "JP",
+    "countryName": "Japan",
+    "continent": "Asia",
+    "latitude": 34.6938,
+    "longitude": 135.5011
+  },
+  {
+    "id": 640,
+    "cityName": "Osasco",
+    "countryCode": "BR",
+    "countryName": "Brazil",
+    "continent": "South America",
+    "latitude": -23.5325,
+    "longitude": -46.7917
+  },
+  {
+    "id": 641,
+    "cityName": "Oslo",
+    "countryCode": "NO",
+    "countryName": "Norway",
+    "continent": "Europe",
+    "latitude": 59.9127,
+    "longitude": 10.7461
+  },
+  {
+    "id": 642,
+    "cityName": "Osogbo",
+    "countryCode": "NG",
+    "countryName": "Nigeria",
+    "continent": "Africa",
+    "latitude": 7.771,
+    "longitude": 4.557
+  },
+  {
+    "id": 643,
+    "cityName": "Ottawa",
+    "countryCode": "CA",
+    "countryName": "Canada",
+    "continent": "North America",
+    "latitude": 45.4112,
+    "longitude": -75.6981
+  },
+  {
+    "id": 644,
+    "cityName": "Ouagadougou",
+    "countryCode": "BF",
+    "countryName": "Burkina Faso",
+    "continent": "Africa",
+    "latitude": 12.3657,
+    "longitude": -1.5339
+  },
+  {
+    "id": 645,
+    "cityName": "Oyo",
+    "countryCode": "NG",
+    "countryName": "Nigeria",
+    "continent": "Africa",
+    "latitude": 7.8537,
+    "longitude": 3.9324
+  },
+  {
+    "id": 646,
+    "cityName": "Padang",
+    "countryCode": "ID",
+    "countryName": "Indonesia",
+    "continent": "Asia",
+    "latitude": -0.9492,
+    "longitude": 100.3543
+  },
+  {
+    "id": 647,
+    "cityName": "Palembang",
+    "countryCode": "ID",
+    "countryName": "Indonesia",
+    "continent": "Asia",
+    "latitude": -2.9167,
+    "longitude": 104.7458
+  },
+  {
+    "id": 648,
+    "cityName": "Palermo",
+    "countryCode": "IT",
+    "countryName": "Italy",
+    "continent": "Europe",
+    "latitude": 38.1166,
+    "longitude": 13.3636
+  },
+  {
+    "id": 649,
+    "cityName": "Pallabi",
+    "countryCode": "BD",
+    "countryName": "Bangladesh",
+    "continent": "Asia",
+    "latitude": 23.825,
+    "longitude": 90.37
+  },
+  {
+    "id": 650,
+    "cityName": "Panjin",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 41.121,
+    "longitude": 122.0739
+  },
+  {
+    "id": 651,
+    "cityName": "Panshan",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 41.1881,
+    "longitude": 122.0494
+  },
+  {
+    "id": 652,
+    "cityName": "Panzhihua",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 26.5851,
+    "longitude": 101.7128
+  },
+  {
+    "id": 653,
+    "cityName": "Paranaque City",
+    "countryCode": "PH",
+    "countryName": "Philippines",
+    "continent": "Asia",
+    "latitude": 14.4816,
+    "longitude": 121.0175
+  },
+  {
+    "id": 654,
+    "cityName": "Paris",
+    "countryCode": "FR",
+    "countryName": "France",
+    "continent": "Europe",
+    "latitude": 48.8534,
+    "longitude": 2.3488
+  },
+  {
+    "id": 655,
+    "cityName": "Pasig City",
+    "countryCode": "PH",
+    "countryName": "Philippines",
+    "continent": "Asia",
+    "latitude": 14.5869,
+    "longitude": 121.0614
+  },
+  {
+    "id": 656,
+    "cityName": "Patna",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 25.5941,
+    "longitude": 85.1356
+  },
+  {
+    "id": 657,
+    "cityName": "Pekanbaru",
+    "countryCode": "ID",
+    "countryName": "Indonesia",
+    "continent": "Asia",
+    "latitude": 0.5167,
+    "longitude": 101.4417
+  },
+  {
+    "id": 658,
+    "cityName": "Perm",
+    "countryCode": "RU",
+    "countryName": "Russia",
+    "continent": "Europe",
+    "latitude": 58.0105,
+    "longitude": 56.2502
+  },
+  {
+    "id": 659,
+    "cityName": "Perth",
+    "countryCode": "AU",
+    "countryName": "Australia",
+    "continent": "Oceania",
+    "latitude": -31.9522,
+    "longitude": 115.8614
+  },
+  {
+    "id": 660,
+    "cityName": "Peshawar",
+    "countryCode": "PK",
+    "countryName": "Pakistan",
+    "continent": "Asia",
+    "latitude": 34.008,
+    "longitude": 71.5785
+  },
+  {
+    "id": 661,
+    "cityName": "Pest",
+    "countryCode": "HU",
+    "countryName": "Hungary",
+    "continent": "Europe",
+    "latitude": 47.5,
+    "longitude": 19.0833
+  },
+  {
+    "id": 662,
+    "cityName": "Petaling Jaya",
+    "countryCode": "MY",
+    "countryName": "Malaysia",
+    "continent": "Asia",
+    "latitude": 3.1073,
+    "longitude": 101.6067
+  },
+  {
+    "id": 663,
+    "cityName": "Philadelphia",
+    "countryCode": "US",
+    "countryName": "United States",
+    "continent": "North America",
+    "latitude": 39.9524,
+    "longitude": -75.1636
+  },
+  {
+    "id": 664,
+    "cityName": "Phnom Penh",
+    "countryCode": "KH",
+    "countryName": "Cambodia",
+    "continent": "Asia",
+    "latitude": 11.5625,
+    "longitude": 104.916
+  },
+  {
+    "id": 665,
+    "cityName": "Phoenix",
+    "countryCode": "US",
+    "countryName": "United States",
+    "continent": "North America",
+    "latitude": 33.4484,
+    "longitude": -112.074
+  },
+  {
+    "id": 666,
+    "cityName": "Pietermaritzburg",
+    "countryCode": "ZA",
+    "countryName": "South Africa",
+    "continent": "Africa",
+    "latitude": -29.6168,
+    "longitude": 30.3928
+  },
+  {
+    "id": 667,
+    "cityName": "Pikine",
+    "countryCode": "SN",
+    "countryName": "Senegal",
+    "continent": "Africa",
+    "latitude": 14.7646,
+    "longitude": -17.3907
+  },
+  {
+    "id": 668,
+    "cityName": "Pimpri",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 18.6229,
+    "longitude": 73.807
+  },
+  {
+    "id": 669,
+    "cityName": "Pimpri-Chinchwad",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 18.6187,
+    "longitude": 73.8037
+  },
+  {
+    "id": 670,
+    "cityName": "Pingdingshan",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 33.7309,
+    "longitude": 113.3155
+  },
+  {
+    "id": 671,
+    "cityName": "Pingxiang",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 27.6167,
+    "longitude": 113.8535
+  },
+  {
+    "id": 672,
+    "cityName": "Piura",
+    "countryCode": "PE",
+    "countryName": "Peru",
+    "continent": "South America",
+    "latitude": -5.1819,
+    "longitude": -80.6572
+  },
+  {
+    "id": 673,
+    "cityName": "Pointe-Noire",
+    "countryCode": "CG",
+    "countryName": "Republic of the Congo",
+    "continent": "Africa",
+    "latitude": -4.7761,
+    "longitude": 11.8635
+  },
+  {
+    "id": 674,
+    "cityName": "Pokhara",
+    "countryCode": "NP",
+    "countryName": "Nepal",
+    "continent": "Asia",
+    "latitude": 28.2669,
+    "longitude": 83.9685
+  },
+  {
+    "id": 675,
+    "cityName": "Pontianak",
+    "countryCode": "ID",
+    "countryName": "Indonesia",
+    "continent": "Asia",
+    "latitude": -0.0319,
+    "longitude": 109.325
+  },
+  {
+    "id": 676,
+    "cityName": "Port Harcourt",
+    "countryCode": "NG",
+    "countryName": "Nigeria",
+    "continent": "Africa",
+    "latitude": 4.7774,
+    "longitude": 7.0134
+  },
+  {
+    "id": 677,
+    "cityName": "Port Said",
+    "countryCode": "EG",
+    "countryName": "Egypt",
+    "continent": "Africa",
+    "latitude": 31.2653,
+    "longitude": 32.3019
+  },
+  {
+    "id": 678,
+    "cityName": "Port-au-Prince",
+    "countryCode": "HT",
+    "countryName": "Haiti",
+    "continent": "North America",
+    "latitude": 18.5435,
+    "longitude": -72.3388
+  },
+  {
+    "id": 679,
+    "cityName": "Portland",
+    "countryCode": "US",
+    "countryName": "United States",
+    "continent": "North America",
+    "latitude": 45.5234,
+    "longitude": -122.6762
+  },
+  {
+    "id": 680,
+    "cityName": "Porto Alegre",
+    "countryCode": "BR",
+    "countryName": "Brazil",
+    "continent": "South America",
+    "latitude": -30.0328,
+    "longitude": -51.2302
+  },
+  {
+    "id": 681,
+    "cityName": "Prague",
+    "countryCode": "CZ",
+    "countryName": "Czechia",
+    "continent": "Europe",
+    "latitude": 50.088,
+    "longitude": 14.4208
+  },
+  {
+    "id": 682,
+    "cityName": "Prayagraj",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 25.4448,
+    "longitude": 81.8432
+  },
+  {
+    "id": 683,
+    "cityName": "Pretoria",
+    "countryCode": "ZA",
+    "countryName": "South Africa",
+    "continent": "Africa",
+    "latitude": -25.7449,
+    "longitude": 28.1878
+  },
+  {
+    "id": 684,
+    "cityName": "Pudong",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 31.24,
+    "longitude": 121.5009
+  },
+  {
+    "id": 685,
+    "cityName": "Puducherry",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 11.9338,
+    "longitude": 79.8298
+  },
+  {
+    "id": 686,
+    "cityName": "Puebla",
+    "countryCode": "MX",
+    "countryName": "Mexico",
+    "continent": "North America",
+    "latitude": 19.0478,
+    "longitude": -98.2072
+  },
+  {
+    "id": 687,
+    "cityName": "Pune",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 18.5196,
+    "longitude": 73.8554
+  },
+  {
+    "id": 688,
+    "cityName": "Puning",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 23.3107,
+    "longitude": 116.1687
+  },
+  {
+    "id": 689,
+    "cityName": "Putian",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 25.4394,
+    "longitude": 119.0103
+  },
+  {
+    "id": 690,
+    "cityName": "Putuo",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 31.251,
+    "longitude": 121.3897
+  },
+  {
+    "id": 691,
+    "cityName": "Puxi",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 31.2441,
+    "longitude": 121.4659
+  },
+  {
+    "id": 692,
+    "cityName": "Puyang",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 29.4568,
+    "longitude": 119.8887
+  },
+  {
+    "id": 693,
+    "cityName": "Pyongyang",
+    "countryCode": "KP",
+    "countryName": "North Korea",
+    "continent": "Asia",
+    "latitude": 39.0339,
+    "longitude": 125.7543
+  },
+  {
+    "id": 694,
+    "cityName": "Qingdao",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 36.0649,
+    "longitude": 120.3804
+  },
+  {
+    "id": 695,
+    "cityName": "Qingpu",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 31.1539,
+    "longitude": 121.1141
+  },
+  {
+    "id": 696,
+    "cityName": "Qingshan",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 40.6631,
+    "longitude": 109.8817
+  },
+  {
+    "id": 697,
+    "cityName": "Qingyang",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 35.7098,
+    "longitude": 107.6445
+  },
+  {
+    "id": 698,
+    "cityName": "Qingyuan",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 23.7,
+    "longitude": 113.0333
+  },
+  {
+    "id": 699,
+    "cityName": "Qinhuangdao",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 39.941,
+    "longitude": 119.5894
+  },
+  {
+    "id": 700,
+    "cityName": "Qinzhou",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 21.9825,
+    "longitude": 108.6506
+  },
+  {
+    "id": 701,
+    "cityName": "Qiqihar",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 47.3392,
+    "longitude": 123.9615
+  },
+  {
+    "id": 702,
+    "cityName": "Qom",
+    "countryCode": "IR",
+    "countryName": "Iran",
+    "continent": "Asia",
+    "latitude": 34.6401,
+    "longitude": 50.8764
+  },
+  {
+    "id": 703,
+    "cityName": "Quanzhou",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 24.9139,
+    "longitude": 118.5858
+  },
+  {
+    "id": 704,
+    "cityName": "Queens",
+    "countryCode": "US",
+    "countryName": "United States",
+    "continent": "North America",
+    "latitude": 40.6815,
+    "longitude": -73.8365
+  },
+  {
+    "id": 705,
+    "cityName": "Quetta",
+    "countryCode": "PK",
+    "countryName": "Pakistan",
+    "continent": "Asia",
+    "latitude": 30.1841,
+    "longitude": 67.0014
+  },
+  {
+    "id": 706,
+    "cityName": "Quezon City",
+    "countryCode": "PH",
+    "countryName": "Philippines",
+    "continent": "Asia",
+    "latitude": 14.6488,
+    "longitude": 121.0509
+  },
+  {
+    "id": 707,
+    "cityName": "Quito",
+    "countryCode": "EC",
+    "countryName": "Ecuador",
+    "continent": "South America",
+    "latitude": -0.2298,
+    "longitude": -78.525
+  },
+  {
+    "id": 708,
+    "cityName": "Qujing",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 25.4833,
+    "longitude": 103.7833
+  },
+  {
+    "id": 709,
+    "cityName": "Quzhou",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 28.9594,
+    "longitude": 118.8686
+  },
+  {
+    "id": 710,
+    "cityName": "Rabat",
+    "countryCode": "MA",
+    "countryName": "Morocco",
+    "continent": "Africa",
+    "latitude": 34.0132,
+    "longitude": -6.8326
+  },
+  {
+    "id": 711,
+    "cityName": "Raipur",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 21.2333,
+    "longitude": 81.6333
+  },
+  {
+    "id": 712,
+    "cityName": "Rajshahi",
+    "countryCode": "BD",
+    "countryName": "Bangladesh",
+    "continent": "Asia",
+    "latitude": 24.374,
+    "longitude": 88.6011
+  },
+  {
+    "id": 713,
+    "cityName": "Ranchi",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 23.3432,
+    "longitude": 85.3094
+  },
+  {
+    "id": 714,
+    "cityName": "Rangpur",
+    "countryCode": "BD",
+    "countryName": "Bangladesh",
+    "continent": "Asia",
+    "latitude": 25.7466,
+    "longitude": 89.2517
+  },
+  {
+    "id": 715,
+    "cityName": "Rasapūdipalem",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 17.7331,
+    "longitude": 83.3162
+  },
+  {
+    "id": 716,
+    "cityName": "Rasht",
+    "countryCode": "IR",
+    "countryName": "Iran",
+    "continent": "Asia",
+    "latitude": 37.2761,
+    "longitude": 49.5886
+  },
+  {
+    "id": 717,
+    "cityName": "Rawalpindi",
+    "countryCode": "PK",
+    "countryName": "Pakistan",
+    "continent": "Asia",
+    "latitude": 33.5973,
+    "longitude": 73.0479
+  },
+  {
+    "id": 718,
+    "cityName": "Ra’s Bayrūt",
+    "countryCode": "LB",
+    "countryName": "Lebanon",
+    "continent": "Asia",
+    "latitude": 33.9,
+    "longitude": 35.4833
+  },
+  {
+    "id": 719,
+    "cityName": "Recife",
+    "countryCode": "BR",
+    "countryName": "Brazil",
+    "continent": "South America",
+    "latitude": -8.0539,
+    "longitude": -34.8811
+  },
+  {
+    "id": 720,
+    "cityName": "Reynosa",
+    "countryCode": "MX",
+    "countryName": "Mexico",
+    "continent": "North America",
+    "latitude": 26.08,
+    "longitude": -98.2846
+  },
+  {
+    "id": 721,
+    "cityName": "Ribeirão Preto",
+    "countryCode": "BR",
+    "countryName": "Brazil",
+    "continent": "South America",
+    "latitude": -21.1775,
+    "longitude": -47.8103
+  },
+  {
+    "id": 722,
+    "cityName": "Riga",
+    "countryCode": "LV",
+    "countryName": "Latvia",
+    "continent": "Europe",
+    "latitude": 56.946,
+    "longitude": 24.1059
+  },
+  {
+    "id": 723,
+    "cityName": "Rio de Janeiro",
+    "countryCode": "BR",
+    "countryName": "Brazil",
+    "continent": "South America",
+    "latitude": -22.9064,
+    "longitude": -43.1822
+  },
+  {
+    "id": 724,
+    "cityName": "Riyadh",
+    "countryCode": "SA",
+    "countryName": "Saudi Arabia",
+    "continent": "Asia",
+    "latitude": 24.6877,
+    "longitude": 46.7219
+  },
+  {
+    "id": 725,
+    "cityName": "Rizhao",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 35.4141,
+    "longitude": 119.5291
+  },
+  {
+    "id": 726,
+    "cityName": "Rohini",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 28.7432,
+    "longitude": 77.0678
+  },
+  {
+    "id": 727,
+    "cityName": "Rome",
+    "countryCode": "IT",
+    "countryName": "Italy",
+    "continent": "Europe",
+    "latitude": 41.8919,
+    "longitude": 12.5113
+  },
+  {
+    "id": 728,
+    "cityName": "Rosario",
+    "countryCode": "AR",
+    "countryName": "Argentina",
+    "continent": "South America",
+    "latitude": -32.9468,
+    "longitude": -60.6393
+  },
+  {
+    "id": 729,
+    "cityName": "Rostov-on-Don",
+    "countryCode": "RU",
+    "countryName": "Russia",
+    "continent": "Europe",
+    "latitude": 47.22,
+    "longitude": 39.7077
+  },
+  {
+    "id": 730,
+    "cityName": "Rotterdam",
+    "countryCode": "NL",
+    "countryName": "The Netherlands",
+    "continent": "Europe",
+    "latitude": 51.9225,
+    "longitude": 4.4792
+  },
+  {
+    "id": 731,
+    "cityName": "Rui’an",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 27.7761,
+    "longitude": 120.6586
+  },
+  {
+    "id": 732,
+    "cityName": "Rājkot",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 22.2916,
+    "longitude": 70.7932
+  },
+  {
+    "id": 733,
+    "cityName": "Sadr City",
+    "countryCode": "IQ",
+    "countryName": "Iraq",
+    "continent": "Asia",
+    "latitude": 33.3889,
+    "longitude": 44.4583
+  },
+  {
+    "id": 734,
+    "cityName": "Sagamihara",
+    "countryCode": "JP",
+    "countryName": "Japan",
+    "continent": "Asia",
+    "latitude": 35.5671,
+    "longitude": 139.2417
+  },
+  {
+    "id": 735,
+    "cityName": "Saint Petersburg",
+    "countryCode": "RU",
+    "countryName": "Russia",
+    "continent": "Europe",
+    "latitude": 59.9386,
+    "longitude": 30.3141
+  },
+  {
+    "id": 736,
+    "cityName": "Saitama",
+    "countryCode": "JP",
+    "countryName": "Japan",
+    "continent": "Asia",
+    "latitude": 35.9081,
+    "longitude": 139.6566
+  },
+  {
+    "id": 737,
+    "cityName": "Sakai",
+    "countryCode": "JP",
+    "countryName": "Japan",
+    "continent": "Asia",
+    "latitude": 34.5822,
+    "longitude": 135.4665
+  },
+  {
+    "id": 738,
+    "cityName": "Salem",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 11.6538,
+    "longitude": 78.1554
+  },
+  {
+    "id": 739,
+    "cityName": "Saltillo",
+    "countryCode": "MX",
+    "countryName": "Mexico",
+    "continent": "North America",
+    "latitude": 25.426,
+    "longitude": -100.9796
+  },
+  {
+    "id": 740,
+    "cityName": "Salvador",
+    "countryCode": "BR",
+    "countryName": "Brazil",
+    "continent": "South America",
+    "latitude": -12.9756,
+    "longitude": -38.491
+  },
+  {
+    "id": 741,
+    "cityName": "Salé",
+    "countryCode": "MA",
+    "countryName": "Morocco",
+    "continent": "Africa",
+    "latitude": 34.0531,
+    "longitude": -6.7985
+  },
+  {
+    "id": 742,
+    "cityName": "Samara",
+    "countryCode": "RU",
+    "countryName": "Russia",
+    "continent": "Europe",
+    "latitude": 53.2077,
+    "longitude": 50.1355
+  },
+  {
+    "id": 743,
+    "cityName": "Samarinda",
+    "countryCode": "ID",
+    "countryName": "Indonesia",
+    "continent": "Asia",
+    "latitude": -0.4917,
+    "longitude": 117.1458
+  },
+  {
+    "id": 744,
+    "cityName": "Samarkand",
+    "countryCode": "UZ",
+    "countryName": "Uzbekistan",
+    "continent": "Asia",
+    "latitude": 39.6546,
+    "longitude": 66.9644
+  },
+  {
+    "id": 745,
+    "cityName": "San Antonio",
+    "countryCode": "US",
+    "countryName": "United States",
+    "continent": "North America",
+    "latitude": 29.4241,
+    "longitude": -98.4936
+  },
+  {
+    "id": 746,
+    "cityName": "San Diego",
+    "countryCode": "US",
+    "countryName": "United States",
+    "continent": "North America",
+    "latitude": 32.7157,
+    "longitude": -117.1647
+  },
+  {
+    "id": 747,
+    "cityName": "San Francisco",
+    "countryCode": "US",
+    "countryName": "United States",
+    "continent": "North America",
+    "latitude": 37.7749,
+    "longitude": -122.4194
+  },
+  {
+    "id": 748,
+    "cityName": "San Jose",
+    "countryCode": "US",
+    "countryName": "United States",
+    "continent": "North America",
+    "latitude": 37.3394,
+    "longitude": -121.895
+  },
+  {
+    "id": 749,
+    "cityName": "San Luis Potosí",
+    "countryCode": "MX",
+    "countryName": "Mexico",
+    "continent": "North America",
+    "latitude": 22.1523,
+    "longitude": -100.9714
+  },
+  {
+    "id": 750,
+    "cityName": "San Pedro Sula",
+    "countryCode": "HN",
+    "countryName": "Honduras",
+    "continent": "North America",
+    "latitude": 15.5059,
+    "longitude": -88.0259
+  },
+  {
+    "id": 751,
+    "cityName": "Sanaa",
+    "countryCode": "YE",
+    "countryName": "Yemen",
+    "continent": "Asia",
+    "latitude": 15.3545,
+    "longitude": 44.2065
+  },
+  {
+    "id": 752,
+    "cityName": "Sanhe",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 39.9805,
+    "longitude": 117.0689
+  },
+  {
+    "id": 753,
+    "cityName": "Sanmenxia",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 34.7808,
+    "longitude": 111.1929
+  },
+  {
+    "id": 754,
+    "cityName": "Sanming",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 26.2486,
+    "longitude": 117.6186
+  },
+  {
+    "id": 755,
+    "cityName": "Santa Cruz de la Sierra",
+    "countryCode": "BO",
+    "countryName": "Bolivia",
+    "continent": "South America",
+    "latitude": -17.7863,
+    "longitude": -63.1812
+  },
+  {
+    "id": 756,
+    "cityName": "Santiago",
+    "countryCode": "CL",
+    "countryName": "Chile",
+    "continent": "South America",
+    "latitude": -33.4569,
+    "longitude": -70.6483
+  },
+  {
+    "id": 757,
+    "cityName": "Santiago de los Caballeros",
+    "countryCode": "DO",
+    "countryName": "Dominican Republic",
+    "continent": "North America",
+    "latitude": 19.4504,
+    "longitude": -70.6908
+  },
+  {
+    "id": 758,
+    "cityName": "Santiago de Querétaro",
+    "countryCode": "MX",
+    "countryName": "Mexico",
+    "continent": "North America",
+    "latitude": 20.5881,
+    "longitude": -100.3881
+  },
+  {
+    "id": 759,
+    "cityName": "Santo André",
+    "countryCode": "BR",
+    "countryName": "Brazil",
+    "continent": "South America",
+    "latitude": -23.6639,
+    "longitude": -46.5383
+  },
+  {
+    "id": 760,
+    "cityName": "Santo Domingo",
+    "countryCode": "DO",
+    "countryName": "Dominican Republic",
+    "continent": "North America",
+    "latitude": 18.4719,
+    "longitude": -69.8923
+  },
+  {
+    "id": 761,
+    "cityName": "Santo Domingo Este",
+    "countryCode": "DO",
+    "countryName": "Dominican Republic",
+    "continent": "North America",
+    "latitude": 18.4851,
+    "longitude": -69.8476
+  },
+  {
+    "id": 762,
+    "cityName": "Santo Domingo Oeste",
+    "countryCode": "DO",
+    "countryName": "Dominican Republic",
+    "continent": "North America",
+    "latitude": 18.5,
+    "longitude": -70.0
+  },
+  {
+    "id": 763,
+    "cityName": "Sanya",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 18.2543,
+    "longitude": 109.5095
+  },
+  {
+    "id": 764,
+    "cityName": "Sapporo",
+    "countryCode": "JP",
+    "countryName": "Japan",
+    "continent": "Asia",
+    "latitude": 43.0667,
+    "longitude": 141.35
+  },
+  {
+    "id": 765,
+    "cityName": "Sarajevo",
+    "countryCode": "BA",
+    "countryName": "Bosnia and Herzegovina",
+    "continent": "Europe",
+    "latitude": 43.8486,
+    "longitude": 18.3564
+  },
+  {
+    "id": 766,
+    "cityName": "Saratov",
+    "countryCode": "RU",
+    "countryName": "Russia",
+    "continent": "Europe",
+    "latitude": 51.5405,
+    "longitude": 45.9901
+  },
+  {
+    "id": 767,
+    "cityName": "Sargodha",
+    "countryCode": "PK",
+    "countryName": "Pakistan",
+    "continent": "Asia",
+    "latitude": 32.0859,
+    "longitude": 72.6742
+  },
+  {
+    "id": 768,
+    "cityName": "Seattle",
+    "countryCode": "US",
+    "countryName": "United States",
+    "continent": "North America",
+    "latitude": 47.6062,
+    "longitude": -122.3321
+  },
+  {
+    "id": 769,
+    "cityName": "Semarang",
+    "countryCode": "ID",
+    "countryName": "Indonesia",
+    "continent": "Asia",
+    "latitude": -6.9931,
+    "longitude": 110.4208
+  },
+  {
+    "id": 770,
+    "cityName": "Sendai",
+    "countryCode": "JP",
+    "countryName": "Japan",
+    "continent": "Asia",
+    "latitude": 38.2667,
+    "longitude": 140.8667
+  },
+  {
+    "id": 771,
+    "cityName": "Seongnam-si",
+    "countryCode": "KR",
+    "countryName": "South Korea",
+    "continent": "Asia",
+    "latitude": 37.4386,
+    "longitude": 127.1378
+  },
+  {
+    "id": 772,
+    "cityName": "Seoul",
+    "countryCode": "KR",
+    "countryName": "South Korea",
+    "continent": "Asia",
+    "latitude": 37.566,
+    "longitude": 126.9784
+  },
+  {
+    "id": 773,
+    "cityName": "Serang",
+    "countryCode": "ID",
+    "countryName": "Indonesia",
+    "continent": "Asia",
+    "latitude": -6.1153,
+    "longitude": 106.1542
+  },
+  {
+    "id": 774,
+    "cityName": "Setagaya",
+    "countryCode": "JP",
+    "countryName": "Japan",
+    "continent": "Asia",
+    "latitude": 35.6419,
+    "longitude": 139.6472
+  },
+  {
+    "id": 775,
+    "cityName": "Sevilla",
+    "countryCode": "ES",
+    "countryName": "Spain",
+    "continent": "Europe",
+    "latitude": 37.3828,
+    "longitude": -5.9732
+  },
+  {
+    "id": 776,
+    "cityName": "Shah Alam",
+    "countryCode": "MY",
+    "countryName": "Malaysia",
+    "continent": "Asia",
+    "latitude": 3.0851,
+    "longitude": 101.5328
+  },
+  {
+    "id": 777,
+    "cityName": "Shanghai",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 31.2222,
+    "longitude": 121.4581
+  },
+  {
+    "id": 778,
+    "cityName": "Shangqiu",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 34.4143,
+    "longitude": 115.6561
+  },
+  {
+    "id": 779,
+    "cityName": "Shangrao",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 28.4518,
+    "longitude": 117.9429
+  },
+  {
+    "id": 780,
+    "cityName": "Shangyu",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 30.0156,
+    "longitude": 120.8711
+  },
+  {
+    "id": 781,
+    "cityName": "Shantou",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 23.3549,
+    "longitude": 116.6788
+  },
+  {
+    "id": 782,
+    "cityName": "Shaoguan",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 24.8,
+    "longitude": 113.5833
+  },
+  {
+    "id": 783,
+    "cityName": "Shaoxing",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 30.0024,
+    "longitude": 120.5786
+  },
+  {
+    "id": 784,
+    "cityName": "Shaoyang",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 27.2382,
+    "longitude": 111.4621
+  },
+  {
+    "id": 785,
+    "cityName": "Sharjah",
+    "countryCode": "AE",
+    "countryName": "United Arab Emirates",
+    "continent": "Asia",
+    "latitude": 25.3342,
+    "longitude": 55.4122
+  },
+  {
+    "id": 786,
+    "cityName": "Shekhupura",
+    "countryCode": "PK",
+    "countryName": "Pakistan",
+    "continent": "Asia",
+    "latitude": 31.7129,
+    "longitude": 73.9856
+  },
+  {
+    "id": 787,
+    "cityName": "Shenyang",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 41.7922,
+    "longitude": 123.4328
+  },
+  {
+    "id": 788,
+    "cityName": "Shenzhen",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 22.5455,
+    "longitude": 114.0683
+  },
+  {
+    "id": 789,
+    "cityName": "Shijiazhuang",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 38.0414,
+    "longitude": 114.4786
+  },
+  {
+    "id": 790,
+    "cityName": "Shiraz",
+    "countryCode": "IR",
+    "countryName": "Iran",
+    "continent": "Asia",
+    "latitude": 29.6103,
+    "longitude": 52.5311
+  },
+  {
+    "id": 791,
+    "cityName": "Shivaji Nagar",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 18.5302,
+    "longitude": 73.8526
+  },
+  {
+    "id": 792,
+    "cityName": "Shiyan",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 32.6475,
+    "longitude": 110.7781
+  },
+  {
+    "id": 793,
+    "cityName": "Shizuishan",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 38.9808,
+    "longitude": 106.3892
+  },
+  {
+    "id": 794,
+    "cityName": "Shizuoka",
+    "countryCode": "JP",
+    "countryName": "Japan",
+    "continent": "Asia",
+    "latitude": 34.9833,
+    "longitude": 138.3833
+  },
+  {
+    "id": 795,
+    "cityName": "Sholapur",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 17.6715,
+    "longitude": 75.9104
+  },
+  {
+    "id": 796,
+    "cityName": "Shuangyashan",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 46.6769,
+    "longitude": 131.1327
+  },
+  {
+    "id": 797,
+    "cityName": "Shubrā al Khaymah",
+    "countryCode": "EG",
+    "countryName": "Egypt",
+    "continent": "Africa",
+    "latitude": 30.1251,
+    "longitude": 31.2505
+  },
+  {
+    "id": 798,
+    "cityName": "Shymkent",
+    "countryCode": "KZ",
+    "countryName": "Kazakhstan",
+    "continent": "Asia",
+    "latitude": 42.3099,
+    "longitude": 69.6004
+  },
+  {
+    "id": 799,
+    "cityName": "Sialkot",
+    "countryCode": "PK",
+    "countryName": "Pakistan",
+    "continent": "Asia",
+    "latitude": 32.4927,
+    "longitude": 74.5313
+  },
+  {
+    "id": 800,
+    "cityName": "Singapore",
+    "countryCode": "SG",
+    "countryName": "Singapore",
+    "continent": "Asia",
+    "latitude": 1.2897,
+    "longitude": 103.8501
+  },
+  {
+    "id": 801,
+    "cityName": "Siping",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 43.1614,
+    "longitude": 124.3778
+  },
+  {
+    "id": 802,
+    "cityName": "Situbondo",
+    "countryCode": "ID",
+    "countryName": "Indonesia",
+    "continent": "Asia",
+    "latitude": -7.7062,
+    "longitude": 114.0098
+  },
+  {
+    "id": 803,
+    "cityName": "Soacha",
+    "countryCode": "CO",
+    "countryName": "Colombia",
+    "continent": "South America",
+    "latitude": 4.5794,
+    "longitude": -74.2168
+  },
+  {
+    "id": 804,
+    "cityName": "Sofia",
+    "countryCode": "BG",
+    "countryName": "Bulgaria",
+    "continent": "Europe",
+    "latitude": 42.6975,
+    "longitude": 23.3241
+  },
+  {
+    "id": 805,
+    "cityName": "Sokoto",
+    "countryCode": "NG",
+    "countryName": "Nigeria",
+    "continent": "Africa",
+    "latitude": 13.0627,
+    "longitude": 5.2432
+  },
+  {
+    "id": 806,
+    "cityName": "Songjiang",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 31.0344,
+    "longitude": 121.2233
+  },
+  {
+    "id": 807,
+    "cityName": "Sorocaba",
+    "countryCode": "BR",
+    "countryName": "Brazil",
+    "continent": "South America",
+    "latitude": -23.5017,
+    "longitude": -47.4581
+  },
+  {
+    "id": 808,
+    "cityName": "Soshanguve",
+    "countryCode": "ZA",
+    "countryName": "South Africa",
+    "continent": "Africa",
+    "latitude": -25.4729,
+    "longitude": 28.0992
+  },
+  {
+    "id": 809,
+    "cityName": "South Tangerang",
+    "countryCode": "ID",
+    "countryName": "Indonesia",
+    "continent": "Asia",
+    "latitude": -6.2886,
+    "longitude": 106.7179
+  },
+  {
+    "id": 810,
+    "cityName": "Soweto",
+    "countryCode": "ZA",
+    "countryName": "South Africa",
+    "continent": "Africa",
+    "latitude": -26.2678,
+    "longitude": 27.8585
+  },
+  {
+    "id": 811,
+    "cityName": "Srinagar",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 34.0857,
+    "longitude": 74.8055
+  },
+  {
+    "id": 812,
+    "cityName": "Stockholm",
+    "countryCode": "SE",
+    "countryName": "Sweden",
+    "continent": "Europe",
+    "latitude": 59.3294,
+    "longitude": 18.0687
+  },
+  {
+    "id": 813,
+    "cityName": "Stuttgart",
+    "countryCode": "DE",
+    "countryName": "Germany",
+    "continent": "Europe",
+    "latitude": 48.7823,
+    "longitude": 9.177
+  },
+  {
+    "id": 814,
+    "cityName": "Subang Jaya",
+    "countryCode": "MY",
+    "countryName": "Malaysia",
+    "continent": "Asia",
+    "latitude": 3.0438,
+    "longitude": 101.5806
+  },
+  {
+    "id": 815,
+    "cityName": "Suez",
+    "countryCode": "EG",
+    "countryName": "Egypt",
+    "continent": "Africa",
+    "latitude": 29.9737,
+    "longitude": 32.5263
+  },
+  {
+    "id": 816,
+    "cityName": "Suginami",
+    "countryCode": "JP",
+    "countryName": "Japan",
+    "continent": "Asia",
+    "latitude": 36.2013,
+    "longitude": 140.2841
+  },
+  {
+    "id": 817,
+    "cityName": "Suining",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 30.508,
+    "longitude": 105.5733
+  },
+  {
+    "id": 818,
+    "cityName": "Suizhou",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 31.7111,
+    "longitude": 113.3631
+  },
+  {
+    "id": 819,
+    "cityName": "Sulaymaniyah",
+    "countryCode": "IQ",
+    "countryName": "Iraq",
+    "continent": "Asia",
+    "latitude": 35.565,
+    "longitude": 45.4329
+  },
+  {
+    "id": 820,
+    "cityName": "Sulţānah",
+    "countryCode": "SA",
+    "countryName": "Saudi Arabia",
+    "continent": "Asia",
+    "latitude": 24.4926,
+    "longitude": 39.5857
+  },
+  {
+    "id": 821,
+    "cityName": "Suqian",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 33.9492,
+    "longitude": 118.2958
+  },
+  {
+    "id": 822,
+    "cityName": "Surabaya",
+    "countryCode": "ID",
+    "countryName": "Indonesia",
+    "continent": "Asia",
+    "latitude": -7.2492,
+    "longitude": 112.7508
+  },
+  {
+    "id": 823,
+    "cityName": "Surat",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 21.1959,
+    "longitude": 72.8302
+  },
+  {
+    "id": 824,
+    "cityName": "Suwon",
+    "countryCode": "KR",
+    "countryName": "South Korea",
+    "continent": "Asia",
+    "latitude": 37.2911,
+    "longitude": 127.0089
+  },
+  {
+    "id": 825,
+    "cityName": "Suzhou",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 31.3041,
+    "longitude": 120.5954
+  },
+  {
+    "id": 826,
+    "cityName": "Sydney",
+    "countryCode": "AU",
+    "countryName": "Australia",
+    "continent": "Oceania",
+    "latitude": -33.8678,
+    "longitude": 151.2073
+  },
+  {
+    "id": 827,
+    "cityName": "São Bernardo do Campo",
+    "countryCode": "BR",
+    "countryName": "Brazil",
+    "continent": "South America",
+    "latitude": -23.6939,
+    "longitude": -46.565
+  },
+  {
+    "id": 828,
+    "cityName": "São José dos Campos",
+    "countryCode": "BR",
+    "countryName": "Brazil",
+    "continent": "South America",
+    "latitude": -23.1794,
+    "longitude": -45.8869
+  },
+  {
+    "id": 829,
+    "cityName": "São Luís",
+    "countryCode": "BR",
+    "countryName": "Brazil",
+    "continent": "South America",
+    "latitude": -2.5297,
+    "longitude": -44.3028
+  },
+  {
+    "id": 830,
+    "cityName": "São Paulo",
+    "countryCode": "BR",
+    "countryName": "Brazil",
+    "continent": "South America",
+    "latitude": -23.5475,
+    "longitude": -46.6361
+  },
+  {
+    "id": 831,
+    "cityName": "Sāngli",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 16.8544,
+    "longitude": 74.5642
+  },
+  {
+    "id": 832,
+    "cityName": "Tabriz",
+    "countryCode": "IR",
+    "countryName": "Iran",
+    "continent": "Asia",
+    "latitude": 38.08,
+    "longitude": 46.2919
+  },
+  {
+    "id": 833,
+    "cityName": "Tabuk",
+    "countryCode": "SA",
+    "countryName": "Saudi Arabia",
+    "continent": "Asia",
+    "latitude": 28.3998,
+    "longitude": 36.5715
+  },
+  {
+    "id": 834,
+    "cityName": "Taguig",
+    "countryCode": "PH",
+    "countryName": "Philippines",
+    "continent": "Asia",
+    "latitude": 14.5243,
+    "longitude": 121.0792
+  },
+  {
+    "id": 835,
+    "cityName": "Taicang",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 31.4478,
+    "longitude": 121.0939
+  },
+  {
+    "id": 836,
+    "cityName": "Taichung",
+    "countryCode": "TW",
+    "countryName": "Taiwan",
+    "continent": "Asia",
+    "latitude": 24.1469,
+    "longitude": 120.6839
+  },
+  {
+    "id": 837,
+    "cityName": "Tainan",
+    "countryCode": "TW",
+    "countryName": "Taiwan",
+    "continent": "Asia",
+    "latitude": 22.9908,
+    "longitude": 120.2133
+  },
+  {
+    "id": 838,
+    "cityName": "Taipei",
+    "countryCode": "TW",
+    "countryName": "Taiwan",
+    "continent": "Asia",
+    "latitude": 25.0531,
+    "longitude": 121.5264
+  },
+  {
+    "id": 839,
+    "cityName": "Taiyuan",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 37.8694,
+    "longitude": 112.5603
+  },
+  {
+    "id": 840,
+    "cityName": "Taiz",
+    "countryCode": "YE",
+    "countryName": "Yemen",
+    "continent": "Asia",
+    "latitude": 13.5795,
+    "longitude": 44.0209
+  },
+  {
+    "id": 841,
+    "cityName": "Taizhou",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 32.4907,
+    "longitude": 119.9081
+  },
+  {
+    "id": 842,
+    "cityName": "Tai’an",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 36.1853,
+    "longitude": 117.12
+  },
+  {
+    "id": 843,
+    "cityName": "Takeo",
+    "countryCode": "KH",
+    "countryName": "Cambodia",
+    "continent": "Asia",
+    "latitude": 10.9908,
+    "longitude": 104.785
+  },
+  {
+    "id": 844,
+    "cityName": "Tangerang",
+    "countryCode": "ID",
+    "countryName": "Indonesia",
+    "continent": "Asia",
+    "latitude": -6.1781,
+    "longitude": 106.63
+  },
+  {
+    "id": 845,
+    "cityName": "Tangier",
+    "countryCode": "MA",
+    "countryName": "Morocco",
+    "continent": "Africa",
+    "latitude": 35.7673,
+    "longitude": -5.7998
+  },
+  {
+    "id": 846,
+    "cityName": "Tangshan",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 39.6438,
+    "longitude": 118.1832
+  },
+  {
+    "id": 847,
+    "cityName": "Tashkent",
+    "countryCode": "UZ",
+    "countryName": "Uzbekistan",
+    "continent": "Asia",
+    "latitude": 41.2647,
+    "longitude": 69.2163
+  },
+  {
+    "id": 848,
+    "cityName": "Tasikmalaya",
+    "countryCode": "ID",
+    "countryName": "Indonesia",
+    "continent": "Asia",
+    "latitude": -7.3274,
+    "longitude": 108.2207
+  },
+  {
+    "id": 849,
+    "cityName": "Ta’if",
+    "countryCode": "SA",
+    "countryName": "Saudi Arabia",
+    "continent": "Asia",
+    "latitude": 21.2703,
+    "longitude": 40.4158
+  },
+  {
+    "id": 850,
+    "cityName": "Tbilisi",
+    "countryCode": "GE",
+    "countryName": "Georgia",
+    "continent": "Asia",
+    "latitude": 41.6914,
+    "longitude": 44.8341
+  },
+  {
+    "id": 851,
+    "cityName": "Tegucigalpa",
+    "countryCode": "HN",
+    "countryName": "Honduras",
+    "continent": "North America",
+    "latitude": 14.0818,
+    "longitude": -87.2068
+  },
+  {
+    "id": 852,
+    "cityName": "Tehran",
+    "countryCode": "IR",
+    "countryName": "Iran",
+    "continent": "Asia",
+    "latitude": 35.6944,
+    "longitude": 51.4215
+  },
+  {
+    "id": 853,
+    "cityName": "Teni",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 10.0112,
+    "longitude": 77.4777
+  },
+  {
+    "id": 854,
+    "cityName": "Teresina",
+    "countryCode": "BR",
+    "countryName": "Brazil",
+    "continent": "South America",
+    "latitude": -5.0892,
+    "longitude": -42.8019
+  },
+  {
+    "id": 855,
+    "cityName": "Thanh Hóa",
+    "countryCode": "VN",
+    "countryName": "Vietnam",
+    "continent": "Asia",
+    "latitude": 19.8,
+    "longitude": 105.7667
+  },
+  {
+    "id": 856,
+    "cityName": "The Bronx",
+    "countryCode": "US",
+    "countryName": "United States",
+    "continent": "North America",
+    "latitude": 40.8499,
+    "longitude": -73.8664
+  },
+  {
+    "id": 857,
+    "cityName": "Thiruvananthapuram",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 8.4855,
+    "longitude": 76.9492
+  },
+  {
+    "id": 858,
+    "cityName": "Thuận An",
+    "countryCode": "VN",
+    "countryName": "Vietnam",
+    "continent": "Asia",
+    "latitude": 10.9239,
+    "longitude": 106.7143
+  },
+  {
+    "id": 859,
+    "cityName": "Thāne",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 19.197,
+    "longitude": 72.9635
+  },
+  {
+    "id": 860,
+    "cityName": "Tianjin",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 39.1422,
+    "longitude": 117.1767
+  },
+  {
+    "id": 861,
+    "cityName": "Tianshui",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 34.5795,
+    "longitude": 105.7424
+  },
+  {
+    "id": 862,
+    "cityName": "Tijuana",
+    "countryCode": "MX",
+    "countryName": "Mexico",
+    "continent": "North America",
+    "latitude": 32.5027,
+    "longitude": -117.0037
+  },
+  {
+    "id": 863,
+    "cityName": "Tiruchirappalli",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 10.8155,
+    "longitude": 78.6965
+  },
+  {
+    "id": 864,
+    "cityName": "Tirunelveli",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 8.7274,
+    "longitude": 77.6838
+  },
+  {
+    "id": 865,
+    "cityName": "Tiruppur",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 11.1154,
+    "longitude": 77.3546
+  },
+  {
+    "id": 866,
+    "cityName": "Tlalnepantla",
+    "countryCode": "MX",
+    "countryName": "Mexico",
+    "continent": "North America",
+    "latitude": 19.5401,
+    "longitude": -99.1954
+  },
+  {
+    "id": 867,
+    "cityName": "Tlaquepaque",
+    "countryCode": "MX",
+    "countryName": "Mexico",
+    "continent": "North America",
+    "latitude": 20.6412,
+    "longitude": -103.2934
+  },
+  {
+    "id": 868,
+    "cityName": "Tokyo",
+    "countryCode": "JP",
+    "countryName": "Japan",
+    "continent": "Asia",
+    "latitude": 35.6895,
+    "longitude": 139.6917
+  },
+  {
+    "id": 869,
+    "cityName": "Tolyatti",
+    "countryCode": "RU",
+    "countryName": "Russia",
+    "continent": "Europe",
+    "latitude": 53.5303,
+    "longitude": 49.3461
+  },
+  {
+    "id": 870,
+    "cityName": "Toronto",
+    "countryCode": "CA",
+    "countryName": "Canada",
+    "continent": "North America",
+    "latitude": 43.7064,
+    "longitude": -79.3986
+  },
+  {
+    "id": 871,
+    "cityName": "Torreón",
+    "countryCode": "MX",
+    "countryName": "Mexico",
+    "continent": "North America",
+    "latitude": 25.5439,
+    "longitude": -103.419
+  },
+  {
+    "id": 872,
+    "cityName": "Touba",
+    "countryCode": "SN",
+    "countryName": "Senegal",
+    "continent": "Africa",
+    "latitude": 14.8623,
+    "longitude": -15.8753
+  },
+  {
+    "id": 873,
+    "cityName": "Tripoli",
+    "countryCode": "LY",
+    "countryName": "Libya",
+    "continent": "Africa",
+    "latitude": 32.8874,
+    "longitude": 13.1873
+  },
+  {
+    "id": 874,
+    "cityName": "Trujillo",
+    "countryCode": "PE",
+    "countryName": "Peru",
+    "continent": "South America",
+    "latitude": -8.116,
+    "longitude": -79.03
+  },
+  {
+    "id": 875,
+    "cityName": "Tshikapa",
+    "countryCode": "CD",
+    "countryName": "Democratic Republic of the Congo",
+    "continent": "Africa",
+    "latitude": -6.4162,
+    "longitude": 20.7999
+  },
+  {
+    "id": 876,
+    "cityName": "Tunis",
+    "countryCode": "TN",
+    "countryName": "Tunisia",
+    "continent": "Africa",
+    "latitude": 36.819,
+    "longitude": 10.1658
+  },
+  {
+    "id": 877,
+    "cityName": "Turin",
+    "countryCode": "IT",
+    "countryName": "Italy",
+    "continent": "Europe",
+    "latitude": 45.0705,
+    "longitude": 7.6868
+  },
+  {
+    "id": 878,
+    "cityName": "Tuxtla",
+    "countryCode": "MX",
+    "countryName": "Mexico",
+    "continent": "North America",
+    "latitude": 16.7536,
+    "longitude": -93.1158
+  },
+  {
+    "id": 879,
+    "cityName": "Tyumen",
+    "countryCode": "RU",
+    "countryName": "Russia",
+    "continent": "Europe",
+    "latitude": 57.1522,
+    "longitude": 65.5272
+  },
+  {
+    "id": 880,
+    "cityName": "Uberlândia",
+    "countryCode": "BR",
+    "countryName": "Brazil",
+    "continent": "South America",
+    "latitude": -18.9186,
+    "longitude": -48.2772
+  },
+  {
+    "id": 881,
+    "cityName": "Ufa",
+    "countryCode": "RU",
+    "countryName": "Russia",
+    "continent": "Europe",
+    "latitude": 54.7431,
+    "longitude": 55.9678
+  },
+  {
+    "id": 882,
+    "cityName": "Ulan Bator",
+    "countryCode": "MN",
+    "countryName": "Mongolia",
+    "continent": "Asia",
+    "latitude": 47.9077,
+    "longitude": 106.8832
+  },
+  {
+    "id": 883,
+    "cityName": "Ulsan",
+    "countryCode": "KR",
+    "countryName": "South Korea",
+    "continent": "Asia",
+    "latitude": 35.5372,
+    "longitude": 129.3167
+  },
+  {
+    "id": 884,
+    "cityName": "Ulyanovsk",
+    "countryCode": "RU",
+    "countryName": "Russia",
+    "continent": "Europe",
+    "latitude": 54.3282,
+    "longitude": 48.3866
+  },
+  {
+    "id": 885,
+    "cityName": "Vadodara",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 22.2994,
+    "longitude": 73.2081
+  },
+  {
+    "id": 886,
+    "cityName": "Valencia",
+    "countryCode": "ES",
+    "countryName": "Spain",
+    "continent": "Europe",
+    "latitude": 39.4739,
+    "longitude": -0.3797
+  },
+  {
+    "id": 887,
+    "cityName": "Valencia",
+    "countryCode": "VE",
+    "countryName": "Venezuela",
+    "continent": "South America",
+    "latitude": 10.1615,
+    "longitude": -68.0004
+  },
+  {
+    "id": 888,
+    "cityName": "Valenzuela",
+    "countryCode": "PH",
+    "countryName": "Philippines",
+    "continent": "Asia",
+    "latitude": 14.7,
+    "longitude": 120.9667
+  },
+  {
+    "id": 889,
+    "cityName": "Vancouver",
+    "countryCode": "CA",
+    "countryName": "Canada",
+    "continent": "North America",
+    "latitude": 49.2497,
+    "longitude": -123.1193
+  },
+  {
+    "id": 890,
+    "cityName": "Varanasi",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 25.3167,
+    "longitude": 83.0104
+  },
+  {
+    "id": 891,
+    "cityName": "Viana",
+    "countryCode": "AO",
+    "countryName": "Angola",
+    "continent": "Africa",
+    "latitude": -8.9055,
+    "longitude": 13.375
+  },
+  {
+    "id": 892,
+    "cityName": "Victoria",
+    "countryCode": "HK",
+    "countryName": "Hong Kong",
+    "continent": "Asia",
+    "latitude": 22.2875,
+    "longitude": 114.1442
+  },
+  {
+    "id": 893,
+    "cityName": "Vienna",
+    "countryCode": "AT",
+    "countryName": "Austria",
+    "continent": "Europe",
+    "latitude": 48.2085,
+    "longitude": 16.3721
+  },
+  {
+    "id": 894,
+    "cityName": "Vientiane",
+    "countryCode": "LA",
+    "countryName": "Laos",
+    "continent": "Asia",
+    "latitude": 17.9667,
+    "longitude": 102.6
+  },
+  {
+    "id": 895,
+    "cityName": "Vijayawada",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 16.5074,
+    "longitude": 80.6466
+  },
+  {
+    "id": 896,
+    "cityName": "Villa Nueva",
+    "countryCode": "GT",
+    "countryName": "Guatemala",
+    "continent": "North America",
+    "latitude": 14.5251,
+    "longitude": -90.5854
+  },
+  {
+    "id": 897,
+    "cityName": "Vinh",
+    "countryCode": "VN",
+    "countryName": "Vietnam",
+    "continent": "Asia",
+    "latitude": 18.6734,
+    "longitude": 105.6923
+  },
+  {
+    "id": 898,
+    "cityName": "Virār",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 19.4559,
+    "longitude": 72.8114
+  },
+  {
+    "id": 899,
+    "cityName": "Visakhapatnam",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 17.6801,
+    "longitude": 83.2016
+  },
+  {
+    "id": 900,
+    "cityName": "Vladivostok",
+    "countryCode": "RU",
+    "countryName": "Russia",
+    "continent": "Europe",
+    "latitude": 43.1056,
+    "longitude": 131.8735
+  },
+  {
+    "id": 901,
+    "cityName": "Volgograd",
+    "countryCode": "RU",
+    "countryName": "Russia",
+    "continent": "Europe",
+    "latitude": 48.7138,
+    "longitude": 44.4976
+  },
+  {
+    "id": 902,
+    "cityName": "Voronezh",
+    "countryCode": "RU",
+    "countryName": "Russia",
+    "continent": "Europe",
+    "latitude": 51.6683,
+    "longitude": 39.192
+  },
+  {
+    "id": 903,
+    "cityName": "Wanxian",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 30.816,
+    "longitude": 108.3741
+  },
+  {
+    "id": 904,
+    "cityName": "Wanzhou",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 30.7645,
+    "longitude": 108.3959
+  },
+  {
+    "id": 905,
+    "cityName": "Warangal",
+    "countryCode": "IN",
+    "countryName": "India",
+    "continent": "Asia",
+    "latitude": 18.0,
+    "longitude": 79.5833
+  },
+  {
+    "id": 906,
+    "cityName": "Warri",
+    "countryCode": "NG",
+    "countryName": "Nigeria",
+    "continent": "Africa",
+    "latitude": 5.5174,
+    "longitude": 5.7501
+  },
+  {
+    "id": 907,
+    "cityName": "Warsaw",
+    "countryCode": "PL",
+    "countryName": "Poland",
+    "continent": "Europe",
+    "latitude": 52.2298,
+    "longitude": 21.0118
+  },
+  {
+    "id": 908,
+    "cityName": "Washington",
+    "countryCode": "US",
+    "countryName": "United States",
+    "continent": "North America",
+    "latitude": 38.8951,
+    "longitude": -77.0364
+  },
+  {
+    "id": 909,
+    "cityName": "Weifang",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 36.71,
+    "longitude": 119.1019
+  },
+  {
+    "id": 910,
+    "cityName": "Weihai",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 37.5091,
+    "longitude": 122.1136
+  },
+  {
+    "id": 911,
+    "cityName": "Weinan",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 34.5035,
+    "longitude": 109.5089
+  },
+  {
+    "id": 912,
+    "cityName": "Wenzhou",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 27.9994,
+    "longitude": 120.6668
+  },
+  {
+    "id": 913,
+    "cityName": "Winnipeg",
+    "countryCode": "CA",
+    "countryName": "Canada",
+    "continent": "North America",
+    "latitude": 49.8844,
+    "longitude": -97.147
+  },
+  {
+    "id": 914,
+    "cityName": "Wrocław",
+    "countryCode": "PL",
+    "countryName": "Poland",
+    "continent": "Europe",
+    "latitude": 51.1029,
+    "longitude": 17.0301
+  },
+  {
+    "id": 915,
+    "cityName": "Wuchang",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 30.5431,
+    "longitude": 114.3007
+  },
+  {
+    "id": 916,
+    "cityName": "Wuchuan",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 21.4571,
+    "longitude": 110.7659
+  },
+  {
+    "id": 917,
+    "cityName": "Wuhan",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 30.5833,
+    "longitude": 114.2667
+  },
+  {
+    "id": 918,
+    "cityName": "Wuhu",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 31.3526,
+    "longitude": 118.4295
+  },
+  {
+    "id": 919,
+    "cityName": "Wuwei",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 37.9267,
+    "longitude": 102.632
+  },
+  {
+    "id": 920,
+    "cityName": "Wuxi",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 31.5689,
+    "longitude": 120.2886
+  },
+  {
+    "id": 921,
+    "cityName": "Wuzhong",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 37.9867,
+    "longitude": 106.201
+  },
+  {
+    "id": 922,
+    "cityName": "Wuzhou",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 23.4805,
+    "longitude": 111.2885
+  },
+  {
+    "id": 923,
+    "cityName": "Xiamen",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 24.4798,
+    "longitude": 118.0819
+  },
+  {
+    "id": 924,
+    "cityName": "Xiangtan",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 27.85,
+    "longitude": 112.9
+  },
+  {
+    "id": 925,
+    "cityName": "Xiangyang",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 32.0422,
+    "longitude": 112.1448
+  },
+  {
+    "id": 926,
+    "cityName": "Xianyang",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 34.3378,
+    "longitude": 108.7026
+  },
+  {
+    "id": 927,
+    "cityName": "Xiaogan",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 30.9269,
+    "longitude": 113.9222
+  },
+  {
+    "id": 928,
+    "cityName": "Xingtai",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 37.0622,
+    "longitude": 114.4927
+  },
+  {
+    "id": 929,
+    "cityName": "Xining",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 36.6255,
+    "longitude": 101.7574
+  },
+  {
+    "id": 930,
+    "cityName": "Xinxiang",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 35.1903,
+    "longitude": 113.8015
+  },
+  {
+    "id": 931,
+    "cityName": "Xinyang",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 32.1228,
+    "longitude": 114.0656
+  },
+  {
+    "id": 932,
+    "cityName": "Xinyi",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 22.373,
+    "longitude": 110.9475
+  },
+  {
+    "id": 933,
+    "cityName": "Xinyu",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 27.8043,
+    "longitude": 114.9334
+  },
+  {
+    "id": 934,
+    "cityName": "Xi’an",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 34.2583,
+    "longitude": 108.9286
+  },
+  {
+    "id": 935,
+    "cityName": "Xuancheng",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 30.9525,
+    "longitude": 118.7553
+  },
+  {
+    "id": 936,
+    "cityName": "Xuchang",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 34.0319,
+    "longitude": 113.863
+  },
+  {
+    "id": 937,
+    "cityName": "Xuhui",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 31.1959,
+    "longitude": 121.4471
+  },
+  {
+    "id": 938,
+    "cityName": "Xuzhou",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 34.2044,
+    "longitude": 117.2839
+  },
+  {
+    "id": 939,
+    "cityName": "Ya'an",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 29.9852,
+    "longitude": 102.999
+  },
+  {
+    "id": 940,
+    "cityName": "Yancheng",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 33.3575,
+    "longitude": 120.1573
+  },
+  {
+    "id": 941,
+    "cityName": "Yangjiang",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 21.8556,
+    "longitude": 111.9627
+  },
+  {
+    "id": 942,
+    "cityName": "Yangon",
+    "countryCode": "MM",
+    "countryName": "Myanmar",
+    "continent": "Asia",
+    "latitude": 16.8053,
+    "longitude": 96.1561
+  },
+  {
+    "id": 943,
+    "cityName": "Yangpu",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 31.2619,
+    "longitude": 121.519
+  },
+  {
+    "id": 944,
+    "cityName": "Yangquan",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 37.8575,
+    "longitude": 113.5633
+  },
+  {
+    "id": 945,
+    "cityName": "Yangzhou",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 32.3972,
+    "longitude": 119.4358
+  },
+  {
+    "id": 946,
+    "cityName": "Yantai",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 37.4765,
+    "longitude": 121.4408
+  },
+  {
+    "id": 947,
+    "cityName": "Yaoundé",
+    "countryCode": "CM",
+    "countryName": "Cameroon",
+    "continent": "Africa",
+    "latitude": 3.8667,
+    "longitude": 11.5167
+  },
+  {
+    "id": 948,
+    "cityName": "Yaroslavl",
+    "countryCode": "RU",
+    "countryName": "Russia",
+    "continent": "Europe",
+    "latitude": 57.6299,
+    "longitude": 39.8737
+  },
+  {
+    "id": 949,
+    "cityName": "Yekaterinburg",
+    "countryCode": "RU",
+    "countryName": "Russia",
+    "continent": "Europe",
+    "latitude": 56.8573,
+    "longitude": 60.6153
+  },
+  {
+    "id": 950,
+    "cityName": "Yerevan",
+    "countryCode": "AM",
+    "countryName": "Armenia",
+    "continent": "Asia",
+    "latitude": 40.1776,
+    "longitude": 44.5126
+  },
+  {
+    "id": 951,
+    "cityName": "Yibin",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 28.7593,
+    "longitude": 104.6399
+  },
+  {
+    "id": 952,
+    "cityName": "Yichang",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 30.7144,
+    "longitude": 111.2847
+  },
+  {
+    "id": 953,
+    "cityName": "Yichun",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 27.8333,
+    "longitude": 114.4
+  },
+  {
+    "id": 954,
+    "cityName": "Yinchuan",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 38.4681,
+    "longitude": 106.2731
+  },
+  {
+    "id": 955,
+    "cityName": "Yingkou",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 40.6647,
+    "longitude": 122.2318
+  },
+  {
+    "id": 956,
+    "cityName": "Yishui",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 35.7847,
+    "longitude": 118.6281
+  },
+  {
+    "id": 957,
+    "cityName": "Yiwu",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 29.3151,
+    "longitude": 120.0768
+  },
+  {
+    "id": 958,
+    "cityName": "Yixing",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 31.3606,
+    "longitude": 119.8202
+  },
+  {
+    "id": 959,
+    "cityName": "Yokohama",
+    "countryCode": "JP",
+    "countryName": "Japan",
+    "continent": "Asia",
+    "latitude": 35.4333,
+    "longitude": 139.65
+  },
+  {
+    "id": 960,
+    "cityName": "Yongzhou",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 26.4239,
+    "longitude": 111.6131
+  },
+  {
+    "id": 961,
+    "cityName": "Yueyang",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 29.3745,
+    "longitude": 113.0948
+  },
+  {
+    "id": 962,
+    "cityName": "Yulin",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 22.6305,
+    "longitude": 110.1469
+  },
+  {
+    "id": 963,
+    "cityName": "Yuncheng",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 35.0231,
+    "longitude": 110.9928
+  },
+  {
+    "id": 964,
+    "cityName": "Yunfu",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 22.9279,
+    "longitude": 112.0381
+  },
+  {
+    "id": 965,
+    "cityName": "Zagreb",
+    "countryCode": "HR",
+    "countryName": "Croatia",
+    "continent": "Europe",
+    "latitude": 45.8144,
+    "longitude": 15.978
+  },
+  {
+    "id": 966,
+    "cityName": "Zamboanga",
+    "countryCode": "PH",
+    "countryName": "Philippines",
+    "continent": "Asia",
+    "latitude": 6.9103,
+    "longitude": 122.0739
+  },
+  {
+    "id": 967,
+    "cityName": "Zanzibar",
+    "countryCode": "TZ",
+    "countryName": "Tanzania",
+    "continent": "Africa",
+    "latitude": -6.1639,
+    "longitude": 39.1979
+  },
+  {
+    "id": 968,
+    "cityName": "Zaozhuang",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 34.8647,
+    "longitude": 117.5542
+  },
+  {
+    "id": 969,
+    "cityName": "Zapopan",
+    "countryCode": "MX",
+    "countryName": "Mexico",
+    "continent": "North America",
+    "latitude": 20.7211,
+    "longitude": -103.3874
+  },
+  {
+    "id": 970,
+    "cityName": "Zaporizhzhya",
+    "countryCode": "UA",
+    "countryName": "Ukraine",
+    "continent": "Europe",
+    "latitude": 47.8517,
+    "longitude": 35.1171
+  },
+  {
+    "id": 971,
+    "cityName": "Zaragoza",
+    "countryCode": "ES",
+    "countryName": "Spain",
+    "continent": "Europe",
+    "latitude": 41.6561,
+    "longitude": -0.8773
+  },
+  {
+    "id": 972,
+    "cityName": "Zaria",
+    "countryCode": "NG",
+    "countryName": "Nigeria",
+    "continent": "Africa",
+    "latitude": 11.1113,
+    "longitude": 7.7227
+  },
+  {
+    "id": 973,
+    "cityName": "Zarqa",
+    "countryCode": "JO",
+    "countryName": "Jordan",
+    "continent": "Asia",
+    "latitude": 32.0727,
+    "longitude": 36.088
+  },
+  {
+    "id": 974,
+    "cityName": "Zhabei",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 31.2586,
+    "longitude": 121.4597
+  },
+  {
+    "id": 975,
+    "cityName": "Zhangjiagang",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 31.865,
+    "longitude": 120.5389
+  },
+  {
+    "id": 976,
+    "cityName": "Zhangjiakou",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 40.7834,
+    "longitude": 114.8714
+  },
+  {
+    "id": 977,
+    "cityName": "Zhangzhou",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 24.5133,
+    "longitude": 117.6556
+  },
+  {
+    "id": 978,
+    "cityName": "Zhanjiang",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 21.2339,
+    "longitude": 110.3875
+  },
+  {
+    "id": 979,
+    "cityName": "Zhaoqing",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 23.0489,
+    "longitude": 112.4609
+  },
+  {
+    "id": 980,
+    "cityName": "Zhaotong",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 27.3167,
+    "longitude": 103.7167
+  },
+  {
+    "id": 981,
+    "cityName": "Zhengzhou",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 34.7578,
+    "longitude": 113.6486
+  },
+  {
+    "id": 982,
+    "cityName": "Zhenjiang",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 32.2109,
+    "longitude": 119.4551
+  },
+  {
+    "id": 983,
+    "cityName": "Zhongshan",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 22.5231,
+    "longitude": 113.3791
+  },
+  {
+    "id": 984,
+    "cityName": "Zhongwei",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 37.5113,
+    "longitude": 105.1907
+  },
+  {
+    "id": 985,
+    "cityName": "Zhoushan",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 29.9887,
+    "longitude": 122.2049
+  },
+  {
+    "id": 986,
+    "cityName": "Zhu Cheng City",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 35.995,
+    "longitude": 119.4026
+  },
+  {
+    "id": 987,
+    "cityName": "Zhuanghe",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 39.7008,
+    "longitude": 122.9911
+  },
+  {
+    "id": 988,
+    "cityName": "Zhuhai",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 22.2769,
+    "longitude": 113.5678
+  },
+  {
+    "id": 989,
+    "cityName": "Zhumadian",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 32.9838,
+    "longitude": 114.0259
+  },
+  {
+    "id": 990,
+    "cityName": "Zhuzhou",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 27.8333,
+    "longitude": 113.15
+  },
+  {
+    "id": 991,
+    "cityName": "Zibo",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 36.7906,
+    "longitude": 118.0633
+  },
+  {
+    "id": 992,
+    "cityName": "Zigong",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 29.3416,
+    "longitude": 104.7769
+  },
+  {
+    "id": 993,
+    "cityName": "Ziyang",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 30.1211,
+    "longitude": 104.6481
+  },
+  {
+    "id": 994,
+    "cityName": "Zoucheng",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 35.4006,
+    "longitude": 116.9656
+  },
+  {
+    "id": 995,
+    "cityName": "Zunyi",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 27.6867,
+    "longitude": 106.9072
+  },
+  {
+    "id": 996,
+    "cityName": "Álvaro Obregón",
+    "countryCode": "MX",
+    "countryName": "Mexico",
+    "continent": "North America",
+    "latitude": 19.3587,
+    "longitude": -99.2033
+  },
+  {
+    "id": 997,
+    "cityName": "Çankaya",
+    "countryCode": "TR",
+    "countryName": "Turkey",
+    "continent": "Asia",
+    "latitude": 39.9179,
+    "longitude": 32.8627
+  },
+  {
+    "id": 998,
+    "cityName": "Ürümqi",
+    "countryCode": "CN",
+    "countryName": "China",
+    "continent": "Asia",
+    "latitude": 43.801,
+    "longitude": 87.6005
+  },
+  {
+    "id": 999,
+    "cityName": "Łódź",
+    "countryCode": "PL",
+    "countryName": "Poland",
+    "continent": "Europe",
+    "latitude": 51.7706,
+    "longitude": 19.4739
+  },
+  {
+    "id": 1000,
+    "cityName": "Ōta",
+    "countryCode": "JP",
+    "countryName": "Japan",
+    "continent": "Asia",
+    "latitude": 35.5613,
+    "longitude": 139.716
+  }
+]
