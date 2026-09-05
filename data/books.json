@@ -1,0 +1,8002 @@
+[
+  {
+    "id": 1,
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "isbn13": "9781804220207",
+    "publicationDate": "2018-10-16",
+    "pages": 168
+  },
+  {
+    "id": 2,
+    "title": "Haunting Adeline",
+    "author": "H. D. Carlton",
+    "isbn13": "9781957635002",
+    "publicationDate": "2021-08-12",
+    "pages": 606
+  },
+  {
+    "id": 3,
+    "title": "Icebreaker",
+    "author": "Hannah Grace",
+    "isbn13": "9781668026151",
+    "publicationDate": "2022-11-22",
+    "pages": 448
+  },
+  {
+    "id": 4,
+    "title": "Can't Hurt Me",
+    "author": "David Goggins",
+    "isbn13": "9781544512280",
+    "publicationDate": "2018-12-04",
+    "pages": 364
+  },
+  {
+    "id": 5,
+    "title": "Girl in Pieces",
+    "author": "Kathleen Glasgow",
+    "isbn13": "9781101934739",
+    "publicationDate": "2016-08-30",
+    "pages": 416
+  },
+  {
+    "id": 6,
+    "title": "Ugly Love",
+    "author": "Colleen Hoover",
+    "isbn13": "9781476753188",
+    "publicationDate": "2014-08-05",
+    "pages": 336
+  },
+  {
+    "id": 7,
+    "title": "Sapiens",
+    "author": "Yuval Noah Harari",
+    "isbn13": "9780099590088",
+    "publicationDate": "2015-04-30",
+    "pages": 498
+  },
+  {
+    "id": 8,
+    "title": "The Laws of Human Nature",
+    "author": "Robert Greene",
+    "isbn13": "9780143111375",
+    "publicationDate": "2019-10-01",
+    "pages": 624
+  },
+  {
+    "id": 9,
+    "title": "The Fault in Our Stars",
+    "author": "John Green",
+    "isbn13": "9780141355078",
+    "publicationDate": "2014-06-10",
+    "pages": 336
+  },
+  {
+    "id": 10,
+    "title": "A Court of Thorns and Roses",
+    "author": "Sarah J. Maas",
+    "isbn13": "9780606385480",
+    "publicationDate": "2016-05-03",
+    "pages": 448
+  },
+  {
+    "id": 11,
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "isbn13": "9781444738209",
+    "publicationDate": "2006-07-22",
+    "pages": 604
+  },
+  {
+    "id": 12,
+    "title": "The Power of Now",
+    "author": "Eckhart Tolle",
+    "isbn13": "9780789312464",
+    "publicationDate": "2005-07-01",
+    "pages": 112
+  },
+  {
+    "id": 13,
+    "title": "... Trotzdem Ja zum Leben sagen",
+    "author": "Viktor E. Frankl",
+    "isbn13": "9783423301428",
+    "publicationDate": "1998-09-01",
+    "pages": 199
+  },
+  {
+    "id": 14,
+    "title": "The Richest Man in Babylon",
+    "author": "George S. Clason",
+    "isbn13": "9781508524359",
+    "publicationDate": "2015-02-18",
+    "pages": 100
+  },
+  {
+    "id": 15,
+    "title": "The Eye of the World",
+    "author": "Robert Jordan",
+    "isbn13": "9782266111850",
+    "publicationDate": "2001-01-19",
+    "pages": 491
+  },
+  {
+    "id": 16,
+    "title": "Can We Be Strangers Again?",
+    "author": "Shrijeet Shandilya",
+    "isbn13": "9780143475927",
+    "publicationDate": "2025-03-20",
+    "pages": 232
+  },
+  {
+    "id": 17,
+    "title": "How to Talk to Anyone",
+    "author": "Leil Lowndes",
+    "isbn13": "9780071418584",
+    "publicationDate": "2003-09-19",
+    "pages": 368
+  },
+  {
+    "id": 18,
+    "title": "Better Than the Movies",
+    "author": "Lynn Painter",
+    "isbn13": "9781534467620",
+    "publicationDate": "2021-05-04",
+    "pages": 368
+  },
+  {
+    "id": 19,
+    "title": "If He Had Been With Me",
+    "author": "Laura Nowlin",
+    "isbn13": "9781402277825",
+    "publicationDate": "2013-04-01",
+    "pages": 336
+  },
+  {
+    "id": 20,
+    "title": "Reminders of Him",
+    "author": "Colleen Hoover",
+    "isbn13": "9781638081968",
+    "publicationDate": "2022-02-01",
+    "pages": 500
+  },
+  {
+    "id": 21,
+    "title": "The Secret",
+    "author": "Rhonda Byrne",
+    "isbn13": "9781582701707",
+    "publicationDate": "2006-11-28",
+    "pages": 198
+  },
+  {
+    "id": 22,
+    "title": "Coraline",
+    "author": "Neil Gaiman",
+    "isbn13": "9788418637407",
+    "publicationDate": "2021-04-15",
+    "pages": 160
+  },
+  {
+    "id": 23,
+    "title": "The Giver",
+    "author": "Lois Lowry",
+    "isbn13": "9780544336261",
+    "publicationDate": "2014-07-01",
+    "pages": 240
+  },
+  {
+    "id": 24,
+    "title": "Meditations",
+    "author": "Marcus Aurelius",
+    "isbn13": "9780345472373",
+    "publicationDate": "2004-11-23",
+    "pages": 226
+  },
+  {
+    "id": 25,
+    "title": "Culpa mía",
+    "author": "Mercedes Ron",
+    "isbn13": "9788490438664",
+    "publicationDate": "2017-06-08",
+    "pages": 448
+  },
+  {
+    "id": 26,
+    "title": "Where the Crawdads Sing",
+    "author": "Delia Owens",
+    "isbn13": "9780735219090",
+    "publicationDate": "2018-08-14",
+    "pages": 384
+  },
+  {
+    "id": 27,
+    "title": "Dracula",
+    "author": "Bram Stoker",
+    "isbn13": "9786052492840",
+    "publicationDate": "2021-10-28",
+    "pages": 404
+  },
+  {
+    "id": 28,
+    "title": "Punk 57",
+    "author": "Penelope Douglas",
+    "isbn13": "9781539427766",
+    "publicationDate": "2016-10-18",
+    "pages": 341
+  },
+  {
+    "id": 29,
+    "title": "Surrounded by Idiots",
+    "author": "Thomas Erikson",
+    "isbn13": "9781250179944",
+    "publicationDate": "2019-07-30",
+    "pages": 304
+  },
+  {
+    "id": 30,
+    "title": "Milk and Honey",
+    "author": "Rupi Kaur",
+    "isbn13": "9781449474256",
+    "publicationDate": "2015-10-06",
+    "pages": 208
+  },
+  {
+    "id": 31,
+    "title": "Thank You for Leaving",
+    "author": "Rithvik Singh",
+    "isbn13": "9789367901229",
+    "publicationDate": "2025-02-14",
+    "pages": 200
+  },
+  {
+    "id": 32,
+    "title": "Holes",
+    "author": "Louis Sachar",
+    "isbn13": "9780030664120",
+    "publicationDate": "2004-01-01",
+    "pages": 293
+  },
+  {
+    "id": 33,
+    "title": "The Midnight Library",
+    "author": "Matt Haig",
+    "isbn13": "9780525559474",
+    "publicationDate": "2020-09-29",
+    "pages": 304
+  },
+  {
+    "id": 34,
+    "title": "Hatchet",
+    "author": "Gary Paulsen",
+    "isbn13": "9781417768837",
+    "publicationDate": "2006-12-26",
+    "pages": 192
+  },
+  {
+    "id": 35,
+    "title": "Trading in the zone",
+    "author": "Mark Douglas",
+    "isbn13": "9780735201446",
+    "publicationDate": "2001-01-02",
+    "pages": 240
+  },
+  {
+    "id": 36,
+    "title": "Dog Man",
+    "author": "Dav Pilkey",
+    "isbn13": "9780545581608",
+    "publicationDate": "2016-08-30",
+    "pages": 240
+  },
+  {
+    "id": 37,
+    "title": "Good Girl, Bad Blood",
+    "author": "Holly Jackson",
+    "isbn13": "9781984896438",
+    "publicationDate": "2022-03-01",
+    "pages": 416
+  },
+  {
+    "id": 38,
+    "title": "Moby Dick",
+    "author": "Herman Melville",
+    "isbn13": "9782413019756",
+    "publicationDate": "2021-01-13",
+    "pages": 48
+  },
+  {
+    "id": 39,
+    "title": "Eat That Frog! 21 Great Ways to Stop Procrastinating and Get More Done in Less Time",
+    "author": "Brian Tracy",
+    "isbn13": "9781583762028",
+    "publicationDate": "2001-04-09",
+    "pages": 125
+  },
+  {
+    "id": 40,
+    "title": "You've Reached Sam",
+    "author": "Dustin Thao",
+    "isbn13": "9781250762030",
+    "publicationDate": "2021-11-09",
+    "pages": 296
+  },
+  {
+    "id": 41,
+    "title": "The Time Machine",
+    "author": "H. G. Wells",
+    "isbn13": "9781499181890",
+    "publicationDate": "2014-04-18",
+    "pages": 80
+  },
+  {
+    "id": 42,
+    "title": "The Monk Who Sold His Ferrari",
+    "author": "Robin S. Sharma",
+    "isbn13": "9780062515674",
+    "publicationDate": "1999-04-02",
+    "pages": 224
+  },
+  {
+    "id": 43,
+    "title": "Normal People",
+    "author": "Sally Rooney",
+    "isbn13": "9781984822178",
+    "publicationDate": "2019-04-16",
+    "pages": 288
+  },
+  {
+    "id": 44,
+    "title": "The Deal",
+    "author": "Elle Kennedy",
+    "isbn13": "9781775293934",
+    "publicationDate": "2015-02-24",
+    "pages": 376
+  },
+  {
+    "id": 45,
+    "title": "Who Moved My Cheese?",
+    "author": "Spencer Johnson",
+    "isbn13": "9780399147241",
+    "publicationDate": "2001-11-09",
+    "pages": 96
+  },
+  {
+    "id": 46,
+    "title": "Elon Musk",
+    "author": "Ashlee Vance",
+    "isbn13": "9780062469670",
+    "publicationDate": "2016-04-05",
+    "pages": 448
+  },
+  {
+    "id": 47,
+    "title": "The Body Keeps the Score",
+    "author": "Bessel van der Kolk",
+    "isbn13": "9780143127741",
+    "publicationDate": "2015-09-08",
+    "pages": 464
+  },
+  {
+    "id": 48,
+    "title": "Think Like a Monk",
+    "author": "Jay Shetty",
+    "isbn13": "9781982134488",
+    "publicationDate": "2020-09-08",
+    "pages": 352
+  },
+  {
+    "id": 49,
+    "title": "Ready Player One",
+    "author": "Ernest Cline",
+    "isbn13": "9781524755614",
+    "publicationDate": "2017-02-07",
+    "pages": 608
+  },
+  {
+    "id": 50,
+    "title": "The Wonderful Wizard of Oz",
+    "author": "L. Frank Baum",
+    "isbn13": "9780789444448",
+    "publicationDate": "2001-09-01",
+    "pages": 48
+  },
+  {
+    "id": 51,
+    "title": "The Inheritance Games",
+    "author": "Jennifer Lynn Barnes",
+    "isbn13": "9781368052405",
+    "publicationDate": "2020-09-01",
+    "pages": 386
+  },
+  {
+    "id": 52,
+    "title": "Influence",
+    "author": "Robert B. Cialdini",
+    "isbn13": "9780688128166",
+    "publicationDate": "1998-10-07",
+    "pages": 336
+  },
+  {
+    "id": 53,
+    "title": "The Lean Startup",
+    "author": "Eric Ries",
+    "isbn13": "9780307887894",
+    "publicationDate": "2011-09-13",
+    "pages": 336
+  },
+  {
+    "id": 54,
+    "title": "Credence",
+    "author": "Penelope Douglas",
+    "isbn13": "9781660089055",
+    "publicationDate": "2020-01-13",
+    "pages": 485
+  },
+  {
+    "id": 55,
+    "title": "All your perfects",
+    "author": "Colleen Hoover",
+    "isbn13": "9781432856489",
+    "publicationDate": "2018-10-17",
+    "pages": 419
+  },
+  {
+    "id": 56,
+    "title": "Do Epic Shit",
+    "author": "Ankur Warikoo",
+    "isbn13": "9789391165482",
+    "publicationDate": "2022-01-25",
+    "pages": 312
+  },
+  {
+    "id": 57,
+    "title": "The War of the Worlds",
+    "author": "H. G. Wells",
+    "isbn13": "9780060791247",
+    "publicationDate": "2005-05-24",
+    "pages": 240
+  },
+  {
+    "id": 58,
+    "title": "The 4-Hour Workweek",
+    "author": "Timothy Ferriss",
+    "isbn13": "9780786149254",
+    "publicationDate": "2007-04-24",
+    "pages": 200
+  },
+  {
+    "id": 59,
+    "title": "Ὀδύσσεια",
+    "author": "Όμηρος",
+    "isbn13": "9780297871118",
+    "publicationDate": "1959-11-07",
+    "pages": 374
+  },
+  {
+    "id": 60,
+    "title": "Lights Out",
+    "author": "Navessa Allen",
+    "isbn13": "9781638932239",
+    "publicationDate": "2024-02-14",
+    "pages": 454
+  },
+  {
+    "id": 61,
+    "title": "The Sweetest Oblivion",
+    "author": "Danielle Lori",
+    "isbn13": "9781721284443",
+    "publicationDate": "2018-06-20",
+    "pages": 384
+  },
+  {
+    "id": 62,
+    "title": "Diary of a Wimpy Kid",
+    "author": "Jeff Kinney",
+    "isbn13": "9781419748684",
+    "publicationDate": "2020-10-27",
+    "pages": 224
+  },
+  {
+    "id": 63,
+    "title": "The Adventures of Tom Sawyer",
+    "author": "Mark Twain",
+    "isbn13": "9781725153998",
+    "publicationDate": "2018-08-12",
+    "pages": 212
+  },
+  {
+    "id": 64,
+    "title": "Good Vibes, Good Life",
+    "author": "Vex King",
+    "isbn13": "9789388302111",
+    "publicationDate": "2015-07-21",
+    "pages": 1000
+  },
+  {
+    "id": 65,
+    "title": "As Good As Dead",
+    "author": "Holly Jackson",
+    "isbn13": "9780593379851",
+    "publicationDate": "2021-09-28",
+    "pages": 400
+  },
+  {
+    "id": 66,
+    "title": "Heart of Darkness",
+    "author": "Joseph Conrad",
+    "isbn13": "9789753204767",
+    "publicationDate": "2012-11-03",
+    "pages": 136
+  },
+  {
+    "id": 67,
+    "title": "A Court of Wings and Ruin",
+    "author": "Sarah J. Maas",
+    "isbn13": "9781408857908",
+    "publicationDate": "2017-04-04",
+    "pages": 705
+  },
+  {
+    "id": 68,
+    "title": "The Fine Print",
+    "author": "Lauren Asher",
+    "isbn13": "9781737507703",
+    "publicationDate": "2021-07-04",
+    "pages": 448
+  },
+  {
+    "id": 69,
+    "title": "Does It Hurt?",
+    "author": "H. D. Carlton",
+    "isbn13": "9781957635040",
+    "publicationDate": "2022-07-15",
+    "pages": 430
+  },
+  {
+    "id": 70,
+    "title": "Where the Wild Things Are",
+    "author": "Maurice Sendak",
+    "isbn13": "9780064431781",
+    "publicationDate": "1984-01-01",
+    "pages": 48
+  },
+  {
+    "id": 71,
+    "title": "Archer's Voice",
+    "author": "Mia Sheridan",
+    "isbn13": "9781538727355",
+    "publicationDate": "2018-02-13",
+    "pages": 400
+  },
+  {
+    "id": 72,
+    "title": "Der Proceß",
+    "author": "Franz Kafka",
+    "isbn13": "9783150096765",
+    "publicationDate": "1995-02-01",
+    "pages": 249
+  },
+  {
+    "id": 73,
+    "title": "海辺のカフカ",
+    "author": "村上春樹",
+    "isbn13": "9788483103562",
+    "publicationDate": "2006-11-01",
+    "pages": 584
+  },
+  {
+    "id": 74,
+    "title": "Hard Luck",
+    "author": "Jeff Kinney",
+    "isbn13": "9780606320627",
+    "publicationDate": "2013-11-05",
+    "pages": 224
+  },
+  {
+    "id": 75,
+    "title": "Corrupt",
+    "author": "Penelope Douglas",
+    "isbn13": "9781518783876",
+    "publicationDate": "2015-11-13",
+    "pages": 460
+  },
+  {
+    "id": 76,
+    "title": "Outliers",
+    "author": "Malcolm Gladwell",
+    "isbn13": "9780141036250",
+    "publicationDate": "2008-11-18",
+    "pages": 320
+  },
+  {
+    "id": 77,
+    "title": "The Maddest Obsession",
+    "author": "Danielle Lori",
+    "isbn13": "9781093765007",
+    "publicationDate": "2019-04-16",
+    "pages": 331
+  },
+  {
+    "id": 78,
+    "title": "Do Androids Dream of Electric Sheep?",
+    "author": "Philip K. Dick",
+    "isbn13": "9780345350473",
+    "publicationDate": "1987-07-12",
+    "pages": 272
+  },
+  {
+    "id": 79,
+    "title": "Das Parfum",
+    "author": "Patrick Süskind",
+    "isbn13": "9780141041155",
+    "publicationDate": "2010-03-01",
+    "pages": 272
+  },
+  {
+    "id": 80,
+    "title": "Alas de ónix",
+    "author": "Rebecca Yarros",
+    "isbn13": "9781649374189",
+    "publicationDate": "2025-01-21",
+    "pages": 544
+  },
+  {
+    "id": 81,
+    "title": "The Viscount Who Loved Me",
+    "author": "Julia Quinn",
+    "isbn13": "9780749936587",
+    "publicationDate": "2006-06-08",
+    "pages": 320
+  },
+  {
+    "id": 82,
+    "title": "Love on the Brain",
+    "author": "Ali Hazelwood",
+    "isbn13": "9781638084716",
+    "publicationDate": "2022-10-01",
+    "pages": 500
+  },
+  {
+    "id": 83,
+    "title": "Don't Let the Pigeon Drive the Bus!",
+    "author": "Mo Willems",
+    "isbn13": "9780786819881",
+    "publicationDate": "2003-04-01",
+    "pages": 36
+  },
+  {
+    "id": 84,
+    "title": "Our Fault",
+    "author": "Mercedes Ron",
+    "isbn13": "9788490438893",
+    "publicationDate": "2018-02-01",
+    "pages": 448
+  },
+  {
+    "id": 85,
+    "title": "All He'll Ever Be",
+    "author": "Willow Winters",
+    "isbn13": "9781950862191",
+    "publicationDate": "2019-09-13",
+    "pages": 740
+  },
+  {
+    "id": 86,
+    "title": "The Call of the Wild",
+    "author": "Jack London",
+    "isbn13": "9781673349511",
+    "publicationDate": "2019-12-09",
+    "pages": 108
+  },
+  {
+    "id": 87,
+    "title": "The Magician's Nephew",
+    "author": "C. S. Lewis",
+    "isbn13": "9780066238265",
+    "publicationDate": "2001-10-02",
+    "pages": 176
+  },
+  {
+    "id": 88,
+    "title": "The Daily Laws",
+    "author": "Robert Greene",
+    "isbn13": "9780593299210",
+    "publicationDate": "2021-10-12",
+    "pages": 480
+  },
+  {
+    "id": 89,
+    "title": "Shoe Dog",
+    "author": "Phil Knight",
+    "isbn13": "9781534401181",
+    "publicationDate": "2017-09-26",
+    "pages": 288
+  },
+  {
+    "id": 90,
+    "title": "The School for Good and Evil",
+    "author": "Soman Chainani",
+    "isbn13": "9780062104908",
+    "publicationDate": "2018-09-04",
+    "pages": 488
+  },
+  {
+    "id": 91,
+    "title": "Culpa Tuya",
+    "author": "Mercedes Ron",
+    "isbn13": "9788490438633",
+    "publicationDate": "2017-09-21",
+    "pages": 448
+  },
+  {
+    "id": 92,
+    "title": "Reckless",
+    "author": "Lauren Roberts",
+    "isbn13": "9781398530126",
+    "publicationDate": "2024-07-02",
+    "pages": 400
+  },
+  {
+    "id": 93,
+    "title": "The Last Straw",
+    "author": "Jeff Kinney",
+    "isbn13": "9780810971080",
+    "publicationDate": "2009-10-16",
+    "pages": 218
+  },
+  {
+    "id": 94,
+    "title": "The Invisible Life of Addie LaRue",
+    "author": "V. E. Schwab",
+    "isbn13": "9780765387561",
+    "publicationDate": "2020-10-06",
+    "pages": 448
+  },
+  {
+    "id": 95,
+    "title": "Omgiven av Psykopater",
+    "author": "Thomas Erikson",
+    "isbn13": "9781250763884",
+    "publicationDate": "2020-10-06",
+    "pages": 272
+  },
+  {
+    "id": 96,
+    "title": "Le Deuxième Sexe",
+    "author": "Simone de Beauvoir",
+    "isbn13": "9780099744214",
+    "publicationDate": "1997-08-07",
+    "pages": 786
+  },
+  {
+    "id": 97,
+    "title": "Think Again",
+    "author": "Adam Grant",
+    "isbn13": "9780593395783",
+    "publicationDate": "2021-02-02",
+    "pages": 563
+  },
+  {
+    "id": 98,
+    "title": "All About Love",
+    "author": "bell hooks",
+    "isbn13": "9780060959470",
+    "publicationDate": "2001-01-09",
+    "pages": 239
+  },
+  {
+    "id": 99,
+    "title": "Diary of a Wimpy Kid Party Pooper",
+    "author": "Jeff Kinney",
+    "isbn13": "9780241745168",
+    "publicationDate": "2025-10-21",
+    "pages": 224
+  },
+  {
+    "id": 100,
+    "title": "The Art of Being Alone",
+    "author": "Renuka Gavrani",
+    "isbn13": "9789355434029",
+    "publicationDate": "2023-12-25",
+    "pages": 152
+  },
+  {
+    "id": 101,
+    "title": "Do It Today",
+    "author": "Darius Foroux",
+    "isbn13": "9781983184529",
+    "publicationDate": "2018-06-20",
+    "pages": 167
+  },
+  {
+    "id": 102,
+    "title": "If We Were Villains",
+    "author": "M. L. Rio",
+    "isbn13": "9781250095299",
+    "publicationDate": "2018-04-17",
+    "pages": 368
+  },
+  {
+    "id": 103,
+    "title": "Goodnight Moon",
+    "author": "Margaret Wise Brown",
+    "isbn13": "9780060775858",
+    "publicationDate": "2005-09-06",
+    "pages": 32
+  },
+  {
+    "id": 104,
+    "title": "Fight Club",
+    "author": "Chuck Palahniuk",
+    "isbn13": "9780393327342",
+    "publicationDate": "2005-10-03",
+    "pages": 224
+  },
+  {
+    "id": 105,
+    "title": "Why Has Nobody Told Me This Before?",
+    "author": "Julie Smith",
+    "isbn13": "9780241529720",
+    "publicationDate": "2022-01-06",
+    "pages": 368
+  },
+  {
+    "id": 106,
+    "title": "Priest",
+    "author": "Sierra Simone",
+    "isbn13": "9781732172234",
+    "publicationDate": "2015-06-29",
+    "pages": 388
+  },
+  {
+    "id": 107,
+    "title": "Brutal Prince",
+    "author": "Sophie Lark",
+    "isbn13": "9781728294186",
+    "publicationDate": "2023-07-25",
+    "pages": 304
+  },
+  {
+    "id": 108,
+    "title": "Inferno",
+    "author": "Dante Alighieri",
+    "isbn13": "9780451531391",
+    "publicationDate": "2009-10-06",
+    "pages": 320
+  },
+  {
+    "id": 109,
+    "title": "As Long As the Lemon Trees Grow",
+    "author": "Zoulfa Katouh",
+    "isbn13": "9781526648549",
+    "publicationDate": "2023-09-13",
+    "pages": 464
+  },
+  {
+    "id": 110,
+    "title": "Midnight Sun",
+    "author": "Stephenie Meyer",
+    "isbn13": "9780316707046",
+    "publicationDate": "2020-08-04",
+    "pages": 672
+  },
+  {
+    "id": 111,
+    "title": "Man's Search for Meaning adapted for Young Adults [adaptation]",
+    "author": "Viktor E. Frankl",
+    "isbn13": "9780807067994",
+    "publicationDate": "2017-04-25",
+    "pages": 192
+  },
+  {
+    "id": 112,
+    "title": "The Housemaid's Secret",
+    "author": "Freida McFadden",
+    "isbn13": "9781837901326",
+    "publicationDate": "2023-02-20",
+    "pages": 316
+  },
+  {
+    "id": 113,
+    "title": "Restore me",
+    "author": "Tahereh Mafi",
+    "isbn13": "9780062676375",
+    "publicationDate": "2019-03-05",
+    "pages": 464
+  },
+  {
+    "id": 114,
+    "title": "The Almanack of Naval Ravikant",
+    "author": "Eric Jorgenson",
+    "isbn13": "9781544514222",
+    "publicationDate": "2020-08-15",
+    "pages": 242
+  },
+  {
+    "id": 115,
+    "title": "Big Shot",
+    "author": "Jeff Kinney",
+    "isbn13": "9781419749155",
+    "publicationDate": "2021-10-26",
+    "pages": 224
+  },
+  {
+    "id": 116,
+    "title": "Heartstopper, Volume 3",
+    "author": "Alice Oseman",
+    "isbn13": "9781338617528",
+    "publicationDate": "2021-05-04",
+    "pages": 384
+  },
+  {
+    "id": 117,
+    "title": "Идиот",
+    "author": "Fiódor Dostoievski",
+    "isbn13": "9781502865106",
+    "publicationDate": "2015-11-15",
+    "pages": 814
+  },
+  {
+    "id": 118,
+    "title": "Five Feet Apart",
+    "author": "Rachael Lippincott",
+    "isbn13": "9781534451568",
+    "publicationDate": "2019-02-05",
+    "pages": 288
+  },
+  {
+    "id": 119,
+    "title": "Birthday Girl",
+    "author": "Penelope Douglas",
+    "isbn13": "9781976333088",
+    "publicationDate": "2018-04-16",
+    "pages": 405
+  },
+  {
+    "id": 120,
+    "title": "Calculus",
+    "author": "James Stewart",
+    "isbn13": "9780534493486",
+    "publicationDate": "2003-05-09",
+    "pages": 1120
+  },
+  {
+    "id": 121,
+    "title": "Act Like a Lady, Think Like a Man",
+    "author": "Steve Harvey",
+    "isbn13": "9780061728976",
+    "publicationDate": "2009-01-27",
+    "pages": 232
+  },
+  {
+    "id": 122,
+    "title": "I Have to Tell You Something",
+    "author": "Zara Bas",
+    "isbn13": "9780645545593",
+    "publicationDate": "2022-07-05",
+    "pages": 130
+  },
+  {
+    "id": 123,
+    "title": "How To Talk To Anyone",
+    "author": "Steve Robinson",
+    "isbn13": "9781388589806",
+    "publicationDate": "2021-04-27",
+    "pages": 56
+  },
+  {
+    "id": 124,
+    "title": "The Mistake",
+    "author": "Elle Kennedy",
+    "isbn13": "9781775293941",
+    "publicationDate": "2015-04-28",
+    "pages": 298
+  },
+  {
+    "id": 125,
+    "title": "Carmilla",
+    "author": "Sheridan Le Fanu",
+    "isbn13": "9782207600405",
+    "publicationDate": "1993-10-26",
+    "pages": 243
+  },
+  {
+    "id": 126,
+    "title": "Robinson Crusoe",
+    "author": "Daniel Defoe",
+    "isbn13": "9780553213737",
+    "publicationDate": "1982-06-01",
+    "pages": 278
+  },
+  {
+    "id": 127,
+    "title": "World War Z",
+    "author": "Max Brooks",
+    "isbn13": "9780307346605",
+    "publicationDate": "2006-09-12",
+    "pages": 352
+  },
+  {
+    "id": 128,
+    "title": "Crown of Midnight",
+    "author": "Sarah J. Maas",
+    "isbn13": "9781619630635",
+    "publicationDate": "2013-08-15",
+    "pages": 336
+  },
+  {
+    "id": 129,
+    "title": "Killing Floor",
+    "author": "Lee Child",
+    "isbn13": "9780241493144",
+    "publicationDate": "2022-08-29",
+    "pages": 80
+  },
+  {
+    "id": 130,
+    "title": "Save Me",
+    "author": "Mona Kasten",
+    "isbn13": "9783736305564",
+    "publicationDate": "2018-01-01",
+    "pages": 409
+  },
+  {
+    "id": 131,
+    "title": "Hyperion",
+    "author": "Dan Simmons",
+    "isbn13": "9780575076372",
+    "publicationDate": "2005-12-08",
+    "pages": 480
+  },
+  {
+    "id": 132,
+    "title": "Heartstopper, Volume 4",
+    "author": "Alice Oseman",
+    "isbn13": "9781338617559",
+    "publicationDate": "2021-12-07",
+    "pages": 384
+  },
+  {
+    "id": 133,
+    "title": "Flow",
+    "author": "Mihaly Csikszentmihalyi",
+    "isbn13": "9780061339202",
+    "publicationDate": "2008-08-01",
+    "pages": 336
+  },
+  {
+    "id": 134,
+    "title": "The Red Pyramid",
+    "author": "Rick Riordan",
+    "isbn13": "9780606392167",
+    "publicationDate": "2011-08-16",
+    "pages": 544
+  },
+  {
+    "id": 135,
+    "title": "Corrupted Chaos",
+    "author": "Shain Rose",
+    "isbn13": "9781956810080",
+    "publicationDate": "2022-10-24",
+    "pages": 372
+  },
+  {
+    "id": 136,
+    "title": "Daisy Jones & The Six",
+    "author": "Taylor Jenkins Reid",
+    "isbn13": "9781524798628",
+    "publicationDate": "2019-03-05",
+    "pages": 368
+  },
+  {
+    "id": 137,
+    "title": "Prince Caspian",
+    "author": "C. S. Lewis",
+    "isbn13": "9780061125256",
+    "publicationDate": "2006-09-01",
+    "pages": 240
+  },
+  {
+    "id": 138,
+    "title": "The Diary of a Young Girl- Anne Frank",
+    "author": "Anne Frank",
+    "isbn13": "9780141007212",
+    "publicationDate": "2001-11-19",
+    "pages": 432
+  },
+  {
+    "id": 139,
+    "title": "The Selfish Gene",
+    "author": "Richard Dawkins",
+    "isbn13": "9780199291151",
+    "publicationDate": "2006-03-23",
+    "pages": 384
+  },
+  {
+    "id": 140,
+    "title": "Master Your Emotions",
+    "author": "Thibaut Meurisse",
+    "isbn13": "9781981089154",
+    "publicationDate": "2018-05-16",
+    "pages": 254
+  },
+  {
+    "id": 141,
+    "title": "Attitude Is Everything",
+    "author": "Jeff Keller",
+    "isbn13": "9781891279218",
+    "publicationDate": "2007-02-15",
+    "pages": 130
+  },
+  {
+    "id": 142,
+    "title": "The Forty Rules of Love",
+    "author": "Elif Şafak",
+    "isbn13": "9780143118527",
+    "publicationDate": "2011-04-26",
+    "pages": 368
+  },
+  {
+    "id": 143,
+    "title": "How to Become a People Magnet",
+    "author": "Marc Reklau",
+    "isbn13": "9781726797405",
+    "publicationDate": "2018-10-25",
+    "pages": 158
+  },
+  {
+    "id": 144,
+    "title": "Le mythe de Sisyphe",
+    "author": "Albert Camus",
+    "isbn13": "9783499227653",
+    "publicationDate": "2000-06-01",
+    "pages": 204
+  },
+  {
+    "id": 145,
+    "title": "My side of the mountain",
+    "author": "Jean Craighead George",
+    "isbn13": "9780141312422",
+    "publicationDate": "2001-05-21",
+    "pages": 177
+  },
+  {
+    "id": 146,
+    "title": "Beach Read",
+    "author": "Emily Henry",
+    "isbn13": "9781984806734",
+    "publicationDate": "2020-05-19",
+    "pages": 384
+  },
+  {
+    "id": 147,
+    "title": "Mythology",
+    "author": "Edith Hamilton",
+    "isbn13": "9780446574754",
+    "publicationDate": "2011-01-01",
+    "pages": 512
+  },
+  {
+    "id": 148,
+    "title": "A Court of Silver Flames",
+    "author": "Sarah J. Maas",
+    "isbn13": "9781526620644",
+    "publicationDate": "2021-02-16",
+    "pages": 757
+  },
+  {
+    "id": 149,
+    "title": "She Comes First",
+    "author": "Ian Kerner",
+    "isbn13": "9781598206180",
+    "publicationDate": "2007-02-01",
+    "pages": 264
+  },
+  {
+    "id": 150,
+    "title": "The Book",
+    "author": "Hungry Minds",
+    "isbn13": "9791387574079",
+    "publicationDate": "2025-10-01",
+    "pages": 410
+  },
+  {
+    "id": 151,
+    "title": "Psychology",
+    "author": "Robert A. Baron",
+    "isbn13": "9780205516186",
+    "publicationDate": "2007-01-05",
+    "pages": 672
+  },
+  {
+    "id": 152,
+    "title": "Hooked",
+    "author": "Emily McIntire",
+    "isbn13": "9781728283333",
+    "publicationDate": "2021-09-07",
+    "pages": 352
+  },
+  {
+    "id": 153,
+    "title": "Behave",
+    "author": "Robert M. Sapolsky",
+    "isbn13": "9780143110910",
+    "publicationDate": "2018-05-01",
+    "pages": 790
+  },
+  {
+    "id": 154,
+    "title": "Das Schloß",
+    "author": "Franz Kafka",
+    "isbn13": "9780394603889",
+    "publicationDate": "1969-03-12",
+    "pages": 481
+  },
+  {
+    "id": 155,
+    "title": "The Palace of Illusions",
+    "author": "Chitra Banerjee Divakaruni",
+    "isbn13": "9780385515993",
+    "publicationDate": "2008-02-12",
+    "pages": 384
+  },
+  {
+    "id": 156,
+    "title": "The Poppy War",
+    "author": "R. F. Kuang",
+    "isbn13": "9780062662590",
+    "publicationDate": "2018-05-01",
+    "pages": 544
+  },
+  {
+    "id": 157,
+    "title": "The House on Mango Street",
+    "author": "Sandra Cisneros",
+    "isbn13": "9781432865054",
+    "publicationDate": "2019-05-29",
+    "pages": 170
+  },
+  {
+    "id": 158,
+    "title": "Wildfire",
+    "author": "Hannah Grace",
+    "isbn13": "9781668026274",
+    "publicationDate": "2023-10-03",
+    "pages": 448
+  },
+  {
+    "id": 159,
+    "title": "God of Wrath",
+    "author": "Rina Kent",
+    "isbn13": "9781685452094",
+    "publicationDate": "2022-11-17",
+    "pages": 476
+  },
+  {
+    "id": 160,
+    "title": "The Locked Door",
+    "author": "Freida McFadden",
+    "isbn13": "9781087951430",
+    "publicationDate": "2021-06-01",
+    "pages": 312
+  },
+  {
+    "id": 161,
+    "title": "People We Meet On Vacation",
+    "author": "Emily Henry",
+    "isbn13": "9781984806758",
+    "publicationDate": "2021-05-11",
+    "pages": 384
+  },
+  {
+    "id": 162,
+    "title": "The Secret Language of Relationships",
+    "author": "Gary Goldschneider",
+    "isbn13": "9780525426875",
+    "publicationDate": "2013-10-31",
+    "pages": 832
+  },
+  {
+    "id": 163,
+    "title": "You'd Be Home Now",
+    "author": "Kathleen Glasgow",
+    "isbn13": "9780525708049",
+    "publicationDate": "2021-09-28",
+    "pages": 400
+  },
+  {
+    "id": 164,
+    "title": "You're Too Good to Feel This Bad",
+    "author": "Nate Dallas",
+    "isbn13": "9780578643427",
+    "publicationDate": "2020-02-24",
+    "pages": 256
+  },
+  {
+    "id": 165,
+    "title": "English Grammar in Use",
+    "author": "Raymond Murphy",
+    "isbn13": "9780521189392",
+    "publicationDate": "2012-04-23",
+    "pages": 392
+  },
+  {
+    "id": 166,
+    "title": "Walden",
+    "author": "Henry David Thoreau",
+    "isbn13": "9781095033852",
+    "publicationDate": "2019-04-17",
+    "pages": 175
+  },
+  {
+    "id": 167,
+    "title": "Heidi",
+    "author": "Spyri, Johanna",
+    "isbn13": "9780861636594",
+    "publicationDate": "1994-05-01",
+    "pages": 48
+  },
+  {
+    "id": 168,
+    "title": "Her Soul to Take",
+    "author": "Harley Laroux",
+    "isbn13": "9780578978178",
+    "publicationDate": "2021-10-01",
+    "pages": 458
+  },
+  {
+    "id": 169,
+    "title": "Annihilation",
+    "author": "Jeff VanderMeer",
+    "isbn13": "9780374710774",
+    "publicationDate": "2014-02-04",
+    "pages": 210
+  },
+  {
+    "id": 170,
+    "title": "The Price of Salt",
+    "author": "Patricia Highsmith",
+    "isbn13": "9780393325997",
+    "publicationDate": "2004-02-23",
+    "pages": 288
+  },
+  {
+    "id": 171,
+    "title": "How to Win at Chess",
+    "author": "Levy Rozman",
+    "isbn13": "9781984862075",
+    "publicationDate": "2023-10-24",
+    "pages": 272
+  },
+  {
+    "id": 172,
+    "title": "Amulet",
+    "author": "Kazu Kibuishi",
+    "isbn13": "9780439846813",
+    "publicationDate": "2008-01-01",
+    "pages": 192
+  },
+  {
+    "id": 173,
+    "title": "The Pearl",
+    "author": "John Steinbeck",
+    "isbn13": "9780582434684",
+    "publicationDate": "2001-08-15",
+    "pages": 64
+  },
+  {
+    "id": 174,
+    "title": "Tales from a Not-So Friendly Frenemy",
+    "author": "Rachel Renée Russell",
+    "isbn13": "9780606398879",
+    "publicationDate": "2016-11-15",
+    "pages": 288
+  },
+  {
+    "id": 175,
+    "title": "The Score",
+    "author": "Elle Kennedy",
+    "isbn13": "9781775293958",
+    "publicationDate": "2016-01-11",
+    "pages": 354
+  },
+  {
+    "id": 176,
+    "title": "Women Who Think Too Much",
+    "author": "Susan Nolen-Hoeksema",
+    "isbn13": "9780805075250",
+    "publicationDate": "2004-02-01",
+    "pages": 288
+  },
+  {
+    "id": 177,
+    "title": "The Girl in Room 105",
+    "author": "Chetan Bhagat",
+    "isbn13": "9781542040464",
+    "publicationDate": "2018-10-09",
+    "pages": 312
+  },
+  {
+    "id": 178,
+    "title": "The Horse and His Boy",
+    "author": "C. S. Lewis",
+    "isbn13": "9780027576702",
+    "publicationDate": "1954-01-01",
+    "pages": 191
+  },
+  {
+    "id": 179,
+    "title": "Terms and Conditions",
+    "author": "Lauren Asher",
+    "isbn13": "9781737507734",
+    "publicationDate": "2022-02-21",
+    "pages": 492
+  },
+  {
+    "id": 180,
+    "title": "Out of my mind",
+    "author": "Sharon M. Draper",
+    "isbn13": "9781432860752",
+    "publicationDate": "2019-01-10",
+    "pages": 317
+  },
+  {
+    "id": 181,
+    "title": "Defy Me (Shatter Me)",
+    "author": "Tahereh Mafi",
+    "isbn13": "9780062676399",
+    "publicationDate": "2019-04-02",
+    "pages": 368
+  },
+  {
+    "id": 182,
+    "title": "Dragonflight",
+    "author": "Anne McCaffrey",
+    "isbn13": "9781435293304",
+    "publicationDate": "2008-05-29",
+    "pages": 299
+  },
+  {
+    "id": 183,
+    "title": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",
+    "author": "Aurélien Géron",
+    "isbn13": "9781492032649",
+    "publicationDate": "2019-10-15",
+    "pages": 856
+  },
+  {
+    "id": 184,
+    "title": "Never Finished",
+    "author": "David Goggins",
+    "isbn13": "9781544536828",
+    "publicationDate": "2022-12-04",
+    "pages": 312
+  },
+  {
+    "id": 185,
+    "title": "Dork Diaries 15",
+    "author": "Rachel Renée Russell",
+    "isbn13": "9781534480483",
+    "publicationDate": "2020-10-13",
+    "pages": 320
+  },
+  {
+    "id": 186,
+    "title": "Something I Never Told You",
+    "author": "Shravya Bhinder",
+    "isbn13": "9780143445906",
+    "publicationDate": "2019-03-15",
+    "pages": 256
+  },
+  {
+    "id": 187,
+    "title": "The Rudest Book Ever",
+    "author": "Shwetabh Gangwar",
+    "isbn13": "9789388754439",
+    "publicationDate": "2019-12-09",
+    "pages": 224
+  },
+  {
+    "id": 188,
+    "title": "The Kybalion",
+    "author": "Three Initiates",
+    "isbn13": "9781722502072",
+    "publicationDate": "2019-05-10",
+    "pages": 156
+  },
+  {
+    "id": 189,
+    "title": "Pretty Little Liars",
+    "author": "Sara Shepard",
+    "isbn13": "9780060887308",
+    "publicationDate": "2006-10-03",
+    "pages": 286
+  },
+  {
+    "id": 190,
+    "title": "On Earth We're Briefly Gorgeous",
+    "author": "Ocean Vuong",
+    "isbn13": "9780525562023",
+    "publicationDate": "2019-06-04",
+    "pages": 256
+  },
+  {
+    "id": 191,
+    "title": "Secrets of the Millionaire Mind",
+    "author": "T. Harv Eker",
+    "isbn13": "9780749926281",
+    "publicationDate": "2005-06-02",
+    "pages": 196
+  },
+  {
+    "id": 192,
+    "title": "An autobiography",
+    "author": "Mohandas Karamchand Gandhi",
+    "isbn13": "9780141186863",
+    "publicationDate": "2001-09-06",
+    "pages": 464
+  },
+  {
+    "id": 193,
+    "title": "Il mio nome è Stilton, Geronimo Stilton",
+    "author": "Elisabetta Dami",
+    "isbn13": "9780439691420",
+    "publicationDate": "2005-05-01",
+    "pages": 128
+  },
+  {
+    "id": 194,
+    "title": "The Ballad of Never After",
+    "author": "Stephanie Garber",
+    "isbn13": "9781250268426",
+    "publicationDate": "2022-09-13",
+    "pages": 416
+  },
+  {
+    "id": 195,
+    "title": "Also sprach Zarathustra",
+    "author": "Friedrich Nietzsche",
+    "isbn13": "9783520075185",
+    "publicationDate": "1988-01-01",
+    "pages": 408
+  },
+  {
+    "id": 196,
+    "title": "Building a Second Brain",
+    "author": "Tiago Forte",
+    "isbn13": "9781982167387",
+    "publicationDate": "2022-08-02",
+    "pages": 240
+  },
+  {
+    "id": 197,
+    "title": "FOREX",
+    "author": "G. Smith",
+    "isbn13": "9781537678085",
+    "publicationDate": "2016-09-17",
+    "pages": 76
+  },
+  {
+    "id": 198,
+    "title": "Getting Started Becoming a Master Hacker",
+    "author": "Occupytheweb",
+    "isbn13": "9781711729299",
+    "publicationDate": "2019-11-25",
+    "pages": 358
+  },
+  {
+    "id": 199,
+    "title": "Brisingr",
+    "author": "Christopher Paolini",
+    "isbn13": "9780375826726",
+    "publicationDate": "2008-09-23",
+    "pages": 748
+  },
+  {
+    "id": 200,
+    "title": "Redwall",
+    "author": "Brian Jacques",
+    "isbn13": "9780142410769",
+    "publicationDate": "2007-10-04",
+    "pages": 112
+  },
+  {
+    "id": 201,
+    "title": "The Things We Leave Unfinished",
+    "author": "Rebecca Yarros",
+    "isbn13": "9781682815663",
+    "publicationDate": "2021-02-23",
+    "pages": 400
+  },
+  {
+    "id": 202,
+    "title": "Piranesi",
+    "author": "Susanna Clarke",
+    "isbn13": "9781635575637",
+    "publicationDate": "2020-09-15",
+    "pages": 272
+  },
+  {
+    "id": 203,
+    "title": "The Hawthorne Legacy",
+    "author": "Jennifer Lynn Barnes",
+    "isbn13": "9780759557635",
+    "publicationDate": "2021-09-07",
+    "pages": 359
+  },
+  {
+    "id": 204,
+    "title": "Elements",
+    "author": "Euclid",
+    "isbn13": "9781402169007",
+    "publicationDate": "2001-07-11",
+    "pages": 420
+  },
+  {
+    "id": 205,
+    "title": "You",
+    "author": "Caroline Kepnes",
+    "isbn13": "9781501195433",
+    "publicationDate": "2018-08-28",
+    "pages": 464
+  },
+  {
+    "id": 206,
+    "title": "Suicide Notes",
+    "author": "Michael Thomas Ford",
+    "isbn13": "9780060737573",
+    "publicationDate": "2010-09-07",
+    "pages": 304
+  },
+  {
+    "id": 207,
+    "title": "Die Traumdeutung",
+    "author": "Sigmund Freud",
+    "isbn13": "9780380010004",
+    "publicationDate": "1980-03-20",
+    "pages": 736
+  },
+  {
+    "id": 208,
+    "title": "The Magic of the Lost Temple",
+    "author": "Sudha Murti",
+    "isbn13": "9780143333166",
+    "publicationDate": "2015-11-25",
+    "pages": 164
+  },
+  {
+    "id": 209,
+    "title": "Unfuck your brain",
+    "author": "Faith G. Harper",
+    "isbn13": "9781621063049",
+    "publicationDate": "2017-11-07",
+    "pages": 192
+  },
+  {
+    "id": 210,
+    "title": "Eyewitness",
+    "author": "DK Publishing",
+    "isbn13": "9780789458926",
+    "publicationDate": "2000-06-01",
+    "pages": 64
+  },
+  {
+    "id": 211,
+    "title": "Eleven Minutes",
+    "author": "Paulo Coelho",
+    "isbn13": "9780060589288",
+    "publicationDate": "2005-03-29",
+    "pages": 320
+  },
+  {
+    "id": 212,
+    "title": "Neverwhere",
+    "author": "Neil Gaiman",
+    "isbn13": "9783453137578",
+    "publicationDate": "1998-07-01",
+    "pages": 365
+  },
+  {
+    "id": 213,
+    "title": "Πολιτικά (Politiká)",
+    "author": "Aristotle",
+    "isbn13": "9780543895905",
+    "publicationDate": "2001-08-02",
+    "pages": 465
+  },
+  {
+    "id": 214,
+    "title": "Things Have Gotten Worse Since We Last Spoke",
+    "author": "Eric LaRocca",
+    "isbn13": "9781951658120",
+    "publicationDate": "2021-06-01",
+    "pages": 120
+  },
+  {
+    "id": 215,
+    "title": "Invisible Man",
+    "author": "Ralph Ellison",
+    "isbn13": "9783250102663",
+    "publicationDate": "1995-09-01",
+    "pages": 664
+  },
+  {
+    "id": 216,
+    "title": "Every last word",
+    "author": "Tamara Ireland Stone",
+    "isbn13": "9781484723647",
+    "publicationDate": "2017-06-06",
+    "pages": 400
+  },
+  {
+    "id": 217,
+    "title": "A Court of Frost and Starlight",
+    "author": "Sarah J. Maas",
+    "isbn13": "9781547600502",
+    "publicationDate": "2019-05-07",
+    "pages": 320
+  },
+  {
+    "id": 218,
+    "title": "Gideon the Ninth",
+    "author": "Tamsyn Muir",
+    "isbn13": "9781250313188",
+    "publicationDate": "2020-07-14",
+    "pages": 496
+  },
+  {
+    "id": 219,
+    "title": "Monster",
+    "author": "Walter Dean Myers",
+    "isbn13": "9780062275004",
+    "publicationDate": "2015-10-20",
+    "pages": 160
+  },
+  {
+    "id": 220,
+    "title": "Orlando",
+    "author": "Virginia Woolf",
+    "isbn13": "9783596505470",
+    "publicationDate": "2002-01-01",
+    "pages": 249
+  },
+  {
+    "id": 221,
+    "title": "The Importance of Being Earnest",
+    "author": "Oscar Wilde",
+    "isbn13": "9780497256616",
+    "publicationDate": "2006-02-05",
+    "pages": 128
+  },
+  {
+    "id": 222,
+    "title": "Long Walk to Freedom",
+    "author": "Nelson Mandela",
+    "isbn13": "9780349107530",
+    "publicationDate": "1995-08-11",
+    "pages": 768
+  },
+  {
+    "id": 223,
+    "title": "채식주의자",
+    "author": "Han Kang",
+    "isbn13": "9780553448184",
+    "publicationDate": "2016-02-02",
+    "pages": 188
+  },
+  {
+    "id": 224,
+    "title": "3am Questions",
+    "author": "Annika M. Zimmermann",
+    "isbn13": "9783753482736",
+    "publicationDate": "2021-05-21",
+    "pages": 356
+  },
+  {
+    "id": 225,
+    "title": "21 Lessons for the 21st Century",
+    "author": "Yuval Noah Harari",
+    "isbn13": "9780771048852",
+    "publicationDate": "2018-09-04",
+    "pages": 384
+  },
+  {
+    "id": 226,
+    "title": "Nightfall",
+    "author": "Shannon Messenger",
+    "isbn13": "9781481497404",
+    "publicationDate": "2017-11-07",
+    "pages": 576
+  },
+  {
+    "id": 227,
+    "title": "Consider Me",
+    "author": "Becka Mack",
+    "isbn13": "9781778133008",
+    "publicationDate": "2022-03-18",
+    "pages": 460
+  },
+  {
+    "id": 228,
+    "title": "Crying in H Mart",
+    "author": "Michelle Zauner",
+    "isbn13": "9780525657743",
+    "publicationDate": "2021-04-20",
+    "pages": 256
+  },
+  {
+    "id": 229,
+    "title": "King of Envy",
+    "author": "Ana Huang",
+    "isbn13": "9781728289762",
+    "publicationDate": "2025-04-29",
+    "pages": 528
+  },
+  {
+    "id": 230,
+    "title": "It Happened One Summer",
+    "author": "Tessa Bailey",
+    "isbn13": "9780063045651",
+    "publicationDate": "2021-07-13",
+    "pages": 368
+  },
+  {
+    "id": 231,
+    "title": "Horus Rising",
+    "author": "Dan Abnett",
+    "isbn13": "9781844162949",
+    "publicationDate": "2006-04-25",
+    "pages": 416
+  },
+  {
+    "id": 232,
+    "title": "If You Give a Mouse a Cookie",
+    "author": "Laura Joffe Numeroff",
+    "isbn13": "9780064434096",
+    "publicationDate": "1996-10-30",
+    "pages": 32
+  },
+  {
+    "id": 233,
+    "title": "Eat, Pray, Love",
+    "author": "Elizabeth Gilbert",
+    "isbn13": "9780143038412",
+    "publicationDate": "2007-01-30",
+    "pages": 334
+  },
+  {
+    "id": 234,
+    "title": "Solaris",
+    "author": "Stanisław Lem",
+    "isbn13": "9789754706253",
+    "publicationDate": "1997-11-04",
+    "pages": 236
+  },
+  {
+    "id": 235,
+    "title": "Public Speaking and Influencing Men in Business",
+    "author": "Dale Carnegie",
+    "isbn13": "9789561002043",
+    "publicationDate": "2005-10-28",
+    "pages": 100
+  },
+  {
+    "id": 236,
+    "title": "A Touch of Darkness",
+    "author": "Scarlett St. Clair",
+    "isbn13": "9780991132393",
+    "publicationDate": "2020-05-25",
+    "pages": 354
+  },
+  {
+    "id": 237,
+    "title": "Oswaal CBSE Sample Question Paper Class 10 Mathematics Standard Book",
+    "author": "Oswaal Editorial Board",
+    "isbn13": "9789389340693",
+    "publicationDate": "2019-11-30",
+    "pages": 176
+  },
+  {
+    "id": 238,
+    "title": "Things We Hide from the Light",
+    "author": "Lucy Score",
+    "isbn13": "9781728276113",
+    "publicationDate": "2023-02-21",
+    "pages": 592
+  },
+  {
+    "id": 239,
+    "title": "David Copperfield",
+    "author": "Charles Dickens",
+    "isbn13": "9788772475080",
+    "publicationDate": "1997-06-25",
+    "pages": 64
+  },
+  {
+    "id": 240,
+    "title": "How to Win Friends and Influence People in the Digital Age",
+    "author": "The Dale Carnegie Organization",
+    "isbn13": "9780857207289",
+    "publicationDate": "2011-08-31",
+    "pages": 245
+  },
+  {
+    "id": 241,
+    "title": "Rock Paper Scissors",
+    "author": "Alice Feeney",
+    "isbn13": "9781250266101",
+    "publicationDate": "2021-09-07",
+    "pages": 304
+  },
+  {
+    "id": 242,
+    "title": "De rerum natura",
+    "author": "Titus Lucretius Carus",
+    "isbn13": "9780801850554",
+    "publicationDate": "1995-06-01",
+    "pages": 312
+  },
+  {
+    "id": 243,
+    "title": "Hans Andersen's Fairy Tales",
+    "author": "Hans Christian Andersen",
+    "isbn13": "9780517092910",
+    "publicationDate": "1993-05-10",
+    "pages": 816
+  },
+  {
+    "id": 244,
+    "title": "Veinte poemas de amor y una canción desesperada",
+    "author": "Pablo Neruda",
+    "isbn13": "9781400099726",
+    "publicationDate": "2004-08-18",
+    "pages": 152
+  },
+  {
+    "id": 245,
+    "title": "Once You’re Mine",
+    "author": "Morgan Bridges",
+    "isbn13": "9781538772164",
+    "publicationDate": "2024-08-20",
+    "pages": 320
+  },
+  {
+    "id": 246,
+    "title": "A Confederacy of Dunces",
+    "author": "John Kennedy Toole",
+    "isbn13": "9783129079911",
+    "publicationDate": "1982-01-01",
+    "pages": 433
+  },
+  {
+    "id": 247,
+    "title": "Positive Personality Profiles",
+    "author": "Robert A Rohm Ph.D",
+    "isbn13": "9780964108004",
+    "publicationDate": "1994-03-01",
+    "pages": 200
+  },
+  {
+    "id": 248,
+    "title": "Ready, Alice?",
+    "author": "Amanda Haley",
+    "isbn13": "9781402727177",
+    "publicationDate": "2005-08-01",
+    "pages": 32
+  },
+  {
+    "id": 249,
+    "title": "The Struggle",
+    "author": "Lisa Jane Smith",
+    "isbn13": "9780340843505",
+    "publicationDate": "2001-10-25",
+    "pages": 224
+  },
+  {
+    "id": 250,
+    "title": "Children of Blood and Bone",
+    "author": "Tomi Adeyemi",
+    "isbn13": "9781250170972",
+    "publicationDate": "2018-03-06",
+    "pages": 544
+  },
+  {
+    "id": 251,
+    "title": "Neon Gods",
+    "author": "Katee Robert",
+    "isbn13": "9781728231730",
+    "publicationDate": "2021-06-01",
+    "pages": 384
+  },
+  {
+    "id": 252,
+    "title": "Ringworld",
+    "author": "Larry Niven",
+    "isbn13": "9780765324627",
+    "publicationDate": "2014-07-08",
+    "pages": 272
+  },
+  {
+    "id": 253,
+    "title": "Unwind",
+    "author": "Neal Shusterman",
+    "isbn13": "9781416912040",
+    "publicationDate": "2007-11-06",
+    "pages": 352
+  },
+  {
+    "id": 254,
+    "title": "Consider Phlebas",
+    "author": "Iain Banks",
+    "isbn13": "9783453215306",
+    "publicationDate": "2002-06-01",
+    "pages": 762
+  },
+  {
+    "id": 255,
+    "title": "Fear and Loathing in Las Vegas",
+    "author": "Hunter S. Thompson",
+    "isbn13": "9780007204496",
+    "publicationDate": "2005-04-04",
+    "pages": 224
+  },
+  {
+    "id": 256,
+    "title": "Chicken Little (Read-Aloud Storybook)",
+    "author": "RH Disney",
+    "isbn13": "9780736423298",
+    "publicationDate": "2005-09-13",
+    "pages": 64
+  },
+  {
+    "id": 257,
+    "title": "Homeland",
+    "author": "R. A. Salvatore",
+    "isbn13": "9783442245628",
+    "publicationDate": "1992-01-01",
+    "pages": 218
+  },
+  {
+    "id": 258,
+    "title": "Radio Silence",
+    "author": "Alice Oseman",
+    "isbn13": "9780062335722",
+    "publicationDate": "2019-04-23",
+    "pages": 496
+  },
+  {
+    "id": 259,
+    "title": "Dopamine Nation",
+    "author": "Anna Lembke",
+    "isbn13": "9781524746728",
+    "publicationDate": "2021-08-24",
+    "pages": 304
+  },
+  {
+    "id": 260,
+    "title": "Five Survive",
+    "author": "Holly Jackson",
+    "isbn13": "9780593704899",
+    "publicationDate": "2022-11-29",
+    "pages": 400
+  },
+  {
+    "id": 261,
+    "title": "Secrets of Divine Love",
+    "author": "A. Helwa",
+    "isbn13": "9781734231205",
+    "publicationDate": "2020-02-20",
+    "pages": 385
+  },
+  {
+    "id": 262,
+    "title": "Human Resource management",
+    "author": "Gary Dessler",
+    "isbn13": "9780134235455",
+    "publicationDate": "2016-01-16",
+    "pages": 720
+  },
+  {
+    "id": 263,
+    "title": "The Blue Umbrella",
+    "author": "Ruskin Bond",
+    "isbn13": "9788171673407",
+    "publicationDate": "1992-11-05",
+    "pages": 88
+  },
+  {
+    "id": 264,
+    "title": "The Blade Itself",
+    "author": "Joe Abercrombie",
+    "isbn13": "9780575077850",
+    "publicationDate": "2006-05-04",
+    "pages": 422
+  },
+  {
+    "id": 265,
+    "title": "How to Develop Self-confidence (Personal Development)",
+    "author": "Dale Carnegie",
+    "isbn13": "9780749305796",
+    "publicationDate": "2007-04-05",
+    "pages": 256
+  },
+  {
+    "id": 266,
+    "title": "The Law of Success",
+    "author": "Napoleon Hill",
+    "isbn13": "9789562911016",
+    "publicationDate": "2006-02-21",
+    "pages": 540
+  },
+  {
+    "id": 267,
+    "title": "The Turn of the Screw",
+    "author": "Henry James",
+    "isbn13": "9780312406912",
+    "publicationDate": "2003-11-06",
+    "pages": 386
+  },
+  {
+    "id": 268,
+    "title": "The Complete Book of Magic and Witchcraft",
+    "author": "Kathryn Paulsen",
+    "isbn13": "9780451168320",
+    "publicationDate": "1970-09-01",
+    "pages": 192
+  },
+  {
+    "id": 269,
+    "title": "My Secret Garden",
+    "author": "Nancy Friday",
+    "isbn13": "9781416567011",
+    "publicationDate": "2008-02-05",
+    "pages": 464
+  },
+  {
+    "id": 270,
+    "title": "One Indian Girl",
+    "author": "Chetan Bhagat",
+    "isbn13": "9788129142146",
+    "publicationDate": "2016-10-01",
+    "pages": 280
+  },
+  {
+    "id": 271,
+    "title": "Brain Damage",
+    "author": "Freida McFadden",
+    "isbn13": "9781532902949",
+    "publicationDate": "2016-05-04",
+    "pages": 392
+  },
+  {
+    "id": 272,
+    "title": "Wizard's First Rule",
+    "author": "Terry Goodkind",
+    "isbn13": "9783442246144",
+    "publicationDate": "1995-03-01",
+    "pages": 511
+  },
+  {
+    "id": 273,
+    "title": "The Thursday Murder Club",
+    "author": "Richard Osman",
+    "isbn13": "9781984880963",
+    "publicationDate": "2020-09-22",
+    "pages": 368
+  },
+  {
+    "id": 274,
+    "title": "Far from the Madding Crowd",
+    "author": "Thomas Hardy",
+    "isbn13": "9781853260674",
+    "publicationDate": "1997-08-05",
+    "pages": 362
+  },
+  {
+    "id": 275,
+    "title": "The Final Gambit",
+    "author": "Jennifer Lynn Barnes",
+    "isbn13": "9780316371025",
+    "publicationDate": "2023-07-25",
+    "pages": 400
+  },
+  {
+    "id": 276,
+    "title": "Things We Left Behind",
+    "author": "Lucy Score",
+    "isbn13": "9781728276120",
+    "publicationDate": "2023-09-05",
+    "pages": 698
+  },
+  {
+    "id": 277,
+    "title": "How to Make Friends with the Dark",
+    "author": "Kathleen Glasgow",
+    "isbn13": "9781101934753",
+    "publicationDate": "2019-04-09",
+    "pages": 432
+  },
+  {
+    "id": 278,
+    "title": "One Last Stop",
+    "author": "Casey McQuiston",
+    "isbn13": "9781250244499",
+    "publicationDate": "2021-06-01",
+    "pages": 432
+  },
+  {
+    "id": 279,
+    "title": "Der Antichrist",
+    "author": "Friedrich Nietzsche",
+    "isbn13": "9781406834604",
+    "publicationDate": "2006-11-01",
+    "pages": 68
+  },
+  {
+    "id": 280,
+    "title": "Prisoners of geography",
+    "author": "Tim Marshall",
+    "isbn13": "9781501121470",
+    "publicationDate": "2016-10-11",
+    "pages": 320
+  },
+  {
+    "id": 281,
+    "title": "In Defense of Food",
+    "author": "Michael Pollan",
+    "isbn13": "9781594201455",
+    "publicationDate": "2008-01-01",
+    "pages": 256
+  },
+  {
+    "id": 282,
+    "title": "A Princess of Mars",
+    "author": "Edgar Rice Burroughs",
+    "isbn13": "9780345331380",
+    "publicationDate": "1985-12-12",
+    "pages": 160
+  },
+  {
+    "id": 283,
+    "title": "Lost in Little Bear’s Room",
+    "author": "Else Holmelund Minarik",
+    "isbn13": "9780694016891",
+    "publicationDate": "2002-11-26",
+    "pages": 24
+  },
+  {
+    "id": 284,
+    "title": "Why does he do that?",
+    "author": "Lundy Bancroft",
+    "isbn13": "9780399148446",
+    "publicationDate": "2002-09-26",
+    "pages": 432
+  },
+  {
+    "id": 285,
+    "title": "The power of your subconcious mind",
+    "author": "Joseph Murphy",
+    "isbn13": "9780136879725",
+    "publicationDate": "1988-04-28",
+    "pages": 224
+  },
+  {
+    "id": 286,
+    "title": "Friends, Lovers, and the Big Terrible Thing",
+    "author": "Matthew Perry",
+    "isbn13": "9781250866455",
+    "publicationDate": "2023-11-07",
+    "pages": 272
+  },
+  {
+    "id": 287,
+    "title": "The Unhoneymooners",
+    "author": "Christina Lauren",
+    "isbn13": "9781501128035",
+    "publicationDate": "2019-05-14",
+    "pages": 416
+  },
+  {
+    "id": 288,
+    "title": "Happy Place",
+    "author": "Emily Henry",
+    "isbn13": "9780593441275",
+    "publicationDate": "2023-04-25",
+    "pages": 400
+  },
+  {
+    "id": 289,
+    "title": "The Art of Letting Go",
+    "author": "Thought Catalog",
+    "isbn13": "9781530313860",
+    "publicationDate": "2016-03-01",
+    "pages": 94
+  },
+  {
+    "id": 290,
+    "title": "Tower of Dawn",
+    "author": "Sarah J. Maas",
+    "isbn13": "9780606415590",
+    "publicationDate": "2018-10-23",
+    "pages": 688
+  },
+  {
+    "id": 291,
+    "title": "Tintenherz",
+    "author": "Cornelia Funke",
+    "isbn13": "9788478442355",
+    "publicationDate": "2006-04-30",
+    "pages": 598
+  },
+  {
+    "id": 292,
+    "title": "Johnny Tremain",
+    "author": "Esther Forbes",
+    "isbn13": "9780440442509",
+    "publicationDate": "1980-04-15",
+    "pages": 288
+  },
+  {
+    "id": 293,
+    "title": "The Queen of the Damned",
+    "author": "Anne Rice",
+    "isbn13": "9780394558233",
+    "publicationDate": "1988-10-31",
+    "pages": 448
+  },
+  {
+    "id": 294,
+    "title": "How to Kill Your Family",
+    "author": "Bella Mackie",
+    "isbn13": "9780008365912",
+    "publicationDate": "2021-06-10",
+    "pages": 400
+  },
+  {
+    "id": 295,
+    "title": "Practising the Power of Now",
+    "author": "Eckhart Tolle",
+    "isbn13": "9780340822531",
+    "publicationDate": "2002-04-04",
+    "pages": 144
+  },
+  {
+    "id": 296,
+    "title": "Middlemarch",
+    "author": "George Eliot",
+    "isbn13": "9780393974522",
+    "publicationDate": "1999-12-19",
+    "pages": 688
+  },
+  {
+    "id": 297,
+    "title": "New Kid",
+    "author": "Jerry Craft",
+    "isbn13": "9780062691194",
+    "publicationDate": "2019-02-05",
+    "pages": 256
+  },
+  {
+    "id": 298,
+    "title": "The To All the Boys I've Loved Before Collection",
+    "author": "Jenny Han",
+    "isbn13": "9781481495363",
+    "publicationDate": "2017-05-16",
+    "pages": 1056
+  },
+  {
+    "id": 299,
+    "title": "Hackers",
+    "author": "Steven Levy",
+    "isbn13": "9780141000510",
+    "publicationDate": "2001-01-02",
+    "pages": 464
+  },
+  {
+    "id": 300,
+    "title": "Physics Galaxy 2020-21",
+    "author": "Ashish Arora",
+    "isbn13": "9788193975244",
+    "publicationDate": "2019-01-01",
+    "pages": 680
+  },
+  {
+    "id": 301,
+    "title": "L'amica geniale",
+    "author": "Elena Ferrante",
+    "isbn13": "9788866320326",
+    "publicationDate": "2019-09-19",
+    "pages": 327
+  },
+  {
+    "id": 302,
+    "title": "Track Edition Uk",
+    "author": "Louise Erdrich",
+    "isbn13": "9780006546214",
+    "publicationDate": "1994-06-13",
+    "pages": 384
+  },
+  {
+    "id": 303,
+    "title": "Gathering Blue",
+    "author": "Lois Lowry",
+    "isbn13": "9783551580696",
+    "publicationDate": "2001-10-01",
+    "pages": 219
+  },
+  {
+    "id": 304,
+    "title": "Linux Basics for Hackers",
+    "author": "OccupyTheWeb",
+    "isbn13": "9781593278557",
+    "publicationDate": "2018-12-04",
+    "pages": 248
+  },
+  {
+    "id": 305,
+    "title": "Dopamine Detox",
+    "author": "Thibaut Meurisse",
+    "isbn13": "9798525995178",
+    "publicationDate": "2021-07-04",
+    "pages": 74
+  },
+  {
+    "id": 306,
+    "title": "All Systems Red",
+    "author": "Martha Wells",
+    "isbn13": "9780765397539",
+    "publicationDate": "2017-05-02",
+    "pages": 158
+  },
+  {
+    "id": 307,
+    "title": "The Lies of Locke Lamora",
+    "author": "Scott Lynch",
+    "isbn13": "9780575076945",
+    "publicationDate": "2006-06-01",
+    "pages": 512
+  },
+  {
+    "id": 308,
+    "title": "One Arranged Murder",
+    "author": "Chetan Bhagat",
+    "isbn13": "9781542094139",
+    "publicationDate": "2020-09-28",
+    "pages": 312
+  },
+  {
+    "id": 309,
+    "title": "Das Glasperlenspiel",
+    "author": "Hermann Hesse",
+    "isbn13": "9783518413357",
+    "publicationDate": "2002-01-01",
+    "pages": 576
+  },
+  {
+    "id": 310,
+    "title": "Deviant King",
+    "author": "Rina Kent",
+    "isbn13": "9781701371415",
+    "publicationDate": "2019-10-21",
+    "pages": 360
+  },
+  {
+    "id": 311,
+    "title": "Darkstalker",
+    "author": "Tui T. Sutherland",
+    "isbn13": "9781338053623",
+    "publicationDate": "2017-11-28",
+    "pages": 400
+  },
+  {
+    "id": 312,
+    "title": "Front Desk",
+    "author": "Kelly Yang",
+    "isbn13": "9781432861452",
+    "publicationDate": "2019-01-10",
+    "pages": 395
+  },
+  {
+    "id": 313,
+    "title": "Bully",
+    "author": "Penelope Douglas",
+    "isbn13": "9780451477101",
+    "publicationDate": "2016-01-05",
+    "pages": 352
+  },
+  {
+    "id": 314,
+    "title": "Wish I Could Tell You",
+    "author": "Durjoy Datta",
+    "isbn13": "9780143448334",
+    "publicationDate": "2019-10-04",
+    "pages": 288
+  },
+  {
+    "id": 315,
+    "title": "Unite Me",
+    "author": "Tahereh Mafi",
+    "isbn13": "9781405296243",
+    "publicationDate": "2019-06-13",
+    "pages": 208
+  },
+  {
+    "id": 316,
+    "title": "The Red House Mystery",
+    "author": "A. A. Milne",
+    "isbn13": "9780099521273",
+    "publicationDate": "2009-08-31",
+    "pages": 224
+  },
+  {
+    "id": 317,
+    "title": "PHP & MySQL",
+    "author": "Jon Duckett",
+    "isbn13": "9781119149217",
+    "publicationDate": "2020-09-09",
+    "pages": 672
+  },
+  {
+    "id": 318,
+    "title": "Four Thousand Weeks",
+    "author": "Oliver Burkeman",
+    "isbn13": "9781250849359",
+    "publicationDate": "2022-08-09",
+    "pages": 288
+  },
+  {
+    "id": 319,
+    "title": "Lodestar",
+    "author": "Shannon Messenger",
+    "isbn13": "9781481474955",
+    "publicationDate": "2016-11-01",
+    "pages": 688
+  },
+  {
+    "id": 320,
+    "title": "Rising Tides",
+    "author": "Nora Roberts",
+    "isbn13": "9783453161290",
+    "publicationDate": "2000-01-01",
+    "pages": 383
+  },
+  {
+    "id": 321,
+    "title": "Dare to lead",
+    "author": "Brené Brown",
+    "isbn13": "9780593171127",
+    "publicationDate": "2019-07-23",
+    "pages": 400
+  },
+  {
+    "id": 322,
+    "title": "Cricket in Times Square",
+    "author": "George Selden",
+    "isbn13": "9780440415633",
+    "publicationDate": "1970-09-15",
+    "pages": 160
+  },
+  {
+    "id": 323,
+    "title": "If We Ever Meet Again",
+    "author": "Ana Huang",
+    "isbn13": "9781735056609",
+    "publicationDate": "2020-05-31",
+    "pages": 292
+  },
+  {
+    "id": 324,
+    "title": "Eleanor Oliphant is Completely Fine",
+    "author": "Gail Honeyman",
+    "isbn13": "9780735220683",
+    "publicationDate": "2017-05-09",
+    "pages": 336
+  },
+  {
+    "id": 325,
+    "title": "Women",
+    "author": "Charles Bukowski",
+    "isbn13": "9780061177590",
+    "publicationDate": "2007-02-27",
+    "pages": 304
+  },
+  {
+    "id": 326,
+    "title": "Mildred and Sam",
+    "author": "Sharleen Collicott",
+    "isbn13": "9780060002008",
+    "publicationDate": "2004-02-17",
+    "pages": 48
+  },
+  {
+    "id": 327,
+    "title": "Where's Molly",
+    "author": "H. D. Carlton",
+    "isbn13": "9781957635156",
+    "publicationDate": "2024-02-16",
+    "pages": 241
+  },
+  {
+    "id": 328,
+    "title": "Girl, Wash Your Face",
+    "author": "Rachel Hollis",
+    "isbn13": "9781400216086",
+    "publicationDate": "2019-03-12",
+    "pages": 320
+  },
+  {
+    "id": 329,
+    "title": "Contagious",
+    "author": "Jonah Berger",
+    "isbn13": "9781476776682",
+    "publicationDate": "2013-12-17",
+    "pages": 256
+  },
+  {
+    "id": 330,
+    "title": "What Men Don't Want Women To Know",
+    "author": "Smith & Doe Staff",
+    "isbn13": "9780312186791",
+    "publicationDate": "1998-06-15",
+    "pages": 176
+  },
+  {
+    "id": 331,
+    "title": "Anxious People",
+    "author": "Fredrik Backman",
+    "isbn13": "9781501160837",
+    "publicationDate": "2020-09-08",
+    "pages": 352
+  },
+  {
+    "id": 332,
+    "title": "Save me an orange",
+    "author": "Hayley Grace",
+    "isbn13": "9798990047709",
+    "publicationDate": "2024-03-12",
+    "pages": 114
+  },
+  {
+    "id": 333,
+    "title": "Palace of Illusions",
+    "author": "Chitra Banerjee Divakaruni",
+    "isbn13": "9780330458535",
+    "publicationDate": "2008-01-01",
+    "pages": 384
+  },
+  {
+    "id": 334,
+    "title": "If I Stay",
+    "author": "Gayle Forman",
+    "isbn13": "9780142415436",
+    "publicationDate": "2010-04-06",
+    "pages": 272
+  },
+  {
+    "id": 335,
+    "title": "Artemis Fowl and the Eternity Code",
+    "author": "Eoin Colfer",
+    "isbn13": "9780141315485",
+    "publicationDate": "2004-03-25",
+    "pages": 352
+  },
+  {
+    "id": 336,
+    "title": "Scattered",
+    "author": "Gabor Maté",
+    "isbn13": "9780452279636",
+    "publicationDate": "2000-08-01",
+    "pages": 368
+  },
+  {
+    "id": 337,
+    "title": "The Millionaire Fastlane",
+    "author": "M. J. DeMarco",
+    "isbn13": "9780984358137",
+    "publicationDate": "2021-11-22",
+    "pages": 336
+  },
+  {
+    "id": 338,
+    "title": "Invisible Women",
+    "author": "Caroline Criado Perez",
+    "isbn13": "9781419729072",
+    "publicationDate": "2019-03-12",
+    "pages": 272
+  },
+  {
+    "id": 339,
+    "title": "The Silver Sword",
+    "author": "Ian Serraillier",
+    "isbn13": "9780590437158",
+    "publicationDate": "1990-05-01",
+    "pages": 224
+  },
+  {
+    "id": 340,
+    "title": "A Room with a View",
+    "author": "E. M. Forster",
+    "isbn13": "9781404327542",
+    "publicationDate": "2002-10-24",
+    "pages": 228
+  },
+  {
+    "id": 341,
+    "title": "Principles",
+    "author": "Ray Dalio",
+    "isbn13": "9781501124020",
+    "publicationDate": "2017-09-19",
+    "pages": 592
+  },
+  {
+    "id": 342,
+    "title": "The Shadow Rising",
+    "author": "Robert Jordan",
+    "isbn13": "9780812513738",
+    "publicationDate": "1993-10-15",
+    "pages": 1008
+  },
+  {
+    "id": 343,
+    "title": "GIRL, INTERRUPTED",
+    "author": "Susanna Kaysen",
+    "isbn13": "9780329054618",
+    "publicationDate": "1993-03-05",
+    "pages": 168
+  },
+  {
+    "id": 344,
+    "title": "The Perfect Marriage",
+    "author": "Jeneva Rose",
+    "isbn13": "9781913419653",
+    "publicationDate": "2020-07-03",
+    "pages": 342
+  },
+  {
+    "id": 345,
+    "title": "The troop",
+    "author": "Nick Cutter",
+    "isbn13": "9781501144820",
+    "publicationDate": "2016-08-16",
+    "pages": 384
+  },
+  {
+    "id": 346,
+    "title": "Skellig",
+    "author": "David Almond",
+    "isbn13": "9780385326537",
+    "publicationDate": "1999-04-13",
+    "pages": 192
+  },
+  {
+    "id": 347,
+    "title": "How to Make Money in Stocks",
+    "author": "William J. O'Neil",
+    "isbn13": "9780071614139",
+    "publicationDate": "2009-05-18",
+    "pages": 464
+  },
+  {
+    "id": 348,
+    "title": "Love You Forever",
+    "author": "Robert N. Munsch",
+    "isbn13": "9781552091098",
+    "publicationDate": "2000-09-02",
+    "pages": 32
+  },
+  {
+    "id": 349,
+    "title": "Everybody Writes",
+    "author": "Ann Handley",
+    "isbn13": "9781118905555",
+    "publicationDate": "2014-09-15",
+    "pages": 320
+  },
+  {
+    "id": 350,
+    "title": "Einstein",
+    "author": "Walter Isaacson",
+    "isbn13": "9780743264730",
+    "publicationDate": "2007-04-10",
+    "pages": 675
+  },
+  {
+    "id": 351,
+    "title": "A Hora da Estrela",
+    "author": "Clarice Lispector",
+    "isbn13": "9780856359897",
+    "publicationDate": "1992-02-14",
+    "pages": 96
+  },
+  {
+    "id": 352,
+    "title": "Kingdom of Ash",
+    "author": "Sarah J. Maas",
+    "isbn13": "9781619636118",
+    "publicationDate": "2018-10-23",
+    "pages": 987
+  },
+  {
+    "id": 353,
+    "title": "Child development",
+    "author": "Laura E. Berk",
+    "isbn13": "9780205449132",
+    "publicationDate": "2005-08-18",
+    "pages": 784
+  },
+  {
+    "id": 354,
+    "title": "The Lorax",
+    "author": "Dr. Seuss",
+    "isbn13": "9780679822738",
+    "publicationDate": "1992-03-10",
+    "pages": 64
+  },
+  {
+    "id": 355,
+    "title": "The Sleepwalker",
+    "author": "Robert Lawrence Stine",
+    "isbn13": "9780671746520",
+    "publicationDate": "1991-08-01",
+    "pages": 160
+  },
+  {
+    "id": 356,
+    "title": "Nineteen Minutes",
+    "author": "Jodi Picoult",
+    "isbn13": "9780743496728",
+    "publicationDate": "2007-03-05",
+    "pages": 464
+  },
+  {
+    "id": 357,
+    "title": "The Dictionary of Body Language",
+    "author": "Joe Navarro",
+    "isbn13": "9780062846877",
+    "publicationDate": "2018-08-21",
+    "pages": 208
+  },
+  {
+    "id": 358,
+    "title": "Burned",
+    "author": "Ellen Hopkins",
+    "isbn13": "9781416903550",
+    "publicationDate": "2007-10-23",
+    "pages": 544
+  },
+  {
+    "id": 359,
+    "title": "Love from A to Z",
+    "author": "S. K. Ali",
+    "isbn13": "9781534442726",
+    "publicationDate": "2019-04-30",
+    "pages": 352
+  },
+  {
+    "id": 360,
+    "title": "Neverseen",
+    "author": "Shannon Messenger",
+    "isbn13": "9781481432306",
+    "publicationDate": "2016-11-01",
+    "pages": 688
+  },
+  {
+    "id": 361,
+    "title": "Über die spezielle und die allgemeine Relativitätstheorie",
+    "author": "Albert Einstein",
+    "isbn13": "9783322983190",
+    "publicationDate": "1963-01-01",
+    "pages": 113
+  },
+  {
+    "id": 362,
+    "title": "The Upside of Falling",
+    "author": "Alex Light",
+    "isbn13": "9780062918062",
+    "publicationDate": "2021-03-16",
+    "pages": 288
+  },
+  {
+    "id": 363,
+    "title": "Dragonsong",
+    "author": "Anne McCaffrey",
+    "isbn13": "9781481448604",
+    "publicationDate": "2016-05-17",
+    "pages": 224
+  },
+  {
+    "id": 364,
+    "title": "Flawless",
+    "author": "Elsie Silver",
+    "isbn13": "9781959285854",
+    "publicationDate": "2022-12-02",
+    "pages": 454
+  },
+  {
+    "id": 365,
+    "title": "Digital Minimalism",
+    "author": "Cal Newport",
+    "isbn13": "9780525536512",
+    "publicationDate": "2019-02-05",
+    "pages": 304
+  },
+  {
+    "id": 366,
+    "title": "The Atlas Six",
+    "author": "Olivie Blake",
+    "isbn13": "9781679910999",
+    "publicationDate": "2020-01-30",
+    "pages": 383
+  },
+  {
+    "id": 367,
+    "title": "The Predator",
+    "author": "RuNyx",
+    "isbn13": "9781653678426",
+    "publicationDate": "2019-12-31",
+    "pages": 318
+  },
+  {
+    "id": 368,
+    "title": "The Art of Witty Banter",
+    "author": "Patrick King",
+    "isbn13": "9781647431860",
+    "publicationDate": "2020-08-20",
+    "pages": 260
+  },
+  {
+    "id": 369,
+    "title": "The Gift of Fear",
+    "author": "Gavin de Becker",
+    "isbn13": "9788479532819",
+    "publicationDate": "2002-07-01",
+    "pages": 368
+  },
+  {
+    "id": 370,
+    "title": "Charlotte's Web",
+    "author": "Jennifer Frantz",
+    "isbn13": "9780060882754",
+    "publicationDate": "2006-10-31",
+    "pages": 32
+  },
+  {
+    "id": 371,
+    "title": "The Silva Mind Control Method",
+    "author": "José Silva",
+    "isbn13": "9780671739898",
+    "publicationDate": "1991-01-15",
+    "pages": 239
+  },
+  {
+    "id": 372,
+    "title": "Set Boundaries, Find Peace",
+    "author": "Nedra Glover Tawwab",
+    "isbn13": "9780593192092",
+    "publicationDate": "2021-03-16",
+    "pages": 304
+  },
+  {
+    "id": 373,
+    "title": "Malibu Rising",
+    "author": "Taylor Jenkins Reid",
+    "isbn13": "9781524798659",
+    "publicationDate": "2021-05-25",
+    "pages": 369
+  },
+  {
+    "id": 374,
+    "title": "Tom Gates",
+    "author": "Liz Pichon",
+    "isbn13": "9781536208672",
+    "publicationDate": "2019-09-03",
+    "pages": 320
+  },
+  {
+    "id": 375,
+    "title": "XOXO",
+    "author": "Axie Oh",
+    "isbn13": "9780063024991",
+    "publicationDate": "2021-07-13",
+    "pages": 352
+  },
+  {
+    "id": 376,
+    "title": "She Drives Me Crazy",
+    "author": "Kelly Quindlen",
+    "isbn13": "9781250209153",
+    "publicationDate": "2021-04-20",
+    "pages": 288
+  },
+  {
+    "id": 377,
+    "title": "Love Potion",
+    "author": "Steven Banks",
+    "isbn13": "9780689863172",
+    "publicationDate": "2003-12-23",
+    "pages": 24
+  },
+  {
+    "id": 378,
+    "title": "No Logo",
+    "author": "Naomi Klein",
+    "isbn13": "9780312271923",
+    "publicationDate": "1999-12-01",
+    "pages": 490
+  },
+  {
+    "id": 379,
+    "title": "Goals! How to Get Everything You Want--Faster Than You Ever Thought Possible",
+    "author": "Brian Tracy",
+    "isbn13": "9781576753071",
+    "publicationDate": "2004-11-01",
+    "pages": 291
+  },
+  {
+    "id": 380,
+    "title": "Sell Like Crazy",
+    "author": "Sabri Suby",
+    "isbn13": "9780648459903",
+    "publicationDate": "2019-08-13",
+    "pages": 352
+  },
+  {
+    "id": 381,
+    "title": "Python Crash Course, 2nd Edition",
+    "author": "Eric Matthes",
+    "isbn13": "9781593279288",
+    "publicationDate": "2019-05-03",
+    "pages": 544
+  },
+  {
+    "id": 382,
+    "title": "This Girl",
+    "author": "Colleen Hoover",
+    "isbn13": "9788383181684",
+    "publicationDate": "2022-01-01",
+    "pages": 344
+  },
+  {
+    "id": 383,
+    "title": "Behavior Operations Manual",
+    "author": "Chase Hughes",
+    "isbn13": "9781735141640",
+    "publicationDate": "2023-02-14",
+    "pages": 800
+  },
+  {
+    "id": 384,
+    "title": "Ignited Minds",
+    "author": "A. P. J. Abdul Kalam",
+    "isbn13": "9780143424123",
+    "publicationDate": "2014-11-01",
+    "pages": 208
+  },
+  {
+    "id": 385,
+    "title": "ヘヴン",
+    "author": "川上未映子",
+    "isbn13": "9781609456214",
+    "publicationDate": "2021-05-25",
+    "pages": 192
+  },
+  {
+    "id": 386,
+    "title": "Fear Street - The Overnight",
+    "author": "Robert Lawrence Stine",
+    "isbn13": "9780671851231",
+    "publicationDate": "1994-02-07",
+    "pages": 160
+  },
+  {
+    "id": 387,
+    "title": "GET EPIC SHIT DONE",
+    "author": "Ankur Warikoo",
+    "isbn13": "9789393986078",
+    "publicationDate": "2023-01-17",
+    "pages": 376
+  },
+  {
+    "id": 388,
+    "title": "Life 3.0",
+    "author": "Max Tegmark",
+    "isbn13": "9781101970317",
+    "publicationDate": "2018-07-31",
+    "pages": 384
+  },
+  {
+    "id": 389,
+    "title": "A Certain Hunger",
+    "author": "Chelsea G. Summers",
+    "isbn13": "9781951213435",
+    "publicationDate": "2021-10-19",
+    "pages": 254
+  },
+  {
+    "id": 390,
+    "title": "King Solomon's Mines",
+    "author": "H. Rider Haggard",
+    "isbn13": "9781596881334",
+    "publicationDate": "2010-02-20",
+    "pages": 284
+  },
+  {
+    "id": 391,
+    "title": "Restart",
+    "author": "Gordon Korman",
+    "isbn13": "9781338053807",
+    "publicationDate": "2017-03-27",
+    "pages": 256
+  },
+  {
+    "id": 392,
+    "title": "Book Lovers",
+    "author": "Emily Henry",
+    "isbn13": "9780593440872",
+    "publicationDate": "2022-05-03",
+    "pages": 384
+  },
+  {
+    "id": 393,
+    "title": "The Mindf*ck Series",
+    "author": "S.T. Abby",
+    "isbn13": "9781091074699",
+    "publicationDate": "2019-04-03",
+    "pages": 692
+  },
+  {
+    "id": 394,
+    "title": "Stolen Focus",
+    "author": "Johann Hari",
+    "isbn13": "9780593138519",
+    "publicationDate": "2022-01-25",
+    "pages": 368
+  },
+  {
+    "id": 395,
+    "title": "Sideways Stories from Wayside School",
+    "author": "Louis Sachar",
+    "isbn13": "9780380731480",
+    "publicationDate": "2004-12-28",
+    "pages": 128
+  },
+  {
+    "id": 396,
+    "title": "Impulse",
+    "author": "Ellen Hopkins",
+    "isbn13": "9781416903567",
+    "publicationDate": "2007-01-23",
+    "pages": 672
+  },
+  {
+    "id": 397,
+    "title": "Advanced English Grammar",
+    "author": "English Grammar",
+    "isbn13": "9780353271364",
+    "publicationDate": "2018-11-10",
+    "pages": 164
+  },
+  {
+    "id": 398,
+    "title": "Red Mars",
+    "author": "Kim Stanley Robinson",
+    "isbn13": "9780586213896",
+    "publicationDate": "1999-10-18",
+    "pages": 400
+  },
+  {
+    "id": 399,
+    "title": "The 21 Irrefutable Laws of Leadership",
+    "author": "John C. Maxwell",
+    "isbn13": "9780785289050",
+    "publicationDate": "2007-09-18",
+    "pages": 180
+  },
+  {
+    "id": 400,
+    "title": "ONE PIECE 1",
+    "author": "尾田栄一郎",
+    "isbn13": "9783551745811",
+    "publicationDate": "2001-01-01",
+    "pages": 205
+  },
+  {
+    "id": 401,
+    "title": "Pawn of Prophecy",
+    "author": "David Eddings",
+    "isbn13": "9783404201891",
+    "publicationDate": "1992-09-01",
+    "pages": 315
+  },
+  {
+    "id": 402,
+    "title": "Predictably Irrational",
+    "author": "Dan Ariely",
+    "isbn13": "9780061353239",
+    "publicationDate": "2008-02-19",
+    "pages": 304
+  },
+  {
+    "id": 403,
+    "title": "The Miraculous Journey of Edward Tulane",
+    "author": "Kate DiCamillo",
+    "isbn13": "9788427950368",
+    "publicationDate": "2007-01-07",
+    "pages": 190
+  },
+  {
+    "id": 404,
+    "title": "The Power of Darkness",
+    "author": "Edith Nesbit",
+    "isbn13": "9781840225310",
+    "publicationDate": "2006-07-10",
+    "pages": 256
+  },
+  {
+    "id": 405,
+    "title": "Anathem",
+    "author": "Neal Stephenson",
+    "isbn13": "9780061474101",
+    "publicationDate": "2009-08-25",
+    "pages": 1008
+  },
+  {
+    "id": 406,
+    "title": "Master your emotions",
+    "author": "Oliver Bennet",
+    "isbn13": "9781914215384",
+    "publicationDate": "2021-02-08",
+    "pages": 86
+  },
+  {
+    "id": 407,
+    "title": "Carry On",
+    "author": "Rainbow Rowell",
+    "isbn13": "9781250135025",
+    "publicationDate": "2017-05-09",
+    "pages": 528
+  },
+  {
+    "id": 408,
+    "title": "Believe Me",
+    "author": "Tahereh Mafi",
+    "isbn13": "9780063228313",
+    "publicationDate": "2021-11-16",
+    "pages": 224
+  },
+  {
+    "id": 409,
+    "title": "400 Days",
+    "author": "Chetan Bhagat",
+    "isbn13": "9781542094085",
+    "publicationDate": "2021-10-08",
+    "pages": 352
+  },
+  {
+    "id": 410,
+    "title": "Breakfast at Tiffany's",
+    "author": "Truman Capote",
+    "isbn13": "9780140274110",
+    "publicationDate": "1998-09-03",
+    "pages": 160
+  },
+  {
+    "id": 411,
+    "title": "Dear Martin",
+    "author": "Nic Stone",
+    "isbn13": "9781101939505",
+    "publicationDate": "2017-10-17",
+    "pages": 224
+  },
+  {
+    "id": 412,
+    "title": "Lights Out",
+    "author": "Robert Lawrence Stine",
+    "isbn13": "9780671724825",
+    "publicationDate": "1991-07-01",
+    "pages": 163
+  },
+  {
+    "id": 413,
+    "title": "The Winner Effect",
+    "author": "Ian H. Robertson",
+    "isbn13": "9781250001672",
+    "publicationDate": "2012-10-16",
+    "pages": 320
+  },
+  {
+    "id": 414,
+    "title": "Bunny",
+    "author": "Mona Awad",
+    "isbn13": "9780525559733",
+    "publicationDate": "2019-06-11",
+    "pages": 320
+  },
+  {
+    "id": 415,
+    "title": "A House for Hermit Crab",
+    "author": "Eric Carle",
+    "isbn13": "9780887080562",
+    "publicationDate": "1991-08-20",
+    "pages": 32
+  },
+  {
+    "id": 416,
+    "title": "The art of learning",
+    "author": "Josh Waitzkin",
+    "isbn13": "9780743277457",
+    "publicationDate": "2007-05-08",
+    "pages": 288
+  },
+  {
+    "id": 417,
+    "title": "The Rational Male",
+    "author": "Rollo Tomassi",
+    "isbn13": "9781492777861",
+    "publicationDate": "2013-10-01",
+    "pages": 300
+  },
+  {
+    "id": 418,
+    "title": "Madame Curie",
+    "author": "Eve Curie",
+    "isbn13": "9780306810381",
+    "publicationDate": "2001-03-06",
+    "pages": 448
+  },
+  {
+    "id": 419,
+    "title": "How It Feels to Float",
+    "author": "Helena Fox",
+    "isbn13": "9780525554295",
+    "publicationDate": "2019-05-07",
+    "pages": 384
+  },
+  {
+    "id": 420,
+    "title": "Train to Pakistan",
+    "author": "Khushwant Singh",
+    "isbn13": "9780802132215",
+    "publicationDate": "1994-02-11",
+    "pages": 181
+  },
+  {
+    "id": 421,
+    "title": "One Night at the Call Center",
+    "author": "Chetan Bhagat",
+    "isbn13": "9780345498328",
+    "publicationDate": "2007-05-01",
+    "pages": 310
+  },
+  {
+    "id": 422,
+    "title": "Hold Me Tight",
+    "author": "Sue Johnson",
+    "isbn13": "9780316113007",
+    "publicationDate": "2008-04-08",
+    "pages": 320
+  },
+  {
+    "id": 423,
+    "title": "The Last Thing He Told Me",
+    "author": "Laura Dave",
+    "isbn13": "9781501171345",
+    "publicationDate": "2021-05-04",
+    "pages": 320
+  },
+  {
+    "id": 424,
+    "title": "El Amo Del Juego/Masters of the Game",
+    "author": "Sidney Sheldon",
+    "isbn13": "9780006472612",
+    "publicationDate": "2005-04-04",
+    "pages": 448
+  },
+  {
+    "id": 425,
+    "title": "The Bronze Bow",
+    "author": "Elizabeth George Speare",
+    "isbn13": "9780395137192",
+    "publicationDate": "1997-09-01",
+    "pages": 255
+  },
+  {
+    "id": 426,
+    "title": "The Couple Next Door",
+    "author": "Shari Lapeña",
+    "isbn13": "9780735221086",
+    "publicationDate": "2016-08-23",
+    "pages": 320
+  },
+  {
+    "id": 427,
+    "title": "Mind Management, Not Time Management",
+    "author": "David Kadavy",
+    "isbn13": "9780578733692",
+    "publicationDate": "2020-10-15",
+    "pages": 262
+  },
+  {
+    "id": 428,
+    "title": "My policeman",
+    "author": "Bethan Roberts",
+    "isbn13": "9780143136989",
+    "publicationDate": "2021-08-03",
+    "pages": 304
+  },
+  {
+    "id": 429,
+    "title": "Vow of Deception",
+    "author": "Rina Kent",
+    "isbn13": "9781685450793",
+    "publicationDate": "2022-01-25",
+    "pages": 298
+  },
+  {
+    "id": 430,
+    "title": "Stop Overthinking",
+    "author": "Nick Trenton",
+    "isbn13": "9781647432508",
+    "publicationDate": "2021-03-19",
+    "pages": 190
+  },
+  {
+    "id": 431,
+    "title": "The Little Book of Common Sense Investing",
+    "author": "John C. Bogle",
+    "isbn13": "9780470102107",
+    "publicationDate": "2007-03-05",
+    "pages": 240
+  },
+  {
+    "id": 432,
+    "title": "Ways of Seeing",
+    "author": "John Berger",
+    "isbn13": "9780140135152",
+    "publicationDate": "1990-12-01",
+    "pages": 176
+  },
+  {
+    "id": 433,
+    "title": "After We Fell (After Series, Book 3)",
+    "author": "Anna Todd",
+    "isbn13": "9781501104046",
+    "publicationDate": "2015-01-01",
+    "pages": 336
+  },
+  {
+    "id": 434,
+    "title": "Rising Storm",
+    "author": "Erin Hunter",
+    "isbn13": "9780606364973",
+    "publicationDate": "2015-03-17",
+    "pages": 368
+  },
+  {
+    "id": 435,
+    "title": "Laws, etc",
+    "author": "Great Britain.",
+    "isbn13": "9780118402927",
+    "publicationDate": "1990-12-31",
+    "pages": 49
+  },
+  {
+    "id": 436,
+    "title": "Tweak",
+    "author": "Nic Sheff",
+    "isbn13": "9781416913627",
+    "publicationDate": "2008-02-05",
+    "pages": 336
+  },
+  {
+    "id": 437,
+    "title": "Introduction to linear algebra",
+    "author": "Gilbert Strang",
+    "isbn13": "9780961408893",
+    "publicationDate": "2003-03-01",
+    "pages": 568
+  },
+  {
+    "id": 438,
+    "title": "Don't Make Me Think",
+    "author": "Steve Krug",
+    "isbn13": "9780789723109",
+    "publicationDate": "2000-10-13",
+    "pages": 208
+  },
+  {
+    "id": 439,
+    "title": "The Way of Zen",
+    "author": "Alan Watts",
+    "isbn13": "9780375705106",
+    "publicationDate": "1999-01-26",
+    "pages": 256
+  },
+  {
+    "id": 440,
+    "title": "The Recruit (CHERUB #1)",
+    "author": "Robert Muchamore",
+    "isbn13": "9780340881538",
+    "publicationDate": "2004-04-15",
+    "pages": 336
+  },
+  {
+    "id": 441,
+    "title": "Bullshit Jobs",
+    "author": "David Graeber",
+    "isbn13": "9781501143335",
+    "publicationDate": "2019-05-07",
+    "pages": 368
+  },
+  {
+    "id": 442,
+    "title": "The Talented Mr. Ripley",
+    "author": "Patricia Highsmith",
+    "isbn13": "9783257064049",
+    "publicationDate": "2002-09-01",
+    "pages": 428
+  },
+  {
+    "id": 443,
+    "title": "First Day at Gymnastics",
+    "author": "DK Publishing",
+    "isbn13": "9780789485120",
+    "publicationDate": "2002-08-01",
+    "pages": 32
+  },
+  {
+    "id": 444,
+    "title": "Talk to Me in Korean Level 1",
+    "author": "TalkToMeInKorean",
+    "isbn13": "9781186701073",
+    "publicationDate": "2015-09-21",
+    "pages": 164
+  },
+  {
+    "id": 445,
+    "title": "The Thirty-Nine Steps",
+    "author": "John Buchan",
+    "isbn13": "9780140011302",
+    "publicationDate": "1991-06-04",
+    "pages": 128
+  },
+  {
+    "id": 446,
+    "title": "Kill Switch",
+    "author": "Penelope Douglas",
+    "isbn13": "9781796451931",
+    "publicationDate": "2019-02-11",
+    "pages": 507
+  },
+  {
+    "id": 447,
+    "title": "Penpal",
+    "author": "Dathan Auerbach",
+    "isbn13": "9780985545505",
+    "publicationDate": "2012-07-11",
+    "pages": 252
+  },
+  {
+    "id": 448,
+    "title": "Cannery Row",
+    "author": "John Steinbeck",
+    "isbn13": "9780140292961",
+    "publicationDate": "2001-04-26",
+    "pages": 176
+  },
+  {
+    "id": 449,
+    "title": "Diary of an Awesome Friendly Kid: Rowley Jefferson's Journal",
+    "author": "Jeff Kinney",
+    "isbn13": "9781419740275",
+    "publicationDate": "2019-04-09",
+    "pages": 224
+  },
+  {
+    "id": 450,
+    "title": "Think Straight",
+    "author": "Darius Foroux",
+    "isbn13": "9781721225743",
+    "publicationDate": "2018-06-14",
+    "pages": 90
+  },
+  {
+    "id": 451,
+    "title": "How to Become a Straight-A Student",
+    "author": "Cal Newport",
+    "isbn13": "9780767922715",
+    "publicationDate": "2006-12-26",
+    "pages": 224
+  },
+  {
+    "id": 452,
+    "title": "Diary of an 8-Bit Warrior #5",
+    "author": "Cube Kid",
+    "isbn13": "9788408210870",
+    "publicationDate": "2019-06-25",
+    "pages": 288
+  },
+  {
+    "id": 453,
+    "title": "Hooked on Phonics",
+    "author": "Hooked on Phonics",
+    "isbn13": "9781931020671",
+    "publicationDate": "2006-04-19",
+    "pages": 64
+  },
+  {
+    "id": 454,
+    "title": "The Face on the Milk Carton",
+    "author": "Caroline B. Cooney",
+    "isbn13": "9780786285044",
+    "publicationDate": "2006-04-12",
+    "pages": 237
+  },
+  {
+    "id": 455,
+    "title": "The Last Man",
+    "author": "Mary Shelley",
+    "isbn13": "9781840224030",
+    "publicationDate": "2004-11-05",
+    "pages": 432
+  },
+  {
+    "id": 456,
+    "title": "Altered Carbon",
+    "author": "Richard K. Morgan",
+    "isbn13": "9789603064909",
+    "publicationDate": "2005-02-09",
+    "pages": 532
+  },
+  {
+    "id": 457,
+    "title": "The Mysterious Benedict Society (The Mysterious Benedict Society #1)",
+    "author": "Trenton Lee Stewart",
+    "isbn13": "9780316003957",
+    "publicationDate": "2008-04-01",
+    "pages": 512
+  },
+  {
+    "id": 458,
+    "title": "Uzumaki",
+    "author": "Junji Itō",
+    "isbn13": "9781421561325",
+    "publicationDate": "2013-10-15",
+    "pages": 653
+  },
+  {
+    "id": 459,
+    "title": "How to Cook Everything",
+    "author": "Mark Bittman",
+    "isbn13": "9780471789185",
+    "publicationDate": "2006-03-20",
+    "pages": 960
+  },
+  {
+    "id": 460,
+    "title": "Watchers",
+    "author": "Dean Koontz",
+    "isbn13": "9780425107461",
+    "publicationDate": "1988-04-01",
+    "pages": 483
+  },
+  {
+    "id": 461,
+    "title": "Identical",
+    "author": "Ellen Hopkins",
+    "isbn13": "9781416950059",
+    "publicationDate": "2008-08-26",
+    "pages": 672
+  },
+  {
+    "id": 462,
+    "title": "Ina May's Guide to Childbirth",
+    "author": "Ina May Gaskin",
+    "isbn13": "9780553381153",
+    "publicationDate": "2003-03-04",
+    "pages": 368
+  },
+  {
+    "id": 463,
+    "title": "Gangsta Granny",
+    "author": "David Walliams",
+    "isbn13": "9780007371440",
+    "publicationDate": "2011-10-01",
+    "pages": 240
+  },
+  {
+    "id": 464,
+    "title": "The Cat in the Hat Comes Back",
+    "author": "Dr. Seuss",
+    "isbn13": "9780007158454",
+    "publicationDate": "2003-05-06",
+    "pages": 64
+  },
+  {
+    "id": 465,
+    "title": "Dom Casmurro",
+    "author": "Machado de Assis",
+    "isbn13": "9780850515039",
+    "publicationDate": "2005-02-04",
+    "pages": 176
+  },
+  {
+    "id": 466,
+    "title": "If Beale Street Could Talk",
+    "author": "James Baldwin",
+    "isbn13": "9780307275936",
+    "publicationDate": "2006-10-10",
+    "pages": 208
+  },
+  {
+    "id": 467,
+    "title": "The Do-Over",
+    "author": "Lynn Painter",
+    "isbn13": "9781534478862",
+    "publicationDate": "2022-12-06",
+    "pages": 400
+  },
+  {
+    "id": 468,
+    "title": "Iron Widow",
+    "author": "Xiran Jay Zhao",
+    "isbn13": "9780735269934",
+    "publicationDate": "2021-09-21",
+    "pages": 384
+  },
+  {
+    "id": 469,
+    "title": "Band of Brothers",
+    "author": "Stephen E. Ambrose",
+    "isbn13": "9782226127099",
+    "publicationDate": "2002-05-16",
+    "pages": 366
+  },
+  {
+    "id": 470,
+    "title": "Essential Maths",
+    "author": "Sean McArdle",
+    "isbn13": "9780748725144",
+    "publicationDate": "2004-05-24",
+    "pages": 32
+  },
+  {
+    "id": 471,
+    "title": "Quattro topi nella giungla nera",
+    "author": "Elisabetta Dami",
+    "isbn13": "9780439559676",
+    "publicationDate": "2004-03-01",
+    "pages": 128
+  },
+  {
+    "id": 472,
+    "title": "A Scanner Darkly",
+    "author": "Philip K. Dick",
+    "isbn13": "9781857988475",
+    "publicationDate": "1999-10-14",
+    "pages": 217
+  },
+  {
+    "id": 473,
+    "title": "The Wicca Spellbook",
+    "author": "Gerina Dunwich",
+    "isbn13": "9780806514765",
+    "publicationDate": "2000-08-01",
+    "pages": 190
+  },
+  {
+    "id": 474,
+    "title": "Legendborn",
+    "author": "Tracy Deonn",
+    "isbn13": "9781534441606",
+    "publicationDate": "2020-09-15",
+    "pages": 512
+  },
+  {
+    "id": 475,
+    "title": "Love and other words",
+    "author": "Christina Lauren",
+    "isbn13": "9781501190537",
+    "publicationDate": "2018-04-10",
+    "pages": 432
+  },
+  {
+    "id": 476,
+    "title": "Win Your Inner Battles",
+    "author": "Darius Foroux",
+    "isbn13": "9781543296396",
+    "publicationDate": "2016-12-19",
+    "pages": 168
+  },
+  {
+    "id": 477,
+    "title": "Maybe Now",
+    "author": "Colleen Hoover",
+    "isbn13": "9781093389050",
+    "publicationDate": "2019-04-09",
+    "pages": 412
+  },
+  {
+    "id": 478,
+    "title": "The Complete World of Greek Mythology",
+    "author": "Richard Buxton",
+    "isbn13": "9780500251218",
+    "publicationDate": "2004-06-28",
+    "pages": 240
+  },
+  {
+    "id": 479,
+    "title": "Dreams from My Father",
+    "author": "Barack Obama",
+    "isbn13": "9780739325766",
+    "publicationDate": "2006-04-04",
+    "pages": 720
+  },
+  {
+    "id": 480,
+    "title": "Sacred games",
+    "author": "Vikram Chandra",
+    "isbn13": "9780061130359",
+    "publicationDate": "2007-01-09",
+    "pages": 928
+  },
+  {
+    "id": 481,
+    "title": "Breath",
+    "author": "James Nestor",
+    "isbn13": "9780735213616",
+    "publicationDate": "2020-05-26",
+    "pages": 304
+  },
+  {
+    "id": 482,
+    "title": "The Jewel of Seven Stars",
+    "author": "Bram Stoker",
+    "isbn13": "9781406927252",
+    "publicationDate": "2006-11-03",
+    "pages": 178
+  },
+  {
+    "id": 483,
+    "title": "Home Body",
+    "author": "Rupi Kaur",
+    "isbn13": "9781449486808",
+    "publicationDate": "2020-11-17",
+    "pages": 192
+  },
+  {
+    "id": 484,
+    "title": "Heretics of Dune",
+    "author": "Frank Herbert",
+    "isbn13": "9780441328000",
+    "publicationDate": "1987-08-15",
+    "pages": 480
+  },
+  {
+    "id": 485,
+    "title": "King's Cage",
+    "author": "Victoria Aveyard",
+    "isbn13": "9780062666826",
+    "publicationDate": "2017-02-07",
+    "pages": 418
+  },
+  {
+    "id": 486,
+    "title": "Lallan Sweets",
+    "author": "Srishti Chaudhary",
+    "isbn13": "9780143450290",
+    "publicationDate": "2020-07-06",
+    "pages": 288
+  },
+  {
+    "id": 487,
+    "title": "The Starless Sea",
+    "author": "Erin Morgenstern",
+    "isbn13": "9780385541213",
+    "publicationDate": "2019-11-05",
+    "pages": 498
+  },
+  {
+    "id": 488,
+    "title": "The Darkest Hour",
+    "author": "Erin Hunter",
+    "isbn13": "9780007140077",
+    "publicationDate": "2008-08-24",
+    "pages": 368
+  },
+  {
+    "id": 489,
+    "title": "How to Finish Everything You Start",
+    "author": "Jan Yager",
+    "isbn13": "9781938998317",
+    "publicationDate": "2022-12-22",
+    "pages": 232
+  },
+  {
+    "id": 490,
+    "title": "Scott Pilgrim's Precious Little Life",
+    "author": "Bryan Lee O'Malley",
+    "isbn13": "9781932664089",
+    "publicationDate": "2004-08-18",
+    "pages": 168
+  },
+  {
+    "id": 491,
+    "title": "Faking with Benefits",
+    "author": "Lily Gold",
+    "isbn13": "9781739586713",
+    "publicationDate": "2022-06-14",
+    "pages": 556
+  },
+  {
+    "id": 492,
+    "title": "Encyclopedia of Chart Patterns",
+    "author": "Thomas N. Bulkowski",
+    "isbn13": "9780471668268",
+    "publicationDate": "2005-05-02",
+    "pages": 1032
+  },
+  {
+    "id": 493,
+    "title": "The Kiss Thief",
+    "author": "L.J. Shen",
+    "isbn13": "9781732624719",
+    "publicationDate": "2019-01-07",
+    "pages": 322
+  },
+  {
+    "id": 494,
+    "title": "How to Get Rich",
+    "author": "Felix Dennis",
+    "isbn13": "9780091912659",
+    "publicationDate": "2006-08-17",
+    "pages": 304
+  },
+  {
+    "id": 495,
+    "title": "A different mirror",
+    "author": "Ronald Takaki",
+    "isbn13": "9780316831116",
+    "publicationDate": "1994-06-01",
+    "pages": 520
+  },
+  {
+    "id": 496,
+    "title": "Creating Black Americans",
+    "author": "Nell Irvin Painter",
+    "isbn13": "9780195137569",
+    "publicationDate": "2006-08-10",
+    "pages": 496
+  },
+  {
+    "id": 497,
+    "title": "Botany",
+    "author": "James D. Mauseth",
+    "isbn13": "9780763707460",
+    "publicationDate": "1998-02-27",
+    "pages": 790
+  },
+  {
+    "id": 498,
+    "title": "To Kill a Kingdom",
+    "author": "Alexandra Christo",
+    "isbn13": "9781250112705",
+    "publicationDate": "2019-03-05",
+    "pages": 352
+  },
+  {
+    "id": 499,
+    "title": "Tell No One",
+    "author": "Harlan Coben",
+    "isbn13": "9782714438171",
+    "publicationDate": "2002-01-03",
+    "pages": 353
+  },
+  {
+    "id": 500,
+    "title": "There's a Boy in the Girl's Bathroom (Cascades)",
+    "author": "Louis Sachar",
+    "isbn13": "9780007178636",
+    "publicationDate": "2004-02-20",
+    "pages": 208
+  },
+  {
+    "id": 501,
+    "title": "How to Study",
+    "author": "Harry Maddox",
+    "isbn13": "9780449300114",
+    "publicationDate": "1983-04-12",
+    "pages": 240
+  },
+  {
+    "id": 502,
+    "title": "Οἰδίπους Τύραννος (Oidípous Týrannos)",
+    "author": "Sophocles",
+    "isbn13": "9781420926033",
+    "publicationDate": "2005-01-01",
+    "pages": 84
+  },
+  {
+    "id": 503,
+    "title": "The Runaway Jury",
+    "author": "John Grisham",
+    "isbn13": "9780099410218",
+    "publicationDate": "2007-03-01",
+    "pages": 496
+  },
+  {
+    "id": 504,
+    "title": "A Doll's House",
+    "author": "Henrik Ibsen",
+    "isbn13": "9781599869490",
+    "publicationDate": "2006-09-24",
+    "pages": 124
+  },
+  {
+    "id": 505,
+    "title": "Knuffle Bunny",
+    "author": "Mo Willems",
+    "isbn13": "9781423105664",
+    "publicationDate": "2007-08-07",
+    "pages": 40
+  },
+  {
+    "id": 506,
+    "title": "Big Nate - Payback Time!",
+    "author": "Lincoln Peirce",
+    "isbn13": "9781449497743",
+    "publicationDate": "2019-03-19",
+    "pages": 176
+  },
+  {
+    "id": 507,
+    "title": "The minds of Billy Milligan",
+    "author": "Daniel Keyes",
+    "isbn13": "9780553263817",
+    "publicationDate": "1994-01-01",
+    "pages": 448
+  },
+  {
+    "id": 508,
+    "title": "Dick Gregory's natural diet for folks who eat",
+    "author": "Dick Gregory",
+    "isbn13": "9780062981417",
+    "publicationDate": "2021-06-08",
+    "pages": 176
+  },
+  {
+    "id": 509,
+    "title": "Daughter of the pirate king",
+    "author": "Tricia Levenseller",
+    "isbn13": "9781250144225",
+    "publicationDate": "2018-01-02",
+    "pages": 336
+  },
+  {
+    "id": 510,
+    "title": "Little Bear",
+    "author": "Else Holmelund Minarik",
+    "isbn13": "9780064440042",
+    "publicationDate": "1957-01-01",
+    "pages": 63
+  },
+  {
+    "id": 511,
+    "title": "Morning Star",
+    "author": "Pierce Brown",
+    "isbn13": "9780345539847",
+    "publicationDate": "2016-09-27",
+    "pages": 544
+  },
+  {
+    "id": 512,
+    "title": "Ruby the Red Fairy",
+    "author": "Daisy Meadows",
+    "isbn13": "9780439738613",
+    "publicationDate": "2005-05-01",
+    "pages": 80
+  },
+  {
+    "id": 513,
+    "title": "Finding Perfect",
+    "author": "Colleen Hoover",
+    "isbn13": "9781712965382",
+    "publicationDate": "2019-12-04",
+    "pages": 128
+  },
+  {
+    "id": 514,
+    "title": "2am Thoughts",
+    "author": "Makenzie Campbell",
+    "isbn13": "9781771681643",
+    "publicationDate": "2019-01-02",
+    "pages": 160
+  },
+  {
+    "id": 515,
+    "title": "Mathematics",
+    "author": "McGraw-Hill",
+    "isbn13": "9780078296338",
+    "publicationDate": "2003-03-25",
+    "pages": 653
+  },
+  {
+    "id": 516,
+    "title": "Uprooted",
+    "author": "Naomi Novik",
+    "isbn13": "9780804179058",
+    "publicationDate": "2016-03-01",
+    "pages": 464
+  },
+  {
+    "id": 517,
+    "title": "Small sacrifices",
+    "author": "Ann Rule",
+    "isbn13": "9780451166609",
+    "publicationDate": "1988-07-05",
+    "pages": 494
+  },
+  {
+    "id": 518,
+    "title": "The Brightest Night",
+    "author": "Tui T. Sutherland",
+    "isbn13": "9780606370172",
+    "publicationDate": "2015-04-28",
+    "pages": 336
+  },
+  {
+    "id": 519,
+    "title": "India That Is Bharat",
+    "author": "J. Sai Deepak",
+    "isbn13": "9789354352492",
+    "publicationDate": "2021-08-15",
+    "pages": 484
+  },
+  {
+    "id": 520,
+    "title": "JEE Main Chapterwise Physics",
+    "author": "Arihant Experts",
+    "isbn13": "9789327194579",
+    "publicationDate": "2022-10-30",
+    "pages": 626
+  },
+  {
+    "id": 521,
+    "title": "365 Days with Self-Discipline",
+    "author": "Martin Meadows",
+    "isbn13": "9781387970605",
+    "publicationDate": "2018-07-27",
+    "pages": 734
+  },
+  {
+    "id": 522,
+    "title": "On the Way to the Wedding",
+    "author": "Julia Quinn",
+    "isbn13": "9780060531256",
+    "publicationDate": "2006-06-27",
+    "pages": 371
+  },
+  {
+    "id": 523,
+    "title": "Five Children and It",
+    "author": "Edith Nesbit",
+    "isbn13": "9780060537241",
+    "publicationDate": "2004-06-15",
+    "pages": 246
+  },
+  {
+    "id": 524,
+    "title": "A Living Nightmare... (Cirque Du Freak #1)",
+    "author": "Darren Shan",
+    "isbn13": "9780007209859",
+    "publicationDate": "2005-10-03",
+    "pages": 336
+  },
+  {
+    "id": 525,
+    "title": "The Fires of Heaven",
+    "author": "Robert Jordan",
+    "isbn13": "9780812550306",
+    "publicationDate": "1994-10-15",
+    "pages": 992
+  },
+  {
+    "id": 526,
+    "title": "The Brain That Changes Itself",
+    "author": "Norman Doidge",
+    "isbn13": "9780670038305",
+    "publicationDate": "2007-03-15",
+    "pages": 448
+  },
+  {
+    "id": 527,
+    "title": "How I made one million dollars last year trading commodities",
+    "author": "Larry R. Williams",
+    "isbn13": "9780930233105",
+    "publicationDate": "1998-02-10",
+    "pages": 130
+  },
+  {
+    "id": 528,
+    "title": "The Woman in the Window: A Novel",
+    "author": "A. J. Finn",
+    "isbn13": "9780062678416",
+    "publicationDate": "2018-01-02",
+    "pages": 448
+  },
+  {
+    "id": 529,
+    "title": "The History of Love",
+    "author": "Nicole Krauss",
+    "isbn13": "9780393328622",
+    "publicationDate": "2006-05-01",
+    "pages": 272
+  },
+  {
+    "id": 530,
+    "title": "The Happiness Hypothesis",
+    "author": "Jonathan Haidt",
+    "isbn13": "9780465028023",
+    "publicationDate": "2006-12-01",
+    "pages": 297
+  },
+  {
+    "id": 531,
+    "title": "The Mists of Avalon",
+    "author": "Marion Zimmer Bradley",
+    "isbn13": "9780140177190",
+    "publicationDate": "1993-01-07",
+    "pages": 1024
+  },
+  {
+    "id": 532,
+    "title": "Forrest Gump",
+    "author": "Winston Groom",
+    "isbn13": "9782290038161",
+    "publicationDate": "1999-01-04",
+    "pages": 318
+  },
+  {
+    "id": 533,
+    "title": "Fear Street - The Wrong Number",
+    "author": "Robert Lawrence Stine",
+    "isbn13": "9780671851255",
+    "publicationDate": "1994-04-01",
+    "pages": 167
+  },
+  {
+    "id": 534,
+    "title": "Fear Street - Ski Weekend",
+    "author": "Robert Lawrence Stine",
+    "isbn13": "9780671851309",
+    "publicationDate": "1993-12-09",
+    "pages": 167
+  },
+  {
+    "id": 535,
+    "title": "Justice",
+    "author": "Michael J. Sandel",
+    "isbn13": "9780195335125",
+    "publicationDate": "2007-08-22",
+    "pages": 432
+  },
+  {
+    "id": 536,
+    "title": "Giù le zampe, faccia di fontina!",
+    "author": "Elisabetta Dami",
+    "isbn13": "9780439559683",
+    "publicationDate": "2004-04-01",
+    "pages": 128
+  },
+  {
+    "id": 537,
+    "title": "The Vampire Diaries",
+    "author": "Lisa Jane Smith",
+    "isbn13": "9780340999141",
+    "publicationDate": "2009-03-07",
+    "pages": 400
+  },
+  {
+    "id": 538,
+    "title": "Harold and the Purple Crayon",
+    "author": "Crockett Johnson",
+    "isbn13": "9780064430227",
+    "publicationDate": "2015-09-15",
+    "pages": 64
+  },
+  {
+    "id": 539,
+    "title": "A Muslim Woman's Diary",
+    "author": "Sumaya Amiri",
+    "isbn13": "9788797278406",
+    "publicationDate": "2021-04-15",
+    "pages": 208
+  },
+  {
+    "id": 540,
+    "title": "Fear Street - The Knife",
+    "author": "Robert Lawrence Stine",
+    "isbn13": "9780671853716",
+    "publicationDate": "1995-01-02",
+    "pages": 167
+  },
+  {
+    "id": 541,
+    "title": "The Daily Book of Positive Quotations",
+    "author": "Linda Picone",
+    "isbn13": "9781577491743",
+    "publicationDate": "2008-01-25",
+    "pages": 376
+  },
+  {
+    "id": 542,
+    "title": "The Famous Five",
+    "author": "Enid Blyton",
+    "isbn13": "9780340795637",
+    "publicationDate": "2000-12-07",
+    "pages": 464
+  },
+  {
+    "id": 543,
+    "title": "Caps for Sale",
+    "author": "Esphyr Slobodkina",
+    "isbn13": "9780064431439",
+    "publicationDate": "1987-10-31",
+    "pages": 48
+  },
+  {
+    "id": 544,
+    "title": "The millionaire mind",
+    "author": "Thomas J. Stanley",
+    "isbn13": "9780740718588",
+    "publicationDate": "2001-08-02",
+    "pages": 416
+  },
+  {
+    "id": 545,
+    "title": "Diving Dolphin",
+    "author": "DK Publishing",
+    "isbn13": "9780789473561",
+    "publicationDate": "2001-01-17",
+    "pages": 32
+  },
+  {
+    "id": 546,
+    "title": "Atlas of the Heart",
+    "author": "Brené Brown",
+    "isbn13": "9780399592553",
+    "publicationDate": "2021-11-30",
+    "pages": 336
+  },
+  {
+    "id": 547,
+    "title": "A Kingdom of Flesh and Fire",
+    "author": "Jennifer L. Armentrout",
+    "isbn13": "9781952457111",
+    "publicationDate": "2020-09-01",
+    "pages": 637
+  },
+  {
+    "id": 548,
+    "title": "American Born Chinese",
+    "author": "Gene Luen Yang",
+    "isbn13": "9781596431522",
+    "publicationDate": "2006-09-05",
+    "pages": 240
+  },
+  {
+    "id": 549,
+    "title": "Diana, Her True Story",
+    "author": "Andrew Morton",
+    "isbn13": "9780671798789",
+    "publicationDate": "1992-12-01",
+    "pages": 272
+  },
+  {
+    "id": 550,
+    "title": "Exquisite Corpse",
+    "author": "Poppy Z. Brite",
+    "isbn13": "9780684836270",
+    "publicationDate": "1997-08-20",
+    "pages": 240
+  },
+  {
+    "id": 551,
+    "title": "Up from Slavery",
+    "author": "Booker T. Washington",
+    "isbn13": "9780192835628",
+    "publicationDate": "2000-02-11",
+    "pages": 240
+  },
+  {
+    "id": 552,
+    "title": "Blackmail",
+    "author": "Penny Jordan",
+    "isbn13": "9780373105175",
+    "publicationDate": "1982-07-01",
+    "pages": 187
+  },
+  {
+    "id": 553,
+    "title": "Legends & Lattes",
+    "author": "Travis Baldree",
+    "isbn13": "9781250886088",
+    "publicationDate": "2022-11-08",
+    "pages": 296
+  },
+  {
+    "id": 554,
+    "title": "The India Way",
+    "author": "S. Jaishankar",
+    "isbn13": "9789353579791",
+    "publicationDate": "2020-09-07",
+    "pages": 240
+  },
+  {
+    "id": 555,
+    "title": "A Dictionary Of Color Combinations",
+    "author": "Various",
+    "isbn13": "9784861522475",
+    "publicationDate": "2011-01-01",
+    "pages": 256
+  },
+  {
+    "id": 556,
+    "title": "Fear Street - Halloween Party",
+    "author": "Robert Lawrence Stine",
+    "isbn13": "9781417727568",
+    "publicationDate": "2006-08-08",
+    "pages": 176
+  },
+  {
+    "id": 557,
+    "title": "A Flicker in the Dark",
+    "author": "Stacy Willingham",
+    "isbn13": "9781250803825",
+    "publicationDate": "2022-01-11",
+    "pages": 368
+  },
+  {
+    "id": 558,
+    "title": "Honest Illusions",
+    "author": "Nora Roberts",
+    "isbn13": "9783453137455",
+    "publicationDate": "1998-06-01",
+    "pages": 528
+  },
+  {
+    "id": 559,
+    "title": "Stormfire",
+    "author": "Christine Monson",
+    "isbn13": "9780380876686",
+    "publicationDate": "1984-06-01",
+    "pages": 568
+  },
+  {
+    "id": 560,
+    "title": "Cinderella Is Dead",
+    "author": "Kalynn Bayron",
+    "isbn13": "9781547603879",
+    "publicationDate": "2020-07-07",
+    "pages": 400
+  },
+  {
+    "id": 561,
+    "title": "Questions and Answers Exam Oriented Anatomy",
+    "author": "Kazi Shoukat",
+    "isbn13": "9788123911212",
+    "publicationDate": "2006-12-01",
+    "pages": 286
+  },
+  {
+    "id": 562,
+    "title": "The Visual MBA",
+    "author": "Jason Barron",
+    "isbn13": "9780358343646",
+    "publicationDate": "2020-04-07",
+    "pages": 208
+  },
+  {
+    "id": 563,
+    "title": "To the man I loved too much",
+    "author": "Gabrielle G.",
+    "isbn13": "9781777488208",
+    "publicationDate": "2021-02-09",
+    "pages": 146
+  },
+  {
+    "id": 564,
+    "title": "Diary of a Romantica, Vol. I",
+    "author": "Celia Martínez",
+    "isbn13": "9798377220947",
+    "publicationDate": "2023-02-10",
+    "pages": 166
+  },
+  {
+    "id": 565,
+    "title": "The Windup Girl",
+    "author": "Paolo Bacigalupi",
+    "isbn13": "9781597801584",
+    "publicationDate": "2010-05-01",
+    "pages": 361
+  },
+  {
+    "id": 566,
+    "title": "Shipwreck at the Bottom of the World",
+    "author": "Jennifer L. Armstrong",
+    "isbn13": "9780375810497",
+    "publicationDate": "2000-09-12",
+    "pages": 144
+  },
+  {
+    "id": 567,
+    "title": "Glass",
+    "author": "Ellen Hopkins",
+    "isbn13": "9781416940906",
+    "publicationDate": "2007-08-21",
+    "pages": 688
+  },
+  {
+    "id": 568,
+    "title": "The Art of Manipulation",
+    "author": "Benedict Goleman",
+    "isbn13": "9781802250275",
+    "publicationDate": "2021-03-30",
+    "pages": 146
+  },
+  {
+    "id": 569,
+    "title": "Crossroads of Twilight",
+    "author": "Robert Jordan",
+    "isbn13": "9780812571332",
+    "publicationDate": "2003-11-25",
+    "pages": 864
+  },
+  {
+    "id": 570,
+    "title": "Forest of Secrets",
+    "author": "Erin Hunter",
+    "isbn13": "9780062366986",
+    "publicationDate": "2015-03-17",
+    "pages": 368
+  },
+  {
+    "id": 571,
+    "title": "Serpent and Dove",
+    "author": "Shelby Mahurin",
+    "isbn13": "9780062878038",
+    "publicationDate": "2020-08-04",
+    "pages": 544
+  },
+  {
+    "id": 572,
+    "title": "The Flame and the Flower",
+    "author": "Kathleen E. Woodiwiss",
+    "isbn13": "9780380005253",
+    "publicationDate": "2007-08-28",
+    "pages": 512
+  },
+  {
+    "id": 573,
+    "title": "Una misteriosa lettera d'amore",
+    "author": "Elisabetta Dami",
+    "isbn13": "9780545917964",
+    "publicationDate": "2016-03-27",
+    "pages": 128
+  },
+  {
+    "id": 574,
+    "title": "La planète des singes",
+    "author": "Pierre Boulle",
+    "isbn13": "9783453197855",
+    "publicationDate": "2001-09-01",
+    "pages": 188
+  },
+  {
+    "id": 575,
+    "title": "A Beginner's Guide to the Stock Market",
+    "author": "Matthew R. Kratter",
+    "isbn13": "9781099617201",
+    "publicationDate": "2019-05-21",
+    "pages": 98
+  },
+  {
+    "id": 576,
+    "title": "Kritik der reinen Vernunft",
+    "author": "Immanuel Kant",
+    "isbn13": "9781595479679",
+    "publicationDate": "2005-09-30",
+    "pages": 444
+  },
+  {
+    "id": 577,
+    "title": "Have You Seen My Cat?",
+    "author": "Eric Carle",
+    "isbn13": "9783806741070",
+    "publicationDate": "1989-02-01",
+    "pages": 32
+  },
+  {
+    "id": 578,
+    "title": "The Stranger Beside Me",
+    "author": "Ann Rule",
+    "isbn13": "9780451203267",
+    "publicationDate": "2001-06-12",
+    "pages": 560
+  },
+  {
+    "id": 579,
+    "title": "The Comfort Book",
+    "author": "Matt Haig",
+    "isbn13": "9780143136668",
+    "publicationDate": "2021-07-06",
+    "pages": 272
+  },
+  {
+    "id": 580,
+    "title": "Lucent's Samanya Gyan 2015",
+    "author": "Lucent (Contributor)",
+    "isbn13": "9789384761585",
+    "publicationDate": "2015-08-20",
+    "pages": 351
+  },
+  {
+    "id": 581,
+    "title": "I Have Lived a Thousand Years",
+    "author": "Livia Bitton-Jackson",
+    "isbn13": "9780689823954",
+    "publicationDate": "1999-03-01",
+    "pages": 224
+  },
+  {
+    "id": 582,
+    "title": "Stalking Jack the Ripper",
+    "author": "Kerri Maniscalco",
+    "isbn13": "9780316273510",
+    "publicationDate": "2017-09-05",
+    "pages": 352
+  },
+  {
+    "id": 583,
+    "title": "A Deadly Education",
+    "author": "Naomi Novik",
+    "isbn13": "9780593128480",
+    "publicationDate": "2020-09-29",
+    "pages": 336
+  },
+  {
+    "id": 584,
+    "title": "Light on Yoga",
+    "author": "B. K. S. Iyengar",
+    "isbn13": "9780007107001",
+    "publicationDate": "2001-04-02",
+    "pages": 400
+  },
+  {
+    "id": 585,
+    "title": "Dark Psychology 202",
+    "author": "Michael Pace",
+    "isbn13": "9781974096787",
+    "publicationDate": "2017-07-30",
+    "pages": 222
+  },
+  {
+    "id": 586,
+    "title": "How to Organize Yourself",
+    "author": "John Caunt",
+    "isbn13": "9780749475772",
+    "publicationDate": "2016-10-28",
+    "pages": 184
+  },
+  {
+    "id": 587,
+    "title": "The Testament",
+    "author": "John Grisham",
+    "isbn13": "9780385493819",
+    "publicationDate": "1999-03-16",
+    "pages": 576
+  },
+  {
+    "id": 588,
+    "title": "Nimona",
+    "author": "N.D. Stevenson",
+    "isbn13": "9780062278227",
+    "publicationDate": "2015-05-12",
+    "pages": 272
+  },
+  {
+    "id": 589,
+    "title": "Maximum Security (CHERUB)",
+    "author": "Robert Muchamore",
+    "isbn13": "9780340884355",
+    "publicationDate": "2005-04-14",
+    "pages": 277
+  },
+  {
+    "id": 590,
+    "title": "The Paris Apartment",
+    "author": "Lucy Foley",
+    "isbn13": "9780063061903",
+    "publicationDate": "2022-02-15",
+    "pages": 448
+  },
+  {
+    "id": 591,
+    "title": "Devil and the Deep Sea",
+    "author": "Sara Craven",
+    "isbn13": "9780373111435",
+    "publicationDate": "1989-01-01",
+    "pages": 188
+  },
+  {
+    "id": 592,
+    "title": "The Girlfriend",
+    "author": "Robert Lawrence Stine",
+    "isbn13": "9783453189980",
+    "publicationDate": "2001-08-01",
+    "pages": 137
+  },
+  {
+    "id": 593,
+    "title": "Data Structures and Algorithms Made Easy",
+    "author": "Narasimha Karumanchi",
+    "isbn13": "9780615459813",
+    "publicationDate": "2011-05-05",
+    "pages": 426
+  },
+  {
+    "id": 594,
+    "title": "Does a Kangaroo Have a Mother, Too?",
+    "author": "Eric Carle",
+    "isbn13": "9780060287672",
+    "publicationDate": "2000-04-30",
+    "pages": 32
+  },
+  {
+    "id": 595,
+    "title": "The Sum of All Fears",
+    "author": "Tom Clancy",
+    "isbn13": "9780425133545",
+    "publicationDate": "1992-08-01",
+    "pages": 434
+  },
+  {
+    "id": 596,
+    "title": "Seedfolks",
+    "author": "Paul Fleischman",
+    "isbn13": "9780064472074",
+    "publicationDate": "2004-12-14",
+    "pages": 69
+  },
+  {
+    "id": 597,
+    "title": "The Miserable Mill",
+    "author": "Lemony Snicket",
+    "isbn13": "9781405208703",
+    "publicationDate": "2003-06-09",
+    "pages": 272
+  },
+  {
+    "id": 598,
+    "title": "The Terror",
+    "author": "Dan Simmons",
+    "isbn13": "9780316017459",
+    "publicationDate": "2007-12-10",
+    "pages": 784
+  },
+  {
+    "id": 599,
+    "title": "夏物語",
+    "author": "川上未映子",
+    "isbn13": "9781509898206",
+    "publicationDate": "2020-04-16",
+    "pages": 192
+  },
+  {
+    "id": 600,
+    "title": "The Italian's Inexperienced Mistress",
+    "author": "Lynne Graham",
+    "isbn13": "9780373126217",
+    "publicationDate": "2007-04-01",
+    "pages": 192
+  },
+  {
+    "id": 601,
+    "title": "Genghis Khan and the Making of the Modern World",
+    "author": "Jack Weatherford",
+    "isbn13": "9780609610626",
+    "publicationDate": "2004-03-16",
+    "pages": 352
+  },
+  {
+    "id": 602,
+    "title": "Dungeon Crawler Carl",
+    "author": "Matt Dinniman",
+    "isbn13": "9798217287161",
+    "publicationDate": "2025-07-15",
+    "pages": 640
+  },
+  {
+    "id": 603,
+    "title": "Impossible Bargain",
+    "author": "Patricia Wilson",
+    "isbn13": "9780373111251",
+    "publicationDate": "1988-10-01",
+    "pages": 187
+  },
+  {
+    "id": 604,
+    "title": "Cider with Rosie",
+    "author": "Laurie Lee",
+    "isbn13": "9780141182773",
+    "publicationDate": "2000-05-25",
+    "pages": 256
+  },
+  {
+    "id": 605,
+    "title": "Inca Gold",
+    "author": "Clive Cussler",
+    "isbn13": "9780743426800",
+    "publicationDate": "2001-06-01",
+    "pages": 577
+  },
+  {
+    "id": 606,
+    "title": "Fear Street saga",
+    "author": "Robert Lawrence Stine",
+    "isbn13": "9781481450416",
+    "publicationDate": "2015-12-22",
+    "pages": 544
+  },
+  {
+    "id": 607,
+    "title": "The Berenstain Bears Hug and Make Up (Berenstain Bears)",
+    "author": "Mike Berenstain",
+    "isbn13": "9780060573850",
+    "publicationDate": "2006-12-12",
+    "pages": 32
+  },
+  {
+    "id": 608,
+    "title": "Butcher & Blackbird",
+    "author": "Brynne Weaver",
+    "isbn13": "9798857497074",
+    "publicationDate": "2023-08-14",
+    "pages": 360
+  },
+  {
+    "id": 609,
+    "title": "Once and Always",
+    "author": "Judith McNaught",
+    "isbn13": "9780671737627",
+    "publicationDate": "1990-09-20",
+    "pages": 400
+  },
+  {
+    "id": 610,
+    "title": "Dawn",
+    "author": "Octavia E. Butler",
+    "isbn13": "9780445207790",
+    "publicationDate": "1989-08-03",
+    "pages": 256
+  },
+  {
+    "id": 611,
+    "title": "The brand gap",
+    "author": "Marty Neumeier",
+    "isbn13": "9780321348104",
+    "publicationDate": "2005-08-04",
+    "pages": 208
+  },
+  {
+    "id": 612,
+    "title": "The Stolen Heir",
+    "author": "Holly Black",
+    "isbn13": "9780316592703",
+    "publicationDate": "2023-01-03",
+    "pages": 376
+  },
+  {
+    "id": 613,
+    "title": "The Enormous Potato",
+    "author": "Aubrey Davis",
+    "isbn13": "9781550746693",
+    "publicationDate": "1999-09-01",
+    "pages": 32
+  },
+  {
+    "id": 614,
+    "title": "How to live on 24 hours a day",
+    "author": "Arnold Bennett",
+    "isbn13": "9781406922905",
+    "publicationDate": "2006-11-03",
+    "pages": 32
+  },
+  {
+    "id": 615,
+    "title": "Born in Fire",
+    "author": "Nora Roberts",
+    "isbn13": "9783442354054",
+    "publicationDate": "2000-11-01",
+    "pages": 410
+  },
+  {
+    "id": 616,
+    "title": "These Violent Delights",
+    "author": "Chloe Gong",
+    "isbn13": "9781534457690",
+    "publicationDate": "2020-11-17",
+    "pages": 464
+  },
+  {
+    "id": 617,
+    "title": "L'Île mystérieuse",
+    "author": "Jules Verne",
+    "isbn13": "9780543896407",
+    "publicationDate": "2001-03-01",
+    "pages": 555
+  },
+  {
+    "id": 618,
+    "title": "Forever after All",
+    "author": "Catharina Maura",
+    "isbn13": "9781955981019",
+    "publicationDate": "2022-01-06",
+    "pages": 354
+  },
+  {
+    "id": 619,
+    "title": "The Reluctant Husband",
+    "author": "Lynne Graham",
+    "isbn13": "9780373119714",
+    "publicationDate": "1998-07-01",
+    "pages": 188
+  },
+  {
+    "id": 620,
+    "title": "Freedom in exile",
+    "author": "His Holiness Tenzin Gyatso the XIV Dalai Lama",
+    "isbn13": "9780060987015",
+    "publicationDate": "1991-08-01",
+    "pages": 320
+  },
+  {
+    "id": 621,
+    "title": "Mathematics for Computer Technology",
+    "author": "Robert McCullough",
+    "isbn13": "9780895827005",
+    "publicationDate": "2006-12-01",
+    "pages": 480
+  },
+  {
+    "id": 622,
+    "title": "Deep End",
+    "author": "Ali Hazelwood",
+    "isbn13": "9789000397013",
+    "publicationDate": "2025-02-04",
+    "pages": 416
+  },
+  {
+    "id": 623,
+    "title": "On the Beach",
+    "author": "Nevil Shute",
+    "isbn13": "9783190002399",
+    "publicationDate": "1992-01-01",
+    "pages": 104
+  },
+  {
+    "id": 624,
+    "title": "The Girl Next Door",
+    "author": "Jack Ketchum",
+    "isbn13": "9780843955439",
+    "publicationDate": "2005-05-31",
+    "pages": 370
+  },
+  {
+    "id": 625,
+    "title": "A Critical History of Western Philosophy",
+    "author": "Y. Masih",
+    "isbn13": "9788120812420",
+    "publicationDate": "1999-02-05",
+    "pages": 565
+  },
+  {
+    "id": 626,
+    "title": "Everyday Wicca",
+    "author": "Gerina Dunwich",
+    "isbn13": "9780806518695",
+    "publicationDate": "2000-06-01",
+    "pages": 170
+  },
+  {
+    "id": 627,
+    "title": "The pig that wants to be eaten",
+    "author": "Julian Baggini",
+    "isbn13": "9781862077485",
+    "publicationDate": "2005-07-07",
+    "pages": 256
+  },
+  {
+    "id": 628,
+    "title": "Clip-Clop",
+    "author": "Nicola Smee",
+    "isbn13": "9781905417094",
+    "publicationDate": "2006-04-28",
+    "pages": 32
+  },
+  {
+    "id": 629,
+    "title": "Boyfriend Material",
+    "author": "Alexis Hall",
+    "isbn13": "9781728206141",
+    "publicationDate": "2020-07-07",
+    "pages": 432
+  },
+  {
+    "id": 630,
+    "title": "Fundamentals of Nursing",
+    "author": "Patricia A. Potter",
+    "isbn13": "9780323030014",
+    "publicationDate": "2004-06-15",
+    "pages": 224
+  },
+  {
+    "id": 631,
+    "title": "Calculus, Early Transcendentals",
+    "author": "James Stewart",
+    "isbn13": "9780534362980",
+    "publicationDate": "1999-06-04",
+    "pages": 1120
+  },
+  {
+    "id": 632,
+    "title": "Still Life (A Three Pines Mystery)",
+    "author": "Louise Penny",
+    "isbn13": "9780312948559",
+    "publicationDate": "2007-05-01",
+    "pages": 336
+  },
+  {
+    "id": 633,
+    "title": "Love Lessons",
+    "author": "Jacqueline Wilson",
+    "isbn13": "9780552553520",
+    "publicationDate": "2006-08-01",
+    "pages": 169
+  },
+  {
+    "id": 634,
+    "title": "Hänsel und Gretel",
+    "author": "Gebrüder Grimm [Brothers Grimm]",
+    "isbn13": "9780192723451",
+    "publicationDate": "1999-03-31",
+    "pages": 32
+  },
+  {
+    "id": 635,
+    "title": "Rubyfruit Jungle",
+    "author": "Rita Mae Brown",
+    "isbn13": "9783548253053",
+    "publicationDate": "2002-01-01",
+    "pages": 253
+  },
+  {
+    "id": 636,
+    "title": "I Will Teach You to Be Rich, Second Edition",
+    "author": "Ramit Sethi",
+    "isbn13": "9781523505746",
+    "publicationDate": "2019-05-14",
+    "pages": 352
+  },
+  {
+    "id": 637,
+    "title": "Fundamentals Of Electricity And Magnetism",
+    "author": "McGraw-Hill",
+    "isbn13": "9780078617737",
+    "publicationDate": "2004-03-26",
+    "pages": 138
+  },
+  {
+    "id": 638,
+    "title": "The Sword of Shannara",
+    "author": "Terry Brooks",
+    "isbn13": "9781857231519",
+    "publicationDate": "2006-10-05",
+    "pages": 736
+  },
+  {
+    "id": 639,
+    "title": "Fear Street - Switched",
+    "author": "Robert Lawrence Stine",
+    "isbn13": "9780671868390",
+    "publicationDate": "1995-05-01",
+    "pages": 160
+  },
+  {
+    "id": 640,
+    "title": "The last kids on Earth",
+    "author": "Max Brallier",
+    "isbn13": "9780451481085",
+    "publicationDate": "2018-10-16",
+    "pages": 816
+  },
+  {
+    "id": 641,
+    "title": "Of Human Bondage",
+    "author": "William Somerset Maugham",
+    "isbn13": "9788497935319",
+    "publicationDate": "2005-04-30",
+    "pages": 662
+  },
+  {
+    "id": 642,
+    "title": "River's End",
+    "author": "Nora Roberts",
+    "isbn13": "9783453186576",
+    "publicationDate": "2001-06-01",
+    "pages": 475
+  },
+  {
+    "id": 643,
+    "title": "Oranges Are Not the Only Fruit",
+    "author": "Jeanette Winterson",
+    "isbn13": "9780435123802",
+    "publicationDate": "1991-07-02",
+    "pages": 162
+  },
+  {
+    "id": 644,
+    "title": "Before We Were Yours",
+    "author": "Lisa Wingate",
+    "isbn13": "9780425284681",
+    "publicationDate": "2017-06-06",
+    "pages": 352
+  },
+  {
+    "id": 645,
+    "title": "The Sluts",
+    "author": "Dennis Cooper",
+    "isbn13": "9780977799503",
+    "publicationDate": "2005-01-13",
+    "pages": 296
+  },
+  {
+    "id": 646,
+    "title": "Purple Cow",
+    "author": "Seth Godin",
+    "isbn13": "9781591840213",
+    "publicationDate": "2003-05-08",
+    "pages": 160
+  },
+  {
+    "id": 647,
+    "title": "The Maid",
+    "author": "Nita Prose",
+    "isbn13": "9780735241336",
+    "publicationDate": "2022-01-04",
+    "pages": 304
+  },
+  {
+    "id": 648,
+    "title": "Without Trust",
+    "author": "Penny Jordan",
+    "isbn13": "9780373112012",
+    "publicationDate": "1989-08-01",
+    "pages": 189
+  },
+  {
+    "id": 649,
+    "title": "In the Realm of Hungry Ghosts",
+    "author": "Gabor Maté",
+    "isbn13": "9780676977400",
+    "publicationDate": "2008-02-12",
+    "pages": 304
+  },
+  {
+    "id": 650,
+    "title": "Untamed",
+    "author": "Glennon Doyle Melton",
+    "isbn13": "9781984801258",
+    "publicationDate": "2020-03-20",
+    "pages": 333
+  },
+  {
+    "id": 651,
+    "title": "How to Master the Art of Selling",
+    "author": "Tom Hopkins",
+    "isbn13": "9780586058961",
+    "publicationDate": "1994-09-12",
+    "pages": 384
+  },
+  {
+    "id": 652,
+    "title": "People of the earth",
+    "author": "Brian M. Fagan",
+    "isbn13": "9780131113169",
+    "publicationDate": "2003-07-08",
+    "pages": 597
+  },
+  {
+    "id": 653,
+    "title": "Ordinary and Partial Differential Equations",
+    "author": "M.D. Raisinghania",
+    "isbn13": "9788121908924",
+    "publicationDate": "2005-03-17",
+    "pages": 576
+  },
+  {
+    "id": 654,
+    "title": "The Dangerous Gift",
+    "author": "Tui T. Sutherland",
+    "isbn13": "9781338214543",
+    "publicationDate": "2021-03-02",
+    "pages": 336
+  },
+  {
+    "id": 655,
+    "title": "Social Intelligence",
+    "author": "Daniel Goleman",
+    "isbn13": "9780553803525",
+    "publicationDate": "2006-09-26",
+    "pages": 403
+  },
+  {
+    "id": 656,
+    "title": "Blood of my Monster",
+    "author": "Rina Kent",
+    "isbn13": "9781685451004",
+    "publicationDate": "2023-01-23",
+    "pages": 340
+  },
+  {
+    "id": 657,
+    "title": "I am Legend",
+    "author": "Richard Matheson",
+    "isbn13": "9781857988093",
+    "publicationDate": "1999-01-21",
+    "pages": 160
+  },
+  {
+    "id": 658,
+    "title": "Check & Mate",
+    "author": "Ali Hazelwood",
+    "isbn13": "9780593698440",
+    "publicationDate": "2023-11-07",
+    "pages": 368
+  },
+  {
+    "id": 659,
+    "title": "A Curse for True Love",
+    "author": "Stephanie Garber",
+    "isbn13": "9781250851208",
+    "publicationDate": "2023-10-24",
+    "pages": 400
+  },
+  {
+    "id": 660,
+    "title": "The Bride",
+    "author": "Julie Garwood",
+    "isbn13": "9780671737795",
+    "publicationDate": "1991-02-15",
+    "pages": 358
+  },
+  {
+    "id": 661,
+    "title": "The Last Letter",
+    "author": "Rebecca Yarros",
+    "isbn13": "9781640635333",
+    "publicationDate": "2019-02-26",
+    "pages": 432
+  },
+  {
+    "id": 662,
+    "title": "The Sight",
+    "author": "Erin Hunter",
+    "isbn13": "9780060892012",
+    "publicationDate": "2007-04-24",
+    "pages": 363
+  },
+  {
+    "id": 663,
+    "title": "His Pretty Little Burden",
+    "author": "Nicci Harris",
+    "isbn13": "9781922492142",
+    "publicationDate": "2022-05-09",
+    "pages": 416
+  },
+  {
+    "id": 664,
+    "title": "Игрокъ",
+    "author": "Fiódor Dostoievski",
+    "isbn13": "9785040013197",
+    "publicationDate": "1999-01-01",
+    "pages": 635
+  },
+  {
+    "id": 665,
+    "title": "The Never King",
+    "author": "Nikki St. Crowe",
+    "isbn13": "9789464403206",
+    "publicationDate": "2023-04-04",
+    "pages": 155
+  },
+  {
+    "id": 666,
+    "title": "Throttled Special Edition",
+    "author": "Lauren Asher",
+    "isbn13": "9781734258769",
+    "publicationDate": "2020-01-09",
+    "pages": 376
+  },
+  {
+    "id": 667,
+    "title": "Sea of Tranquility",
+    "author": "Emily St. John Mandel",
+    "isbn13": "9780593556597",
+    "publicationDate": "2022-05-17",
+    "pages": 408
+  },
+  {
+    "id": 668,
+    "title": "Inspired",
+    "author": "Marty Cagan",
+    "isbn13": "9781119387503",
+    "publicationDate": "2017-12-04",
+    "pages": 368
+  },
+  {
+    "id": 669,
+    "title": "Psycho",
+    "author": "Robert Bloch",
+    "isbn13": "9780743459075",
+    "publicationDate": "2003-06-01",
+    "pages": 224
+  },
+  {
+    "id": 670,
+    "title": "King of Battle and Blood",
+    "author": "Scarlett St. Clair",
+    "isbn13": "9781728258416",
+    "publicationDate": "2021-11-30",
+    "pages": 400
+  },
+  {
+    "id": 671,
+    "title": "The Wild Robot Escapes",
+    "author": "Peter Brown",
+    "isbn13": "9781432859909",
+    "publicationDate": "2019-01-10",
+    "pages": 284
+  },
+  {
+    "id": 672,
+    "title": "Glory in Death",
+    "author": "Nora Roberts",
+    "isbn13": "9782290308813",
+    "publicationDate": "2000-11-03",
+    "pages": 285
+  },
+  {
+    "id": 673,
+    "title": "アフターダーク",
+    "author": "村上春樹",
+    "isbn13": "9780786298594",
+    "publicationDate": "2007-10-03",
+    "pages": 241
+  },
+  {
+    "id": 674,
+    "title": "The Heiress Bride",
+    "author": "Lynne Graham",
+    "isbn13": "9780373122837",
+    "publicationDate": "2002-11-01",
+    "pages": 192
+  },
+  {
+    "id": 675,
+    "title": "Sometimes I lie",
+    "author": "Alice Feeney",
+    "isbn13": "9781250207418",
+    "publicationDate": "2019-02-26",
+    "pages": 384
+  },
+  {
+    "id": 676,
+    "title": "Homeport",
+    "author": "Nora Roberts",
+    "isbn13": "9783453180369",
+    "publicationDate": "2001-01-01",
+    "pages": 510
+  },
+  {
+    "id": 677,
+    "title": "Ella Enchanted",
+    "author": "Gail Carson Levine",
+    "isbn13": "9780064407052",
+    "publicationDate": "1998-08-30",
+    "pages": 240
+  },
+  {
+    "id": 678,
+    "title": "A Separate Peace",
+    "author": "John Knowles",
+    "isbn13": "9780025648401",
+    "publicationDate": "1960-02-01",
+    "pages": 186
+  },
+  {
+    "id": 679,
+    "title": "Her Body and Other Parties",
+    "author": "Carmen Maria Machado",
+    "isbn13": "9781555977887",
+    "publicationDate": "2017-10-03",
+    "pages": 248
+  },
+  {
+    "id": 680,
+    "title": "Hell House",
+    "author": "Richard Matheson",
+    "isbn13": "9780727860996",
+    "publicationDate": "2004-07-01",
+    "pages": 304
+  },
+  {
+    "id": 681,
+    "title": "Love in the Dark",
+    "author": "Charlotte Lamb",
+    "isbn13": "9780373109876",
+    "publicationDate": "1987-05-01",
+    "pages": 187
+  },
+  {
+    "id": 682,
+    "title": "The Dip",
+    "author": "Seth Godin",
+    "isbn13": "9781591841661",
+    "publicationDate": "2007-05-10",
+    "pages": 80
+  },
+  {
+    "id": 683,
+    "title": "The Fall of Hyperion",
+    "author": "Dan Simmons",
+    "isbn13": "9780747236047",
+    "publicationDate": "1992-02-20",
+    "pages": 640
+  },
+  {
+    "id": 684,
+    "title": "Hollywood Babylon",
+    "author": "Kenneth Anger",
+    "isbn13": "9780440153252",
+    "publicationDate": "1981-11-15",
+    "pages": 448
+  },
+  {
+    "id": 685,
+    "title": "The wisdom of psychopaths",
+    "author": "Kevin Dutton",
+    "isbn13": "9780434020676",
+    "publicationDate": "2012-03-15",
+    "pages": 302
+  },
+  {
+    "id": 686,
+    "title": "Not Even Bones",
+    "author": "Rebecca Schaeffer",
+    "isbn13": "9781328863546",
+    "publicationDate": "2018-09-04",
+    "pages": 368
+  },
+  {
+    "id": 687,
+    "title": "Flint",
+    "author": "Louis L'Amour",
+    "isbn13": "9780553252316",
+    "publicationDate": "1997-11-03",
+    "pages": 240
+  },
+  {
+    "id": 688,
+    "title": "Colorstrology",
+    "author": "Michele Bernhardt",
+    "isbn13": "9781594740251",
+    "publicationDate": "2005-12-01",
+    "pages": 432
+  },
+  {
+    "id": 689,
+    "title": "About Law",
+    "author": "Tony Honoré",
+    "isbn13": "9780198763888",
+    "publicationDate": "1996-03-21",
+    "pages": 120
+  },
+  {
+    "id": 690,
+    "title": "Without a silver spoon",
+    "author": "Eddie Iroh",
+    "isbn13": "9789782460356",
+    "publicationDate": "1998-01-01",
+    "pages": 116
+  },
+  {
+    "id": 691,
+    "title": "The Light We Carry",
+    "author": "Michelle Obama",
+    "isbn13": "9780593677902",
+    "publicationDate": "2022-11-15",
+    "pages": 504
+  },
+  {
+    "id": 692,
+    "title": "Salt, Fat, Acid, Heat",
+    "author": "Samin Nosrat",
+    "isbn13": "9781476753836",
+    "publicationDate": "2017-04-25",
+    "pages": 480
+  },
+  {
+    "id": 693,
+    "title": "Gregor the Overlander",
+    "author": "Suzanne Collins",
+    "isbn13": "9780439678131",
+    "publicationDate": "2004-08-01",
+    "pages": 320
+  },
+  {
+    "id": 694,
+    "title": "Dante",
+    "author": "Sadie Kincaid",
+    "isbn13": "9781915663191",
+    "publicationDate": "2023-03-29",
+    "pages": 348
+  },
+  {
+    "id": 695,
+    "title": "The Siren",
+    "author": "Kiera Cass",
+    "isbn13": "9781440154232",
+    "publicationDate": "2009-07-09",
+    "pages": 276
+  },
+  {
+    "id": 696,
+    "title": "UNSCRIPTED",
+    "author": "M. J. DeMarco",
+    "isbn13": "9780984358168",
+    "publicationDate": "2017-05-23",
+    "pages": 416
+  },
+  {
+    "id": 697,
+    "title": "The Very Busy Spider",
+    "author": "Eric Carle",
+    "isbn13": "9780399250651",
+    "publicationDate": "2008-04-10",
+    "pages": 24
+  },
+  {
+    "id": 698,
+    "title": "The Wave",
+    "author": "Todd Strasser",
+    "isbn13": "9780440993711",
+    "publicationDate": "1981-09-15",
+    "pages": 144
+  },
+  {
+    "id": 699,
+    "title": "The First Minute",
+    "author": "Chris Fenning",
+    "isbn13": "9781838244002",
+    "publicationDate": "2020-11-13",
+    "pages": 126
+  },
+  {
+    "id": 700,
+    "title": "How to Change Your Mind",
+    "author": "Michael Pollan",
+    "isbn13": "9780735224155",
+    "publicationDate": "2019-05-14",
+    "pages": 480
+  },
+  {
+    "id": 701,
+    "title": "Nostradamus",
+    "author": "Mario Reading",
+    "isbn13": "9781905857296",
+    "publicationDate": "2007-10-01",
+    "pages": 304
+  },
+  {
+    "id": 702,
+    "title": "The Vampire Armand",
+    "author": "Anne Rice",
+    "isbn13": "9780099271475",
+    "publicationDate": "1999-10-07",
+    "pages": 520
+  },
+  {
+    "id": 703,
+    "title": "The Contaxis Baby",
+    "author": "Lynne Graham",
+    "isbn13": "9780373198818",
+    "publicationDate": "2007-07-10",
+    "pages": 192
+  },
+  {
+    "id": 704,
+    "title": "Hacking",
+    "author": "Andrew Mckinnon",
+    "isbn13": "9781514125335",
+    "publicationDate": "2015-05-29",
+    "pages": 210
+  },
+  {
+    "id": 705,
+    "title": "Digital marketing strategy",
+    "author": "Simon Kingsnorth",
+    "isbn13": "9780749484224",
+    "publicationDate": "2019-04-28",
+    "pages": 384
+  },
+  {
+    "id": 706,
+    "title": "Night Train at Deoli",
+    "author": "Ruskin Bond",
+    "isbn13": "9780140116151",
+    "publicationDate": "1989-10-03",
+    "pages": 248
+  },
+  {
+    "id": 707,
+    "title": "The Sea Fairies",
+    "author": "L. Frank Baum",
+    "isbn13": "9781421817880",
+    "publicationDate": "2006-05-22",
+    "pages": 192
+  },
+  {
+    "id": 708,
+    "title": "The Final Price",
+    "author": "Patricia Wilson",
+    "isbn13": "9780373109340",
+    "publicationDate": "1986-10-01",
+    "pages": 187
+  },
+  {
+    "id": 709,
+    "title": "Hop on Pop",
+    "author": "Dr. Seuss",
+    "isbn13": "9780394800295",
+    "publicationDate": "1963-02-12",
+    "pages": 72
+  },
+  {
+    "id": 710,
+    "title": "Economics",
+    "author": "McGraw-Hill",
+    "isbn13": "9780078747649",
+    "publicationDate": "2007-02-26",
+    "pages": 528
+  },
+  {
+    "id": 711,
+    "title": "Where Are the Children?",
+    "author": "Mary Higgins Clark",
+    "isbn13": "9781400001071",
+    "publicationDate": "2002-01-22",
+    "pages": 288
+  },
+  {
+    "id": 712,
+    "title": "The Bear and the Dragon",
+    "author": "Tom Clancy",
+    "isbn13": "9780425180969",
+    "publicationDate": "2001-08-01",
+    "pages": 1152
+  },
+  {
+    "id": 713,
+    "title": "Play It as It Lays",
+    "author": "Joan Didion",
+    "isbn13": "9780374521714",
+    "publicationDate": "1990-10-01",
+    "pages": 214
+  },
+  {
+    "id": 714,
+    "title": "Aesop's Fables",
+    "author": "Aesop",
+    "isbn13": "9781902618272",
+    "publicationDate": "1999-09-02",
+    "pages": 96
+  },
+  {
+    "id": 715,
+    "title": "Betting on You",
+    "author": "Lynn Painter",
+    "isbn13": "9781665921237",
+    "publicationDate": "2023-11-28",
+    "pages": 432
+  },
+  {
+    "id": 716,
+    "title": "Fluent Python",
+    "author": "Luciano Ramalho",
+    "isbn13": "9781491946008",
+    "publicationDate": "2015-08-20",
+    "pages": 792
+  },
+  {
+    "id": 717,
+    "title": "On Becoming a Person",
+    "author": "Rogers, Carl R.",
+    "isbn13": "9781845290573",
+    "publicationDate": "2004-03-01",
+    "pages": 432
+  },
+  {
+    "id": 718,
+    "title": "Van Gogh",
+    "author": "Federico Zeri",
+    "isbn13": "9781553210023",
+    "publicationDate": "1999-11-12",
+    "pages": 48
+  },
+  {
+    "id": 719,
+    "title": "Lover's Touch",
+    "author": "Penny Jordan",
+    "isbn13": "9780373112166",
+    "publicationDate": "1989-10-01",
+    "pages": 188
+  },
+  {
+    "id": 720,
+    "title": "Meth=Sorcery",
+    "author": "Steve Box",
+    "isbn13": "9780967960302",
+    "publicationDate": "2000-06-23",
+    "pages": 155
+  },
+  {
+    "id": 721,
+    "title": "How to Talk So People Will Listen",
+    "author": "Steve Brown",
+    "isbn13": "9780801061448",
+    "publicationDate": "1999-11-01",
+    "pages": 169
+  },
+  {
+    "id": 722,
+    "title": "Rich Dad's Increase Your Financial IQ",
+    "author": "Robert T. Kiyosaki",
+    "isbn13": "9780446509367",
+    "publicationDate": "2008-03-26",
+    "pages": 224
+  },
+  {
+    "id": 723,
+    "title": "Cashflow Quadrant",
+    "author": "Robert T. Kiyosaki",
+    "isbn13": "9780446677479",
+    "publicationDate": "2000-04-01",
+    "pages": 251
+  },
+  {
+    "id": 724,
+    "title": "Mary Poppins",
+    "author": "Pamela L. Travers",
+    "isbn13": "9780006753971",
+    "publicationDate": "1998-11-02",
+    "pages": 256
+  },
+  {
+    "id": 725,
+    "title": "Montana Sky",
+    "author": "Nora Roberts",
+    "isbn13": "9783453131156",
+    "publicationDate": "1998-01-01",
+    "pages": 559
+  },
+  {
+    "id": 726,
+    "title": "The Lucifer Effect",
+    "author": "Philip G. Zimbardo",
+    "isbn13": "9780812974447",
+    "publicationDate": "2008-01-15",
+    "pages": 576
+  },
+  {
+    "id": 727,
+    "title": "From Lukov with Love",
+    "author": "Mariana Zapata",
+    "isbn13": "9780990429272",
+    "publicationDate": "2018-02-01",
+    "pages": 522
+  },
+  {
+    "id": 728,
+    "title": "The Image of the City",
+    "author": "Kevin Lynch",
+    "isbn13": "9783764363604",
+    "publicationDate": "2004-07-09",
+    "pages": 215
+  },
+  {
+    "id": 729,
+    "title": "Game Changer",
+    "author": "Rachel Reid",
+    "isbn13": "9782382280263",
+    "publicationDate": "2021-04-11",
+    "pages": 344
+  },
+  {
+    "id": 730,
+    "title": "A Lingering Melody",
+    "author": "Patricia Wilson",
+    "isbn13": "9780373110629",
+    "publicationDate": "1988-02-01",
+    "pages": 189
+  },
+  {
+    "id": 731,
+    "title": "One Night With His Wife",
+    "author": "Lynne Graham",
+    "isbn13": "9780373120734",
+    "publicationDate": "1999-12-01",
+    "pages": 187
+  },
+  {
+    "id": 732,
+    "title": "Arabella",
+    "author": "Georgette Heyer",
+    "isbn13": "9780099465621",
+    "publicationDate": "2004-10-07",
+    "pages": 320
+  },
+  {
+    "id": 733,
+    "title": "I Know What You Did Last Summer",
+    "author": "Lois Duncan",
+    "isbn13": "9780440228448",
+    "publicationDate": "1999-04-06",
+    "pages": 208
+  },
+  {
+    "id": 734,
+    "title": "Sinner",
+    "author": "Sierra Simone",
+    "isbn13": "9781732172258",
+    "publicationDate": "2018-03-15",
+    "pages": 478
+  },
+  {
+    "id": 735,
+    "title": "The Book with No Pictures",
+    "author": "B. J. Novak",
+    "isbn13": "9780803741713",
+    "publicationDate": "2014-09-30",
+    "pages": 48
+  },
+  {
+    "id": 736,
+    "title": "Winter's Heart",
+    "author": "Robert Jordan",
+    "isbn13": "9780312877750",
+    "publicationDate": "2001-03-07",
+    "pages": 608
+  },
+  {
+    "id": 737,
+    "title": "The Heart is a Lonely Hunter",
+    "author": "Carson McCullers",
+    "isbn13": "9780618526413",
+    "publicationDate": "2004-04-21",
+    "pages": 368
+  },
+  {
+    "id": 738,
+    "title": "Knife of Dreams",
+    "author": "Robert Jordan",
+    "isbn13": "9781593977658",
+    "publicationDate": "2005-10-11",
+    "pages": 1000
+  },
+  {
+    "id": 739,
+    "title": "The City & The City",
+    "author": "China Miéville",
+    "isbn13": "9781509870585",
+    "publicationDate": "2018-07-12",
+    "pages": 373
+  },
+  {
+    "id": 740,
+    "title": "Today Tonight Tomorrow",
+    "author": "Rachel Lynn Solomon",
+    "isbn13": "9782408020835",
+    "publicationDate": "2021-06-09",
+    "pages": 416
+  },
+  {
+    "id": 741,
+    "title": "Le Corbusier",
+    "author": "Le Corbusier",
+    "isbn13": "9783931936723",
+    "publicationDate": "2007-09-01",
+    "pages": 398
+  },
+  {
+    "id": 742,
+    "title": "Borrowed Wife",
+    "author": "Patricia Wilson",
+    "isbn13": "9780373034581",
+    "publicationDate": "1997-04-01",
+    "pages": 189
+  },
+  {
+    "id": 743,
+    "title": "Allergic",
+    "author": "Megan Wagner Lloyd",
+    "isbn13": "9781338568912",
+    "publicationDate": "2021-03-02",
+    "pages": 240
+  },
+  {
+    "id": 744,
+    "title": "The Giraffe and the Pelly and Me",
+    "author": "Roald Dahl",
+    "isbn13": "9780140365276",
+    "publicationDate": "1993-05-08",
+    "pages": 80
+  },
+  {
+    "id": 745,
+    "title": "I Will Surprise My Friend! (Elephant and Piggie)",
+    "author": "Mo Willems",
+    "isbn13": "9781423109624",
+    "publicationDate": "2008-06-03",
+    "pages": 64
+  },
+  {
+    "id": 746,
+    "title": "The Maidens",
+    "author": "Alex Michaelides",
+    "isbn13": "9781250304452",
+    "publicationDate": "2021-06-15",
+    "pages": 337
+  },
+  {
+    "id": 747,
+    "title": "Twisted Emotions",
+    "author": "Cora Reilly",
+    "isbn13": "9781792803215",
+    "publicationDate": "2019-01-06",
+    "pages": 341
+  },
+  {
+    "id": 748,
+    "title": "On the Banks of Plum Creek",
+    "author": "Laura Ingalls Wilder",
+    "isbn13": "9780060581831",
+    "publicationDate": "2004-05-11",
+    "pages": 352
+  },
+  {
+    "id": 749,
+    "title": "Horton Hears a Who!",
+    "author": "Dr. Seuss",
+    "isbn13": "9780679800033",
+    "publicationDate": "1990-10-10",
+    "pages": 64
+  },
+  {
+    "id": 750,
+    "title": "Ikigai",
+    "author": "Keira Miki",
+    "isbn13": "9789354866487",
+    "publicationDate": "2021-11-08",
+    "pages": 114
+  },
+  {
+    "id": 751,
+    "title": "Dark Prince",
+    "author": "Christine Feehan",
+    "isbn13": "9788495752628",
+    "publicationDate": "2006-05-15",
+    "pages": 352
+  },
+  {
+    "id": 752,
+    "title": "Shrek!",
+    "author": "William Steig",
+    "isbn13": "9780374368791",
+    "publicationDate": "2010-03-30",
+    "pages": 32
+  },
+  {
+    "id": 753,
+    "title": "The Spell Book for New Witches",
+    "author": "Ambrosia Hawthorn",
+    "isbn13": "9781646110643",
+    "publicationDate": "2020-02-04",
+    "pages": 244
+  },
+  {
+    "id": 754,
+    "title": "The Culture Map",
+    "author": "Erin Meyer",
+    "isbn13": "9781610392761",
+    "publicationDate": "2016-01-21",
+    "pages": 288
+  },
+  {
+    "id": 755,
+    "title": "Witchcraft",
+    "author": "Anastasia Greywolf",
+    "isbn13": "9781577151241",
+    "publicationDate": "2016-05-15",
+    "pages": 246
+  },
+  {
+    "id": 756,
+    "title": "A Memory Called Empire",
+    "author": "Arkady Martine",
+    "isbn13": "9781250186430",
+    "publicationDate": "2019-03-26",
+    "pages": 464
+  },
+  {
+    "id": 757,
+    "title": "The No. 1 Ladies' Detective Agency",
+    "author": "Alexander McCall Smith",
+    "isbn13": "9780349116754",
+    "publicationDate": "2003-06-05",
+    "pages": 250
+  },
+  {
+    "id": 758,
+    "title": "Tempted",
+    "author": "Megan Hart",
+    "isbn13": "9780373605194",
+    "publicationDate": "2008-01-01",
+    "pages": 432
+  },
+  {
+    "id": 759,
+    "title": "Brood of the Witch-Queen",
+    "author": "Sax Rohmer",
+    "isbn13": "9781603129381",
+    "publicationDate": "2007-02-01",
+    "pages": 172
+  },
+  {
+    "id": 760,
+    "title": "Alternative Cures",
+    "author": "Bill Gottlieb",
+    "isbn13": "9781579540586",
+    "publicationDate": "2000-10-15",
+    "pages": 716
+  },
+  {
+    "id": 761,
+    "title": "Self Improvement",
+    "author": "Perfect Self",
+    "isbn13": "9781539796749",
+    "publicationDate": "2017-01-30",
+    "pages": 112
+  },
+  {
+    "id": 762,
+    "title": "Journey to Jo'burg",
+    "author": "Beverley Naidoo",
+    "isbn13": "9780397321698",
+    "publicationDate": "1986-04-18",
+    "pages": 96
+  },
+  {
+    "id": 763,
+    "title": "JavaScript and jQuery",
+    "author": "Jon Duckett",
+    "isbn13": "9781118531648",
+    "publicationDate": "2014-06-01",
+    "pages": 640
+  },
+  {
+    "id": 764,
+    "title": "Little Bear's Visit",
+    "author": "Else Holmelund Minarik",
+    "isbn13": "9782211017275",
+    "publicationDate": "1991-01-01",
+    "pages": 60
+  },
+  {
+    "id": 765,
+    "title": "The Day of the Jackal",
+    "author": "Frederick Forsyth",
+    "isbn13": "9780099552710",
+    "publicationDate": "1995-07-17",
+    "pages": 416
+  },
+  {
+    "id": 766,
+    "title": "Yours Truly",
+    "author": "Abby Jimenez",
+    "isbn13": "9781538704394",
+    "publicationDate": "2023-04-11",
+    "pages": 400
+  },
+  {
+    "id": 767,
+    "title": "If We Were Perfect",
+    "author": "Ana Huang",
+    "isbn13": "9781735056647",
+    "publicationDate": "2020-12-06",
+    "pages": 332
+  },
+  {
+    "id": 768,
+    "title": "Immune",
+    "author": "Philipp Dettmer",
+    "isbn13": "9780593241318",
+    "publicationDate": "2021-09-28",
+    "pages": 368
+  },
+  {
+    "id": 769,
+    "title": "The Convoluted Universe, Book Two",
+    "author": "Dolores Cannon",
+    "isbn13": "9781886940987",
+    "publicationDate": "2007-02-22",
+    "pages": 661
+  },
+  {
+    "id": 770,
+    "title": "スプートニクの恋人",
+    "author": "村上春樹",
+    "isbn13": "9782714438607",
+    "publicationDate": "2003-02-06",
+    "pages": 275
+  },
+  {
+    "id": 771,
+    "title": "Amerika",
+    "author": "Franz Kafka",
+    "isbn13": "9782080705013",
+    "publicationDate": "1993-08-03",
+    "pages": 341
+  },
+  {
+    "id": 772,
+    "title": "Shattered Trust",
+    "author": "Jacqueline Baird",
+    "isbn13": "9780373113590",
+    "publicationDate": "1991-04-01",
+    "pages": 187
+  },
+  {
+    "id": 773,
+    "title": "The Firework-maker's Daughter",
+    "author": "Philip Pullman",
+    "isbn13": "9780440866404",
+    "publicationDate": "2004-11-04",
+    "pages": 119
+  },
+  {
+    "id": 774,
+    "title": "The Sword of Kaigen",
+    "author": "M. L. Wang",
+    "isbn13": "9781720193869",
+    "publicationDate": "2019-02-13",
+    "pages": 649
+  },
+  {
+    "id": 775,
+    "title": "The Clique",
+    "author": "Lisi Harrison",
+    "isbn13": "9780689872990",
+    "publicationDate": "2007-06-04",
+    "pages": 224
+  },
+  {
+    "id": 776,
+    "title": "Molecules of emotion",
+    "author": "Candace B. Pert",
+    "isbn13": "9780684846347",
+    "publicationDate": "1999-02-17",
+    "pages": 368
+  },
+  {
+    "id": 777,
+    "title": "The Teachings of Don Juan",
+    "author": "Carlos Castaneda",
+    "isbn13": "9780671600419",
+    "publicationDate": "1985-03-03",
+    "pages": 256
+  },
+  {
+    "id": 778,
+    "title": "Weep No More, My Lady",
+    "author": "Mary Higgins Clark",
+    "isbn13": "9780671025588",
+    "publicationDate": "1998-08-01",
+    "pages": 336
+  },
+  {
+    "id": 779,
+    "title": "Essentials of Psychology",
+    "author": "Dennis Coon",
+    "isbn13": "9780534264253",
+    "publicationDate": "1999-08-17",
+    "pages": 592
+  },
+  {
+    "id": 780,
+    "title": "Oakleaf Bearers",
+    "author": "John Flanagan",
+    "isbn13": "9780399244575",
+    "publicationDate": "2008-03-18",
+    "pages": 272
+  },
+  {
+    "id": 781,
+    "title": "Local Woman Missing",
+    "author": "Mary Kubica",
+    "isbn13": "9780778389446",
+    "publicationDate": "2021-05-18",
+    "pages": 352
+  },
+  {
+    "id": 782,
+    "title": "The Bridge Kingdom",
+    "author": "Danielle L. Jensen",
+    "isbn13": "9781733090322",
+    "publicationDate": "2019-08-13",
+    "pages": 354
+  },
+  {
+    "id": 783,
+    "title": "The Book of Life",
+    "author": "Deborah Harkness",
+    "isbn13": "9780670025596",
+    "publicationDate": "2014-07-15",
+    "pages": 578
+  },
+  {
+    "id": 784,
+    "title": "Stone soup",
+    "author": "Marcia Brown",
+    "isbn13": "9780684922966",
+    "publicationDate": "1947-01-01",
+    "pages": 48
+  },
+  {
+    "id": 785,
+    "title": "The Blind Watchmaker",
+    "author": "Richard Dawkins",
+    "isbn13": "9780140144819",
+    "publicationDate": "1990-11-29",
+    "pages": 368
+  },
+  {
+    "id": 786,
+    "title": "Ten Apples Up on Top",
+    "author": "Dr. Seuss",
+    "isbn13": "9780679892472",
+    "publicationDate": "1998-09-08",
+    "pages": 24
+  },
+  {
+    "id": 787,
+    "title": "Mistakes Were Made",
+    "author": "Meryl Wilsner",
+    "isbn13": "9781250841001",
+    "publicationDate": "2022-10-11",
+    "pages": 352
+  },
+  {
+    "id": 788,
+    "title": "Brave New World and Brave New World Revisited",
+    "author": "Aldous Huxley",
+    "isbn13": "9780060776091",
+    "publicationDate": "2005-07-05",
+    "pages": 384
+  },
+  {
+    "id": 789,
+    "title": "On Liberty",
+    "author": "John Stuart Mill",
+    "isbn13": "9782070325368",
+    "publicationDate": "1990-03-22",
+    "pages": 242
+  },
+  {
+    "id": 790,
+    "title": "The Pipe Fitters Blue Book",
+    "author": "W. V. Graves",
+    "isbn13": "9780970832108",
+    "publicationDate": "1973-03-11",
+    "pages": 175
+  },
+  {
+    "id": 791,
+    "title": "Rowan of Rin (Rowan of Rin",
+    "author": "Emily Rodda",
+    "isbn13": "9780060560713",
+    "publicationDate": "2004-02-17",
+    "pages": 151
+  },
+  {
+    "id": 792,
+    "title": "The Polar Express Gift Set",
+    "author": "Chris Van Allsburg",
+    "isbn13": "9780618477975",
+    "publicationDate": "2004-09-27",
+    "pages": 32
+  },
+  {
+    "id": 793,
+    "title": "Killing Mr. Griffin",
+    "author": "Lois Duncan",
+    "isbn13": "9780440945154",
+    "publicationDate": "1990-08-01",
+    "pages": 223
+  },
+  {
+    "id": 794,
+    "title": "The Goal",
+    "author": "Elle Kennedy",
+    "isbn13": "9781533344342",
+    "publicationDate": "2016-09-26",
+    "pages": 349
+  },
+  {
+    "id": 795,
+    "title": "Zahir",
+    "author": "Paulo Coelho",
+    "isbn13": "9780060825218",
+    "publicationDate": "2005-08-23",
+    "pages": 320
+  },
+  {
+    "id": 796,
+    "title": "I Decided to Live as Me - English Translation",
+    "author": "Kim Soo-Hyun",
+    "isbn13": "9789715088343",
+    "publicationDate": "2020-03-16",
+    "pages": 290
+  },
+  {
+    "id": 797,
+    "title": "Jilted",
+    "author": "Sally Wentworth",
+    "isbn13": "9780373106141",
+    "publicationDate": "1983-06-01",
+    "pages": 191
+  },
+  {
+    "id": 798,
+    "title": "Müdigkeitsgesellschaft",
+    "author": "Byung-Chul Han",
+    "isbn13": "9783882216165",
+    "publicationDate": "2010-10-04",
+    "pages": 70
+  },
+  {
+    "id": 799,
+    "title": "Jambalaya",
+    "author": "Luisah Teish",
+    "isbn13": "9780062508591",
+    "publicationDate": "1988-03-03",
+    "pages": 288
+  },
+  {
+    "id": 800,
+    "title": "Chainsaw Man, Vol. 1",
+    "author": "藤本タツキ",
+    "isbn13": "9782820337825",
+    "publicationDate": "2020-03-11",
+    "pages": 192
+  },
+  {
+    "id": 801,
+    "title": "Rumble Fish",
+    "author": "S. E. Hinton",
+    "isbn13": "9780440975342",
+    "publicationDate": "1989-10-01",
+    "pages": 135
+  },
+  {
+    "id": 802,
+    "title": "Violet Bent Backwards Over the Grass",
+    "author": "Lana Del Rey",
+    "isbn13": "9781982167288",
+    "publicationDate": "2020-09-29",
+    "pages": 128
+  },
+  {
+    "id": 803,
+    "title": "How to Take Smart Notes",
+    "author": "Sönke Ahrens",
+    "isbn13": "9781542866507",
+    "publicationDate": "2017-02-24",
+    "pages": 176
+  },
+  {
+    "id": 804,
+    "title": "Broken Throne",
+    "author": "Victoria Aveyard",
+    "isbn13": "9780062423023",
+    "publicationDate": "2019-05-07",
+    "pages": 480
+  },
+  {
+    "id": 805,
+    "title": "Human physiology",
+    "author": "Stuart Ira Fox",
+    "isbn13": "9780073040769",
+    "publicationDate": "2006-08-01",
+    "pages": 770
+  },
+  {
+    "id": 806,
+    "title": "Master of Pleasure",
+    "author": "Penny Jordan",
+    "isbn13": "9780373125715",
+    "publicationDate": "2006-10-01",
+    "pages": 192
+  },
+  {
+    "id": 807,
+    "title": "Emotions Revealed",
+    "author": "Paul Ekman",
+    "isbn13": "9780805083392",
+    "publicationDate": "2007-03-20",
+    "pages": 320
+  },
+  {
+    "id": 808,
+    "title": "Evbu My Love",
+    "author": "Helen Ovbiagele",
+    "isbn13": "9780333294437",
+    "publicationDate": "1981-01-01",
+    "pages": 160
+  },
+  {
+    "id": 809,
+    "title": "The night diary",
+    "author": "Veera Hiranandani",
+    "isbn13": "9780735228528",
+    "publicationDate": "2019-04-23",
+    "pages": 288
+  },
+  {
+    "id": 810,
+    "title": "Broken",
+    "author": "Willow Winters",
+    "isbn13": "9781974263257",
+    "publicationDate": "2016-10-07",
+    "pages": 312
+  },
+  {
+    "id": 811,
+    "title": "We wish to inform you that tomorrow we will be killed with our families",
+    "author": "Philip Gourevitch",
+    "isbn13": "9780330371216",
+    "publicationDate": "2000-03-10",
+    "pages": 368
+  },
+  {
+    "id": 812,
+    "title": "Quarto de Despejo",
+    "author": "Carolina Maria de Jesus",
+    "isbn13": "9780451529107",
+    "publicationDate": "2003-10-07",
+    "pages": 208
+  },
+  {
+    "id": 813,
+    "title": "Thinking in Bets",
+    "author": "Annie Duke",
+    "isbn13": "9780735216372",
+    "publicationDate": "2019-05-07",
+    "pages": 288
+  },
+  {
+    "id": 814,
+    "title": "Fire with Fire",
+    "author": "Penny Jordan",
+    "isbn13": "9780373109166",
+    "publicationDate": "1986-08-01",
+    "pages": 189
+  },
+  {
+    "id": 815,
+    "title": "Sojourn",
+    "author": "R. A. Salvatore",
+    "isbn13": "9783442245659",
+    "publicationDate": "1992-01-01",
+    "pages": 183
+  },
+  {
+    "id": 816,
+    "title": "The Wolf and the Dove",
+    "author": "Kathleen E. Woodiwiss",
+    "isbn13": "9780380007783",
+    "publicationDate": "2007-08-28",
+    "pages": 512
+  },
+  {
+    "id": 817,
+    "title": "Dangerous Obsession",
+    "author": "Patricia Wilson",
+    "isbn13": "9780373112869",
+    "publicationDate": "1990-06-01",
+    "pages": 189
+  },
+  {
+    "id": 818,
+    "title": "Fashionpedia",
+    "author": "Fashionary",
+    "isbn13": "9789881354761",
+    "publicationDate": "2016-08-15",
+    "pages": 336
+  },
+  {
+    "id": 819,
+    "title": "What the Buddha taught",
+    "author": "Walpola Rahula",
+    "isbn13": "9780802130310",
+    "publicationDate": "1994-01-11",
+    "pages": 192
+  },
+  {
+    "id": 820,
+    "title": "Computerdenken",
+    "author": "Roger Penrose",
+    "isbn13": "9783827413321",
+    "publicationDate": "2002-03-21",
+    "pages": 454
+  },
+  {
+    "id": 821,
+    "title": "Green Witchcraft",
+    "author": "Paige Vanderbeck",
+    "isbn13": "9781646115648",
+    "publicationDate": "2020-02-25",
+    "pages": 184
+  },
+  {
+    "id": 822,
+    "title": "Self-Made Man",
+    "author": "Norah Vincent",
+    "isbn13": "9780786286720",
+    "publicationDate": "2006-06-14",
+    "pages": 448
+  },
+  {
+    "id": 823,
+    "title": "The Last Man Who Knew Everything",
+    "author": "Andrew Robinson",
+    "isbn13": "9780131343047",
+    "publicationDate": "2005-12-07",
+    "pages": 304
+  },
+  {
+    "id": 824,
+    "title": "Journey Of Souls",
+    "author": "Michael Newton",
+    "isbn13": "9781567184853",
+    "publicationDate": "2002-09-01",
+    "pages": 278
+  },
+  {
+    "id": 825,
+    "title": "Use of Weapons",
+    "author": "Iain Banks",
+    "isbn13": "9780316030571",
+    "publicationDate": "2008-07-28",
+    "pages": 480
+  },
+  {
+    "id": 826,
+    "title": "Babylon’s ashes",
+    "author": "James S. A. Corey",
+    "isbn13": "9780316217644",
+    "publicationDate": "2017-10-24",
+    "pages": 576
+  },
+  {
+    "id": 827,
+    "title": "Daughter of the Moon Goddess",
+    "author": "Sue Lynn Tan",
+    "isbn13": "9780063031319",
+    "publicationDate": "2022-09-06",
+    "pages": 512
+  },
+  {
+    "id": 828,
+    "title": "This is going to hurt",
+    "author": "Adam Kay",
+    "isbn13": "9781509858651",
+    "publicationDate": "2017-09-07",
+    "pages": 288
+  },
+  {
+    "id": 829,
+    "title": "13 Things Mentally Strong People Don't Do",
+    "author": "Amy Morin",
+    "isbn13": "9780062358301",
+    "publicationDate": "2017-03-07",
+    "pages": 288
+  },
+  {
+    "id": 830,
+    "title": "The Brief Wondrous Life of Oscar Wao",
+    "author": "Junot Díaz",
+    "isbn13": "9781410404336",
+    "publicationDate": "2008-02-06",
+    "pages": 454
+  },
+  {
+    "id": 831,
+    "title": "Necronomicon",
+    "author": "H.P. Lovecraft",
+    "isbn13": "9780575081574",
+    "publicationDate": "2008-04-28",
+    "pages": 1008
+  },
+  {
+    "id": 832,
+    "title": "Seeing Like a State",
+    "author": "James C. Scott",
+    "isbn13": "9786057685476",
+    "publicationDate": "2020-10-30",
+    "pages": 423
+  },
+  {
+    "id": 833,
+    "title": "Wings of Starlight",
+    "author": "Allison Saft",
+    "isbn13": "9781368116169",
+    "publicationDate": "2025-02-04",
+    "pages": 400
+  },
+  {
+    "id": 834,
+    "title": "A Curse So Dark and Lonely",
+    "author": "Brigid Kemmerer",
+    "isbn13": "9781681195087",
+    "publicationDate": "2019-01-29",
+    "pages": 496
+  },
+  {
+    "id": 835,
+    "title": "Alive!",
+    "author": "Piers Paul Read",
+    "isbn13": "9780749314507",
+    "publicationDate": "1993-01-14",
+    "pages": 320
+  },
+  {
+    "id": 836,
+    "title": "The New York Trilogy",
+    "author": "Paul Auster",
+    "isbn13": "9783499125485",
+    "publicationDate": "1999-05-01",
+    "pages": 374
+  },
+  {
+    "id": 837,
+    "title": "Today I Will Fly! (Elephant and Piggie)",
+    "author": "Mo Willems",
+    "isbn13": "9781423102953",
+    "publicationDate": "2007-04-01",
+    "pages": 64
+  },
+  {
+    "id": 838,
+    "title": "How to Do Nothing",
+    "author": "Jenny Odell",
+    "isbn13": "9781612197494",
+    "publicationDate": "2019-04-09",
+    "pages": 256
+  },
+  {
+    "id": 839,
+    "title": "Life As We Knew It",
+    "author": "Susan Beth Pfeffer",
+    "isbn13": "9780152058265",
+    "publicationDate": "2006-10-01",
+    "pages": 352
+  },
+  {
+    "id": 840,
+    "title": "Friends 'Til the End",
+    "author": "David Wild",
+    "isbn13": "9780755313211",
+    "publicationDate": "2004-05-10",
+    "pages": 288
+  },
+  {
+    "id": 841,
+    "title": "The Modern Guide to Witchcraft: Your Complete Guide to Witches, Covens, and Spells (Modern Witchcraft)",
+    "author": "Skye Alexander",
+    "isbn13": "9781440580024",
+    "publicationDate": "2014-07-31",
+    "pages": 304
+  },
+  {
+    "id": 842,
+    "title": "The Art of Saying NO",
+    "author": "Damon Zahariades",
+    "isbn13": "9781549572746",
+    "publicationDate": "2017-08-23",
+    "pages": 170
+  },
+  {
+    "id": 843,
+    "title": "The Choice",
+    "author": "Nicholas Sparks",
+    "isbn13": "9780446579926",
+    "publicationDate": "2007-09-24",
+    "pages": 288
+  },
+  {
+    "id": 844,
+    "title": "The Prince's Virgin Wife",
+    "author": "Lucy Monroe",
+    "isbn13": "9780373125357",
+    "publicationDate": "2006-05-01",
+    "pages": 192
+  },
+  {
+    "id": 845,
+    "title": "Tintenblut",
+    "author": "Cornelia Funke",
+    "isbn13": "9788498410303",
+    "publicationDate": "2006-09-30",
+    "pages": 671
+  },
+  {
+    "id": 846,
+    "title": "I Heard You Paint Houses",
+    "author": "Charles Brandt",
+    "isbn13": "9781586420772",
+    "publicationDate": "2004-06-01",
+    "pages": 352
+  },
+  {
+    "id": 847,
+    "title": "The Archetypes and the Collective Unconscious",
+    "author": "Carl Gustav Jung",
+    "isbn13": "9780415058445",
+    "publicationDate": "1991-06-06",
+    "pages": 480
+  },
+  {
+    "id": 848,
+    "title": "Men Who Hate Women",
+    "author": "Laura Bates",
+    "isbn13": "9781728236247",
+    "publicationDate": "2021-03-02",
+    "pages": 416
+  },
+  {
+    "id": 849,
+    "title": "Designing Data-Intensive Applications",
+    "author": "Martin Kleppmann",
+    "isbn13": "9781449373320",
+    "publicationDate": "2017-04-02",
+    "pages": 624
+  },
+  {
+    "id": 850,
+    "title": "The Color of Law",
+    "author": "Richard Rothstein",
+    "isbn13": "9781631494536",
+    "publicationDate": "2018-05-01",
+    "pages": 368
+  },
+  {
+    "id": 851,
+    "title": "Managing Oneself",
+    "author": "Peter F. Drucker",
+    "isbn13": "9781633693043",
+    "publicationDate": "2017-03-21",
+    "pages": 128
+  },
+  {
+    "id": 852,
+    "title": "Give Me Liberty!",
+    "author": "Eric Foner",
+    "isbn13": "9780393927832",
+    "publicationDate": "2005-11-30",
+    "pages": 509
+  },
+  {
+    "id": 853,
+    "title": "Humankind",
+    "author": "Rutger Bregman",
+    "isbn13": "9780316418539",
+    "publicationDate": "2020-06-02",
+    "pages": 480
+  },
+  {
+    "id": 854,
+    "title": "Ishmael",
+    "author": "Daniel Quinn",
+    "isbn13": "9780553375404",
+    "publicationDate": "1995-05-01",
+    "pages": 263
+  },
+  {
+    "id": 855,
+    "title": "Indian Polity for Civil Services Examinations",
+    "author": "Shiva",
+    "isbn13": "9789352603633",
+    "publicationDate": "2016-07-11",
+    "pages": 816
+  },
+  {
+    "id": 856,
+    "title": "The Black Phone [Movie Tie-in]",
+    "author": "Joe Hill",
+    "isbn13": "9780063215139",
+    "publicationDate": "2021-12-28",
+    "pages": 384
+  },
+  {
+    "id": 857,
+    "title": "Stranger Things",
+    "author": "Brenna Yovanoff",
+    "isbn13": "9780593179512",
+    "publicationDate": "2021-06-29",
+    "pages": 256
+  },
+  {
+    "id": 858,
+    "title": "Quiet power",
+    "author": "Susan Cain",
+    "isbn13": "9780147509925",
+    "publicationDate": "2017-05-02",
+    "pages": 288
+  },
+  {
+    "id": 859,
+    "title": "Picking Daisies on Sundays",
+    "author": "Liana Cincotti",
+    "isbn13": "9798396490833",
+    "publicationDate": "2023-07-30",
+    "pages": 325
+  },
+  {
+    "id": 860,
+    "title": "Black Rednecks And White Liberals",
+    "author": "Thomas Sowell",
+    "isbn13": "9781594031434",
+    "publicationDate": "2006-06-25",
+    "pages": 250
+  },
+  {
+    "id": 861,
+    "title": "Killer's Kiss",
+    "author": "Robert Lawrence Stine",
+    "isbn13": "9781416916918",
+    "publicationDate": "2006-06-05",
+    "pages": 160
+  },
+  {
+    "id": 862,
+    "title": "The Thief of Always",
+    "author": "Clive Barker",
+    "isbn13": "9780061091469",
+    "publicationDate": "1993-10-01",
+    "pages": 288
+  },
+  {
+    "id": 863,
+    "title": "Biology Textbook for Class - 12 - 12083",
+    "author": "NCERT",
+    "isbn13": "9788174506399",
+    "publicationDate": "2015-10-06",
+    "pages": 286
+  },
+  {
+    "id": 864,
+    "title": "The Complete Prophecies of Nostradamus",
+    "author": "Nostradamus",
+    "isbn13": "9781494324520",
+    "publicationDate": "2013-12-03",
+    "pages": 194
+  },
+  {
+    "id": 865,
+    "title": "The Stopover",
+    "author": "T L Swan",
+    "isbn13": "9781542015875",
+    "publicationDate": "2019-10-29",
+    "pages": 523
+  },
+  {
+    "id": 866,
+    "title": "If I Ran the Zoo",
+    "author": "Dr. Seuss",
+    "isbn13": "9780394800813",
+    "publicationDate": "1950-10-12",
+    "pages": 64
+  },
+  {
+    "id": 867,
+    "title": "High Fidelity",
+    "author": "Nick Hornby",
+    "isbn13": "9781573228213",
+    "publicationDate": "2000-03-01",
+    "pages": 336
+  },
+  {
+    "id": 868,
+    "title": "Beyond Compare",
+    "author": "Penny Jordan",
+    "isbn13": "9780373112821",
+    "publicationDate": "1990-06-01",
+    "pages": 187
+  },
+  {
+    "id": 869,
+    "title": "Grendel",
+    "author": "John Gardner",
+    "isbn13": "9780679723110",
+    "publicationDate": "1989-05-14",
+    "pages": 192
+  },
+  {
+    "id": 870,
+    "title": "The Call of Cthulhu",
+    "author": "H.P. Lovecraft",
+    "isbn13": "9781798850466",
+    "publicationDate": "2019-03-05",
+    "pages": 263
+  },
+  {
+    "id": 871,
+    "title": "In the Woods",
+    "author": "Tana French",
+    "isbn13": "9780786298532",
+    "publicationDate": "2007-10-03",
+    "pages": 751
+  },
+  {
+    "id": 872,
+    "title": "Fall into Darkness",
+    "author": "Christopher Pike",
+    "isbn13": "9780671009847",
+    "publicationDate": "1996-12-01",
+    "pages": 224
+  },
+  {
+    "id": 873,
+    "title": "I Am a Strange Loop",
+    "author": "Douglas R. Hofstadter",
+    "isbn13": "9780465030781",
+    "publicationDate": "2007-03-26",
+    "pages": 412
+  },
+  {
+    "id": 874,
+    "title": "First They Killed My Father",
+    "author": "Loung Ung",
+    "isbn13": "9780060856267",
+    "publicationDate": "2006-04-04",
+    "pages": 288
+  },
+  {
+    "id": 875,
+    "title": "Hustle Harder, Hustle Smarter",
+    "author": "50 Cent",
+    "isbn13": "9780062953803",
+    "publicationDate": "2020-04-28",
+    "pages": 304
+  },
+  {
+    "id": 876,
+    "title": "The Open Society and Its Enemies (1+2)",
+    "author": "Karl Popper",
+    "isbn13": "9783161480683",
+    "publicationDate": "2003-07-01",
+    "pages": 524
+  },
+  {
+    "id": 877,
+    "title": "This Winter",
+    "author": "Alice Oseman",
+    "isbn13": "9782017160014",
+    "publicationDate": "2021-10-20",
+    "pages": 192
+  },
+  {
+    "id": 878,
+    "title": "An Elusive Mistress",
+    "author": "Lindsay Armstrong",
+    "isbn13": "9780373109272",
+    "publicationDate": "1986-10-01",
+    "pages": 187
+  },
+  {
+    "id": 879,
+    "title": "Not Once But Twice",
+    "author": "Betty Neels",
+    "isbn13": "9780373511464",
+    "publicationDate": "2001-06-01",
+    "pages": 304
+  },
+  {
+    "id": 880,
+    "title": "The Bourne Identity",
+    "author": "Robert Ludlum",
+    "isbn13": "9780752858548",
+    "publicationDate": "2004-05-06",
+    "pages": 544
+  },
+  {
+    "id": 881,
+    "title": "You 2",
+    "author": "Price Pritchett",
+    "isbn13": "9780944002049",
+    "publicationDate": "1994-06-01",
+    "pages": 35
+  },
+  {
+    "id": 882,
+    "title": "Darling Venom",
+    "author": "Parker S. Huntington",
+    "isbn13": "9781950209026",
+    "publicationDate": "2021-12-10",
+    "pages": 378
+  },
+  {
+    "id": 883,
+    "title": "We are okay",
+    "author": "Nina LaCour",
+    "isbn13": "9780142422939",
+    "publicationDate": "2019-02-26",
+    "pages": 256
+  },
+  {
+    "id": 884,
+    "title": "The Raven King",
+    "author": "Nora Sakavic",
+    "isbn13": "9781517197704",
+    "publicationDate": "2016-03-31",
+    "pages": 328
+  },
+  {
+    "id": 885,
+    "title": "Home Before Dark",
+    "author": "Todd Ritter",
+    "isbn13": "9781524745172",
+    "publicationDate": "2020-06-30",
+    "pages": 400
+  },
+  {
+    "id": 886,
+    "title": "Scarlett",
+    "author": "Alexandra Ripley",
+    "isbn13": "9780330307529",
+    "publicationDate": "1993-03-12",
+    "pages": 848
+  },
+  {
+    "id": 887,
+    "title": "Jack Canfield's Key to Living the Law of Attraction",
+    "author": "Jack Canfield",
+    "isbn13": "9780757306587",
+    "publicationDate": "2007-12-03",
+    "pages": 138
+  },
+  {
+    "id": 888,
+    "title": "A history of God",
+    "author": "Karen Armstrong",
+    "isbn13": "9780345384560",
+    "publicationDate": "1994-08-09",
+    "pages": 496
+  },
+  {
+    "id": 889,
+    "title": "Powerless",
+    "author": "Elsie Silver",
+    "isbn13": "9780349437705",
+    "publicationDate": "2023-04-06",
+    "pages": 457
+  },
+  {
+    "id": 890,
+    "title": "Fear Not: Be Strong",
+    "author": "Swami Tathagatananda",
+    "isbn13": "9788175054035",
+    "publicationDate": "2013-08-01",
+    "pages": 56
+  },
+  {
+    "id": 891,
+    "title": "The diagnosis & correction of vocal faults",
+    "author": "James C. McKinney",
+    "isbn13": "9781565939400",
+    "publicationDate": "1994-06-01",
+    "pages": 214
+  },
+  {
+    "id": 892,
+    "title": "The Housemaid's Wedding",
+    "author": "Freida McFadden",
+    "isbn13": "9789032521523",
+    "publicationDate": "2025-01-15",
+    "pages": 54
+  },
+  {
+    "id": 893,
+    "title": "Message From The Middle Of Nowhere",
+    "author": "Gunnar Andri Thorisson",
+    "isbn13": "9789935242327",
+    "publicationDate": "2017-10-07",
+    "pages": 236
+  },
+  {
+    "id": 894,
+    "title": "Specials",
+    "author": "Scott Westerfeld",
+    "isbn13": "9781416947950",
+    "publicationDate": "2007-09-11",
+    "pages": 400
+  },
+  {
+    "id": 895,
+    "title": "A Night Divided",
+    "author": "Jennifer A. Nielsen",
+    "isbn13": "9780545682442",
+    "publicationDate": "2018-04-24",
+    "pages": 352
+  },
+  {
+    "id": 896,
+    "title": "The Beginning of Infinity",
+    "author": "David Deutsch",
+    "isbn13": "9780140278163",
+    "publicationDate": "2009-01-29",
+    "pages": 286
+  },
+  {
+    "id": 897,
+    "title": "Diary of an 8-Bit Warrior #1",
+    "author": "Cube Kid",
+    "isbn13": "9781449488017",
+    "publicationDate": "2017-05-30",
+    "pages": 256
+  },
+  {
+    "id": 898,
+    "title": "Wiseguy",
+    "author": "Nicholas Pileggi",
+    "isbn13": "9780671723224",
+    "publicationDate": "1990-09-01",
+    "pages": 320
+  },
+  {
+    "id": 899,
+    "title": "The Thief",
+    "author": "Megan Whalen Turner",
+    "isbn13": "9780060824976",
+    "publicationDate": "2005-12-27",
+    "pages": 280
+  },
+  {
+    "id": 900,
+    "title": "Memnoch the Devil",
+    "author": "Anne Rice",
+    "isbn13": "9786055420321",
+    "publicationDate": "2011-10-29",
+    "pages": 632
+  },
+  {
+    "id": 901,
+    "title": "Python",
+    "author": "Mark Lutz",
+    "isbn13": "9782841771608",
+    "publicationDate": "2002-10-30",
+    "pages": 88
+  },
+  {
+    "id": 902,
+    "title": "You Can Negotiate Anything",
+    "author": "Herb Cohen",
+    "isbn13": "9780806508474",
+    "publicationDate": "2000-08-01",
+    "pages": 256
+  },
+  {
+    "id": 903,
+    "title": "Business essentials",
+    "author": "Ronald J. Ebert",
+    "isbn13": "9780134728391",
+    "publicationDate": "2018-01-18",
+    "pages": 704
+  },
+  {
+    "id": 904,
+    "title": "A Crystal of Time",
+    "author": "Soman Chainani",
+    "isbn13": "9780062695178",
+    "publicationDate": "2019-03-05",
+    "pages": 624
+  },
+  {
+    "id": 905,
+    "title": "Unlimited Memory",
+    "author": "Kevin Horsley",
+    "isbn13": "9781631619984",
+    "publicationDate": "2016-03-28",
+    "pages": 141
+  },
+  {
+    "id": 906,
+    "title": "Old Tom",
+    "author": "Leigh Hobbs",
+    "isbn13": "9781905117109",
+    "publicationDate": "2005-06-01",
+    "pages": 108
+  },
+  {
+    "id": 907,
+    "title": "Fermat's Last Theorem",
+    "author": "Simon Singh",
+    "isbn13": "9781841157917",
+    "publicationDate": "2002-06-05",
+    "pages": 368
+  },
+  {
+    "id": 908,
+    "title": "The devil's arithmetic",
+    "author": "Jane Yolen",
+    "isbn13": "9781903015100",
+    "publicationDate": "2001-05-01",
+    "pages": 176
+  },
+  {
+    "id": 909,
+    "title": "Billionaire Boy",
+    "author": "David Walliams",
+    "isbn13": "9780007371082",
+    "publicationDate": "2011-06-01",
+    "pages": 240
+  },
+  {
+    "id": 910,
+    "title": "Double Standards",
+    "author": "Judith McNaught",
+    "isbn13": "9781416530725",
+    "publicationDate": "2006-04-25",
+    "pages": 336
+  },
+  {
+    "id": 911,
+    "title": "Kingdom of Fantasy #14",
+    "author": "Elisabetta Dami",
+    "isbn13": "9781338756920",
+    "publicationDate": "2021-11-02",
+    "pages": 320
+  },
+  {
+    "id": 912,
+    "title": "La Gara Dei Supercuochi",
+    "author": "Elisabetta Dami",
+    "isbn13": "9780606360562",
+    "publicationDate": "2014-09-30",
+    "pages": 128
+  },
+  {
+    "id": 913,
+    "title": "Oswaal CBSE Question Bank Class 10 Science Chapterwise & Topicwise Includes Objective Types & MCQ's",
+    "author": "Oswaal Editorial Board",
+    "isbn13": "9789388462723",
+    "publicationDate": "2019-03-01",
+    "pages": 427
+  },
+  {
+    "id": 914,
+    "title": "John Dies at the End",
+    "author": "David Wong",
+    "isbn13": "9780978970765",
+    "publicationDate": "2007-08-15",
+    "pages": 376
+  },
+  {
+    "id": 915,
+    "title": "Man and Superman",
+    "author": "George Bernard Shaw",
+    "isbn13": "9780140450194",
+    "publicationDate": "1989-01-18",
+    "pages": 272
+  },
+  {
+    "id": 916,
+    "title": "The Woods",
+    "author": "Harlan Coben",
+    "isbn13": "9781594132438",
+    "publicationDate": "2007-11-06",
+    "pages": 589
+  },
+  {
+    "id": 917,
+    "title": "Mansion for My Love",
+    "author": "Robyn Donald",
+    "isbn13": "9780373105670",
+    "publicationDate": "1983-01-01",
+    "pages": 188
+  },
+  {
+    "id": 918,
+    "title": "The Perfect Date",
+    "author": "Robert Lawrence Stine",
+    "isbn13": "9780671894306",
+    "publicationDate": "1996-04-01",
+    "pages": 160
+  },
+  {
+    "id": 919,
+    "title": "The Maltese Falcon",
+    "author": "Dashiell Hammett",
+    "isbn13": "9783257201314",
+    "publicationDate": "1999-06-01",
+    "pages": 234
+  },
+  {
+    "id": 920,
+    "title": "Stan Weinstein's Secrets for profiting in bull and bear markets",
+    "author": "Stan Weinstein",
+    "isbn13": "9781556236839",
+    "publicationDate": "1992-01-01",
+    "pages": 348
+  },
+  {
+    "id": 921,
+    "title": "The Cat Who Saved Books",
+    "author": "Sosuke Natsukawa",
+    "isbn13": "9780063095724",
+    "publicationDate": "2021-12-07",
+    "pages": 208
+  },
+  {
+    "id": 922,
+    "title": "Destination",
+    "author": "Seymour Simon",
+    "isbn13": "9780064437592",
+    "publicationDate": "2000-11-21",
+    "pages": 32
+  },
+  {
+    "id": 923,
+    "title": "Rosie's walk",
+    "author": "Pat Hutchins",
+    "isbn13": "9780020437505",
+    "publicationDate": "1971-08-01",
+    "pages": 32
+  },
+  {
+    "id": 924,
+    "title": "Finale",
+    "author": "Stephanie Garber",
+    "isbn13": "9781250157669",
+    "publicationDate": "2019-05-07",
+    "pages": 416
+  },
+  {
+    "id": 925,
+    "title": "The Pact",
+    "author": "Jodi Picoult",
+    "isbn13": "9780060858803",
+    "publicationDate": "2006-02-21",
+    "pages": 389
+  },
+  {
+    "id": 926,
+    "title": "A Touch Of Ruin",
+    "author": "Scarlett St. Clair",
+    "isbn13": "9781735771922",
+    "publicationDate": "2020-11-07",
+    "pages": 420
+  },
+  {
+    "id": 927,
+    "title": "The Mediterranean Caper",
+    "author": "Clive Cussler",
+    "isbn13": "9780671737788",
+    "publicationDate": "1991-05-01",
+    "pages": 256
+  },
+  {
+    "id": 928,
+    "title": "Exhalation",
+    "author": "Ted Chiang",
+    "isbn13": "9781101947883",
+    "publicationDate": "2019-05-07",
+    "pages": 368
+  },
+  {
+    "id": 929,
+    "title": "Captive Bride",
+    "author": "Johanna Lindsey",
+    "isbn13": "9780380016976",
+    "publicationDate": "1999-04-06",
+    "pages": 384
+  },
+  {
+    "id": 930,
+    "title": "Just F*cking Do It",
+    "author": "Gabriella Ribeiro",
+    "isbn13": "9781726025942",
+    "publicationDate": "2018-09-07",
+    "pages": 120
+  },
+  {
+    "id": 931,
+    "title": "I Wish You All the Best",
+    "author": "Mason Deaver",
+    "isbn13": "9781338306125",
+    "publicationDate": "2019-05-14",
+    "pages": 320
+  },
+  {
+    "id": 932,
+    "title": "A Distant Mirror",
+    "author": "Barbara Tuchman",
+    "isbn13": "9780345301451",
+    "publicationDate": "1981-06-12",
+    "pages": 677
+  },
+  {
+    "id": 933,
+    "title": "Wait till Helen comes",
+    "author": "Mary Downing Hahn",
+    "isbn13": "9780547028644",
+    "publicationDate": "2008-04-21",
+    "pages": 192
+  },
+  {
+    "id": 934,
+    "title": "Drôle de garçon",
+    "author": "Shyam Selvadurai",
+    "isbn13": "9782264030078",
+    "publicationDate": "2000-04-06",
+    "pages": 297
+  },
+  {
+    "id": 935,
+    "title": "New Spring (The Wheel of Time, Book 0)",
+    "author": "Robert Jordan",
+    "isbn13": "9781841492612",
+    "publicationDate": "2004-12-02",
+    "pages": 304
+  },
+  {
+    "id": 936,
+    "title": "Light from Many Lamps",
+    "author": "Lillian Eichler Watson",
+    "isbn13": "9780671652500",
+    "publicationDate": "1988-01-15",
+    "pages": 352
+  },
+  {
+    "id": 937,
+    "title": "Karma",
+    "author": "Sadhguru",
+    "isbn13": "9780593232019",
+    "publicationDate": "2021-04-27",
+    "pages": 272
+  },
+  {
+    "id": 938,
+    "title": "The Game 41 Shades of Men",
+    "author": "Princella L.R. Clark",
+    "isbn13": "9798387189746",
+    "publicationDate": "2023-03-17",
+    "pages": 322
+  },
+  {
+    "id": 939,
+    "title": "Devious Lies",
+    "author": "Parker S. Huntington",
+    "isbn13": "9781950209194",
+    "publicationDate": "2019-12-14",
+    "pages": 700
+  },
+  {
+    "id": 940,
+    "title": "Reluctant Wife",
+    "author": "Lindsay Armstrong",
+    "isbn13": "9780373110711",
+    "publicationDate": "1988-04-01",
+    "pages": 187
+  },
+  {
+    "id": 941,
+    "title": "Ship of Magic",
+    "author": "Robin Hobb",
+    "isbn13": "9780553575637",
+    "publicationDate": "1999-02-02",
+    "pages": 832
+  },
+  {
+    "id": 942,
+    "title": "Mistaken Wedding",
+    "author": "Sally Wentworth",
+    "isbn13": "9780263782127",
+    "publicationDate": "1993-06-11",
+    "pages": 384
+  },
+  {
+    "id": 943,
+    "title": "No Exit",
+    "author": "Taylor Adams",
+    "isbn13": "9780062887375",
+    "publicationDate": "2019-01-15",
+    "pages": 416
+  },
+  {
+    "id": 944,
+    "title": "Shallow River",
+    "author": "H. D. Carlton",
+    "isbn13": "9781957635095",
+    "publicationDate": "2021-11-15",
+    "pages": 436
+  },
+  {
+    "id": 945,
+    "title": "Spellbinding",
+    "author": "Charlotte Lamb",
+    "isbn13": "9780373113934",
+    "publicationDate": "1991-08-01",
+    "pages": 188
+  },
+  {
+    "id": 946,
+    "title": "The Secret Diary",
+    "author": "Law of Attraction Four",
+    "isbn13": "9781597775670",
+    "publicationDate": "2007-12-01",
+    "pages": 370
+  },
+  {
+    "id": 947,
+    "title": "Letters from a father to his daughter",
+    "author": "Jawaharlal Nehru",
+    "isbn13": "9780670058167",
+    "publicationDate": "2004-11-30",
+    "pages": 168
+  },
+  {
+    "id": 948,
+    "title": "Biscuit Board Book (Biscuit)",
+    "author": "Alyssa Satin Capucilli",
+    "isbn13": "9780060765965",
+    "publicationDate": "2005-04-26",
+    "pages": 24
+  },
+  {
+    "id": 949,
+    "title": "Leon's Story (Sunburst Books)",
+    "author": "Leon Walter Tillage",
+    "isbn13": "9780374443306",
+    "publicationDate": "2000-09-01",
+    "pages": 107
+  },
+  {
+    "id": 950,
+    "title": "Galápagos",
+    "author": "Kurt Vonnegut",
+    "isbn13": "9780586090459",
+    "publicationDate": "1994-07-25",
+    "pages": 240
+  },
+  {
+    "id": 951,
+    "title": "Loving",
+    "author": "Penny Jordan",
+    "isbn13": "9780373110759",
+    "publicationDate": "1988-04-01",
+    "pages": 187
+  },
+  {
+    "id": 952,
+    "title": "Le roman du masque de fer",
+    "author": "Alexandre Dumas",
+    "isbn13": "9782013216128",
+    "publicationDate": "1998-09-01",
+    "pages": 277
+  },
+  {
+    "id": 953,
+    "title": "Fear Street Super Chiller - Silent Night",
+    "author": "Robert Lawrence Stine",
+    "isbn13": "9780671008864",
+    "publicationDate": "1997-12-01",
+    "pages": 624
+  },
+  {
+    "id": 954,
+    "title": "Beast Quest",
+    "author": "Adam Blade",
+    "isbn13": "9780439906517",
+    "publicationDate": "2007-03-01",
+    "pages": 80
+  },
+  {
+    "id": 955,
+    "title": "Amelia Bedelia and the Shower Surprise",
+    "author": "Peggy Parish",
+    "isbn13": "9781559942164",
+    "publicationDate": "1990-03-28",
+    "pages": 64
+  },
+  {
+    "id": 956,
+    "title": "My Feudal Lord",
+    "author": "Tehmina Durrani",
+    "isbn13": "9780552142397",
+    "publicationDate": "1996-02-01",
+    "pages": 381
+  },
+  {
+    "id": 957,
+    "title": "The First to Die at the End",
+    "author": "Adam Silvera",
+    "isbn13": "9780063240803",
+    "publicationDate": "2022-10-04",
+    "pages": 416
+  },
+  {
+    "id": 958,
+    "title": "All Good People Here",
+    "author": "Ashley Flowers",
+    "isbn13": "9780593609255",
+    "publicationDate": "2022-08-16",
+    "pages": 538
+  },
+  {
+    "id": 959,
+    "title": "The velvet rage",
+    "author": "Alan Downs",
+    "isbn13": "9780738210612",
+    "publicationDate": "2006-05-30",
+    "pages": 224
+  },
+  {
+    "id": 960,
+    "title": "Destructive emotions",
+    "author": "Daniel Goleman",
+    "isbn13": "9780553381054",
+    "publicationDate": "2004-03-30",
+    "pages": 448
+  },
+  {
+    "id": 961,
+    "title": "The Enemy (The Enemy #1)",
+    "author": "Charles Higson",
+    "isbn13": "9781423131755",
+    "publicationDate": "2010-05-18",
+    "pages": 448
+  },
+  {
+    "id": 962,
+    "title": "The House of Seven Gables Readalong",
+    "author": "Nathaniel Hawthorne",
+    "isbn13": "9780341831358",
+    "publicationDate": "2018-10-08",
+    "pages": 340
+  },
+  {
+    "id": 963,
+    "title": "Love Only Once",
+    "author": "Johanna Lindsey",
+    "isbn13": "9780380899531",
+    "publicationDate": "2005-03-29",
+    "pages": 368
+  },
+  {
+    "id": 964,
+    "title": "She",
+    "author": "H. Rider Haggard",
+    "isbn13": "9780451525840",
+    "publicationDate": "1994-08-01",
+    "pages": 352
+  },
+  {
+    "id": 965,
+    "title": "I Want My Hat Back",
+    "author": "Jon Klassen",
+    "isbn13": "9781536207576",
+    "publicationDate": "2019-03-05",
+    "pages": 32
+  },
+  {
+    "id": 966,
+    "title": "Arthur Writes a Story (Arthur Adventure Series)",
+    "author": "Marc Brown",
+    "isbn13": "9780316111645",
+    "publicationDate": "1998-09-01",
+    "pages": 32
+  },
+  {
+    "id": 967,
+    "title": "This Changes Everything",
+    "author": "Naomi Klein",
+    "isbn13": "9781846145063",
+    "publicationDate": "2014-09-17",
+    "pages": 350
+  },
+  {
+    "id": 968,
+    "title": "Eclipse",
+    "author": "Erin Hunter",
+    "isbn13": "9780060892135",
+    "publicationDate": "2009-07-28",
+    "pages": 352
+  },
+  {
+    "id": 969,
+    "title": "Mary Anne Saves the Day",
+    "author": "Raina Telgemeier",
+    "isbn13": "9780439885164",
+    "publicationDate": "2007-09-01",
+    "pages": 160
+  },
+  {
+    "id": 970,
+    "title": "Ruthless Creatures",
+    "author": "J.T. Geissinger",
+    "isbn13": "9781733824385",
+    "publicationDate": "2021-02-16",
+    "pages": 393
+  },
+  {
+    "id": 971,
+    "title": "How the Garcia Girls Lost Their Accents",
+    "author": "Julia Alvarez",
+    "isbn13": "9780747572657",
+    "publicationDate": "2004-09-20",
+    "pages": 320
+  },
+  {
+    "id": 972,
+    "title": "Pillow Thoughts II",
+    "author": "Courtney Peppernell",
+    "isbn13": "9781449495084",
+    "publicationDate": "2018-08-07",
+    "pages": 224
+  },
+  {
+    "id": 973,
+    "title": "Muhammad",
+    "author": "Karen Armstrong",
+    "isbn13": "9780060598976",
+    "publicationDate": "2006-10-17",
+    "pages": 256
+  },
+  {
+    "id": 974,
+    "title": "Skin in the Game",
+    "author": "Nassim Nicholas Taleb",
+    "isbn13": "9780425284643",
+    "publicationDate": "2020-01-07",
+    "pages": 304
+  },
+  {
+    "id": 975,
+    "title": "Calvin et Hobbes, tome 17",
+    "author": "Bill Watterson",
+    "isbn13": "9782258047785",
+    "publicationDate": "1999-01-13",
+    "pages": 127
+  },
+  {
+    "id": 976,
+    "title": "Reunion",
+    "author": "Fred Uhlman",
+    "isbn13": "9780374525156",
+    "publicationDate": "1997-06-26",
+    "pages": 120
+  },
+  {
+    "id": 977,
+    "title": "Poems",
+    "author": "Oscar Wilde",
+    "isbn13": "9781598188707",
+    "publicationDate": "2006-07-01",
+    "pages": 220
+  },
+  {
+    "id": 978,
+    "title": "Narziss und Goldmund",
+    "author": "Hermann Hesse",
+    "isbn13": "9783518391402",
+    "publicationDate": "1997-03-01",
+    "pages": 327
+  },
+  {
+    "id": 979,
+    "title": "War of Lanka",
+    "author": "Amish Tripathi",
+    "isbn13": "9789356291522",
+    "publicationDate": "2022-12-15",
+    "pages": 500
+  },
+  {
+    "id": 980,
+    "title": "One Moment Please",
+    "author": "Amy Daws",
+    "isbn13": "9781944565312",
+    "publicationDate": "2020-04-02",
+    "pages": 305
+  },
+  {
+    "id": 981,
+    "title": "Genki",
+    "author": "Banno Eri",
+    "isbn13": "9784789017305",
+    "publicationDate": "2020-02-01",
+    "pages": 382
+  },
+  {
+    "id": 982,
+    "title": "How to Think Like a Roman Emperor",
+    "author": "Donald Robertson",
+    "isbn13": "9781250196620",
+    "publicationDate": "2019-04-02",
+    "pages": 304
+  },
+  {
+    "id": 983,
+    "title": "Meet Me in Another Life",
+    "author": "Catriona Silvey",
+    "isbn13": "9780063020207",
+    "publicationDate": "2021-04-27",
+    "pages": 288
+  },
+  {
+    "id": 984,
+    "title": "Zur Genealogie der Moral",
+    "author": "Friedrich Nietzsche",
+    "isbn13": "9780192836175",
+    "publicationDate": "1998-12-31",
+    "pages": 208
+  },
+  {
+    "id": 985,
+    "title": "Jonathan Strange and Mr. Norrell",
+    "author": "Susanna Clarke",
+    "isbn13": "9780765356154",
+    "publicationDate": "2006-08-01",
+    "pages": 1024
+  },
+  {
+    "id": 986,
+    "title": "Percy Jackson and the Olympians",
+    "author": "Rick Riordan",
+    "isbn13": "9781368107648",
+    "publicationDate": "2024-09-24",
+    "pages": 254
+  },
+  {
+    "id": 987,
+    "title": "Mistress to Her Husband",
+    "author": "Penny Jordan",
+    "isbn13": "9780373338153",
+    "publicationDate": "2005-10-01",
+    "pages": 160
+  },
+  {
+    "id": 988,
+    "title": "House of Many Ways",
+    "author": "Diana Wynne Jones",
+    "isbn13": "9780061477973",
+    "publicationDate": "2009-05-26",
+    "pages": 432
+  },
+  {
+    "id": 989,
+    "title": "An Arabian Mistress",
+    "author": "Lynne Graham",
+    "isbn13": "9780373121823",
+    "publicationDate": "2001-06-01",
+    "pages": 192
+  },
+  {
+    "id": 990,
+    "title": "The Velvet Promise",
+    "author": "Jude Deveraux",
+    "isbn13": "9780671739744",
+    "publicationDate": "1991-01-01",
+    "pages": 320
+  },
+  {
+    "id": 991,
+    "title": "A Man of Means",
+    "author": "Kay Thorpe",
+    "isbn13": "9780373105731",
+    "publicationDate": "1983-01-01",
+    "pages": 187
+  },
+  {
+    "id": 992,
+    "title": "The Red Fox Clan",
+    "author": "John Flanagan",
+    "isbn13": "9781524741402",
+    "publicationDate": "2019-05-07",
+    "pages": 368
+  },
+  {
+    "id": 993,
+    "title": "The Book of Enoch",
+    "author": "Robert Henry Charles",
+    "isbn13": "9781602065680",
+    "publicationDate": "2007-06-01",
+    "pages": 136
+  },
+  {
+    "id": 994,
+    "title": "Study Guide to Technical Analysis of the Financial Markets (New York Institute of Finance)",
+    "author": "John J. Murphy",
+    "isbn13": "9780735200654",
+    "publicationDate": "1999-01-01",
+    "pages": 160
+  },
+  {
+    "id": 995,
+    "title": "Nanny for the Neighbors",
+    "author": "Lily Gold",
+    "isbn13": "9781739586744",
+    "publicationDate": "2022-08-14",
+    "pages": 478
+  },
+  {
+    "id": 996,
+    "title": "Collided",
+    "author": "Lauren Asher",
+    "isbn13": "9781734258738",
+    "publicationDate": "2020-05-13",
+    "pages": 560
+  },
+  {
+    "id": 997,
+    "title": "Before I Go to Sleep",
+    "author": "S. J. Watson",
+    "isbn13": "9780552164122",
+    "publicationDate": "2012-01-01",
+    "pages": 448
+  },
+  {
+    "id": 998,
+    "title": "Unshakeable",
+    "author": "Tony Robbins",
+    "isbn13": "9781501164590",
+    "publicationDate": "2018-09-18",
+    "pages": 256
+  },
+  {
+    "id": 999,
+    "title": "Du côté de chez Swann",
+    "author": "Marcel Proust",
+    "isbn13": "9781533577092",
+    "publicationDate": "2016-06-01",
+    "pages": 218
+  },
+  {
+    "id": 1000,
+    "title": "Same as Ever",
+    "author": "Morgan Housel",
+    "isbn13": "9780593332702",
+    "publicationDate": "2023-11-07",
+    "pages": 256
+  }
+]

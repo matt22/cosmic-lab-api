@@ -16,8 +16,8 @@ GitHub and the public API will run on Cloudflare Workers.
 Repository and deployment plumbing are connected. The first practice dataset
 has been added, but the API itself has not been implemented yet.
 
-- The repository contains validated, flat datasets of 1,000 movies covering
-  1990 through 2026 and 1,000 real cities in `data/`.
+- The repository contains five validated, flat practice datasets in `data/`:
+  movies, cities, US airports, books, and fictional service incidents.
 - Cloudflare Worker `api` is connected to `matt22/cosmic-lab-api`.
 - Cloudflare watches the `main` branch and uses `npx wrangler deploy` as its
   deploy command.
@@ -42,6 +42,9 @@ cosmic-lab-api/
 ├── data/
 │   ├── movies.json
 │   ├── cities.json
+│   ├── airports.json
+│   ├── books.json
+│   ├── incidents.json
 │   └── ...               # Additional practice datasets
 ├── test/                 # Endpoint and filtering tests
 ├── package.json

@@ -1,5 +1,74 @@
 # Practice datasets
 
+## Airports
+
+`airports.json` contains the 100 largest airports in the 50 US states and the
+District of Columbia, ranked by preliminary FAA calendar-year 2025 passenger
+boardings. The ranking is used for selection and ID order but is not exposed as
+adjacent data.
+
+Each object contains `id`, `airportName`, `iataCode`, `icaoCode`, `city`,
+`stateCode`, `stateName`, `countryCode`, `countryName`, `latitude`, and
+`longitude`. All values are scalar, and coordinates are WGS 84 numbers rounded
+to four decimal places.
+
+Generated on 2026-09-04 from the FAA's
+[passenger-boarding statistics](https://www.faa.gov/airports/planning_capacity/passenger_allcargo_stats/passenger)
+and the public-domain OurAirports
+[`airports.csv`](https://davidmegginson.github.io/ourairports-data/airports.csv)
+and [`regions.csv`](https://davidmegginson.github.io/ourairports-data/regions.csv)
+files. The FAA spreadsheet supplies selection order, city, and state; the
+OurAirports files supply names, codes, state names, and coordinates. US
+territories are excluded so every record has `countryCode` equal to `US`.
+
+Export the FAA ranking spreadsheet to CSV, then rebuild with:
+
+```bash
+python3 scripts/build_airports.py \
+  --ranking /path/to/faa-ranking.csv \
+  --airports /path/to/airports.csv \
+  --regions /path/to/regions.csv
+```
+
+## Books
+
+`books.json` contains 1,000 widely read books ranked by Open Library reading-log
+activity. Each record has the scalar fields `id`, `title`, `author`, `isbn13`,
+`publicationDate`, and `pages`.
+
+Every ISBN-13 passes its checksum, every publication date is normalized to
+`YYYY-MM-DD`, and every page count is an integer from 20 through 2,500. The
+ISBN, date, page count, and single author come from the same Open Library canonical edition;
+incomplete editions, multi-author editions, duplicate ISBNs, and duplicate
+title/author pairs are excluded. IDs preserve popularity-selection order.
+
+Generated on 2026-09-04 using the
+[Open Library Search API](https://openlibrary.org/dev/docs/api/search) and
+canonical-edition metadata. Open Library does not assert new proprietary rights
+over its catalog data; see its [licensing page](https://openlibrary.org/developers/licensing).
+Because catalog records and reading-log rankings change, rebuilding can alter
+records and IDs.
+
+`scripts/fetch_openlibrary_editions.py` batches canonical-edition lookups for
+saved search responses. `scripts/build_books.py` consumes those two snapshot
+types and performs selection and validation.
+
+## Incidents
+
+`incidents.json` contains 100 deterministic, fictional service incidents
+anchored to a dataset snapshot time of `2026-09-04T18:00:00Z`. Each record has
+`id`, `serviceName`, `severity`, `status`, `startTime`, and `endTime`.
+
+The timestamp rules are intentional:
+
+- `planned`: `startTime` is null and `endTime` is a future completion target.
+- `active`: `startTime` is populated and `endTime` is null.
+- `resolved`: both timestamps are populated and the end follows the start.
+- Both timestamps are never null; populated timestamps use ISO 8601 UTC.
+
+The distribution is 20 planned, 20 active, and 60 resolved incidents. Rebuild
+and validate it with `python3 scripts/build_incidents.py`.
+
 ## Cities
 
 `cities.json` contains the 1,000 most populous unique city/country pairs with
