@@ -3,4 +3,7 @@
 .env
 .wrangler/
 node_modules/
-
+python_modules/
+.venv-workers/
+__pycache__/
+*.py[cod]

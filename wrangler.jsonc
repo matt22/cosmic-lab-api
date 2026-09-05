@@ -1,0 +1,21 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "api",
+  "main": "src/worker.py",
+  "compatibility_date": "2026-09-05",
+  "compatibility_flags": ["python_workers"],
+  "find_additional_modules": true,
+  "rules": [
+    {
+      "type": "Data",
+      "globs": ["**/*.json"],
+      "fallthrough": true
+    }
+  ],
+  "kv_namespaces": [
+    {
+      "binding": "QUERY_CACHE",
+      "id": "647a187db2ec43adbdd7a43cb498dd73"
+    }
+  ]
+}
