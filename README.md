@@ -24,9 +24,8 @@ cities.
   `QUERY_CACHE` Worker binding in `wrangler.jsonc`.
 - Cached query result sets use dataset-specific TTL variables. All five dataset
   TTLs currently default to three hours (`10800` seconds).
-- Cloudflare watches the `main` branch. Its existing `npx wrangler deploy`
-  command must be changed to `uv run pywrangler deploy` before deploying this
-  Python Worker.
+- Cloudflare watches the `main` branch and deploys this Python Worker with
+  `uv run pywrangler deploy`.
 - `GET /api/v1/airports` supports state-code filtering and fixed three-record
   page-based pagination.
 - `GET /api/v1/cities` supports country-code filtering and fixed ten-record
