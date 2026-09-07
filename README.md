@@ -116,6 +116,8 @@ GET /api/v1/airports?state_code=CA
 GET /api/v1/airports?state_code=CA&page=2
 ```
 
+[View a live airport response](https://api.cosmic-lab.workers.dev/api/v1/airports?state_code=CA&page=1).
+
 Airport records contain every source field except `latitude` and `longitude`.
 Those two values are returned as a comma-delimited `coordinates` string:
 
@@ -135,6 +137,8 @@ optional positive `page`, which defaults to `1`; its page size is fixed at
 GET /api/v1/cities?country_code=JP
 GET /api/v1/cities?country_code=JP&page=2
 ```
+
+A production response link will be added here when this endpoint is deployed.
 
 City records use snake_case response keys. Like airport records, `latitude`
 and `longitude` are replaced by one comma-delimited `coordinates` string:
