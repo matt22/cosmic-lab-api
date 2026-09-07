@@ -168,16 +168,38 @@ Airport responses place pagination metadata before the result array:
 }
 ```
 
-## Books, movies, and incidents endpoints
+## Books endpoint
 
-The remaining dataset endpoints require a case-insensitive substring query and
-accept an optional positive `page`, which defaults to `1`:
+The books endpoint requires a case-insensitive substring query and accepts an
+optional positive `page`, which defaults to `1`:
 
 ```text
 GET /api/v1/books?title=atomic
+```
+
+[View a live books response](https://api.cosmic-lab.workers.dev/api/v1/books?title=atomic&page=1).
+
+## Movies endpoint
+
+The movies endpoint requires a case-insensitive substring query and accepts an
+optional positive `page`, which defaults to `1`:
+
+```text
 GET /api/v1/movies?title=Jurassic%20P
+```
+
+[View a live movies response](https://api.cosmic-lab.workers.dev/api/v1/movies?title=Jurassic%20P&page=1).
+
+## Incidents endpoint
+
+The incidents endpoint requires a case-insensitive substring query and accepts
+an optional positive `page`, which defaults to `1`:
+
+```text
 GET /api/v1/incidents?service_name=gateway
 ```
+
+[View a live incidents response](https://api.cosmic-lab.workers.dev/api/v1/incidents?service_name=gateway&page=1).
 
 The query values are treated as literal text. Search results use case-folded
 substring checks, so SQL injection syntax cannot be executed by these

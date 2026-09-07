@@ -33,6 +33,22 @@ BOOKS = load_books()
 MOVIES = load_movies()
 INCIDENTS = load_incidents()
 
+README_URL = "https://github.com/matt22/cosmic-lab-api/blob/main/README.md"
+
+
+def root_response(base_url: str) -> dict[str, object]:
+    return {
+        "message": "Cosmic Lab API",
+        "readme": README_URL,
+        "examples": {
+            "airports": f"{base_url}/api/v1/airports?state_code=CA&page=1",
+            "cities": f"{base_url}/api/v1/cities?country_code=JP&page=1",
+            "books": f"{base_url}/api/v1/books?title=atomic&page=1",
+            "movies": f"{base_url}/api/v1/movies?title=Jurassic%20P&page=1",
+            "incidents": f"{base_url}/api/v1/incidents?service_name=gateway&page=1",
+        },
+    }
+
 
 def error_response(message: str, status: int) -> Response:
     return Response.json({"error": {"message": message}}, status=status)
@@ -44,6 +60,9 @@ class Default(WorkerEntrypoint):
 
         if request.method != "GET":
             return error_response("Method not allowed", 405)
+
+        if url.path == "/":
+            return Response.json(root_response(f"{url.scheme}://{url.netloc}"))
 
         if url.path not in {
             "/api/v1/airports",
