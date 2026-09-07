@@ -138,7 +138,7 @@ GET /api/v1/cities?country_code=JP
 GET /api/v1/cities?country_code=JP&page=2
 ```
 
-A production response link will be added here when this endpoint is deployed.
+[View a live cities response](https://api.cosmic-lab.workers.dev/api/v1/cities?country_code=JP&page=1).
 
 City records use snake_case response keys. Like airport records, `latitude`
 and `longitude` are replaced by one comma-delimited `coordinates` string:
