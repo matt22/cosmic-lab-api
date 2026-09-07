@@ -29,14 +29,14 @@ class CitiesApiTests(unittest.TestCase):
     def setUpClass(cls):
         cls.cities = load_cities()
 
-    def test_returns_three_cities_per_page(self):
+    def test_returns_ten_cities_per_page(self):
         result = query_cities(self.cities, "NG", 1)
 
         self.assertEqual(list(result), ["pagination", "data"])
         self.assertEqual(len(result["data"]), CITIES_PAGE_SIZE)
         self.assertEqual(result["pagination"]["page"], 1)
-        self.assertEqual(result["pagination"]["page_size"], 3)
-        self.assertEqual(result["pagination"]["count"], 3)
+        self.assertEqual(result["pagination"]["page_size"], 10)
+        self.assertEqual(result["pagination"]["count"], 10)
 
     def test_second_page_uses_page_number(self):
         first_page = query_cities(self.cities, "NG", 1)

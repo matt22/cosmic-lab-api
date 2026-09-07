@@ -29,7 +29,7 @@ cities.
   Python Worker.
 - `GET /api/v1/airports` supports state-code filtering and fixed three-record
   page-based pagination.
-- `GET /api/v1/cities` supports country-code filtering and fixed three-record
+- `GET /api/v1/cities` supports country-code filtering and fixed ten-record
   page-based pagination.
 - The Python Worker is deployed at <https://api.cosmic-lab.workers.dev> and the
   versioned airports endpoint has been verified in production.
@@ -129,7 +129,7 @@ Those two values are returned as a comma-delimited `coordinates` string:
 
 The cities endpoint requires a two-letter `country_code`. It accepts an
 optional positive `page`, which defaults to `1`; its page size is fixed at
-three.
+10.
 
 ```text
 GET /api/v1/cities?country_code=JP
@@ -145,7 +145,7 @@ and `longitude` are replaced by one comma-delimited `coordinates` string:
 }
 ```
 
-Responses place pagination metadata before the result array:
+Airport responses place pagination metadata before the result array:
 
 ```json
 {

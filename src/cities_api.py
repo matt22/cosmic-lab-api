@@ -7,7 +7,7 @@ from pathlib import Path
 from typing import Any, Mapping, Sequence
 
 
-CITIES_PAGE_SIZE = 3
+CITIES_PAGE_SIZE = 10
 CITIES_PATH = Path(__file__).with_name("cities.json")
 CITIES_CACHE_KEY_VERSION = "2026-09-07"
 
