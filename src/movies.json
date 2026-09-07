@@ -1,0 +1,9002 @@
+[
+  {
+    "id": 1,
+    "title": "Back to the Future Part III",
+    "year": 1990,
+    "runtimeMinutes": 118,
+    "mpaaRating": "PG",
+    "scoreRating": 7.5,
+    "directorLastName": "Zemeckis"
+  },
+  {
+    "id": 2,
+    "title": "Die Hard 2",
+    "year": 1990,
+    "runtimeMinutes": 124,
+    "mpaaRating": "R",
+    "scoreRating": 7.2,
+    "directorLastName": "Harlin"
+  },
+  {
+    "id": 3,
+    "title": "Edward Scissorhands",
+    "year": 1990,
+    "runtimeMinutes": 105,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.8,
+    "directorLastName": "Burton"
+  },
+  {
+    "id": 4,
+    "title": "GoodFellas",
+    "year": 1990,
+    "runtimeMinutes": 145,
+    "mpaaRating": "R",
+    "scoreRating": 8.7,
+    "directorLastName": "Scorsese"
+  },
+  {
+    "id": 5,
+    "title": "Home Alone",
+    "year": 1990,
+    "runtimeMinutes": 103,
+    "mpaaRating": "PG",
+    "scoreRating": 7.8,
+    "directorLastName": "Columbus"
+  },
+  {
+    "id": 6,
+    "title": "Jacob's Ladder",
+    "year": 1990,
+    "runtimeMinutes": 113,
+    "mpaaRating": "R",
+    "scoreRating": 7.4,
+    "directorLastName": "Lyne"
+  },
+  {
+    "id": 7,
+    "title": "Kindergarten Cop",
+    "year": 1990,
+    "runtimeMinutes": 111,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.3,
+    "directorLastName": "Reitman"
+  },
+  {
+    "id": 8,
+    "title": "The Godfather Part III",
+    "year": 1990,
+    "runtimeMinutes": 162,
+    "mpaaRating": "R",
+    "scoreRating": 7.5,
+    "directorLastName": "Coppola"
+  },
+  {
+    "id": 9,
+    "title": "The Hunt for Red October",
+    "year": 1990,
+    "runtimeMinutes": 135,
+    "mpaaRating": "PG",
+    "scoreRating": 7.5,
+    "directorLastName": "McTiernan"
+  },
+  {
+    "id": 10,
+    "title": "Total Recall",
+    "year": 1990,
+    "runtimeMinutes": 113,
+    "mpaaRating": "R",
+    "scoreRating": 7.5,
+    "directorLastName": "Verhoeven"
+  },
+  {
+    "id": 11,
+    "title": "Tremors",
+    "year": 1990,
+    "runtimeMinutes": 96,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.2,
+    "directorLastName": "Underwood"
+  },
+  {
+    "id": 12,
+    "title": "Cape Fear",
+    "year": 1991,
+    "runtimeMinutes": 128,
+    "mpaaRating": "R",
+    "scoreRating": 7.3,
+    "directorLastName": "Scorsese"
+  },
+  {
+    "id": 13,
+    "title": "Point Break",
+    "year": 1991,
+    "runtimeMinutes": 122,
+    "mpaaRating": "R",
+    "scoreRating": 7.3,
+    "directorLastName": "Bigelow"
+  },
+  {
+    "id": 14,
+    "title": "Robin Hood: Prince of Thieves",
+    "year": 1991,
+    "runtimeMinutes": 143,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.9,
+    "directorLastName": "Reynolds"
+  },
+  {
+    "id": 15,
+    "title": "Terminator 2: Judgment Day",
+    "year": 1991,
+    "runtimeMinutes": 137,
+    "mpaaRating": "R",
+    "scoreRating": 8.6,
+    "directorLastName": "Cameron"
+  },
+  {
+    "id": 16,
+    "title": "The Addams Family",
+    "year": 1991,
+    "runtimeMinutes": 99,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.0,
+    "directorLastName": "Sonnenfeld"
+  },
+  {
+    "id": 17,
+    "title": "The Silence of the Lambs",
+    "year": 1991,
+    "runtimeMinutes": 118,
+    "mpaaRating": "R",
+    "scoreRating": 8.6,
+    "directorLastName": "Demme"
+  },
+  {
+    "id": 18,
+    "title": "Alien³",
+    "year": 1992,
+    "runtimeMinutes": 114,
+    "mpaaRating": "R",
+    "scoreRating": 6.4,
+    "directorLastName": "Fincher"
+  },
+  {
+    "id": 19,
+    "title": "Army of Darkness",
+    "year": 1992,
+    "runtimeMinutes": 81,
+    "mpaaRating": "R",
+    "scoreRating": 7.4,
+    "directorLastName": "Raimi"
+  },
+  {
+    "id": 20,
+    "title": "Basic Instinct",
+    "year": 1992,
+    "runtimeMinutes": 127,
+    "mpaaRating": "R",
+    "scoreRating": 7.1,
+    "directorLastName": "Verhoeven"
+  },
+  {
+    "id": 21,
+    "title": "Batman Returns",
+    "year": 1992,
+    "runtimeMinutes": 126,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.1,
+    "directorLastName": "Burton"
+  },
+  {
+    "id": 22,
+    "title": "Death Becomes Her",
+    "year": 1992,
+    "runtimeMinutes": 104,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.7,
+    "directorLastName": "Zemeckis"
+  },
+  {
+    "id": 23,
+    "title": "Dracula",
+    "year": 1992,
+    "runtimeMinutes": 128,
+    "mpaaRating": "R",
+    "scoreRating": 7.4,
+    "directorLastName": "Coppola"
+  },
+  {
+    "id": 24,
+    "title": "Home Alone 2: Lost in New York",
+    "year": 1992,
+    "runtimeMinutes": 120,
+    "mpaaRating": "PG",
+    "scoreRating": 6.9,
+    "directorLastName": "Columbus"
+  },
+  {
+    "id": 25,
+    "title": "Patriot Games",
+    "year": 1992,
+    "runtimeMinutes": 117,
+    "mpaaRating": "R",
+    "scoreRating": 6.9,
+    "directorLastName": "Noyce"
+  },
+  {
+    "id": 26,
+    "title": "Reservoir Dogs",
+    "year": 1992,
+    "runtimeMinutes": 99,
+    "mpaaRating": "R",
+    "scoreRating": 8.2,
+    "directorLastName": "Tarantino"
+  },
+  {
+    "id": 27,
+    "title": "Unforgiven",
+    "year": 1992,
+    "runtimeMinutes": 130,
+    "mpaaRating": "R",
+    "scoreRating": 8.2,
+    "directorLastName": "Eastwood"
+  },
+  {
+    "id": 28,
+    "title": "Wayne's World",
+    "year": 1992,
+    "runtimeMinutes": 94,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.0,
+    "directorLastName": "Spheeris"
+  },
+  {
+    "id": 29,
+    "title": "Addams Family Values",
+    "year": 1993,
+    "runtimeMinutes": 94,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.9,
+    "directorLastName": "Sonnenfeld"
+  },
+  {
+    "id": 30,
+    "title": "Carlito's Way",
+    "year": 1993,
+    "runtimeMinutes": 144,
+    "mpaaRating": "R",
+    "scoreRating": 7.9,
+    "directorLastName": "De Palma"
+  },
+  {
+    "id": 31,
+    "title": "Cool Runnings",
+    "year": 1993,
+    "runtimeMinutes": 98,
+    "mpaaRating": "PG",
+    "scoreRating": 7.0,
+    "directorLastName": "Turteltaub"
+  },
+  {
+    "id": 32,
+    "title": "Groundhog Day",
+    "year": 1993,
+    "runtimeMinutes": 101,
+    "mpaaRating": "PG",
+    "scoreRating": 8.0,
+    "directorLastName": "Ramis"
+  },
+  {
+    "id": 33,
+    "title": "Hocus Pocus",
+    "year": 1993,
+    "runtimeMinutes": 96,
+    "mpaaRating": "PG",
+    "scoreRating": 6.9,
+    "directorLastName": "Ortega"
+  },
+  {
+    "id": 34,
+    "title": "Jurassic Park",
+    "year": 1993,
+    "runtimeMinutes": 127,
+    "mpaaRating": "PG-13",
+    "scoreRating": 8.2,
+    "directorLastName": "Spielberg"
+  },
+  {
+    "id": 35,
+    "title": "Last Action Hero",
+    "year": 1993,
+    "runtimeMinutes": 130,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.5,
+    "directorLastName": "McTiernan"
+  },
+  {
+    "id": 36,
+    "title": "Mrs. Doubtfire",
+    "year": 1993,
+    "runtimeMinutes": 125,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.1,
+    "directorLastName": "Columbus"
+  },
+  {
+    "id": 37,
+    "title": "Schindler's List",
+    "year": 1993,
+    "runtimeMinutes": 196,
+    "mpaaRating": "R",
+    "scoreRating": 9.0,
+    "directorLastName": "Spielberg"
+  },
+  {
+    "id": 38,
+    "title": "Sleepless in Seattle",
+    "year": 1993,
+    "runtimeMinutes": 105,
+    "mpaaRating": "PG",
+    "scoreRating": 6.8,
+    "directorLastName": "Ephron"
+  },
+  {
+    "id": 39,
+    "title": "The Fugitive",
+    "year": 1993,
+    "runtimeMinutes": 130,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.8,
+    "directorLastName": "Davis"
+  },
+  {
+    "id": 40,
+    "title": "Clerks",
+    "year": 1994,
+    "runtimeMinutes": 92,
+    "mpaaRating": "R",
+    "scoreRating": 7.7,
+    "directorLastName": "Smith"
+  },
+  {
+    "id": 41,
+    "title": "Ed Wood",
+    "year": 1994,
+    "runtimeMinutes": 127,
+    "mpaaRating": "R",
+    "scoreRating": 7.8,
+    "directorLastName": "Burton"
+  },
+  {
+    "id": 42,
+    "title": "Forrest Gump",
+    "year": 1994,
+    "runtimeMinutes": 142,
+    "mpaaRating": "PG-13",
+    "scoreRating": 8.8,
+    "directorLastName": "Zemeckis"
+  },
+  {
+    "id": 43,
+    "title": "Interview with the Vampire: The Vampire Chronicles",
+    "year": 1994,
+    "runtimeMinutes": 123,
+    "mpaaRating": "R",
+    "scoreRating": 7.5,
+    "directorLastName": "Jordan"
+  },
+  {
+    "id": 44,
+    "title": "Léon: The Professional",
+    "year": 1994,
+    "runtimeMinutes": 110,
+    "mpaaRating": "R",
+    "scoreRating": 8.5,
+    "directorLastName": "Besson"
+  },
+  {
+    "id": 45,
+    "title": "Naked Gun 33 1/3: The Final Insult",
+    "year": 1994,
+    "runtimeMinutes": 83,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.5,
+    "directorLastName": "Segal"
+  },
+  {
+    "id": 46,
+    "title": "Natural Born Killers",
+    "year": 1994,
+    "runtimeMinutes": 119,
+    "mpaaRating": "R",
+    "scoreRating": 7.2,
+    "directorLastName": "Stone"
+  },
+  {
+    "id": 47,
+    "title": "Pulp Fiction",
+    "year": 1994,
+    "runtimeMinutes": 154,
+    "mpaaRating": "R",
+    "scoreRating": 8.8,
+    "directorLastName": "Tarantino"
+  },
+  {
+    "id": 48,
+    "title": "Speed",
+    "year": 1994,
+    "runtimeMinutes": 116,
+    "mpaaRating": "R",
+    "scoreRating": 7.3,
+    "directorLastName": "De Bont"
+  },
+  {
+    "id": 49,
+    "title": "Stargate",
+    "year": 1994,
+    "runtimeMinutes": 121,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.0,
+    "directorLastName": "Emmerich"
+  },
+  {
+    "id": 50,
+    "title": "The Shawshank Redemption",
+    "year": 1994,
+    "runtimeMinutes": 142,
+    "mpaaRating": "R",
+    "scoreRating": 9.3,
+    "directorLastName": "Darabont"
+  },
+  {
+    "id": 51,
+    "title": "Apollo 13",
+    "year": 1995,
+    "runtimeMinutes": 140,
+    "mpaaRating": "PG",
+    "scoreRating": 7.7,
+    "directorLastName": "Howard"
+  },
+  {
+    "id": 52,
+    "title": "Bad Boys",
+    "year": 1995,
+    "runtimeMinutes": 119,
+    "mpaaRating": "R",
+    "scoreRating": 6.8,
+    "directorLastName": "Bay"
+  },
+  {
+    "id": 53,
+    "title": "Before Sunrise",
+    "year": 1995,
+    "runtimeMinutes": 101,
+    "mpaaRating": "R",
+    "scoreRating": 8.1,
+    "directorLastName": "Linklater"
+  },
+  {
+    "id": 54,
+    "title": "Casino",
+    "year": 1995,
+    "runtimeMinutes": 178,
+    "mpaaRating": "R",
+    "scoreRating": 8.2,
+    "directorLastName": "Scorsese"
+  },
+  {
+    "id": 55,
+    "title": "Crimson Tide",
+    "year": 1995,
+    "runtimeMinutes": 116,
+    "mpaaRating": "R",
+    "scoreRating": 7.4,
+    "directorLastName": "Scott"
+  },
+  {
+    "id": 56,
+    "title": "Die Hard with a Vengeance",
+    "year": 1995,
+    "runtimeMinutes": 128,
+    "mpaaRating": "R",
+    "scoreRating": 7.6,
+    "directorLastName": "McTiernan"
+  },
+  {
+    "id": 57,
+    "title": "GoldenEye",
+    "year": 1995,
+    "runtimeMinutes": 130,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.2,
+    "directorLastName": "Campbell"
+  },
+  {
+    "id": 58,
+    "title": "Heat",
+    "year": 1995,
+    "runtimeMinutes": 170,
+    "mpaaRating": "R",
+    "scoreRating": 8.3,
+    "directorLastName": "Mann"
+  },
+  {
+    "id": 59,
+    "title": "Judge Dredd",
+    "year": 1995,
+    "runtimeMinutes": 96,
+    "mpaaRating": "R",
+    "scoreRating": 5.6,
+    "directorLastName": "Cannon"
+  },
+  {
+    "id": 60,
+    "title": "Mallrats",
+    "year": 1995,
+    "runtimeMinutes": 94,
+    "mpaaRating": "R",
+    "scoreRating": 7.0,
+    "directorLastName": "Smith"
+  },
+  {
+    "id": 61,
+    "title": "Mortal Kombat",
+    "year": 1995,
+    "runtimeMinutes": 101,
+    "mpaaRating": "PG-13",
+    "scoreRating": 5.9,
+    "directorLastName": "Anderson"
+  },
+  {
+    "id": 62,
+    "title": "Seven",
+    "year": 1995,
+    "runtimeMinutes": 127,
+    "mpaaRating": "R",
+    "scoreRating": 8.6,
+    "directorLastName": "Fincher"
+  },
+  {
+    "id": 63,
+    "title": "Waterworld",
+    "year": 1995,
+    "runtimeMinutes": 135,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.3,
+    "directorLastName": "Reynolds"
+  },
+  {
+    "id": 64,
+    "title": "101 Dalmatians",
+    "year": 1996,
+    "runtimeMinutes": 103,
+    "mpaaRating": "G",
+    "scoreRating": 5.8,
+    "directorLastName": "Herek"
+  },
+  {
+    "id": 65,
+    "title": "Eraser",
+    "year": 1996,
+    "runtimeMinutes": 115,
+    "mpaaRating": "R",
+    "scoreRating": 6.2,
+    "directorLastName": "Russell"
+  },
+  {
+    "id": 66,
+    "title": "Happy Gilmore",
+    "year": 1996,
+    "runtimeMinutes": 92,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.0,
+    "directorLastName": "Dugan"
+  },
+  {
+    "id": 67,
+    "title": "Independence Day",
+    "year": 1996,
+    "runtimeMinutes": 145,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.0,
+    "directorLastName": "Emmerich"
+  },
+  {
+    "id": 68,
+    "title": "Jingle All the Way",
+    "year": 1996,
+    "runtimeMinutes": 89,
+    "mpaaRating": "PG",
+    "scoreRating": 5.8,
+    "directorLastName": "Levant"
+  },
+  {
+    "id": 69,
+    "title": "Mars Attacks!",
+    "year": 1996,
+    "runtimeMinutes": 106,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.4,
+    "directorLastName": "Burton"
+  },
+  {
+    "id": 70,
+    "title": "Matilda",
+    "year": 1996,
+    "runtimeMinutes": 98,
+    "mpaaRating": "PG",
+    "scoreRating": 7.0,
+    "directorLastName": "DeVito"
+  },
+  {
+    "id": 71,
+    "title": "Mission: Impossible",
+    "year": 1996,
+    "runtimeMinutes": 110,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.2,
+    "directorLastName": "De Palma"
+  },
+  {
+    "id": 72,
+    "title": "Primal Fear",
+    "year": 1996,
+    "runtimeMinutes": 129,
+    "mpaaRating": "R",
+    "scoreRating": 7.7,
+    "directorLastName": "Hoblit"
+  },
+  {
+    "id": 73,
+    "title": "Scream",
+    "year": 1996,
+    "runtimeMinutes": 111,
+    "mpaaRating": "R",
+    "scoreRating": 7.4,
+    "directorLastName": "Craven"
+  },
+  {
+    "id": 74,
+    "title": "Star Trek: First Contact",
+    "year": 1996,
+    "runtimeMinutes": 111,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.6,
+    "directorLastName": "Frakes"
+  },
+  {
+    "id": 75,
+    "title": "The Rock",
+    "year": 1996,
+    "runtimeMinutes": 136,
+    "mpaaRating": "R",
+    "scoreRating": 7.4,
+    "directorLastName": "Bay"
+  },
+  {
+    "id": 76,
+    "title": "Trainspotting",
+    "year": 1996,
+    "runtimeMinutes": 93,
+    "mpaaRating": "R",
+    "scoreRating": 8.1,
+    "directorLastName": "Boyle"
+  },
+  {
+    "id": 77,
+    "title": "Twister",
+    "year": 1996,
+    "runtimeMinutes": 113,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.6,
+    "directorLastName": "De Bont"
+  },
+  {
+    "id": 78,
+    "title": "Alien: Resurrection",
+    "year": 1997,
+    "runtimeMinutes": 109,
+    "mpaaRating": "R",
+    "scoreRating": 6.2,
+    "directorLastName": "Jeunet"
+  },
+  {
+    "id": 79,
+    "title": "As Good as It Gets",
+    "year": 1997,
+    "runtimeMinutes": 139,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.7,
+    "directorLastName": "Brooks"
+  },
+  {
+    "id": 80,
+    "title": "Austin Powers: International Man of Mystery",
+    "year": 1997,
+    "runtimeMinutes": 89,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.0,
+    "directorLastName": "Roach"
+  },
+  {
+    "id": 81,
+    "title": "Con Air",
+    "year": 1997,
+    "runtimeMinutes": 115,
+    "mpaaRating": "R",
+    "scoreRating": 6.9,
+    "directorLastName": "West"
+  },
+  {
+    "id": 82,
+    "title": "Contact",
+    "year": 1997,
+    "runtimeMinutes": 150,
+    "mpaaRating": "PG",
+    "scoreRating": 7.5,
+    "directorLastName": "Zemeckis"
+  },
+  {
+    "id": 83,
+    "title": "Event Horizon",
+    "year": 1997,
+    "runtimeMinutes": 96,
+    "mpaaRating": "R",
+    "scoreRating": 6.6,
+    "directorLastName": "Anderson"
+  },
+  {
+    "id": 84,
+    "title": "Face/Off",
+    "year": 1997,
+    "runtimeMinutes": 138,
+    "mpaaRating": "R",
+    "scoreRating": 7.3,
+    "directorLastName": "Wu"
+  },
+  {
+    "id": 85,
+    "title": "Gattaca",
+    "year": 1997,
+    "runtimeMinutes": 106,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.7,
+    "directorLastName": "Niccol"
+  },
+  {
+    "id": 86,
+    "title": "Good Will Hunting",
+    "year": 1997,
+    "runtimeMinutes": 126,
+    "mpaaRating": "R",
+    "scoreRating": 8.4,
+    "directorLastName": "Van Sant"
+  },
+  {
+    "id": 87,
+    "title": "I Know What You Did Last Summer",
+    "year": 1997,
+    "runtimeMinutes": 101,
+    "mpaaRating": "R",
+    "scoreRating": 5.9,
+    "directorLastName": "Gillespie"
+  },
+  {
+    "id": 88,
+    "title": "Life Is Beautiful",
+    "year": 1997,
+    "runtimeMinutes": 116,
+    "mpaaRating": "PG-13",
+    "scoreRating": 8.6,
+    "directorLastName": "Benigni"
+  },
+  {
+    "id": 89,
+    "title": "Lost Highway",
+    "year": 1997,
+    "runtimeMinutes": 134,
+    "mpaaRating": "R",
+    "scoreRating": 7.6,
+    "directorLastName": "Lynch"
+  },
+  {
+    "id": 90,
+    "title": "Men in Black",
+    "year": 1997,
+    "runtimeMinutes": 98,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.3,
+    "directorLastName": "Sonnenfeld"
+  },
+  {
+    "id": 91,
+    "title": "My Best Friend's Wedding",
+    "year": 1997,
+    "runtimeMinutes": 105,
+    "mpaaRating": "PG",
+    "scoreRating": 6.4,
+    "directorLastName": "Hogan"
+  },
+  {
+    "id": 92,
+    "title": "Scream 2",
+    "year": 1997,
+    "runtimeMinutes": 120,
+    "mpaaRating": "R",
+    "scoreRating": 6.4,
+    "directorLastName": "Craven"
+  },
+  {
+    "id": 93,
+    "title": "Starship Troopers",
+    "year": 1997,
+    "runtimeMinutes": 129,
+    "mpaaRating": "R",
+    "scoreRating": 7.3,
+    "directorLastName": "Verhoeven"
+  },
+  {
+    "id": 94,
+    "title": "The Fifth Element",
+    "year": 1997,
+    "runtimeMinutes": 126,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.6,
+    "directorLastName": "Besson"
+  },
+  {
+    "id": 95,
+    "title": "The Lost World: Jurassic Park",
+    "year": 1997,
+    "runtimeMinutes": 129,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.6,
+    "directorLastName": "Spielberg"
+  },
+  {
+    "id": 96,
+    "title": "Titanic",
+    "year": 1997,
+    "runtimeMinutes": 194,
+    "mpaaRating": "PG-13",
+    "scoreRating": 8.0,
+    "directorLastName": "Cameron"
+  },
+  {
+    "id": 97,
+    "title": "Armageddon",
+    "year": 1998,
+    "runtimeMinutes": 151,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.7,
+    "directorLastName": "Bay"
+  },
+  {
+    "id": 98,
+    "title": "Lock, Stock and Two Smoking Barrels",
+    "year": 1998,
+    "runtimeMinutes": 107,
+    "mpaaRating": "R",
+    "scoreRating": 8.1,
+    "directorLastName": "Ritchie"
+  },
+  {
+    "id": 99,
+    "title": "Rush Hour",
+    "year": 1998,
+    "runtimeMinutes": 98,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.1,
+    "directorLastName": "Ratner"
+  },
+  {
+    "id": 100,
+    "title": "Rushmore",
+    "year": 1998,
+    "runtimeMinutes": 93,
+    "mpaaRating": "R",
+    "scoreRating": 7.6,
+    "directorLastName": "Anderson"
+  },
+  {
+    "id": 101,
+    "title": "Saving Private Ryan",
+    "year": 1998,
+    "runtimeMinutes": 169,
+    "mpaaRating": "R",
+    "scoreRating": 8.6,
+    "directorLastName": "Spielberg"
+  },
+  {
+    "id": 102,
+    "title": "The Man in the Iron Mask",
+    "year": 1998,
+    "runtimeMinutes": 132,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.5,
+    "directorLastName": "Wallace"
+  },
+  {
+    "id": 103,
+    "title": "The Mask of Zorro",
+    "year": 1998,
+    "runtimeMinutes": 136,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.8,
+    "directorLastName": "Campbell"
+  },
+  {
+    "id": 104,
+    "title": "The Parent Trap",
+    "year": 1998,
+    "runtimeMinutes": 128,
+    "mpaaRating": "PG",
+    "scoreRating": 6.7,
+    "directorLastName": "Meyers"
+  },
+  {
+    "id": 105,
+    "title": "The Thin Red Line",
+    "year": 1998,
+    "runtimeMinutes": 170,
+    "mpaaRating": "R",
+    "scoreRating": 7.6,
+    "directorLastName": "Malick"
+  },
+  {
+    "id": 106,
+    "title": "The Truman Show",
+    "year": 1998,
+    "runtimeMinutes": 103,
+    "mpaaRating": "PG",
+    "scoreRating": 8.2,
+    "directorLastName": "Weir"
+  },
+  {
+    "id": 107,
+    "title": "Wild Things",
+    "year": 1998,
+    "runtimeMinutes": 108,
+    "mpaaRating": "R",
+    "scoreRating": 6.6,
+    "directorLastName": "McNaughton"
+  },
+  {
+    "id": 108,
+    "title": "You've Got Mail",
+    "year": 1998,
+    "runtimeMinutes": 119,
+    "mpaaRating": "PG",
+    "scoreRating": 6.7,
+    "directorLastName": "Ephron"
+  },
+  {
+    "id": 109,
+    "title": "10 Things I Hate About You",
+    "year": 1999,
+    "runtimeMinutes": 97,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.4,
+    "directorLastName": "Junger"
+  },
+  {
+    "id": 110,
+    "title": "American Beauty",
+    "year": 1999,
+    "runtimeMinutes": 122,
+    "mpaaRating": "R",
+    "scoreRating": 8.3,
+    "directorLastName": "Mendes"
+  },
+  {
+    "id": 111,
+    "title": "Austin Powers: The Spy Who Shagged Me",
+    "year": 1999,
+    "runtimeMinutes": 95,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.7,
+    "directorLastName": "Roach"
+  },
+  {
+    "id": 112,
+    "title": "Being John Malkovich",
+    "year": 1999,
+    "runtimeMinutes": 113,
+    "mpaaRating": "R",
+    "scoreRating": 7.7,
+    "directorLastName": "Spiegel"
+  },
+  {
+    "id": 113,
+    "title": "Bicentennial Man",
+    "year": 1999,
+    "runtimeMinutes": 132,
+    "mpaaRating": "PG",
+    "scoreRating": 6.9,
+    "directorLastName": "Columbus"
+  },
+  {
+    "id": 114,
+    "title": "Big Daddy",
+    "year": 1999,
+    "runtimeMinutes": 93,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.5,
+    "directorLastName": "Dugan"
+  },
+  {
+    "id": 115,
+    "title": "Cruel Intentions",
+    "year": 1999,
+    "runtimeMinutes": 97,
+    "mpaaRating": "R",
+    "scoreRating": 6.8,
+    "directorLastName": "Kumble"
+  },
+  {
+    "id": 116,
+    "title": "Deep Blue Sea",
+    "year": 1999,
+    "runtimeMinutes": 105,
+    "mpaaRating": "R",
+    "scoreRating": 6.0,
+    "directorLastName": "Harlin"
+  },
+  {
+    "id": 117,
+    "title": "Dogma",
+    "year": 1999,
+    "runtimeMinutes": 130,
+    "mpaaRating": "R",
+    "scoreRating": 7.3,
+    "directorLastName": "Smith"
+  },
+  {
+    "id": 118,
+    "title": "Eyes Wide Shut",
+    "year": 1999,
+    "runtimeMinutes": 159,
+    "mpaaRating": "R",
+    "scoreRating": 7.5,
+    "directorLastName": "Kubrick"
+  },
+  {
+    "id": 119,
+    "title": "Fight Club",
+    "year": 1999,
+    "runtimeMinutes": 139,
+    "mpaaRating": "R",
+    "scoreRating": 8.8,
+    "directorLastName": "Fincher"
+  },
+  {
+    "id": 120,
+    "title": "Office Space",
+    "year": 1999,
+    "runtimeMinutes": 89,
+    "mpaaRating": "R",
+    "scoreRating": 7.6,
+    "directorLastName": "Judge"
+  },
+  {
+    "id": 121,
+    "title": "South Park: Bigger, Longer & Uncut",
+    "year": 1999,
+    "runtimeMinutes": 81,
+    "mpaaRating": "R",
+    "scoreRating": 7.7,
+    "directorLastName": "Parker"
+  },
+  {
+    "id": 122,
+    "title": "Star Wars: Episode I - The Phantom Menace",
+    "year": 1999,
+    "runtimeMinutes": 136,
+    "mpaaRating": "PG",
+    "scoreRating": 6.5,
+    "directorLastName": "Lucas"
+  },
+  {
+    "id": 123,
+    "title": "Stuart Little",
+    "year": 1999,
+    "runtimeMinutes": 84,
+    "mpaaRating": "PG",
+    "scoreRating": 6.0,
+    "directorLastName": "Minkoff"
+  },
+  {
+    "id": 124,
+    "title": "The 13th Warrior",
+    "year": 1999,
+    "runtimeMinutes": 102,
+    "mpaaRating": "R",
+    "scoreRating": 6.6,
+    "directorLastName": "McTiernan"
+  },
+  {
+    "id": 125,
+    "title": "The Iron Giant",
+    "year": 1999,
+    "runtimeMinutes": 86,
+    "mpaaRating": "PG",
+    "scoreRating": 8.1,
+    "directorLastName": "Bird"
+  },
+  {
+    "id": 126,
+    "title": "The Mummy",
+    "year": 1999,
+    "runtimeMinutes": 124,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.1,
+    "directorLastName": "Sommers"
+  },
+  {
+    "id": 127,
+    "title": "The Sixth Sense",
+    "year": 1999,
+    "runtimeMinutes": 107,
+    "mpaaRating": "PG-13",
+    "scoreRating": 8.2,
+    "directorLastName": "Shyamalan"
+  },
+  {
+    "id": 128,
+    "title": "Almost Famous",
+    "year": 2000,
+    "runtimeMinutes": 122,
+    "mpaaRating": "R",
+    "scoreRating": 7.9,
+    "directorLastName": "Crowe"
+  },
+  {
+    "id": 129,
+    "title": "American Psycho",
+    "year": 2000,
+    "runtimeMinutes": 102,
+    "mpaaRating": "R",
+    "scoreRating": 7.6,
+    "directorLastName": "Harron"
+  },
+  {
+    "id": 130,
+    "title": "Cast Away",
+    "year": 2000,
+    "runtimeMinutes": 143,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.8,
+    "directorLastName": "Zemeckis"
+  },
+  {
+    "id": 131,
+    "title": "Dancer in the Dark",
+    "year": 2000,
+    "runtimeMinutes": 135,
+    "mpaaRating": "R",
+    "scoreRating": 7.9,
+    "directorLastName": "Trier"
+  },
+  {
+    "id": 132,
+    "title": "Gladiator",
+    "year": 2000,
+    "runtimeMinutes": 155,
+    "mpaaRating": "R",
+    "scoreRating": 8.5,
+    "directorLastName": "Scott"
+  },
+  {
+    "id": 133,
+    "title": "High Fidelity",
+    "year": 2000,
+    "runtimeMinutes": 113,
+    "mpaaRating": "R",
+    "scoreRating": 7.4,
+    "directorLastName": "Frears"
+  },
+  {
+    "id": 134,
+    "title": "How the Grinch Stole Christmas",
+    "year": 2000,
+    "runtimeMinutes": 104,
+    "mpaaRating": "PG",
+    "scoreRating": 6.4,
+    "directorLastName": "Howard"
+  },
+  {
+    "id": 135,
+    "title": "In the Mood for Love",
+    "year": 2000,
+    "runtimeMinutes": 98,
+    "mpaaRating": "PG",
+    "scoreRating": 8.0,
+    "directorLastName": "Wang"
+  },
+  {
+    "id": 136,
+    "title": "Memento",
+    "year": 2000,
+    "runtimeMinutes": 113,
+    "mpaaRating": "R",
+    "scoreRating": 8.4,
+    "directorLastName": "Nolan"
+  },
+  {
+    "id": 137,
+    "title": "Mission: Impossible II",
+    "year": 2000,
+    "runtimeMinutes": 123,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.1,
+    "directorLastName": "Wu"
+  },
+  {
+    "id": 138,
+    "title": "Pitch Black",
+    "year": 2000,
+    "runtimeMinutes": 109,
+    "mpaaRating": "R",
+    "scoreRating": 7.0,
+    "directorLastName": "Twohy"
+  },
+  {
+    "id": 139,
+    "title": "Requiem for a Dream",
+    "year": 2000,
+    "runtimeMinutes": 102,
+    "mpaaRating": "R",
+    "scoreRating": 8.3,
+    "directorLastName": "Aronofsky"
+  },
+  {
+    "id": 140,
+    "title": "Scream 3",
+    "year": 2000,
+    "runtimeMinutes": 116,
+    "mpaaRating": "R",
+    "scoreRating": 5.7,
+    "directorLastName": "Craven"
+  },
+  {
+    "id": 141,
+    "title": "The Family Man",
+    "year": 2000,
+    "runtimeMinutes": 125,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.9,
+    "directorLastName": "Ratner"
+  },
+  {
+    "id": 142,
+    "title": "The Whole Nine Yards",
+    "year": 2000,
+    "runtimeMinutes": 98,
+    "mpaaRating": "R",
+    "scoreRating": 6.7,
+    "directorLastName": "Lynn"
+  },
+  {
+    "id": 143,
+    "title": "Unbreakable",
+    "year": 2000,
+    "runtimeMinutes": 106,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.3,
+    "directorLastName": "Shyamalan"
+  },
+  {
+    "id": 144,
+    "title": "X-Men",
+    "year": 2000,
+    "runtimeMinutes": 104,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.3,
+    "directorLastName": "Singer"
+  },
+  {
+    "id": 145,
+    "title": "A.I. Artificial Intelligence",
+    "year": 2001,
+    "runtimeMinutes": 146,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.2,
+    "directorLastName": "Spielberg"
+  },
+  {
+    "id": 146,
+    "title": "American Pie 2",
+    "year": 2001,
+    "runtimeMinutes": 108,
+    "mpaaRating": "R",
+    "scoreRating": 6.5,
+    "directorLastName": "Rogers"
+  },
+  {
+    "id": 147,
+    "title": "Amélie",
+    "year": 2001,
+    "runtimeMinutes": 122,
+    "mpaaRating": "R",
+    "scoreRating": 8.2,
+    "directorLastName": "Jeunet"
+  },
+  {
+    "id": 148,
+    "title": "Black Hawk Down",
+    "year": 2001,
+    "runtimeMinutes": 144,
+    "mpaaRating": "R",
+    "scoreRating": 7.7,
+    "directorLastName": "Scott"
+  },
+  {
+    "id": 149,
+    "title": "Blow",
+    "year": 2001,
+    "runtimeMinutes": 124,
+    "mpaaRating": "R",
+    "scoreRating": 7.5,
+    "directorLastName": "Demme"
+  },
+  {
+    "id": 150,
+    "title": "Bridget Jones's Diary",
+    "year": 2001,
+    "runtimeMinutes": 97,
+    "mpaaRating": "R",
+    "scoreRating": 6.8,
+    "directorLastName": "Maguire"
+  },
+  {
+    "id": 151,
+    "title": "Donnie Darko",
+    "year": 2001,
+    "runtimeMinutes": 113,
+    "mpaaRating": "R",
+    "scoreRating": 8.0,
+    "directorLastName": "Kelly"
+  },
+  {
+    "id": 152,
+    "title": "Enemy at the Gates",
+    "year": 2001,
+    "runtimeMinutes": 131,
+    "mpaaRating": "R",
+    "scoreRating": 7.5,
+    "directorLastName": "Annaud"
+  },
+  {
+    "id": 153,
+    "title": "Evolution",
+    "year": 2001,
+    "runtimeMinutes": 101,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.1,
+    "directorLastName": "Reitman"
+  },
+  {
+    "id": 154,
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "year": 2001,
+    "runtimeMinutes": 152,
+    "mpaaRating": "PG",
+    "scoreRating": 7.7,
+    "directorLastName": "Columbus"
+  },
+  {
+    "id": 155,
+    "title": "Jay and Silent Bob Strike Back",
+    "year": 2001,
+    "runtimeMinutes": 104,
+    "mpaaRating": "R",
+    "scoreRating": 6.8,
+    "directorLastName": "Smith"
+  },
+  {
+    "id": 156,
+    "title": "Jurassic Park III",
+    "year": 2001,
+    "runtimeMinutes": 92,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.0,
+    "directorLastName": "Johnston"
+  },
+  {
+    "id": 157,
+    "title": "Mulholland Drive",
+    "year": 2001,
+    "runtimeMinutes": 147,
+    "mpaaRating": "R",
+    "scoreRating": 7.9,
+    "directorLastName": "Lynch"
+  },
+  {
+    "id": 158,
+    "title": "Ocean's Eleven",
+    "year": 2001,
+    "runtimeMinutes": 116,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.7,
+    "directorLastName": "Soderbergh"
+  },
+  {
+    "id": 159,
+    "title": "Planet of the Apes",
+    "year": 2001,
+    "runtimeMinutes": 120,
+    "mpaaRating": "PG-13",
+    "scoreRating": 5.7,
+    "directorLastName": "Burton"
+  },
+  {
+    "id": 160,
+    "title": "Spy Game",
+    "year": 2001,
+    "runtimeMinutes": 126,
+    "mpaaRating": "R",
+    "scoreRating": 7.1,
+    "directorLastName": "Scott"
+  },
+  {
+    "id": 161,
+    "title": "The Fast and the Furious",
+    "year": 2001,
+    "runtimeMinutes": 106,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.8,
+    "directorLastName": "Cohen"
+  },
+  {
+    "id": 162,
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "year": 2001,
+    "runtimeMinutes": 178,
+    "mpaaRating": "PG-13",
+    "scoreRating": 8.9,
+    "directorLastName": "Jackson"
+  },
+  {
+    "id": 163,
+    "title": "The Royal Tenenbaums",
+    "year": 2001,
+    "runtimeMinutes": 110,
+    "mpaaRating": "R",
+    "scoreRating": 7.6,
+    "directorLastName": "Anderson"
+  },
+  {
+    "id": 164,
+    "title": "Training Day",
+    "year": 2001,
+    "runtimeMinutes": 122,
+    "mpaaRating": "R",
+    "scoreRating": 7.8,
+    "directorLastName": "Fuqua"
+  },
+  {
+    "id": 165,
+    "title": "Y tu mamá también",
+    "year": 2001,
+    "runtimeMinutes": 106,
+    "mpaaRating": "R",
+    "scoreRating": 7.7,
+    "directorLastName": "Cuarón"
+  },
+  {
+    "id": 166,
+    "title": "28 Days Later",
+    "year": 2002,
+    "runtimeMinutes": 113,
+    "mpaaRating": "R",
+    "scoreRating": 7.5,
+    "directorLastName": "Boyle"
+  },
+  {
+    "id": 167,
+    "title": "8 Mile",
+    "year": 2002,
+    "runtimeMinutes": 110,
+    "mpaaRating": "R",
+    "scoreRating": 7.2,
+    "directorLastName": "Hanson"
+  },
+  {
+    "id": 168,
+    "title": "Adaptation.",
+    "year": 2002,
+    "runtimeMinutes": 115,
+    "mpaaRating": "R",
+    "scoreRating": 7.6,
+    "directorLastName": "Spiegel"
+  },
+  {
+    "id": 169,
+    "title": "Austin Powers in Goldmember",
+    "year": 2002,
+    "runtimeMinutes": 94,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.3,
+    "directorLastName": "Roach"
+  },
+  {
+    "id": 170,
+    "title": "Blade II",
+    "year": 2002,
+    "runtimeMinutes": 117,
+    "mpaaRating": "R",
+    "scoreRating": 6.7,
+    "directorLastName": "del Toro"
+  },
+  {
+    "id": 171,
+    "title": "Catch Me If You Can",
+    "year": 2002,
+    "runtimeMinutes": 141,
+    "mpaaRating": "PG-13",
+    "scoreRating": 8.1,
+    "directorLastName": "Spielberg"
+  },
+  {
+    "id": 172,
+    "title": "Equilibrium",
+    "year": 2002,
+    "runtimeMinutes": 107,
+    "mpaaRating": "R",
+    "scoreRating": 7.3,
+    "directorLastName": "Wimmer"
+  },
+  {
+    "id": 173,
+    "title": "Gangs of New York",
+    "year": 2002,
+    "runtimeMinutes": 167,
+    "mpaaRating": "R",
+    "scoreRating": 7.5,
+    "directorLastName": "Scorsese"
+  },
+  {
+    "id": 174,
+    "title": "Harry Potter and the Chamber of Secrets",
+    "year": 2002,
+    "runtimeMinutes": 161,
+    "mpaaRating": "PG",
+    "scoreRating": 7.5,
+    "directorLastName": "Columbus"
+  },
+  {
+    "id": 175,
+    "title": "Hero",
+    "year": 2002,
+    "runtimeMinutes": 94,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.9,
+    "directorLastName": "Zhang"
+  },
+  {
+    "id": 176,
+    "title": "Men in Black II",
+    "year": 2002,
+    "runtimeMinutes": 88,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.2,
+    "directorLastName": "Sonnenfeld"
+  },
+  {
+    "id": 177,
+    "title": "Minority Report",
+    "year": 2002,
+    "runtimeMinutes": 145,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.6,
+    "directorLastName": "Spielberg"
+  },
+  {
+    "id": 178,
+    "title": "My Big Fat Greek Wedding",
+    "year": 2002,
+    "runtimeMinutes": 95,
+    "mpaaRating": "PG",
+    "scoreRating": 6.6,
+    "directorLastName": "Zwick"
+  },
+  {
+    "id": 179,
+    "title": "Punch-Drunk Love",
+    "year": 2002,
+    "runtimeMinutes": 95,
+    "mpaaRating": "R",
+    "scoreRating": 7.3,
+    "directorLastName": "Anderson"
+  },
+  {
+    "id": 180,
+    "title": "Reign of Fire",
+    "year": 2002,
+    "runtimeMinutes": 101,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.2,
+    "directorLastName": "Bowman"
+  },
+  {
+    "id": 181,
+    "title": "Resident Evil",
+    "year": 2002,
+    "runtimeMinutes": 100,
+    "mpaaRating": "R",
+    "scoreRating": 6.6,
+    "directorLastName": "Anderson"
+  },
+  {
+    "id": 182,
+    "title": "Road to Perdition",
+    "year": 2002,
+    "runtimeMinutes": 117,
+    "mpaaRating": "R",
+    "scoreRating": 7.6,
+    "directorLastName": "Mendes"
+  },
+  {
+    "id": 183,
+    "title": "Scooby-Doo",
+    "year": 2002,
+    "runtimeMinutes": 86,
+    "mpaaRating": "PG",
+    "scoreRating": 5.4,
+    "directorLastName": "Gosnell"
+  },
+  {
+    "id": 184,
+    "title": "Signs",
+    "year": 2002,
+    "runtimeMinutes": 106,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.8,
+    "directorLastName": "Shyamalan"
+  },
+  {
+    "id": 185,
+    "title": "Spider-Man",
+    "year": 2002,
+    "runtimeMinutes": 121,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.4,
+    "directorLastName": "Raimi"
+  },
+  {
+    "id": 186,
+    "title": "Star Wars: Episode II - Attack of the Clones",
+    "year": 2002,
+    "runtimeMinutes": 142,
+    "mpaaRating": "PG",
+    "scoreRating": 6.6,
+    "directorLastName": "Lucas"
+  },
+  {
+    "id": 187,
+    "title": "The Bourne Identity",
+    "year": 2002,
+    "runtimeMinutes": 119,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.8,
+    "directorLastName": "Liman"
+  },
+  {
+    "id": 188,
+    "title": "The Lord of the Rings: The Two Towers",
+    "year": 2002,
+    "runtimeMinutes": 179,
+    "mpaaRating": "PG-13",
+    "scoreRating": 8.8,
+    "directorLastName": "Jackson"
+  },
+  {
+    "id": 189,
+    "title": "The Ring",
+    "year": 2002,
+    "runtimeMinutes": 115,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.1,
+    "directorLastName": "Verbinski"
+  },
+  {
+    "id": 190,
+    "title": "The Scorpion King",
+    "year": 2002,
+    "runtimeMinutes": 92,
+    "mpaaRating": "PG-13",
+    "scoreRating": 5.5,
+    "directorLastName": "Russell"
+  },
+  {
+    "id": 191,
+    "title": "xXx",
+    "year": 2002,
+    "runtimeMinutes": 124,
+    "mpaaRating": "PG-13",
+    "scoreRating": 5.9,
+    "directorLastName": "Cohen"
+  },
+  {
+    "id": 192,
+    "title": "2 Fast 2 Furious",
+    "year": 2003,
+    "runtimeMinutes": 107,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.0,
+    "directorLastName": "Singleton"
+  },
+  {
+    "id": 193,
+    "title": "Bad Boys II",
+    "year": 2003,
+    "runtimeMinutes": 147,
+    "mpaaRating": "R",
+    "scoreRating": 6.6,
+    "directorLastName": "Bay"
+  },
+  {
+    "id": 194,
+    "title": "Bad Santa",
+    "year": 2003,
+    "runtimeMinutes": 92,
+    "mpaaRating": "R",
+    "scoreRating": 7.0,
+    "directorLastName": "Zwigoff"
+  },
+  {
+    "id": 195,
+    "title": "Daredevil",
+    "year": 2003,
+    "runtimeMinutes": 103,
+    "mpaaRating": "PG-13",
+    "scoreRating": 5.3,
+    "directorLastName": "Johnson"
+  },
+  {
+    "id": 196,
+    "title": "Elf",
+    "year": 2003,
+    "runtimeMinutes": 97,
+    "mpaaRating": "PG",
+    "scoreRating": 7.1,
+    "directorLastName": "Favreau"
+  },
+  {
+    "id": 197,
+    "title": "Final Destination 2",
+    "year": 2003,
+    "runtimeMinutes": 90,
+    "mpaaRating": "R",
+    "scoreRating": 6.2,
+    "directorLastName": "Ellis"
+  },
+  {
+    "id": 198,
+    "title": "Freaky Friday",
+    "year": 2003,
+    "runtimeMinutes": 97,
+    "mpaaRating": "PG",
+    "scoreRating": 6.4,
+    "directorLastName": "Waters"
+  },
+  {
+    "id": 199,
+    "title": "How to Lose a Guy in 10 Days",
+    "year": 2003,
+    "runtimeMinutes": 116,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.6,
+    "directorLastName": "Petrie"
+  },
+  {
+    "id": 200,
+    "title": "Kill Bill: Vol. 1",
+    "year": 2003,
+    "runtimeMinutes": 111,
+    "mpaaRating": "R",
+    "scoreRating": 8.2,
+    "directorLastName": "Tarantino"
+  },
+  {
+    "id": 201,
+    "title": "Lost in Translation",
+    "year": 2003,
+    "runtimeMinutes": 102,
+    "mpaaRating": "R",
+    "scoreRating": 7.7,
+    "directorLastName": "Coppola"
+  },
+  {
+    "id": 202,
+    "title": "Master and Commander: The Far Side of the World",
+    "year": 2003,
+    "runtimeMinutes": 138,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.5,
+    "directorLastName": "Weir"
+  },
+  {
+    "id": 203,
+    "title": "Matchstick Men",
+    "year": 2003,
+    "runtimeMinutes": 116,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.2,
+    "directorLastName": "Scott"
+  },
+  {
+    "id": 204,
+    "title": "Mystic River",
+    "year": 2003,
+    "runtimeMinutes": 138,
+    "mpaaRating": "R",
+    "scoreRating": 7.9,
+    "directorLastName": "Eastwood"
+  },
+  {
+    "id": 205,
+    "title": "Oldboy",
+    "year": 2003,
+    "runtimeMinutes": 120,
+    "mpaaRating": "R",
+    "scoreRating": 8.3,
+    "directorLastName": "Park"
+  },
+  {
+    "id": 206,
+    "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "year": 2003,
+    "runtimeMinutes": 143,
+    "mpaaRating": "PG-13",
+    "scoreRating": 8.1,
+    "directorLastName": "Verbinski"
+  },
+  {
+    "id": 207,
+    "title": "School of Rock",
+    "year": 2003,
+    "runtimeMinutes": 109,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.2,
+    "directorLastName": "Linklater"
+  },
+  {
+    "id": 208,
+    "title": "The Dreamers",
+    "year": 2003,
+    "runtimeMinutes": 115,
+    "mpaaRating": "NC-17",
+    "scoreRating": 7.1,
+    "directorLastName": "Bertolucci"
+  },
+  {
+    "id": 209,
+    "title": "The Italian Job",
+    "year": 2003,
+    "runtimeMinutes": 111,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.0,
+    "directorLastName": "Gray"
+  },
+  {
+    "id": 210,
+    "title": "The Lord of the Rings: The Return of the King",
+    "year": 2003,
+    "runtimeMinutes": 201,
+    "mpaaRating": "PG-13",
+    "scoreRating": 9.0,
+    "directorLastName": "Jackson"
+  },
+  {
+    "id": 211,
+    "title": "Underworld",
+    "year": 2003,
+    "runtimeMinutes": 121,
+    "mpaaRating": "R",
+    "scoreRating": 7.0,
+    "directorLastName": "Wiseman"
+  },
+  {
+    "id": 212,
+    "title": "Wrong Turn",
+    "year": 2003,
+    "runtimeMinutes": 84,
+    "mpaaRating": "R",
+    "scoreRating": 6.1,
+    "directorLastName": "Schmidt"
+  },
+  {
+    "id": 213,
+    "title": "X2: X-Men United",
+    "year": 2003,
+    "runtimeMinutes": 134,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.4,
+    "directorLastName": "Singer"
+  },
+  {
+    "id": 214,
+    "title": "Anchorman: The Legend of Ron Burgundy",
+    "year": 2004,
+    "runtimeMinutes": 94,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.1,
+    "directorLastName": "McKay"
+  },
+  {
+    "id": 215,
+    "title": "Before Sunset",
+    "year": 2004,
+    "runtimeMinutes": 80,
+    "mpaaRating": "R",
+    "scoreRating": 8.1,
+    "directorLastName": "Linklater"
+  },
+  {
+    "id": 216,
+    "title": "Blade: Trinity",
+    "year": 2004,
+    "runtimeMinutes": 113,
+    "mpaaRating": "R",
+    "scoreRating": 5.8,
+    "directorLastName": "Goyer"
+  },
+  {
+    "id": 217,
+    "title": "Bridget Jones: The Edge of Reason",
+    "year": 2004,
+    "runtimeMinutes": 108,
+    "mpaaRating": "R",
+    "scoreRating": 6.0,
+    "directorLastName": "Kidron"
+  },
+  {
+    "id": 218,
+    "title": "Crash",
+    "year": 2004,
+    "runtimeMinutes": 112,
+    "mpaaRating": "R",
+    "scoreRating": 7.7,
+    "directorLastName": "Haggis"
+  },
+  {
+    "id": 219,
+    "title": "Dawn of the Dead",
+    "year": 2004,
+    "runtimeMinutes": 101,
+    "mpaaRating": "R",
+    "scoreRating": 7.2,
+    "directorLastName": "Snyder"
+  },
+  {
+    "id": 220,
+    "title": "Dodgeball: A True Underdog Story",
+    "year": 2004,
+    "runtimeMinutes": 92,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.7,
+    "directorLastName": "Thurber"
+  },
+  {
+    "id": 221,
+    "title": "Downfall",
+    "year": 2004,
+    "runtimeMinutes": 156,
+    "mpaaRating": "R",
+    "scoreRating": 8.2,
+    "directorLastName": "Hirschbiegel"
+  },
+  {
+    "id": 222,
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "year": 2004,
+    "runtimeMinutes": 108,
+    "mpaaRating": "R",
+    "scoreRating": 8.3,
+    "directorLastName": "Gondry"
+  },
+  {
+    "id": 223,
+    "title": "Harold & Kumar Go to White Castle",
+    "year": 2004,
+    "runtimeMinutes": 88,
+    "mpaaRating": "R",
+    "scoreRating": 7.0,
+    "directorLastName": "Leiner"
+  },
+  {
+    "id": 224,
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "year": 2004,
+    "runtimeMinutes": 142,
+    "mpaaRating": "PG",
+    "scoreRating": 7.9,
+    "directorLastName": "Cuarón"
+  },
+  {
+    "id": 225,
+    "title": "Hellboy",
+    "year": 2004,
+    "runtimeMinutes": 122,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.9,
+    "directorLastName": "del Toro"
+  },
+  {
+    "id": 226,
+    "title": "Kill Bill: Vol. 2",
+    "year": 2004,
+    "runtimeMinutes": 137,
+    "mpaaRating": "R",
+    "scoreRating": 8.0,
+    "directorLastName": "Tarantino"
+  },
+  {
+    "id": 227,
+    "title": "King Arthur",
+    "year": 2004,
+    "runtimeMinutes": 126,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.3,
+    "directorLastName": "Fuqua"
+  },
+  {
+    "id": 228,
+    "title": "Kung Fu Hustle",
+    "year": 2004,
+    "runtimeMinutes": 99,
+    "mpaaRating": "R",
+    "scoreRating": 7.7,
+    "directorLastName": "Zhou"
+  },
+  {
+    "id": 229,
+    "title": "Layer Cake",
+    "year": 2004,
+    "runtimeMinutes": 105,
+    "mpaaRating": "R",
+    "scoreRating": 7.2,
+    "directorLastName": "Vaughn"
+  },
+  {
+    "id": 230,
+    "title": "Mean Girls",
+    "year": 2004,
+    "runtimeMinutes": 97,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.1,
+    "directorLastName": "Waters"
+  },
+  {
+    "id": 231,
+    "title": "Million Dollar Baby",
+    "year": 2004,
+    "runtimeMinutes": 132,
+    "mpaaRating": "PG-13",
+    "scoreRating": 8.1,
+    "directorLastName": "Eastwood"
+  },
+  {
+    "id": 232,
+    "title": "National Treasure",
+    "year": 2004,
+    "runtimeMinutes": 131,
+    "mpaaRating": "PG",
+    "scoreRating": 6.9,
+    "directorLastName": "Turteltaub"
+  },
+  {
+    "id": 233,
+    "title": "Ocean's Twelve",
+    "year": 2004,
+    "runtimeMinutes": 125,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.5,
+    "directorLastName": "Soderbergh"
+  },
+  {
+    "id": 234,
+    "title": "Ray",
+    "year": 2004,
+    "runtimeMinutes": 152,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.7,
+    "directorLastName": "Hackford"
+  },
+  {
+    "id": 235,
+    "title": "Resident Evil: Apocalypse",
+    "year": 2004,
+    "runtimeMinutes": 94,
+    "mpaaRating": "R",
+    "scoreRating": 6.1,
+    "directorLastName": "Witt"
+  },
+  {
+    "id": 236,
+    "title": "Spider-Man 2",
+    "year": 2004,
+    "runtimeMinutes": 127,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.5,
+    "directorLastName": "Raimi"
+  },
+  {
+    "id": 237,
+    "title": "Team America: World Police",
+    "year": 2004,
+    "runtimeMinutes": 98,
+    "mpaaRating": "R",
+    "scoreRating": 7.2,
+    "directorLastName": "Parker"
+  },
+  {
+    "id": 238,
+    "title": "The Aviator",
+    "year": 2004,
+    "runtimeMinutes": 170,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.5,
+    "directorLastName": "Scorsese"
+  },
+  {
+    "id": 239,
+    "title": "The Day After Tomorrow",
+    "year": 2004,
+    "runtimeMinutes": 124,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.5,
+    "directorLastName": "Emmerich"
+  },
+  {
+    "id": 240,
+    "title": "The Grudge",
+    "year": 2004,
+    "runtimeMinutes": 91,
+    "mpaaRating": "PG-13",
+    "scoreRating": 5.9,
+    "directorLastName": "Shimizu"
+  },
+  {
+    "id": 241,
+    "title": "The Life Aquatic with Steve Zissou",
+    "year": 2004,
+    "runtimeMinutes": 119,
+    "mpaaRating": "R",
+    "scoreRating": 7.2,
+    "directorLastName": "Anderson"
+  },
+  {
+    "id": 242,
+    "title": "The Machinist",
+    "year": 2004,
+    "runtimeMinutes": 101,
+    "mpaaRating": "R",
+    "scoreRating": 7.6,
+    "directorLastName": "Anderson"
+  },
+  {
+    "id": 243,
+    "title": "The Notebook",
+    "year": 2004,
+    "runtimeMinutes": 123,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.8,
+    "directorLastName": "Cassavetes"
+  },
+  {
+    "id": 244,
+    "title": "The Punisher",
+    "year": 2004,
+    "runtimeMinutes": 124,
+    "mpaaRating": "R",
+    "scoreRating": 6.4,
+    "directorLastName": "Hensleigh"
+  },
+  {
+    "id": 245,
+    "title": "The Terminal",
+    "year": 2004,
+    "runtimeMinutes": 128,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.4,
+    "directorLastName": "Spielberg"
+  },
+  {
+    "id": 246,
+    "title": "Van Helsing",
+    "year": 2004,
+    "runtimeMinutes": 131,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.1,
+    "directorLastName": "Sommers"
+  },
+  {
+    "id": 247,
+    "title": "Batman Begins",
+    "year": 2005,
+    "runtimeMinutes": 140,
+    "mpaaRating": "PG-13",
+    "scoreRating": 8.2,
+    "directorLastName": "Nolan"
+  },
+  {
+    "id": 248,
+    "title": "Charlie and the Chocolate Factory",
+    "year": 2005,
+    "runtimeMinutes": 115,
+    "mpaaRating": "PG",
+    "scoreRating": 6.7,
+    "directorLastName": "Burton"
+  },
+  {
+    "id": 249,
+    "title": "Constantine",
+    "year": 2005,
+    "runtimeMinutes": 121,
+    "mpaaRating": "R",
+    "scoreRating": 7.0,
+    "directorLastName": "Lawrence"
+  },
+  {
+    "id": 250,
+    "title": "Doom",
+    "year": 2005,
+    "runtimeMinutes": 102,
+    "mpaaRating": "R",
+    "scoreRating": 5.2,
+    "directorLastName": "Bartkowiak"
+  },
+  {
+    "id": 251,
+    "title": "Fantastic Four",
+    "year": 2005,
+    "runtimeMinutes": 106,
+    "mpaaRating": "PG-13",
+    "scoreRating": 5.7,
+    "directorLastName": "Story"
+  },
+  {
+    "id": 252,
+    "title": "Flightplan",
+    "year": 2005,
+    "runtimeMinutes": 98,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.3,
+    "directorLastName": "Schwentke"
+  },
+  {
+    "id": 253,
+    "title": "Harry Potter and the Goblet of Fire",
+    "year": 2005,
+    "runtimeMinutes": 157,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.7,
+    "directorLastName": "Newell"
+  },
+  {
+    "id": 254,
+    "title": "Just Like Heaven",
+    "year": 2005,
+    "runtimeMinutes": 95,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.7,
+    "directorLastName": "Waters"
+  },
+  {
+    "id": 255,
+    "title": "Kingdom of Heaven",
+    "year": 2005,
+    "runtimeMinutes": 144,
+    "mpaaRating": "R",
+    "scoreRating": 7.3,
+    "directorLastName": "Scott"
+  },
+  {
+    "id": 256,
+    "title": "Kiss Kiss Bang Bang",
+    "year": 2005,
+    "runtimeMinutes": 103,
+    "mpaaRating": "R",
+    "scoreRating": 7.4,
+    "directorLastName": "Black"
+  },
+  {
+    "id": 257,
+    "title": "Lord of War",
+    "year": 2005,
+    "runtimeMinutes": 122,
+    "mpaaRating": "R",
+    "scoreRating": 7.6,
+    "directorLastName": "Niccol"
+  },
+  {
+    "id": 258,
+    "title": "Memoirs of a Geisha",
+    "year": 2005,
+    "runtimeMinutes": 145,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.3,
+    "directorLastName": "Marshall"
+  },
+  {
+    "id": 259,
+    "title": "Munich",
+    "year": 2005,
+    "runtimeMinutes": 164,
+    "mpaaRating": "R",
+    "scoreRating": 7.5,
+    "directorLastName": "Spielberg"
+  },
+  {
+    "id": 260,
+    "title": "Pride & Prejudice",
+    "year": 2005,
+    "runtimeMinutes": 129,
+    "mpaaRating": "PG",
+    "scoreRating": 7.8,
+    "directorLastName": "Wright"
+  },
+  {
+    "id": 261,
+    "title": "Serenity",
+    "year": 2005,
+    "runtimeMinutes": 119,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.8,
+    "directorLastName": "Whedon"
+  },
+  {
+    "id": 262,
+    "title": "Star Wars: Episode III - Revenge of the Sith",
+    "year": 2005,
+    "runtimeMinutes": 140,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.7,
+    "directorLastName": "Lucas"
+  },
+  {
+    "id": 263,
+    "title": "The 40-Year-Old Virgin",
+    "year": 2005,
+    "runtimeMinutes": 116,
+    "mpaaRating": "R",
+    "scoreRating": 7.1,
+    "directorLastName": "Apatow"
+  },
+  {
+    "id": 264,
+    "title": "The Brothers Grimm",
+    "year": 2005,
+    "runtimeMinutes": 118,
+    "mpaaRating": "PG-13",
+    "scoreRating": 5.9,
+    "directorLastName": "Gilliam"
+  },
+  {
+    "id": 265,
+    "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+    "year": 2005,
+    "runtimeMinutes": 143,
+    "mpaaRating": "PG",
+    "scoreRating": 6.9,
+    "directorLastName": "Adamson"
+  },
+  {
+    "id": 266,
+    "title": "The Descent",
+    "year": 2005,
+    "runtimeMinutes": 99,
+    "mpaaRating": "R",
+    "scoreRating": 7.2,
+    "directorLastName": "Marshall"
+  },
+  {
+    "id": 267,
+    "title": "Transporter 2",
+    "year": 2005,
+    "runtimeMinutes": 87,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.3,
+    "directorLastName": "Leterrier"
+  },
+  {
+    "id": 268,
+    "title": "V for Vendetta",
+    "year": 2005,
+    "runtimeMinutes": 132,
+    "mpaaRating": "R",
+    "scoreRating": 8.1,
+    "directorLastName": "McTeigue"
+  },
+  {
+    "id": 269,
+    "title": "War of the Worlds",
+    "year": 2005,
+    "runtimeMinutes": 117,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.6,
+    "directorLastName": "Spielberg"
+  },
+  {
+    "id": 270,
+    "title": "Zathura: A Space Adventure",
+    "year": 2005,
+    "runtimeMinutes": 101,
+    "mpaaRating": "PG",
+    "scoreRating": 6.3,
+    "directorLastName": "Favreau"
+  },
+  {
+    "id": 271,
+    "title": "Æon Flux",
+    "year": 2005,
+    "runtimeMinutes": 93,
+    "mpaaRating": "PG-13",
+    "scoreRating": 5.4,
+    "directorLastName": "Kusama"
+  },
+  {
+    "id": 272,
+    "title": "300",
+    "year": 2006,
+    "runtimeMinutes": 117,
+    "mpaaRating": "R",
+    "scoreRating": 7.6,
+    "directorLastName": "Snyder"
+  },
+  {
+    "id": 273,
+    "title": "Borat",
+    "year": 2006,
+    "runtimeMinutes": 84,
+    "mpaaRating": "R",
+    "scoreRating": 7.4,
+    "directorLastName": "Charles"
+  },
+  {
+    "id": 274,
+    "title": "Casino Royale",
+    "year": 2006,
+    "runtimeMinutes": 144,
+    "mpaaRating": "PG-13",
+    "scoreRating": 8.0,
+    "directorLastName": "Campbell"
+  },
+  {
+    "id": 275,
+    "title": "Children of Men",
+    "year": 2006,
+    "runtimeMinutes": 109,
+    "mpaaRating": "R",
+    "scoreRating": 7.9,
+    "directorLastName": "Cuarón"
+  },
+  {
+    "id": 276,
+    "title": "Clerks II",
+    "year": 2006,
+    "runtimeMinutes": 97,
+    "mpaaRating": "R",
+    "scoreRating": 7.3,
+    "directorLastName": "Smith"
+  },
+  {
+    "id": 277,
+    "title": "Idiocracy",
+    "year": 2006,
+    "runtimeMinutes": 84,
+    "mpaaRating": "R",
+    "scoreRating": 6.5,
+    "directorLastName": "Judge"
+  },
+  {
+    "id": 278,
+    "title": "Inside Man",
+    "year": 2006,
+    "runtimeMinutes": 129,
+    "mpaaRating": "R",
+    "scoreRating": 7.6,
+    "directorLastName": "Lee"
+  },
+  {
+    "id": 279,
+    "title": "Mission: Impossible III",
+    "year": 2006,
+    "runtimeMinutes": 126,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.9,
+    "directorLastName": "Abrams"
+  },
+  {
+    "id": 280,
+    "title": "Night at the Museum",
+    "year": 2006,
+    "runtimeMinutes": 108,
+    "mpaaRating": "PG",
+    "scoreRating": 6.5,
+    "directorLastName": "Levy"
+  },
+  {
+    "id": 281,
+    "title": "Pan's Labyrinth",
+    "year": 2006,
+    "runtimeMinutes": 118,
+    "mpaaRating": "R",
+    "scoreRating": 8.2,
+    "directorLastName": "del Toro"
+  },
+  {
+    "id": 282,
+    "title": "Pirates of the Caribbean: Dead Man's Chest",
+    "year": 2006,
+    "runtimeMinutes": 151,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.4,
+    "directorLastName": "Verbinski"
+  },
+  {
+    "id": 283,
+    "title": "Rocky Balboa",
+    "year": 2006,
+    "runtimeMinutes": 102,
+    "mpaaRating": "PG",
+    "scoreRating": 7.1,
+    "directorLastName": "Stallone"
+  },
+  {
+    "id": 284,
+    "title": "Silent Hill",
+    "year": 2006,
+    "runtimeMinutes": 125,
+    "mpaaRating": "R",
+    "scoreRating": 6.5,
+    "directorLastName": "Gans"
+  },
+  {
+    "id": 285,
+    "title": "Snakes on a Plane",
+    "year": 2006,
+    "runtimeMinutes": 105,
+    "mpaaRating": "R",
+    "scoreRating": 5.5,
+    "directorLastName": "Ellis"
+  },
+  {
+    "id": 286,
+    "title": "Superman Returns",
+    "year": 2006,
+    "runtimeMinutes": 154,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.1,
+    "directorLastName": "Singer"
+  },
+  {
+    "id": 287,
+    "title": "The Da Vinci Code",
+    "year": 2006,
+    "runtimeMinutes": 149,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.7,
+    "directorLastName": "Howard"
+  },
+  {
+    "id": 288,
+    "title": "The Departed",
+    "year": 2006,
+    "runtimeMinutes": 151,
+    "mpaaRating": "R",
+    "scoreRating": 8.5,
+    "directorLastName": "Scorsese"
+  },
+  {
+    "id": 289,
+    "title": "The Devil Wears Prada",
+    "year": 2006,
+    "runtimeMinutes": 109,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.0,
+    "directorLastName": "Frankel"
+  },
+  {
+    "id": 290,
+    "title": "The Fast and the Furious: Tokyo Drift",
+    "year": 2006,
+    "runtimeMinutes": 104,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.1,
+    "directorLastName": "Lin"
+  },
+  {
+    "id": 291,
+    "title": "The Holiday",
+    "year": 2006,
+    "runtimeMinutes": 136,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.0,
+    "directorLastName": "Meyers"
+  },
+  {
+    "id": 292,
+    "title": "The Host",
+    "year": 2006,
+    "runtimeMinutes": 120,
+    "mpaaRating": "R",
+    "scoreRating": 7.1,
+    "directorLastName": "Bong"
+  },
+  {
+    "id": 293,
+    "title": "The Last King of Scotland",
+    "year": 2006,
+    "runtimeMinutes": 123,
+    "mpaaRating": "R",
+    "scoreRating": 7.6,
+    "directorLastName": "Macdonald"
+  },
+  {
+    "id": 294,
+    "title": "The Prestige",
+    "year": 2006,
+    "runtimeMinutes": 130,
+    "mpaaRating": "PG-13",
+    "scoreRating": 8.5,
+    "directorLastName": "Nolan"
+  },
+  {
+    "id": 295,
+    "title": "Underworld: Evolution",
+    "year": 2006,
+    "runtimeMinutes": 106,
+    "mpaaRating": "R",
+    "scoreRating": 6.7,
+    "directorLastName": "Wiseman"
+  },
+  {
+    "id": 296,
+    "title": "X-Men: The Last Stand",
+    "year": 2006,
+    "runtimeMinutes": 104,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.6,
+    "directorLastName": "Ratner"
+  },
+  {
+    "id": 297,
+    "title": "Death Proof",
+    "year": 2007,
+    "runtimeMinutes": 127,
+    "mpaaRating": "R",
+    "scoreRating": 7.0,
+    "directorLastName": "Tarantino"
+  },
+  {
+    "id": 298,
+    "title": "Enchanted",
+    "year": 2007,
+    "runtimeMinutes": 107,
+    "mpaaRating": "PG",
+    "scoreRating": 7.1,
+    "directorLastName": "Lima"
+  },
+  {
+    "id": 299,
+    "title": "Fantastic Four: Rise of the Silver Surfer",
+    "year": 2007,
+    "runtimeMinutes": 92,
+    "mpaaRating": "PG",
+    "scoreRating": 5.6,
+    "directorLastName": "Story"
+  },
+  {
+    "id": 300,
+    "title": "Ghost Rider",
+    "year": 2007,
+    "runtimeMinutes": 110,
+    "mpaaRating": "PG-13",
+    "scoreRating": 5.3,
+    "directorLastName": "Johnson"
+  },
+  {
+    "id": 301,
+    "title": "Halloween",
+    "year": 2007,
+    "runtimeMinutes": 109,
+    "mpaaRating": "R",
+    "scoreRating": 6.1,
+    "directorLastName": "Zombie"
+  },
+  {
+    "id": 302,
+    "title": "Harry Potter and the Order of the Phoenix",
+    "year": 2007,
+    "runtimeMinutes": 138,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.5,
+    "directorLastName": "Yates"
+  },
+  {
+    "id": 303,
+    "title": "Hitman",
+    "year": 2007,
+    "runtimeMinutes": 89,
+    "mpaaRating": "R",
+    "scoreRating": 6.2,
+    "directorLastName": "Gens"
+  },
+  {
+    "id": 304,
+    "title": "Hot Fuzz",
+    "year": 2007,
+    "runtimeMinutes": 121,
+    "mpaaRating": "R",
+    "scoreRating": 7.8,
+    "directorLastName": "Wright"
+  },
+  {
+    "id": 305,
+    "title": "Juno",
+    "year": 2007,
+    "runtimeMinutes": 96,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.4,
+    "directorLastName": "Reitman"
+  },
+  {
+    "id": 306,
+    "title": "Lars and the Real Girl",
+    "year": 2007,
+    "runtimeMinutes": 106,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.3,
+    "directorLastName": "Gillespie"
+  },
+  {
+    "id": 307,
+    "title": "Michael Clayton",
+    "year": 2007,
+    "runtimeMinutes": 119,
+    "mpaaRating": "R",
+    "scoreRating": 7.2,
+    "directorLastName": "Gilroy"
+  },
+  {
+    "id": 308,
+    "title": "National Treasure: Book of Secrets",
+    "year": 2007,
+    "runtimeMinutes": 124,
+    "mpaaRating": "PG",
+    "scoreRating": 6.5,
+    "directorLastName": "Turteltaub"
+  },
+  {
+    "id": 309,
+    "title": "Pirates of the Caribbean: At World's End",
+    "year": 2007,
+    "runtimeMinutes": 169,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.2,
+    "directorLastName": "Verbinski"
+  },
+  {
+    "id": 310,
+    "title": "Resident Evil: Extinction",
+    "year": 2007,
+    "runtimeMinutes": 94,
+    "mpaaRating": "R",
+    "scoreRating": 6.2,
+    "directorLastName": "Mulcahy"
+  },
+  {
+    "id": 311,
+    "title": "Shooter",
+    "year": 2007,
+    "runtimeMinutes": 124,
+    "mpaaRating": "R",
+    "scoreRating": 7.2,
+    "directorLastName": "Fuqua"
+  },
+  {
+    "id": 312,
+    "title": "Spider-Man 3",
+    "year": 2007,
+    "runtimeMinutes": 139,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.3,
+    "directorLastName": "Raimi"
+  },
+  {
+    "id": 313,
+    "title": "Sunshine",
+    "year": 2007,
+    "runtimeMinutes": 107,
+    "mpaaRating": "R",
+    "scoreRating": 7.2,
+    "directorLastName": "Boyle"
+  },
+  {
+    "id": 314,
+    "title": "Sweeney Todd: The Demon Barber of Fleet Street",
+    "year": 2007,
+    "runtimeMinutes": 116,
+    "mpaaRating": "R",
+    "scoreRating": 7.3,
+    "directorLastName": "Burton"
+  },
+  {
+    "id": 315,
+    "title": "The Darjeeling Limited",
+    "year": 2007,
+    "runtimeMinutes": 91,
+    "mpaaRating": "R",
+    "scoreRating": 7.2,
+    "directorLastName": "Anderson"
+  },
+  {
+    "id": 316,
+    "title": "The Golden Compass",
+    "year": 2007,
+    "runtimeMinutes": 113,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.1,
+    "directorLastName": "Weitz"
+  },
+  {
+    "id": 317,
+    "title": "The Mist",
+    "year": 2007,
+    "runtimeMinutes": 126,
+    "mpaaRating": "R",
+    "scoreRating": 7.1,
+    "directorLastName": "Darabont"
+  },
+  {
+    "id": 318,
+    "title": "There Will Be Blood",
+    "year": 2007,
+    "runtimeMinutes": 158,
+    "mpaaRating": "R",
+    "scoreRating": 8.2,
+    "directorLastName": "Anderson"
+  },
+  {
+    "id": 319,
+    "title": "Transformers",
+    "year": 2007,
+    "runtimeMinutes": 144,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.1,
+    "directorLastName": "Bay"
+  },
+  {
+    "id": 320,
+    "title": "Zodiac",
+    "year": 2007,
+    "runtimeMinutes": 157,
+    "mpaaRating": "R",
+    "scoreRating": 7.7,
+    "directorLastName": "Fincher"
+  },
+  {
+    "id": 321,
+    "title": "Bronson",
+    "year": 2008,
+    "runtimeMinutes": 92,
+    "mpaaRating": "R",
+    "scoreRating": 7.0,
+    "directorLastName": "Refn"
+  },
+  {
+    "id": 322,
+    "title": "Changeling",
+    "year": 2008,
+    "runtimeMinutes": 141,
+    "mpaaRating": "R",
+    "scoreRating": 7.7,
+    "directorLastName": "Eastwood"
+  },
+  {
+    "id": 323,
+    "title": "Cloverfield",
+    "year": 2008,
+    "runtimeMinutes": 85,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.0,
+    "directorLastName": "Reeves"
+  },
+  {
+    "id": 324,
+    "title": "Doubt",
+    "year": 2008,
+    "runtimeMinutes": 104,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.5,
+    "directorLastName": "Shanley"
+  },
+  {
+    "id": 325,
+    "title": "Gran Torino",
+    "year": 2008,
+    "runtimeMinutes": 116,
+    "mpaaRating": "R",
+    "scoreRating": 8.1,
+    "directorLastName": "Eastwood"
+  },
+  {
+    "id": 326,
+    "title": "Hellboy II: The Golden Army",
+    "year": 2008,
+    "runtimeMinutes": 120,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.0,
+    "directorLastName": "del Toro"
+  },
+  {
+    "id": 327,
+    "title": "In Bruges",
+    "year": 2008,
+    "runtimeMinutes": 107,
+    "mpaaRating": "R",
+    "scoreRating": 7.9,
+    "directorLastName": "McDonagh"
+  },
+  {
+    "id": 328,
+    "title": "Indiana Jones and the Kingdom of the Crystal Skull",
+    "year": 2008,
+    "runtimeMinutes": 122,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.2,
+    "directorLastName": "Spielberg"
+  },
+  {
+    "id": 329,
+    "title": "Ip Man",
+    "year": 2008,
+    "runtimeMinutes": 106,
+    "mpaaRating": "R",
+    "scoreRating": 8.0,
+    "directorLastName": "Ye"
+  },
+  {
+    "id": 330,
+    "title": "Iron Man",
+    "year": 2008,
+    "runtimeMinutes": 126,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.9,
+    "directorLastName": "Favreau"
+  },
+  {
+    "id": 331,
+    "title": "Max Payne",
+    "year": 2008,
+    "runtimeMinutes": 100,
+    "mpaaRating": "PG-13",
+    "scoreRating": 5.3,
+    "directorLastName": "Moore"
+  },
+  {
+    "id": 332,
+    "title": "Quantum of Solace",
+    "year": 2008,
+    "runtimeMinutes": 106,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.5,
+    "directorLastName": "Forster"
+  },
+  {
+    "id": 333,
+    "title": "Rambo",
+    "year": 2008,
+    "runtimeMinutes": 92,
+    "mpaaRating": "R",
+    "scoreRating": 7.0,
+    "directorLastName": "Stallone"
+  },
+  {
+    "id": 334,
+    "title": "Step Brothers",
+    "year": 2008,
+    "runtimeMinutes": 98,
+    "mpaaRating": "R",
+    "scoreRating": 6.9,
+    "directorLastName": "McKay"
+  },
+  {
+    "id": 335,
+    "title": "Street Kings",
+    "year": 2008,
+    "runtimeMinutes": 109,
+    "mpaaRating": "R",
+    "scoreRating": 6.8,
+    "directorLastName": "Ayer"
+  },
+  {
+    "id": 336,
+    "title": "Taken",
+    "year": 2008,
+    "runtimeMinutes": 90,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.7,
+    "directorLastName": "Morel"
+  },
+  {
+    "id": 337,
+    "title": "The Bank Job",
+    "year": 2008,
+    "runtimeMinutes": 111,
+    "mpaaRating": "R",
+    "scoreRating": 7.2,
+    "directorLastName": "Donaldson"
+  },
+  {
+    "id": 338,
+    "title": "The Chronicles of Narnia: Prince Caspian",
+    "year": 2008,
+    "runtimeMinutes": 150,
+    "mpaaRating": "PG",
+    "scoreRating": 6.5,
+    "directorLastName": "Adamson"
+  },
+  {
+    "id": 339,
+    "title": "The Dark Knight",
+    "year": 2008,
+    "runtimeMinutes": 152,
+    "mpaaRating": "PG-13",
+    "scoreRating": 9.1,
+    "directorLastName": "Nolan"
+  },
+  {
+    "id": 340,
+    "title": "The Incredible Hulk",
+    "year": 2008,
+    "runtimeMinutes": 112,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.6,
+    "directorLastName": "Leterrier"
+  },
+  {
+    "id": 341,
+    "title": "Twilight",
+    "year": 2008,
+    "runtimeMinutes": 122,
+    "mpaaRating": "PG-13",
+    "scoreRating": 5.4,
+    "directorLastName": "Hardwicke"
+  },
+  {
+    "id": 342,
+    "title": "Valkyrie",
+    "year": 2008,
+    "runtimeMinutes": 121,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.1,
+    "directorLastName": "Singer"
+  },
+  {
+    "id": 343,
+    "title": "Yes Man",
+    "year": 2008,
+    "runtimeMinutes": 104,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.8,
+    "directorLastName": "Reed"
+  },
+  {
+    "id": 344,
+    "title": "2012",
+    "year": 2009,
+    "runtimeMinutes": 158,
+    "mpaaRating": "PG-13",
+    "scoreRating": 5.9,
+    "directorLastName": "Emmerich"
+  },
+  {
+    "id": 345,
+    "title": "500 Days of Summer",
+    "year": 2009,
+    "runtimeMinutes": 95,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.6,
+    "directorLastName": "Webb"
+  },
+  {
+    "id": 346,
+    "title": "Angels & Demons",
+    "year": 2009,
+    "runtimeMinutes": 138,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.7,
+    "directorLastName": "Howard"
+  },
+  {
+    "id": 347,
+    "title": "Avatar",
+    "year": 2009,
+    "runtimeMinutes": 162,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.9,
+    "directorLastName": "Cameron"
+  },
+  {
+    "id": 348,
+    "title": "Harry Potter and the Half-Blood Prince",
+    "year": 2009,
+    "runtimeMinutes": 153,
+    "mpaaRating": "PG",
+    "scoreRating": 7.6,
+    "directorLastName": "Yates"
+  },
+  {
+    "id": 349,
+    "title": "Inglourious Basterds",
+    "year": 2009,
+    "runtimeMinutes": 153,
+    "mpaaRating": "R",
+    "scoreRating": 8.4,
+    "directorLastName": "Tarantino"
+  },
+  {
+    "id": 350,
+    "title": "Jennifer's Body",
+    "year": 2009,
+    "runtimeMinutes": 102,
+    "mpaaRating": "R",
+    "scoreRating": 5.6,
+    "directorLastName": "Kusama"
+  },
+  {
+    "id": 351,
+    "title": "Law Abiding Citizen",
+    "year": 2009,
+    "runtimeMinutes": 109,
+    "mpaaRating": "R",
+    "scoreRating": 7.4,
+    "directorLastName": "Gray"
+  },
+  {
+    "id": 352,
+    "title": "Moon",
+    "year": 2009,
+    "runtimeMinutes": 97,
+    "mpaaRating": "R",
+    "scoreRating": 7.8,
+    "directorLastName": "Jones"
+  },
+  {
+    "id": 353,
+    "title": "Night at the Museum: Battle of the Smithsonian",
+    "year": 2009,
+    "runtimeMinutes": 105,
+    "mpaaRating": "PG",
+    "scoreRating": 6.0,
+    "directorLastName": "Levy"
+  },
+  {
+    "id": 354,
+    "title": "Orphan",
+    "year": 2009,
+    "runtimeMinutes": 123,
+    "mpaaRating": "R",
+    "scoreRating": 7.0,
+    "directorLastName": "Collet"
+  },
+  {
+    "id": 355,
+    "title": "Sherlock Holmes",
+    "year": 2009,
+    "runtimeMinutes": 128,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.5,
+    "directorLastName": "Ritchie"
+  },
+  {
+    "id": 356,
+    "title": "Star Trek",
+    "year": 2009,
+    "runtimeMinutes": 127,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.9,
+    "directorLastName": "Abrams"
+  },
+  {
+    "id": 357,
+    "title": "The Final Destination",
+    "year": 2009,
+    "runtimeMinutes": 82,
+    "mpaaRating": "R",
+    "scoreRating": 5.1,
+    "directorLastName": "Ellis"
+  },
+  {
+    "id": 358,
+    "title": "The Lovely Bones",
+    "year": 2009,
+    "runtimeMinutes": 135,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.6,
+    "directorLastName": "Jackson"
+  },
+  {
+    "id": 359,
+    "title": "The Road",
+    "year": 2009,
+    "runtimeMinutes": 111,
+    "mpaaRating": "R",
+    "scoreRating": 7.2,
+    "directorLastName": "Hillcoat"
+  },
+  {
+    "id": 360,
+    "title": "The Secret in Their Eyes",
+    "year": 2009,
+    "runtimeMinutes": 129,
+    "mpaaRating": "R",
+    "scoreRating": 8.2,
+    "directorLastName": "Campanella"
+  },
+  {
+    "id": 361,
+    "title": "The Twilight Saga: New Moon",
+    "year": 2009,
+    "runtimeMinutes": 130,
+    "mpaaRating": "PG-13",
+    "scoreRating": 4.8,
+    "directorLastName": "Weitz"
+  },
+  {
+    "id": 362,
+    "title": "Transformers: Revenge of the Fallen",
+    "year": 2009,
+    "runtimeMinutes": 149,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.0,
+    "directorLastName": "Bay"
+  },
+  {
+    "id": 363,
+    "title": "Up in the Air",
+    "year": 2009,
+    "runtimeMinutes": 109,
+    "mpaaRating": "R",
+    "scoreRating": 7.4,
+    "directorLastName": "Reitman"
+  },
+  {
+    "id": 364,
+    "title": "Watchmen",
+    "year": 2009,
+    "runtimeMinutes": 162,
+    "mpaaRating": "R",
+    "scoreRating": 7.6,
+    "directorLastName": "Snyder"
+  },
+  {
+    "id": 365,
+    "title": "Zombieland",
+    "year": 2009,
+    "runtimeMinutes": 88,
+    "mpaaRating": "R",
+    "scoreRating": 7.5,
+    "directorLastName": "Fleischer"
+  },
+  {
+    "id": 366,
+    "title": "127 Hours",
+    "year": 2010,
+    "runtimeMinutes": 94,
+    "mpaaRating": "R",
+    "scoreRating": 7.5,
+    "directorLastName": "Boyle"
+  },
+  {
+    "id": 367,
+    "title": "Alice in Wonderland",
+    "year": 2010,
+    "runtimeMinutes": 108,
+    "mpaaRating": "PG",
+    "scoreRating": 6.4,
+    "directorLastName": "Burton"
+  },
+  {
+    "id": 368,
+    "title": "Black Swan",
+    "year": 2010,
+    "runtimeMinutes": 108,
+    "mpaaRating": "R",
+    "scoreRating": 8.0,
+    "directorLastName": "Aronofsky"
+  },
+  {
+    "id": 369,
+    "title": "Buried",
+    "year": 2010,
+    "runtimeMinutes": 95,
+    "mpaaRating": "R",
+    "scoreRating": 7.0,
+    "directorLastName": "Cortés"
+  },
+  {
+    "id": 370,
+    "title": "Clash of the Titans",
+    "year": 2010,
+    "runtimeMinutes": 106,
+    "mpaaRating": "PG-13",
+    "scoreRating": 5.8,
+    "directorLastName": "Leterrier"
+  },
+  {
+    "id": 371,
+    "title": "Easy A",
+    "year": 2010,
+    "runtimeMinutes": 92,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.0,
+    "directorLastName": "Gluck"
+  },
+  {
+    "id": 372,
+    "title": "Harry Potter and the Deathly Hallows: Part 1",
+    "year": 2010,
+    "runtimeMinutes": 146,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.7,
+    "directorLastName": "Yates"
+  },
+  {
+    "id": 373,
+    "title": "Incendies",
+    "year": 2010,
+    "runtimeMinutes": 131,
+    "mpaaRating": "R",
+    "scoreRating": 8.3,
+    "directorLastName": "Villeneuve"
+  },
+  {
+    "id": 374,
+    "title": "Inception",
+    "year": 2010,
+    "runtimeMinutes": 148,
+    "mpaaRating": "PG-13",
+    "scoreRating": 8.8,
+    "directorLastName": "Nolan"
+  },
+  {
+    "id": 375,
+    "title": "Iron Man 2",
+    "year": 2010,
+    "runtimeMinutes": 124,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.9,
+    "directorLastName": "Favreau"
+  },
+  {
+    "id": 376,
+    "title": "Kick-Ass",
+    "year": 2010,
+    "runtimeMinutes": 117,
+    "mpaaRating": "R",
+    "scoreRating": 7.6,
+    "directorLastName": "Vaughn"
+  },
+  {
+    "id": 377,
+    "title": "Predators",
+    "year": 2010,
+    "runtimeMinutes": 107,
+    "mpaaRating": "R",
+    "scoreRating": 6.4,
+    "directorLastName": "Antal"
+  },
+  {
+    "id": 378,
+    "title": "Prince of Persia: The Sands of Time",
+    "year": 2010,
+    "runtimeMinutes": 116,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.5,
+    "directorLastName": "Newell"
+  },
+  {
+    "id": 379,
+    "title": "RED",
+    "year": 2010,
+    "runtimeMinutes": 111,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.0,
+    "directorLastName": "Schwentke"
+  },
+  {
+    "id": 380,
+    "title": "Resident Evil: Afterlife",
+    "year": 2010,
+    "runtimeMinutes": 96,
+    "mpaaRating": "R",
+    "scoreRating": 5.8,
+    "directorLastName": "Anderson"
+  },
+  {
+    "id": 381,
+    "title": "Scott Pilgrim vs. the World",
+    "year": 2010,
+    "runtimeMinutes": 112,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.5,
+    "directorLastName": "Wright"
+  },
+  {
+    "id": 382,
+    "title": "Shutter Island",
+    "year": 2010,
+    "runtimeMinutes": 138,
+    "mpaaRating": "R",
+    "scoreRating": 8.2,
+    "directorLastName": "Scorsese"
+  },
+  {
+    "id": 383,
+    "title": "The A-Team",
+    "year": 2010,
+    "runtimeMinutes": 118,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.7,
+    "directorLastName": "Carnahan"
+  },
+  {
+    "id": 384,
+    "title": "The Chronicles of Narnia: The Voyage of the Dawn Treader",
+    "year": 2010,
+    "runtimeMinutes": 113,
+    "mpaaRating": "PG",
+    "scoreRating": 6.3,
+    "directorLastName": "Apted"
+  },
+  {
+    "id": 385,
+    "title": "The Fighter",
+    "year": 2010,
+    "runtimeMinutes": 116,
+    "mpaaRating": "R",
+    "scoreRating": 7.8,
+    "directorLastName": "Russell"
+  },
+  {
+    "id": 386,
+    "title": "The Social Network",
+    "year": 2010,
+    "runtimeMinutes": 120,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.8,
+    "directorLastName": "Fincher"
+  },
+  {
+    "id": 387,
+    "title": "The Sorcerer's Apprentice",
+    "year": 2010,
+    "runtimeMinutes": 109,
+    "mpaaRating": "PG",
+    "scoreRating": 6.1,
+    "directorLastName": "Turteltaub"
+  },
+  {
+    "id": 388,
+    "title": "The Twilight Saga: Eclipse",
+    "year": 2010,
+    "runtimeMinutes": 124,
+    "mpaaRating": "PG-13",
+    "scoreRating": 5.1,
+    "directorLastName": "Slade"
+  },
+  {
+    "id": 389,
+    "title": "Tron: Legacy",
+    "year": 2010,
+    "runtimeMinutes": 125,
+    "mpaaRating": "PG",
+    "scoreRating": 6.8,
+    "directorLastName": "Kosinski"
+  },
+  {
+    "id": 390,
+    "title": "Tucker and Dale vs Evil",
+    "year": 2010,
+    "runtimeMinutes": 89,
+    "mpaaRating": "R",
+    "scoreRating": 7.5,
+    "directorLastName": "Craig"
+  },
+  {
+    "id": 391,
+    "title": "A Separation",
+    "year": 2011,
+    "runtimeMinutes": 123,
+    "mpaaRating": "PG-13",
+    "scoreRating": 8.3,
+    "directorLastName": "Farhadi"
+  },
+  {
+    "id": 392,
+    "title": "Bad Teacher",
+    "year": 2011,
+    "runtimeMinutes": 92,
+    "mpaaRating": "R",
+    "scoreRating": 5.7,
+    "directorLastName": "Kasdan"
+  },
+  {
+    "id": 393,
+    "title": "Bridesmaids",
+    "year": 2011,
+    "runtimeMinutes": 125,
+    "mpaaRating": "R",
+    "scoreRating": 6.8,
+    "directorLastName": "Feig"
+  },
+  {
+    "id": 394,
+    "title": "Captain America: The First Avenger",
+    "year": 2011,
+    "runtimeMinutes": 124,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.9,
+    "directorLastName": "Johnston"
+  },
+  {
+    "id": 395,
+    "title": "Contagion",
+    "year": 2011,
+    "runtimeMinutes": 106,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.8,
+    "directorLastName": "Soderbergh"
+  },
+  {
+    "id": 396,
+    "title": "Cowboys & Aliens",
+    "year": 2011,
+    "runtimeMinutes": 119,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.0,
+    "directorLastName": "Favreau"
+  },
+  {
+    "id": 397,
+    "title": "Drive",
+    "year": 2011,
+    "runtimeMinutes": 100,
+    "mpaaRating": "R",
+    "scoreRating": 7.8,
+    "directorLastName": "Refn"
+  },
+  {
+    "id": 398,
+    "title": "Fast Five",
+    "year": 2011,
+    "runtimeMinutes": 130,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.3,
+    "directorLastName": "Lin"
+  },
+  {
+    "id": 399,
+    "title": "Final Destination 5",
+    "year": 2011,
+    "runtimeMinutes": 92,
+    "mpaaRating": "R",
+    "scoreRating": 5.9,
+    "directorLastName": "Quale"
+  },
+  {
+    "id": 400,
+    "title": "Friends with Benefits",
+    "year": 2011,
+    "runtimeMinutes": 109,
+    "mpaaRating": "R",
+    "scoreRating": 6.5,
+    "directorLastName": "Gluck"
+  },
+  {
+    "id": 401,
+    "title": "Green Lantern",
+    "year": 2011,
+    "runtimeMinutes": 114,
+    "mpaaRating": "PG-13",
+    "scoreRating": 5.5,
+    "directorLastName": "Campbell"
+  },
+  {
+    "id": 402,
+    "title": "Harry Potter and the Deathly Hallows: Part 2",
+    "year": 2011,
+    "runtimeMinutes": 130,
+    "mpaaRating": "PG-13",
+    "scoreRating": 8.1,
+    "directorLastName": "Yates"
+  },
+  {
+    "id": 403,
+    "title": "Horrible Bosses",
+    "year": 2011,
+    "runtimeMinutes": 98,
+    "mpaaRating": "R",
+    "scoreRating": 6.9,
+    "directorLastName": "Gordon"
+  },
+  {
+    "id": 404,
+    "title": "Hugo",
+    "year": 2011,
+    "runtimeMinutes": 126,
+    "mpaaRating": "PG",
+    "scoreRating": 7.5,
+    "directorLastName": "Scorsese"
+  },
+  {
+    "id": 405,
+    "title": "In Time",
+    "year": 2011,
+    "runtimeMinutes": 109,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.7,
+    "directorLastName": "Niccol"
+  },
+  {
+    "id": 406,
+    "title": "Melancholia",
+    "year": 2011,
+    "runtimeMinutes": 135,
+    "mpaaRating": "R",
+    "scoreRating": 7.1,
+    "directorLastName": "Trier"
+  },
+  {
+    "id": 407,
+    "title": "Mission: Impossible - Ghost Protocol",
+    "year": 2011,
+    "runtimeMinutes": 132,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.4,
+    "directorLastName": "Bird"
+  },
+  {
+    "id": 408,
+    "title": "One Day",
+    "year": 2011,
+    "runtimeMinutes": 107,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.0,
+    "directorLastName": "Scherfig"
+  },
+  {
+    "id": 409,
+    "title": "Paul",
+    "year": 2011,
+    "runtimeMinutes": 104,
+    "mpaaRating": "R",
+    "scoreRating": 6.9,
+    "directorLastName": "Mottola"
+  },
+  {
+    "id": 410,
+    "title": "Pirates of the Caribbean: On Stranger Tides",
+    "year": 2011,
+    "runtimeMinutes": 136,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.6,
+    "directorLastName": "Marshall"
+  },
+  {
+    "id": 411,
+    "title": "Real Steel",
+    "year": 2011,
+    "runtimeMinutes": 127,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.1,
+    "directorLastName": "Levy"
+  },
+  {
+    "id": 412,
+    "title": "Rise of the Planet of the Apes",
+    "year": 2011,
+    "runtimeMinutes": 105,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.6,
+    "directorLastName": "Wyatt"
+  },
+  {
+    "id": 413,
+    "title": "Scream 4",
+    "year": 2011,
+    "runtimeMinutes": 111,
+    "mpaaRating": "R",
+    "scoreRating": 6.3,
+    "directorLastName": "Craven"
+  },
+  {
+    "id": 414,
+    "title": "Shame",
+    "year": 2011,
+    "runtimeMinutes": 101,
+    "mpaaRating": "NC-17",
+    "scoreRating": 7.2,
+    "directorLastName": "McQueen"
+  },
+  {
+    "id": 415,
+    "title": "Sherlock Holmes: A Game of Shadows",
+    "year": 2011,
+    "runtimeMinutes": 129,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.4,
+    "directorLastName": "Ritchie"
+  },
+  {
+    "id": 416,
+    "title": "Source Code",
+    "year": 2011,
+    "runtimeMinutes": 93,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.5,
+    "directorLastName": "Jones"
+  },
+  {
+    "id": 417,
+    "title": "Super 8",
+    "year": 2011,
+    "runtimeMinutes": 112,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.0,
+    "directorLastName": "Abrams"
+  },
+  {
+    "id": 418,
+    "title": "The Cabin in the Woods",
+    "year": 2011,
+    "runtimeMinutes": 95,
+    "mpaaRating": "R",
+    "scoreRating": 7.0,
+    "directorLastName": "Goddard"
+  },
+  {
+    "id": 419,
+    "title": "The Girl with the Dragon Tattoo",
+    "year": 2011,
+    "runtimeMinutes": 158,
+    "mpaaRating": "R",
+    "scoreRating": 7.8,
+    "directorLastName": "Fincher"
+  },
+  {
+    "id": 420,
+    "title": "The Green Hornet",
+    "year": 2011,
+    "runtimeMinutes": 119,
+    "mpaaRating": "PG-13",
+    "scoreRating": 5.8,
+    "directorLastName": "Gondry"
+  },
+  {
+    "id": 421,
+    "title": "The Grey",
+    "year": 2011,
+    "runtimeMinutes": 117,
+    "mpaaRating": "R",
+    "scoreRating": 6.7,
+    "directorLastName": "Carnahan"
+  },
+  {
+    "id": 422,
+    "title": "The Hangover Part II",
+    "year": 2011,
+    "runtimeMinutes": 102,
+    "mpaaRating": "R",
+    "scoreRating": 6.5,
+    "directorLastName": "Phillips"
+  },
+  {
+    "id": 423,
+    "title": "The Ides of March",
+    "year": 2011,
+    "runtimeMinutes": 101,
+    "mpaaRating": "R",
+    "scoreRating": 7.1,
+    "directorLastName": "Clooney"
+  },
+  {
+    "id": 424,
+    "title": "The Tree of Life",
+    "year": 2011,
+    "runtimeMinutes": 139,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.8,
+    "directorLastName": "Malick"
+  },
+  {
+    "id": 425,
+    "title": "The Twilight Saga: Breaking Dawn - Part 1",
+    "year": 2011,
+    "runtimeMinutes": 117,
+    "mpaaRating": "PG-13",
+    "scoreRating": 5.0,
+    "directorLastName": "Condon"
+  },
+  {
+    "id": 426,
+    "title": "Thor",
+    "year": 2011,
+    "runtimeMinutes": 115,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.0,
+    "directorLastName": "Branagh"
+  },
+  {
+    "id": 427,
+    "title": "Transformers: Dark of the Moon",
+    "year": 2011,
+    "runtimeMinutes": 154,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.2,
+    "directorLastName": "Bay"
+  },
+  {
+    "id": 428,
+    "title": "Unknown",
+    "year": 2011,
+    "runtimeMinutes": 113,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.8,
+    "directorLastName": "Collet"
+  },
+  {
+    "id": 429,
+    "title": "War Horse",
+    "year": 2011,
+    "runtimeMinutes": 146,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.2,
+    "directorLastName": "Spielberg"
+  },
+  {
+    "id": 430,
+    "title": "Water for Elephants",
+    "year": 2011,
+    "runtimeMinutes": 120,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.9,
+    "directorLastName": "Lawrence"
+  },
+  {
+    "id": 431,
+    "title": "We Bought a Zoo",
+    "year": 2011,
+    "runtimeMinutes": 124,
+    "mpaaRating": "PG",
+    "scoreRating": 7.0,
+    "directorLastName": "Crowe"
+  },
+  {
+    "id": 432,
+    "title": "X-Men: First Class",
+    "year": 2011,
+    "runtimeMinutes": 131,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.7,
+    "directorLastName": "Vaughn"
+  },
+  {
+    "id": 433,
+    "title": "Chronicle",
+    "year": 2012,
+    "runtimeMinutes": 84,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.0,
+    "directorLastName": "Trank"
+  },
+  {
+    "id": 434,
+    "title": "Dark Shadows",
+    "year": 2012,
+    "runtimeMinutes": 113,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.2,
+    "directorLastName": "Burton"
+  },
+  {
+    "id": 435,
+    "title": "Django Unchained",
+    "year": 2012,
+    "runtimeMinutes": 165,
+    "mpaaRating": "R",
+    "scoreRating": 8.5,
+    "directorLastName": "Tarantino"
+  },
+  {
+    "id": 436,
+    "title": "Dredd",
+    "year": 2012,
+    "runtimeMinutes": 95,
+    "mpaaRating": "R",
+    "scoreRating": 7.1,
+    "directorLastName": "Travis"
+  },
+  {
+    "id": 437,
+    "title": "End of Watch",
+    "year": 2012,
+    "runtimeMinutes": 109,
+    "mpaaRating": "R",
+    "scoreRating": 7.6,
+    "directorLastName": "Ayer"
+  },
+  {
+    "id": 438,
+    "title": "Flight",
+    "year": 2012,
+    "runtimeMinutes": 138,
+    "mpaaRating": "R",
+    "scoreRating": 7.3,
+    "directorLastName": "Zemeckis"
+  },
+  {
+    "id": 439,
+    "title": "Jack Reacher",
+    "year": 2012,
+    "runtimeMinutes": 130,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.0,
+    "directorLastName": "McQuarrie"
+  },
+  {
+    "id": 440,
+    "title": "John Carter",
+    "year": 2012,
+    "runtimeMinutes": 132,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.6,
+    "directorLastName": "Stanton"
+  },
+  {
+    "id": 441,
+    "title": "Looper",
+    "year": 2012,
+    "runtimeMinutes": 119,
+    "mpaaRating": "R",
+    "scoreRating": 7.4,
+    "directorLastName": "Johnson"
+  },
+  {
+    "id": 442,
+    "title": "Magic Mike",
+    "year": 2012,
+    "runtimeMinutes": 110,
+    "mpaaRating": "R",
+    "scoreRating": 6.1,
+    "directorLastName": "Soderbergh"
+  },
+  {
+    "id": 443,
+    "title": "Men in Black 3",
+    "year": 2012,
+    "runtimeMinutes": 106,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.8,
+    "directorLastName": "Sonnenfeld"
+  },
+  {
+    "id": 444,
+    "title": "Moonrise Kingdom",
+    "year": 2012,
+    "runtimeMinutes": 94,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.7,
+    "directorLastName": "Anderson"
+  },
+  {
+    "id": 445,
+    "title": "Pitch Perfect",
+    "year": 2012,
+    "runtimeMinutes": 112,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.1,
+    "directorLastName": "Moore"
+  },
+  {
+    "id": 446,
+    "title": "Prometheus",
+    "year": 2012,
+    "runtimeMinutes": 124,
+    "mpaaRating": "R",
+    "scoreRating": 7.0,
+    "directorLastName": "Scott"
+  },
+  {
+    "id": 447,
+    "title": "Resident Evil: Retribution",
+    "year": 2012,
+    "runtimeMinutes": 95,
+    "mpaaRating": "R",
+    "scoreRating": 5.3,
+    "directorLastName": "Anderson"
+  },
+  {
+    "id": 448,
+    "title": "Safe",
+    "year": 2012,
+    "runtimeMinutes": 94,
+    "mpaaRating": "R",
+    "scoreRating": 6.5,
+    "directorLastName": "Yakin"
+  },
+  {
+    "id": 449,
+    "title": "Safe House",
+    "year": 2012,
+    "runtimeMinutes": 115,
+    "mpaaRating": "R",
+    "scoreRating": 6.7,
+    "directorLastName": "Espinosa"
+  },
+  {
+    "id": 450,
+    "title": "Skyfall",
+    "year": 2012,
+    "runtimeMinutes": 143,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.8,
+    "directorLastName": "Mendes"
+  },
+  {
+    "id": 451,
+    "title": "Taken 2",
+    "year": 2012,
+    "runtimeMinutes": 92,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.2,
+    "directorLastName": "Megaton"
+  },
+  {
+    "id": 452,
+    "title": "The Amazing Spider-Man",
+    "year": 2012,
+    "runtimeMinutes": 136,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.0,
+    "directorLastName": "Webb"
+  },
+  {
+    "id": 453,
+    "title": "The Avengers",
+    "year": 2012,
+    "runtimeMinutes": 143,
+    "mpaaRating": "PG-13",
+    "scoreRating": 8.0,
+    "directorLastName": "Whedon"
+  },
+  {
+    "id": 454,
+    "title": "The Bourne Legacy",
+    "year": 2012,
+    "runtimeMinutes": 135,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.6,
+    "directorLastName": "Gilroy"
+  },
+  {
+    "id": 455,
+    "title": "The Dark Knight Rises",
+    "year": 2012,
+    "runtimeMinutes": 164,
+    "mpaaRating": "PG-13",
+    "scoreRating": 8.4,
+    "directorLastName": "Nolan"
+  },
+  {
+    "id": 456,
+    "title": "The Dictator",
+    "year": 2012,
+    "runtimeMinutes": 83,
+    "mpaaRating": "R",
+    "scoreRating": 6.5,
+    "directorLastName": "Charles"
+  },
+  {
+    "id": 457,
+    "title": "The Expendables 2",
+    "year": 2012,
+    "runtimeMinutes": 103,
+    "mpaaRating": "R",
+    "scoreRating": 6.6,
+    "directorLastName": "West"
+  },
+  {
+    "id": 458,
+    "title": "The Hobbit: An Unexpected Journey",
+    "year": 2012,
+    "runtimeMinutes": 169,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.8,
+    "directorLastName": "Jackson"
+  },
+  {
+    "id": 459,
+    "title": "The Hunger Games",
+    "year": 2012,
+    "runtimeMinutes": 142,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.2,
+    "directorLastName": "Ross"
+  },
+  {
+    "id": 460,
+    "title": "The Perks of Being a Wallflower",
+    "year": 2012,
+    "runtimeMinutes": 103,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.9,
+    "directorLastName": "Chbosky"
+  },
+  {
+    "id": 461,
+    "title": "The Twilight Saga: Breaking Dawn - Part 2",
+    "year": 2012,
+    "runtimeMinutes": 115,
+    "mpaaRating": "PG-13",
+    "scoreRating": 5.6,
+    "directorLastName": "Condon"
+  },
+  {
+    "id": 462,
+    "title": "The Woman in Black",
+    "year": 2012,
+    "runtimeMinutes": 95,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.4,
+    "directorLastName": "Watkins"
+  },
+  {
+    "id": 463,
+    "title": "Underworld: Awakening",
+    "year": 2012,
+    "runtimeMinutes": 88,
+    "mpaaRating": "R",
+    "scoreRating": 6.3,
+    "directorLastName": "Stein"
+  },
+  {
+    "id": 464,
+    "title": "47 Ronin",
+    "year": 2013,
+    "runtimeMinutes": 128,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.2,
+    "directorLastName": "Rinsch"
+  },
+  {
+    "id": 465,
+    "title": "American Hustle",
+    "year": 2013,
+    "runtimeMinutes": 138,
+    "mpaaRating": "R",
+    "scoreRating": 7.2,
+    "directorLastName": "Russell"
+  },
+  {
+    "id": 466,
+    "title": "Before Midnight",
+    "year": 2013,
+    "runtimeMinutes": 109,
+    "mpaaRating": "R",
+    "scoreRating": 7.9,
+    "directorLastName": "Linklater"
+  },
+  {
+    "id": 467,
+    "title": "Ender's Game",
+    "year": 2013,
+    "runtimeMinutes": 114,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.6,
+    "directorLastName": "Hood"
+  },
+  {
+    "id": 468,
+    "title": "Escape Plan",
+    "year": 2013,
+    "runtimeMinutes": 115,
+    "mpaaRating": "R",
+    "scoreRating": 6.7,
+    "directorLastName": "Håfström"
+  },
+  {
+    "id": 469,
+    "title": "Evil Dead",
+    "year": 2013,
+    "runtimeMinutes": 91,
+    "mpaaRating": "R",
+    "scoreRating": 6.5,
+    "directorLastName": "Álvarez"
+  },
+  {
+    "id": 470,
+    "title": "Fast & Furious 6",
+    "year": 2013,
+    "runtimeMinutes": 130,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.0,
+    "directorLastName": "Lin"
+  },
+  {
+    "id": 471,
+    "title": "Gravity",
+    "year": 2013,
+    "runtimeMinutes": 91,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.7,
+    "directorLastName": "Cuarón"
+  },
+  {
+    "id": 472,
+    "title": "Hansel & Gretel: Witch Hunters",
+    "year": 2013,
+    "runtimeMinutes": 88,
+    "mpaaRating": "R",
+    "scoreRating": 6.1,
+    "directorLastName": "Wirkola"
+  },
+  {
+    "id": 473,
+    "title": "Insidious: Chapter 2",
+    "year": 2013,
+    "runtimeMinutes": 106,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.6,
+    "directorLastName": "Wan"
+  },
+  {
+    "id": 474,
+    "title": "Iron Man 3",
+    "year": 2013,
+    "runtimeMinutes": 130,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.1,
+    "directorLastName": "Black"
+  },
+  {
+    "id": 475,
+    "title": "Jack the Giant Slayer",
+    "year": 2013,
+    "runtimeMinutes": 114,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.3,
+    "directorLastName": "Singer"
+  },
+  {
+    "id": 476,
+    "title": "Kick-Ass 2",
+    "year": 2013,
+    "runtimeMinutes": 103,
+    "mpaaRating": "R",
+    "scoreRating": 6.5,
+    "directorLastName": "Wadlow"
+  },
+  {
+    "id": 477,
+    "title": "Locke",
+    "year": 2013,
+    "runtimeMinutes": 85,
+    "mpaaRating": "R",
+    "scoreRating": 7.1,
+    "directorLastName": "Knight"
+  },
+  {
+    "id": 478,
+    "title": "Man of Steel",
+    "year": 2013,
+    "runtimeMinutes": 143,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.1,
+    "directorLastName": "Snyder"
+  },
+  {
+    "id": 479,
+    "title": "Now You See Me",
+    "year": 2013,
+    "runtimeMinutes": 115,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.2,
+    "directorLastName": "Leterrier"
+  },
+  {
+    "id": 480,
+    "title": "Olympus Has Fallen",
+    "year": 2013,
+    "runtimeMinutes": 119,
+    "mpaaRating": "R",
+    "scoreRating": 6.5,
+    "directorLastName": "Fuqua"
+  },
+  {
+    "id": 481,
+    "title": "Pacific Rim",
+    "year": 2013,
+    "runtimeMinutes": 131,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.9,
+    "directorLastName": "del Toro"
+  },
+  {
+    "id": 482,
+    "title": "Prisoners",
+    "year": 2013,
+    "runtimeMinutes": 153,
+    "mpaaRating": "R",
+    "scoreRating": 8.2,
+    "directorLastName": "Villeneuve"
+  },
+  {
+    "id": 483,
+    "title": "RED 2",
+    "year": 2013,
+    "runtimeMinutes": 116,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.6,
+    "directorLastName": "Parisot"
+  },
+  {
+    "id": 484,
+    "title": "Saving Mr. Banks",
+    "year": 2013,
+    "runtimeMinutes": 125,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.5,
+    "directorLastName": "Hancock"
+  },
+  {
+    "id": 485,
+    "title": "Side Effects",
+    "year": 2013,
+    "runtimeMinutes": 106,
+    "mpaaRating": "R",
+    "scoreRating": 7.0,
+    "directorLastName": "Soderbergh"
+  },
+  {
+    "id": 486,
+    "title": "Star Trek Into Darkness",
+    "year": 2013,
+    "runtimeMinutes": 132,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.7,
+    "directorLastName": "Abrams"
+  },
+  {
+    "id": 487,
+    "title": "The Conjuring",
+    "year": 2013,
+    "runtimeMinutes": 112,
+    "mpaaRating": "R",
+    "scoreRating": 7.5,
+    "directorLastName": "Wan"
+  },
+  {
+    "id": 488,
+    "title": "The Hobbit: The Desolation of Smaug",
+    "year": 2013,
+    "runtimeMinutes": 161,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.8,
+    "directorLastName": "Jackson"
+  },
+  {
+    "id": 489,
+    "title": "The Hunger Games: Catching Fire",
+    "year": 2013,
+    "runtimeMinutes": 146,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.5,
+    "directorLastName": "Lawrence"
+  },
+  {
+    "id": 490,
+    "title": "The Wolf of Wall Street",
+    "year": 2013,
+    "runtimeMinutes": 180,
+    "mpaaRating": "R",
+    "scoreRating": 8.2,
+    "directorLastName": "Scorsese"
+  },
+  {
+    "id": 491,
+    "title": "The Wolverine",
+    "year": 2013,
+    "runtimeMinutes": 126,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.7,
+    "directorLastName": "Mangold"
+  },
+  {
+    "id": 492,
+    "title": "The World's End",
+    "year": 2013,
+    "runtimeMinutes": 109,
+    "mpaaRating": "R",
+    "scoreRating": 6.9,
+    "directorLastName": "Wright"
+  },
+  {
+    "id": 493,
+    "title": "Thor: The Dark World",
+    "year": 2013,
+    "runtimeMinutes": 112,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.7,
+    "directorLastName": "Taylor"
+  },
+  {
+    "id": 494,
+    "title": "Turbo",
+    "year": 2013,
+    "runtimeMinutes": 96,
+    "mpaaRating": "PG",
+    "scoreRating": 6.4,
+    "directorLastName": "Soren"
+  },
+  {
+    "id": 495,
+    "title": "We're the Millers",
+    "year": 2013,
+    "runtimeMinutes": 110,
+    "mpaaRating": "R",
+    "scoreRating": 7.0,
+    "directorLastName": "Thurber"
+  },
+  {
+    "id": 496,
+    "title": "World War Z",
+    "year": 2013,
+    "runtimeMinutes": 116,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.0,
+    "directorLastName": "Forster"
+  },
+  {
+    "id": 497,
+    "title": "A Walk Among the Tombstones",
+    "year": 2014,
+    "runtimeMinutes": 114,
+    "mpaaRating": "R",
+    "scoreRating": 6.5,
+    "directorLastName": "Frank"
+  },
+  {
+    "id": 498,
+    "title": "American Sniper",
+    "year": 2014,
+    "runtimeMinutes": 133,
+    "mpaaRating": "R",
+    "scoreRating": 7.3,
+    "directorLastName": "Eastwood"
+  },
+  {
+    "id": 499,
+    "title": "Birdman or (The Unexpected Virtue of Ignorance)",
+    "year": 2014,
+    "runtimeMinutes": 119,
+    "mpaaRating": "R",
+    "scoreRating": 7.7,
+    "directorLastName": "González"
+  },
+  {
+    "id": 500,
+    "title": "Boyhood",
+    "year": 2014,
+    "runtimeMinutes": 165,
+    "mpaaRating": "R",
+    "scoreRating": 7.9,
+    "directorLastName": "Linklater"
+  },
+  {
+    "id": 501,
+    "title": "Divergent",
+    "year": 2014,
+    "runtimeMinutes": 139,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.6,
+    "directorLastName": "Burger"
+  },
+  {
+    "id": 502,
+    "title": "Dracula Untold",
+    "year": 2014,
+    "runtimeMinutes": 92,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.3,
+    "directorLastName": "Shore"
+  },
+  {
+    "id": 503,
+    "title": "Edge of Tomorrow",
+    "year": 2014,
+    "runtimeMinutes": 113,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.9,
+    "directorLastName": "Liman"
+  },
+  {
+    "id": 504,
+    "title": "Ex Machina",
+    "year": 2014,
+    "runtimeMinutes": 108,
+    "mpaaRating": "R",
+    "scoreRating": 7.7,
+    "directorLastName": "Garland"
+  },
+  {
+    "id": 505,
+    "title": "Foxcatcher",
+    "year": 2014,
+    "runtimeMinutes": 134,
+    "mpaaRating": "R",
+    "scoreRating": 7.0,
+    "directorLastName": "Miller"
+  },
+  {
+    "id": 506,
+    "title": "Fury",
+    "year": 2014,
+    "runtimeMinutes": 134,
+    "mpaaRating": "R",
+    "scoreRating": 7.6,
+    "directorLastName": "Ayer"
+  },
+  {
+    "id": 507,
+    "title": "Godzilla",
+    "year": 2014,
+    "runtimeMinutes": 123,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.4,
+    "directorLastName": "Edwards"
+  },
+  {
+    "id": 508,
+    "title": "Gone Girl",
+    "year": 2014,
+    "runtimeMinutes": 149,
+    "mpaaRating": "R",
+    "scoreRating": 8.1,
+    "directorLastName": "Fincher"
+  },
+  {
+    "id": 509,
+    "title": "Guardians of the Galaxy",
+    "year": 2014,
+    "runtimeMinutes": 121,
+    "mpaaRating": "PG-13",
+    "scoreRating": 8.0,
+    "directorLastName": "Gunn"
+  },
+  {
+    "id": 510,
+    "title": "Hercules",
+    "year": 2014,
+    "runtimeMinutes": 98,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.0,
+    "directorLastName": "Ratner"
+  },
+  {
+    "id": 511,
+    "title": "Horrible Bosses 2",
+    "year": 2014,
+    "runtimeMinutes": 108,
+    "mpaaRating": "R",
+    "scoreRating": 6.3,
+    "directorLastName": "Anders"
+  },
+  {
+    "id": 512,
+    "title": "If I Stay",
+    "year": 2014,
+    "runtimeMinutes": 107,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.7,
+    "directorLastName": "Cutler"
+  },
+  {
+    "id": 513,
+    "title": "Interstellar",
+    "year": 2014,
+    "runtimeMinutes": 169,
+    "mpaaRating": "PG-13",
+    "scoreRating": 8.7,
+    "directorLastName": "Nolan"
+  },
+  {
+    "id": 514,
+    "title": "Into the Woods",
+    "year": 2014,
+    "runtimeMinutes": 125,
+    "mpaaRating": "PG",
+    "scoreRating": 5.9,
+    "directorLastName": "Marshall"
+  },
+  {
+    "id": 515,
+    "title": "Jack Ryan: Shadow Recruit",
+    "year": 2014,
+    "runtimeMinutes": 105,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.2,
+    "directorLastName": "Branagh"
+  },
+  {
+    "id": 516,
+    "title": "John Wick",
+    "year": 2014,
+    "runtimeMinutes": 101,
+    "mpaaRating": "R",
+    "scoreRating": 7.5,
+    "directorLastName": "Leitch"
+  },
+  {
+    "id": 517,
+    "title": "Kingsman: The Secret Service",
+    "year": 2014,
+    "runtimeMinutes": 129,
+    "mpaaRating": "R",
+    "scoreRating": 7.7,
+    "directorLastName": "Vaughn"
+  },
+  {
+    "id": 518,
+    "title": "Let's Be Cops",
+    "year": 2014,
+    "runtimeMinutes": 104,
+    "mpaaRating": "R",
+    "scoreRating": 6.4,
+    "directorLastName": "Greenfield"
+  },
+  {
+    "id": 519,
+    "title": "Lucy",
+    "year": 2014,
+    "runtimeMinutes": 89,
+    "mpaaRating": "R",
+    "scoreRating": 6.4,
+    "directorLastName": "Besson"
+  },
+  {
+    "id": 520,
+    "title": "Maleficent",
+    "year": 2014,
+    "runtimeMinutes": 97,
+    "mpaaRating": "PG",
+    "scoreRating": 6.9,
+    "directorLastName": "Stromberg"
+  },
+  {
+    "id": 521,
+    "title": "Need for Speed",
+    "year": 2014,
+    "runtimeMinutes": 132,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.4,
+    "directorLastName": "Waugh"
+  },
+  {
+    "id": 522,
+    "title": "Neighbors",
+    "year": 2014,
+    "runtimeMinutes": 97,
+    "mpaaRating": "R",
+    "scoreRating": 6.3,
+    "directorLastName": "Stoller"
+  },
+  {
+    "id": 523,
+    "title": "Night at the Museum: Secret of the Tomb",
+    "year": 2014,
+    "runtimeMinutes": 98,
+    "mpaaRating": "PG",
+    "scoreRating": 6.2,
+    "directorLastName": "Levy"
+  },
+  {
+    "id": 524,
+    "title": "Nightcrawler",
+    "year": 2014,
+    "runtimeMinutes": 117,
+    "mpaaRating": "R",
+    "scoreRating": 7.8,
+    "directorLastName": "Gilroy"
+  },
+  {
+    "id": 525,
+    "title": "Paddington",
+    "year": 2014,
+    "runtimeMinutes": 95,
+    "mpaaRating": "PG",
+    "scoreRating": 7.3,
+    "directorLastName": "King"
+  },
+  {
+    "id": 526,
+    "title": "RoboCop",
+    "year": 2014,
+    "runtimeMinutes": 117,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.1,
+    "directorLastName": "Padilha"
+  },
+  {
+    "id": 527,
+    "title": "Taken 3",
+    "year": 2014,
+    "runtimeMinutes": 108,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.0,
+    "directorLastName": "Megaton"
+  },
+  {
+    "id": 528,
+    "title": "The Amazing Spider-Man 2",
+    "year": 2014,
+    "runtimeMinutes": 142,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.6,
+    "directorLastName": "Webb"
+  },
+  {
+    "id": 529,
+    "title": "The Drop",
+    "year": 2014,
+    "runtimeMinutes": 106,
+    "mpaaRating": "R",
+    "scoreRating": 7.0,
+    "directorLastName": "Roskam"
+  },
+  {
+    "id": 530,
+    "title": "The Equalizer",
+    "year": 2014,
+    "runtimeMinutes": 132,
+    "mpaaRating": "R",
+    "scoreRating": 7.3,
+    "directorLastName": "Fuqua"
+  },
+  {
+    "id": 531,
+    "title": "The Expendables 3",
+    "year": 2014,
+    "runtimeMinutes": 126,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.1,
+    "directorLastName": "Hughes"
+  },
+  {
+    "id": 532,
+    "title": "The Fault in Our Stars",
+    "year": 2014,
+    "runtimeMinutes": 126,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.6,
+    "directorLastName": "Boone"
+  },
+  {
+    "id": 533,
+    "title": "The Grand Budapest Hotel",
+    "year": 2014,
+    "runtimeMinutes": 99,
+    "mpaaRating": "R",
+    "scoreRating": 8.1,
+    "directorLastName": "Anderson"
+  },
+  {
+    "id": 534,
+    "title": "The Hunger Games: Mockingjay - Part 1",
+    "year": 2014,
+    "runtimeMinutes": 123,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.6,
+    "directorLastName": "Lawrence"
+  },
+  {
+    "id": 535,
+    "title": "The Imitation Game",
+    "year": 2014,
+    "runtimeMinutes": 114,
+    "mpaaRating": "PG-13",
+    "scoreRating": 8.0,
+    "directorLastName": "Tyldum"
+  },
+  {
+    "id": 536,
+    "title": "The Judge",
+    "year": 2014,
+    "runtimeMinutes": 141,
+    "mpaaRating": "R",
+    "scoreRating": 7.4,
+    "directorLastName": "Dobkin"
+  },
+  {
+    "id": 537,
+    "title": "The Maze Runner",
+    "year": 2014,
+    "runtimeMinutes": 113,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.8,
+    "directorLastName": "Ball"
+  },
+  {
+    "id": 538,
+    "title": "The Theory of Everything",
+    "year": 2014,
+    "runtimeMinutes": 123,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.7,
+    "directorLastName": "Marsh"
+  },
+  {
+    "id": 539,
+    "title": "Transcendence",
+    "year": 2014,
+    "runtimeMinutes": 119,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.2,
+    "directorLastName": "Pfister"
+  },
+  {
+    "id": 540,
+    "title": "Transformers: Age of Extinction",
+    "year": 2014,
+    "runtimeMinutes": 165,
+    "mpaaRating": "PG-13",
+    "scoreRating": 5.6,
+    "directorLastName": "Bay"
+  },
+  {
+    "id": 541,
+    "title": "Unbroken",
+    "year": 2014,
+    "runtimeMinutes": 137,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.2,
+    "directorLastName": "Jolie"
+  },
+  {
+    "id": 542,
+    "title": "Whiplash",
+    "year": 2014,
+    "runtimeMinutes": 106,
+    "mpaaRating": "R",
+    "scoreRating": 8.5,
+    "directorLastName": "Chazelle"
+  },
+  {
+    "id": 543,
+    "title": "Wild",
+    "year": 2014,
+    "runtimeMinutes": 115,
+    "mpaaRating": "R",
+    "scoreRating": 7.1,
+    "directorLastName": "Vallée"
+  },
+  {
+    "id": 544,
+    "title": "X-Men: Days of Future Past",
+    "year": 2014,
+    "runtimeMinutes": 132,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.9,
+    "directorLastName": "Singer"
+  },
+  {
+    "id": 545,
+    "title": "Ant-Man",
+    "year": 2015,
+    "runtimeMinutes": 117,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.2,
+    "directorLastName": "Reed"
+  },
+  {
+    "id": 546,
+    "title": "Avengers: Age of Ultron",
+    "year": 2015,
+    "runtimeMinutes": 141,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.3,
+    "directorLastName": "Whedon"
+  },
+  {
+    "id": 547,
+    "title": "Black Mass",
+    "year": 2015,
+    "runtimeMinutes": 123,
+    "mpaaRating": "R",
+    "scoreRating": 6.8,
+    "directorLastName": "Cooper"
+  },
+  {
+    "id": 548,
+    "title": "Bridge of Spies",
+    "year": 2015,
+    "runtimeMinutes": 142,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.6,
+    "directorLastName": "Spielberg"
+  },
+  {
+    "id": 549,
+    "title": "Brooklyn",
+    "year": 2015,
+    "runtimeMinutes": 117,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.5,
+    "directorLastName": "Crowley"
+  },
+  {
+    "id": 550,
+    "title": "Carol",
+    "year": 2015,
+    "runtimeMinutes": 118,
+    "mpaaRating": "R",
+    "scoreRating": 7.3,
+    "directorLastName": "Haynes"
+  },
+  {
+    "id": 551,
+    "title": "Cinderella",
+    "year": 2015,
+    "runtimeMinutes": 105,
+    "mpaaRating": "PG",
+    "scoreRating": 6.9,
+    "directorLastName": "Branagh"
+  },
+  {
+    "id": 552,
+    "title": "Creed",
+    "year": 2015,
+    "runtimeMinutes": 133,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.6,
+    "directorLastName": "Coogler"
+  },
+  {
+    "id": 553,
+    "title": "Crimson Peak",
+    "year": 2015,
+    "runtimeMinutes": 119,
+    "mpaaRating": "R",
+    "scoreRating": 6.5,
+    "directorLastName": "del Toro"
+  },
+  {
+    "id": 554,
+    "title": "Daddy's Home",
+    "year": 2015,
+    "runtimeMinutes": 96,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.2,
+    "directorLastName": "Anders"
+  },
+  {
+    "id": 555,
+    "title": "Demolition",
+    "year": 2015,
+    "runtimeMinutes": 101,
+    "mpaaRating": "R",
+    "scoreRating": 7.0,
+    "directorLastName": "Vallée"
+  },
+  {
+    "id": 556,
+    "title": "Fantastic Four",
+    "year": 2015,
+    "runtimeMinutes": 100,
+    "mpaaRating": "PG-13",
+    "scoreRating": 4.3,
+    "directorLastName": "Trank"
+  },
+  {
+    "id": 557,
+    "title": "Furious 7",
+    "year": 2015,
+    "runtimeMinutes": 137,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.1,
+    "directorLastName": "Wan"
+  },
+  {
+    "id": 558,
+    "title": "Green Room",
+    "year": 2015,
+    "runtimeMinutes": 95,
+    "mpaaRating": "R",
+    "scoreRating": 6.9,
+    "directorLastName": "Saulnier"
+  },
+  {
+    "id": 559,
+    "title": "In the Heart of the Sea",
+    "year": 2015,
+    "runtimeMinutes": 122,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.9,
+    "directorLastName": "Howard"
+  },
+  {
+    "id": 560,
+    "title": "Joy",
+    "year": 2015,
+    "runtimeMinutes": 124,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.6,
+    "directorLastName": "Russell"
+  },
+  {
+    "id": 561,
+    "title": "Jurassic World",
+    "year": 2015,
+    "runtimeMinutes": 124,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.9,
+    "directorLastName": "Trevorrow"
+  },
+  {
+    "id": 562,
+    "title": "Legend",
+    "year": 2015,
+    "runtimeMinutes": 132,
+    "mpaaRating": "R",
+    "scoreRating": 6.9,
+    "directorLastName": "Helgeland"
+  },
+  {
+    "id": 563,
+    "title": "Mad Max: Fury Road",
+    "year": 2015,
+    "runtimeMinutes": 120,
+    "mpaaRating": "R",
+    "scoreRating": 8.1,
+    "directorLastName": "Miller"
+  },
+  {
+    "id": 564,
+    "title": "Maze Runner: The Scorch Trials",
+    "year": 2015,
+    "runtimeMinutes": 131,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.3,
+    "directorLastName": "Ball"
+  },
+  {
+    "id": 565,
+    "title": "Me and Earl and the Dying Girl",
+    "year": 2015,
+    "runtimeMinutes": 105,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.7,
+    "directorLastName": "Gomez-Rejon"
+  },
+  {
+    "id": 566,
+    "title": "Mission: Impossible - Rogue Nation",
+    "year": 2015,
+    "runtimeMinutes": 131,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.4,
+    "directorLastName": "McQuarrie"
+  },
+  {
+    "id": 567,
+    "title": "Pixels",
+    "year": 2015,
+    "runtimeMinutes": 105,
+    "mpaaRating": "PG-13",
+    "scoreRating": 5.6,
+    "directorLastName": "Columbus"
+  },
+  {
+    "id": 568,
+    "title": "Room",
+    "year": 2015,
+    "runtimeMinutes": 118,
+    "mpaaRating": "R",
+    "scoreRating": 8.1,
+    "directorLastName": "Abrahamson"
+  },
+  {
+    "id": 569,
+    "title": "San Andreas",
+    "year": 2015,
+    "runtimeMinutes": 114,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.1,
+    "directorLastName": "Peyton"
+  },
+  {
+    "id": 570,
+    "title": "Sicario",
+    "year": 2015,
+    "runtimeMinutes": 121,
+    "mpaaRating": "R",
+    "scoreRating": 7.7,
+    "directorLastName": "Villeneuve"
+  },
+  {
+    "id": 571,
+    "title": "Southpaw",
+    "year": 2015,
+    "runtimeMinutes": 124,
+    "mpaaRating": "R",
+    "scoreRating": 7.3,
+    "directorLastName": "Fuqua"
+  },
+  {
+    "id": 572,
+    "title": "Spectre",
+    "year": 2015,
+    "runtimeMinutes": 148,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.8,
+    "directorLastName": "Mendes"
+  },
+  {
+    "id": 573,
+    "title": "Spy",
+    "year": 2015,
+    "runtimeMinutes": 120,
+    "mpaaRating": "R",
+    "scoreRating": 7.0,
+    "directorLastName": "Feig"
+  },
+  {
+    "id": 574,
+    "title": "Star Wars: Episode VII - The Force Awakens",
+    "year": 2015,
+    "runtimeMinutes": 138,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.7,
+    "directorLastName": "Abrams"
+  },
+  {
+    "id": 575,
+    "title": "Steve Jobs",
+    "year": 2015,
+    "runtimeMinutes": 122,
+    "mpaaRating": "R",
+    "scoreRating": 7.2,
+    "directorLastName": "Boyle"
+  },
+  {
+    "id": 576,
+    "title": "Straight Outta Compton",
+    "year": 2015,
+    "runtimeMinutes": 147,
+    "mpaaRating": "R",
+    "scoreRating": 7.8,
+    "directorLastName": "Gray"
+  },
+  {
+    "id": 577,
+    "title": "Ted 2",
+    "year": 2015,
+    "runtimeMinutes": 115,
+    "mpaaRating": "R",
+    "scoreRating": 6.3,
+    "directorLastName": "MacFarlane"
+  },
+  {
+    "id": 578,
+    "title": "Terminator Genisys",
+    "year": 2015,
+    "runtimeMinutes": 126,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.3,
+    "directorLastName": "Taylor"
+  },
+  {
+    "id": 579,
+    "title": "The Big Short",
+    "year": 2015,
+    "runtimeMinutes": 130,
+    "mpaaRating": "R",
+    "scoreRating": 7.8,
+    "directorLastName": "McKay"
+  },
+  {
+    "id": 580,
+    "title": "The Danish Girl",
+    "year": 2015,
+    "runtimeMinutes": 119,
+    "mpaaRating": "R",
+    "scoreRating": 7.1,
+    "directorLastName": "Hooper"
+  },
+  {
+    "id": 581,
+    "title": "The Divergent Series: Insurgent",
+    "year": 2015,
+    "runtimeMinutes": 119,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.2,
+    "directorLastName": "Schwentke"
+  },
+  {
+    "id": 582,
+    "title": "The Hateful Eight",
+    "year": 2015,
+    "runtimeMinutes": 168,
+    "mpaaRating": "R",
+    "scoreRating": 7.8,
+    "directorLastName": "Tarantino"
+  },
+  {
+    "id": 583,
+    "title": "The Hunger Games: Mockingjay - Part 2",
+    "year": 2015,
+    "runtimeMinutes": 137,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.6,
+    "directorLastName": "Lawrence"
+  },
+  {
+    "id": 584,
+    "title": "The Intern",
+    "year": 2015,
+    "runtimeMinutes": 121,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.1,
+    "directorLastName": "Meyers"
+  },
+  {
+    "id": 585,
+    "title": "The Lobster",
+    "year": 2015,
+    "runtimeMinutes": 119,
+    "mpaaRating": "R",
+    "scoreRating": 7.1,
+    "directorLastName": "Lanthimos"
+  },
+  {
+    "id": 586,
+    "title": "The Man from U.N.C.L.E.",
+    "year": 2015,
+    "runtimeMinutes": 116,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.2,
+    "directorLastName": "Ritchie"
+  },
+  {
+    "id": 587,
+    "title": "The Martian",
+    "year": 2015,
+    "runtimeMinutes": 144,
+    "mpaaRating": "PG-13",
+    "scoreRating": 8.0,
+    "directorLastName": "Scott"
+  },
+  {
+    "id": 588,
+    "title": "The Revenant",
+    "year": 2015,
+    "runtimeMinutes": 156,
+    "mpaaRating": "R",
+    "scoreRating": 8.0,
+    "directorLastName": "González"
+  },
+  {
+    "id": 589,
+    "title": "The Visit",
+    "year": 2015,
+    "runtimeMinutes": 94,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.3,
+    "directorLastName": "Shyamalan"
+  },
+  {
+    "id": 590,
+    "title": "The Walk",
+    "year": 2015,
+    "runtimeMinutes": 123,
+    "mpaaRating": "PG",
+    "scoreRating": 7.3,
+    "directorLastName": "Zemeckis"
+  },
+  {
+    "id": 591,
+    "title": "The Witch",
+    "year": 2015,
+    "runtimeMinutes": 92,
+    "mpaaRating": "R",
+    "scoreRating": 7.0,
+    "directorLastName": "Eggers"
+  },
+  {
+    "id": 592,
+    "title": "Tomorrowland",
+    "year": 2015,
+    "runtimeMinutes": 130,
+    "mpaaRating": "PG",
+    "scoreRating": 6.4,
+    "directorLastName": "Bird"
+  },
+  {
+    "id": 593,
+    "title": "Trainwreck",
+    "year": 2015,
+    "runtimeMinutes": 125,
+    "mpaaRating": "R",
+    "scoreRating": 6.2,
+    "directorLastName": "Apatow"
+  },
+  {
+    "id": 594,
+    "title": "10 Cloverfield Lane",
+    "year": 2016,
+    "runtimeMinutes": 103,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.2,
+    "directorLastName": "Trachtenberg"
+  },
+  {
+    "id": 595,
+    "title": "13 Hours",
+    "year": 2016,
+    "runtimeMinutes": 144,
+    "mpaaRating": "R",
+    "scoreRating": 7.3,
+    "directorLastName": "Bay"
+  },
+  {
+    "id": 596,
+    "title": "A Cure for Wellness",
+    "year": 2016,
+    "runtimeMinutes": 146,
+    "mpaaRating": "R",
+    "scoreRating": 6.4,
+    "directorLastName": "Verbinski"
+  },
+  {
+    "id": 597,
+    "title": "Alice Through the Looking Glass",
+    "year": 2016,
+    "runtimeMinutes": 113,
+    "mpaaRating": "PG",
+    "scoreRating": 6.2,
+    "directorLastName": "Bobin"
+  },
+  {
+    "id": 598,
+    "title": "Allied",
+    "year": 2016,
+    "runtimeMinutes": 124,
+    "mpaaRating": "R",
+    "scoreRating": 7.1,
+    "directorLastName": "Zemeckis"
+  },
+  {
+    "id": 599,
+    "title": "Arrival",
+    "year": 2016,
+    "runtimeMinutes": 116,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.9,
+    "directorLastName": "Villeneuve"
+  },
+  {
+    "id": 600,
+    "title": "Assassin's Creed",
+    "year": 2016,
+    "runtimeMinutes": 115,
+    "mpaaRating": "PG-13",
+    "scoreRating": 5.6,
+    "directorLastName": "Kurzel"
+  },
+  {
+    "id": 601,
+    "title": "Captain Fantastic",
+    "year": 2016,
+    "runtimeMinutes": 118,
+    "mpaaRating": "R",
+    "scoreRating": 7.8,
+    "directorLastName": "Ross"
+  },
+  {
+    "id": 602,
+    "title": "Central Intelligence",
+    "year": 2016,
+    "runtimeMinutes": 107,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.3,
+    "directorLastName": "Thurber"
+  },
+  {
+    "id": 603,
+    "title": "Deadpool",
+    "year": 2016,
+    "runtimeMinutes": 108,
+    "mpaaRating": "R",
+    "scoreRating": 8.0,
+    "directorLastName": "Miller"
+  },
+  {
+    "id": 604,
+    "title": "Deepwater Horizon",
+    "year": 2016,
+    "runtimeMinutes": 107,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.1,
+    "directorLastName": "Berg"
+  },
+  {
+    "id": 605,
+    "title": "Dirty Grandpa",
+    "year": 2016,
+    "runtimeMinutes": 102,
+    "mpaaRating": "R",
+    "scoreRating": 5.9,
+    "directorLastName": "Mazer"
+  },
+  {
+    "id": 606,
+    "title": "Don't Breathe",
+    "year": 2016,
+    "runtimeMinutes": 88,
+    "mpaaRating": "R",
+    "scoreRating": 7.1,
+    "directorLastName": "Álvarez"
+  },
+  {
+    "id": 607,
+    "title": "Fantastic Beasts and Where to Find Them",
+    "year": 2016,
+    "runtimeMinutes": 132,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.2,
+    "directorLastName": "Yates"
+  },
+  {
+    "id": 608,
+    "title": "Fences",
+    "year": 2016,
+    "runtimeMinutes": 139,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.2,
+    "directorLastName": "Washington"
+  },
+  {
+    "id": 609,
+    "title": "Ghostbusters",
+    "year": 2016,
+    "runtimeMinutes": 117,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.8,
+    "directorLastName": "Feig"
+  },
+  {
+    "id": 610,
+    "title": "Hacksaw Ridge",
+    "year": 2016,
+    "runtimeMinutes": 139,
+    "mpaaRating": "R",
+    "scoreRating": 8.1,
+    "directorLastName": "Gibson"
+  },
+  {
+    "id": 611,
+    "title": "Hell or High Water",
+    "year": 2016,
+    "runtimeMinutes": 102,
+    "mpaaRating": "R",
+    "scoreRating": 7.6,
+    "directorLastName": "Mackenzie"
+  },
+  {
+    "id": 612,
+    "title": "Hidden Figures",
+    "year": 2016,
+    "runtimeMinutes": 127,
+    "mpaaRating": "PG",
+    "scoreRating": 7.8,
+    "directorLastName": "Melfi"
+  },
+  {
+    "id": 613,
+    "title": "Hunt for the Wilderpeople",
+    "year": 2016,
+    "runtimeMinutes": 101,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.8,
+    "directorLastName": "Waititi"
+  },
+  {
+    "id": 614,
+    "title": "Independence Day: Resurgence",
+    "year": 2016,
+    "runtimeMinutes": 120,
+    "mpaaRating": "PG-13",
+    "scoreRating": 5.2,
+    "directorLastName": "Emmerich"
+  },
+  {
+    "id": 615,
+    "title": "Inferno",
+    "year": 2016,
+    "runtimeMinutes": 121,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.2,
+    "directorLastName": "Howard"
+  },
+  {
+    "id": 616,
+    "title": "Jack Reacher: Never Go Back",
+    "year": 2016,
+    "runtimeMinutes": 118,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.2,
+    "directorLastName": "Zwick"
+  },
+  {
+    "id": 617,
+    "title": "La La Land",
+    "year": 2016,
+    "runtimeMinutes": 128,
+    "mpaaRating": "PG-13",
+    "scoreRating": 8.0,
+    "directorLastName": "Chazelle"
+  },
+  {
+    "id": 618,
+    "title": "Lights Out",
+    "year": 2016,
+    "runtimeMinutes": 81,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.3,
+    "directorLastName": "Sandberg"
+  },
+  {
+    "id": 619,
+    "title": "Lion",
+    "year": 2016,
+    "runtimeMinutes": 118,
+    "mpaaRating": "PG-13",
+    "scoreRating": 8.0,
+    "directorLastName": "Davis"
+  },
+  {
+    "id": 620,
+    "title": "London Has Fallen",
+    "year": 2016,
+    "runtimeMinutes": 99,
+    "mpaaRating": "R",
+    "scoreRating": 5.9,
+    "directorLastName": "Najafi"
+  },
+  {
+    "id": 621,
+    "title": "Manchester by the Sea",
+    "year": 2016,
+    "runtimeMinutes": 137,
+    "mpaaRating": "R",
+    "scoreRating": 7.8,
+    "directorLastName": "Lonergan"
+  },
+  {
+    "id": 622,
+    "title": "Me Before You",
+    "year": 2016,
+    "runtimeMinutes": 110,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.4,
+    "directorLastName": "Sharrock"
+  },
+  {
+    "id": 623,
+    "title": "Miss Peregrine's Home for Peculiar Children",
+    "year": 2016,
+    "runtimeMinutes": 127,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.7,
+    "directorLastName": "Burton"
+  },
+  {
+    "id": 624,
+    "title": "Neighbors 2: Sorority Rising",
+    "year": 2016,
+    "runtimeMinutes": 92,
+    "mpaaRating": "R",
+    "scoreRating": 5.7,
+    "directorLastName": "Stoller"
+  },
+  {
+    "id": 625,
+    "title": "Nocturnal Animals",
+    "year": 2016,
+    "runtimeMinutes": 116,
+    "mpaaRating": "R",
+    "scoreRating": 7.4,
+    "directorLastName": "Ford"
+  },
+  {
+    "id": 626,
+    "title": "Now You See Me 2",
+    "year": 2016,
+    "runtimeMinutes": 129,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.4,
+    "directorLastName": "Chu"
+  },
+  {
+    "id": 627,
+    "title": "Passengers",
+    "year": 2016,
+    "runtimeMinutes": 116,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.0,
+    "directorLastName": "Tyldum"
+  },
+  {
+    "id": 628,
+    "title": "Rogue One: A Star Wars Story",
+    "year": 2016,
+    "runtimeMinutes": 133,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.8,
+    "directorLastName": "Edwards"
+  },
+  {
+    "id": 629,
+    "title": "Silence",
+    "year": 2016,
+    "runtimeMinutes": 161,
+    "mpaaRating": "R",
+    "scoreRating": 7.2,
+    "directorLastName": "Scorsese"
+  },
+  {
+    "id": 630,
+    "title": "Snowden",
+    "year": 2016,
+    "runtimeMinutes": 134,
+    "mpaaRating": "R",
+    "scoreRating": 7.3,
+    "directorLastName": "Stone"
+  },
+  {
+    "id": 631,
+    "title": "Split",
+    "year": 2016,
+    "runtimeMinutes": 117,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.3,
+    "directorLastName": "Shyamalan"
+  },
+  {
+    "id": 632,
+    "title": "Star Trek Beyond",
+    "year": 2016,
+    "runtimeMinutes": 122,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.0,
+    "directorLastName": "Lin"
+  },
+  {
+    "id": 633,
+    "title": "Suicide Squad",
+    "year": 2016,
+    "runtimeMinutes": 123,
+    "mpaaRating": "PG-13",
+    "scoreRating": 5.9,
+    "directorLastName": "Ayer"
+  },
+  {
+    "id": 634,
+    "title": "Sully",
+    "year": 2016,
+    "runtimeMinutes": 96,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.4,
+    "directorLastName": "Eastwood"
+  },
+  {
+    "id": 635,
+    "title": "The 5th Wave",
+    "year": 2016,
+    "runtimeMinutes": 112,
+    "mpaaRating": "PG-13",
+    "scoreRating": 5.2,
+    "directorLastName": "Blakeson"
+  },
+  {
+    "id": 636,
+    "title": "The Accountant",
+    "year": 2016,
+    "runtimeMinutes": 128,
+    "mpaaRating": "R",
+    "scoreRating": 7.3,
+    "directorLastName": "O'Connor"
+  },
+  {
+    "id": 637,
+    "title": "The Conjuring 2",
+    "year": 2016,
+    "runtimeMinutes": 134,
+    "mpaaRating": "R",
+    "scoreRating": 7.3,
+    "directorLastName": "Wan"
+  },
+  {
+    "id": 638,
+    "title": "The Divergent Series: Allegiant",
+    "year": 2016,
+    "runtimeMinutes": 120,
+    "mpaaRating": "PG-13",
+    "scoreRating": 5.7,
+    "directorLastName": "Schwentke"
+  },
+  {
+    "id": 639,
+    "title": "The Founder",
+    "year": 2016,
+    "runtimeMinutes": 115,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.2,
+    "directorLastName": "Hancock"
+  },
+  {
+    "id": 640,
+    "title": "The Girl on the Train",
+    "year": 2016,
+    "runtimeMinutes": 112,
+    "mpaaRating": "R",
+    "scoreRating": 6.5,
+    "directorLastName": "Taylor"
+  },
+  {
+    "id": 641,
+    "title": "The Great Wall",
+    "year": 2016,
+    "runtimeMinutes": 103,
+    "mpaaRating": "PG-13",
+    "scoreRating": 5.9,
+    "directorLastName": "Zhang"
+  },
+  {
+    "id": 642,
+    "title": "The Legend of Tarzan",
+    "year": 2016,
+    "runtimeMinutes": 110,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.2,
+    "directorLastName": "Yates"
+  },
+  {
+    "id": 643,
+    "title": "The Magnificent Seven",
+    "year": 2016,
+    "runtimeMinutes": 132,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.9,
+    "directorLastName": "Fuqua"
+  },
+  {
+    "id": 644,
+    "title": "The Nice Guys",
+    "year": 2016,
+    "runtimeMinutes": 116,
+    "mpaaRating": "R",
+    "scoreRating": 7.4,
+    "directorLastName": "Black"
+  },
+  {
+    "id": 645,
+    "title": "The Promise",
+    "year": 2016,
+    "runtimeMinutes": 133,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.1,
+    "directorLastName": "George"
+  },
+  {
+    "id": 646,
+    "title": "The Secret Life of Pets",
+    "year": 2016,
+    "runtimeMinutes": 86,
+    "mpaaRating": "PG",
+    "scoreRating": 6.5,
+    "directorLastName": "Renaud"
+  },
+  {
+    "id": 647,
+    "title": "The Shallows",
+    "year": 2016,
+    "runtimeMinutes": 86,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.3,
+    "directorLastName": "Collet"
+  },
+  {
+    "id": 648,
+    "title": "Train to Busan",
+    "year": 2016,
+    "runtimeMinutes": 118,
+    "mpaaRating": "R",
+    "scoreRating": 7.6,
+    "directorLastName": "Yeon"
+  },
+  {
+    "id": 649,
+    "title": "War Dogs",
+    "year": 2016,
+    "runtimeMinutes": 114,
+    "mpaaRating": "R",
+    "scoreRating": 7.1,
+    "directorLastName": "Phillips"
+  },
+  {
+    "id": 650,
+    "title": "Warcraft",
+    "year": 2016,
+    "runtimeMinutes": 123,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.7,
+    "directorLastName": "Jones"
+  },
+  {
+    "id": 651,
+    "title": "Why Him?",
+    "year": 2016,
+    "runtimeMinutes": 111,
+    "mpaaRating": "R",
+    "scoreRating": 6.2,
+    "directorLastName": "Hamburg"
+  },
+  {
+    "id": 652,
+    "title": "X-Men: Apocalypse",
+    "year": 2016,
+    "runtimeMinutes": 144,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.8,
+    "directorLastName": "Singer"
+  },
+  {
+    "id": 653,
+    "title": "Alien: Covenant",
+    "year": 2017,
+    "runtimeMinutes": 122,
+    "mpaaRating": "R",
+    "scoreRating": 6.4,
+    "directorLastName": "Scott"
+  },
+  {
+    "id": 654,
+    "title": "American Made",
+    "year": 2017,
+    "runtimeMinutes": 115,
+    "mpaaRating": "R",
+    "scoreRating": 7.2,
+    "directorLastName": "Liman"
+  },
+  {
+    "id": 655,
+    "title": "Annabelle: Creation",
+    "year": 2017,
+    "runtimeMinutes": 109,
+    "mpaaRating": "R",
+    "scoreRating": 6.5,
+    "directorLastName": "Sandberg"
+  },
+  {
+    "id": 656,
+    "title": "Atomic Blonde",
+    "year": 2017,
+    "runtimeMinutes": 115,
+    "mpaaRating": "R",
+    "scoreRating": 6.7,
+    "directorLastName": "Leitch"
+  },
+  {
+    "id": 657,
+    "title": "Baby Driver",
+    "year": 2017,
+    "runtimeMinutes": 113,
+    "mpaaRating": "R",
+    "scoreRating": 7.5,
+    "directorLastName": "Wright"
+  },
+  {
+    "id": 658,
+    "title": "Baywatch",
+    "year": 2017,
+    "runtimeMinutes": 116,
+    "mpaaRating": "R",
+    "scoreRating": 5.5,
+    "directorLastName": "Gordon"
+  },
+  {
+    "id": 659,
+    "title": "Beauty and the Beast",
+    "year": 2017,
+    "runtimeMinutes": 129,
+    "mpaaRating": "PG",
+    "scoreRating": 7.1,
+    "directorLastName": "Condon"
+  },
+  {
+    "id": 660,
+    "title": "Blade Runner 2049",
+    "year": 2017,
+    "runtimeMinutes": 164,
+    "mpaaRating": "R",
+    "scoreRating": 8.0,
+    "directorLastName": "Villeneuve"
+  },
+  {
+    "id": 661,
+    "title": "Call Me by Your Name",
+    "year": 2017,
+    "runtimeMinutes": 132,
+    "mpaaRating": "R",
+    "scoreRating": 7.8,
+    "directorLastName": "Guadagnino"
+  },
+  {
+    "id": 662,
+    "title": "Darkest Hour",
+    "year": 2017,
+    "runtimeMinutes": 125,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.4,
+    "directorLastName": "Wright"
+  },
+  {
+    "id": 663,
+    "title": "Dunkirk",
+    "year": 2017,
+    "runtimeMinutes": 106,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.8,
+    "directorLastName": "Nolan"
+  },
+  {
+    "id": 664,
+    "title": "Geostorm",
+    "year": 2017,
+    "runtimeMinutes": 109,
+    "mpaaRating": "PG-13",
+    "scoreRating": 5.4,
+    "directorLastName": "Devlin"
+  },
+  {
+    "id": 665,
+    "title": "Get Out",
+    "year": 2017,
+    "runtimeMinutes": 104,
+    "mpaaRating": "R",
+    "scoreRating": 7.8,
+    "directorLastName": "Peele"
+  },
+  {
+    "id": 666,
+    "title": "Ghost in the Shell",
+    "year": 2017,
+    "runtimeMinutes": 107,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.3,
+    "directorLastName": "Sanders"
+  },
+  {
+    "id": 667,
+    "title": "Gifted",
+    "year": 2017,
+    "runtimeMinutes": 101,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.6,
+    "directorLastName": "Webb"
+  },
+  {
+    "id": 668,
+    "title": "Guardians of the Galaxy: Vol. 2",
+    "year": 2017,
+    "runtimeMinutes": 136,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.6,
+    "directorLastName": "Gunn"
+  },
+  {
+    "id": 669,
+    "title": "Happy Death Day",
+    "year": 2017,
+    "runtimeMinutes": 96,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.6,
+    "directorLastName": "Landon"
+  },
+  {
+    "id": 670,
+    "title": "I, Tonya",
+    "year": 2017,
+    "runtimeMinutes": 119,
+    "mpaaRating": "R",
+    "scoreRating": 7.5,
+    "directorLastName": "Gillespie"
+  },
+  {
+    "id": 671,
+    "title": "It",
+    "year": 2017,
+    "runtimeMinutes": 135,
+    "mpaaRating": "R",
+    "scoreRating": 7.3,
+    "directorLastName": "Muschietti"
+  },
+  {
+    "id": 672,
+    "title": "Jumanji: Welcome to the Jungle",
+    "year": 2017,
+    "runtimeMinutes": 119,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.9,
+    "directorLastName": "Kasdan"
+  },
+  {
+    "id": 673,
+    "title": "Justice League",
+    "year": 2017,
+    "runtimeMinutes": 120,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.0,
+    "directorLastName": "Snyder"
+  },
+  {
+    "id": 674,
+    "title": "King Arthur: Legend of the Sword",
+    "year": 2017,
+    "runtimeMinutes": 126,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.7,
+    "directorLastName": "Ritchie"
+  },
+  {
+    "id": 675,
+    "title": "Kingsman: The Golden Circle",
+    "year": 2017,
+    "runtimeMinutes": 141,
+    "mpaaRating": "R",
+    "scoreRating": 6.7,
+    "directorLastName": "Vaughn"
+  },
+  {
+    "id": 676,
+    "title": "Lady Bird",
+    "year": 2017,
+    "runtimeMinutes": 94,
+    "mpaaRating": "R",
+    "scoreRating": 7.4,
+    "directorLastName": "Gerwig"
+  },
+  {
+    "id": 677,
+    "title": "Life",
+    "year": 2017,
+    "runtimeMinutes": 104,
+    "mpaaRating": "R",
+    "scoreRating": 6.6,
+    "directorLastName": "Espinosa"
+  },
+  {
+    "id": 678,
+    "title": "Logan",
+    "year": 2017,
+    "runtimeMinutes": 137,
+    "mpaaRating": "R",
+    "scoreRating": 8.1,
+    "directorLastName": "Mangold"
+  },
+  {
+    "id": 679,
+    "title": "Logan Lucky",
+    "year": 2017,
+    "runtimeMinutes": 118,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.0,
+    "directorLastName": "Soderbergh"
+  },
+  {
+    "id": 680,
+    "title": "Molly's Game",
+    "year": 2017,
+    "runtimeMinutes": 140,
+    "mpaaRating": "R",
+    "scoreRating": 7.4,
+    "directorLastName": "Sorkin"
+  },
+  {
+    "id": 681,
+    "title": "Mother!",
+    "year": 2017,
+    "runtimeMinutes": 121,
+    "mpaaRating": "R",
+    "scoreRating": 6.6,
+    "directorLastName": "Aronofsky"
+  },
+  {
+    "id": 682,
+    "title": "Murder on the Orient Express",
+    "year": 2017,
+    "runtimeMinutes": 114,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.5,
+    "directorLastName": "Branagh"
+  },
+  {
+    "id": 683,
+    "title": "Phantom Thread",
+    "year": 2017,
+    "runtimeMinutes": 130,
+    "mpaaRating": "R",
+    "scoreRating": 7.4,
+    "directorLastName": "Anderson"
+  },
+  {
+    "id": 684,
+    "title": "Spider-Man: Homecoming",
+    "year": 2017,
+    "runtimeMinutes": 133,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.4,
+    "directorLastName": "Watts"
+  },
+  {
+    "id": 685,
+    "title": "Star Wars: Episode VIII - The Last Jedi",
+    "year": 2017,
+    "runtimeMinutes": 152,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.8,
+    "directorLastName": "Johnson"
+  },
+  {
+    "id": 686,
+    "title": "T2 Trainspotting",
+    "year": 2017,
+    "runtimeMinutes": 117,
+    "mpaaRating": "R",
+    "scoreRating": 7.1,
+    "directorLastName": "Boyle"
+  },
+  {
+    "id": 687,
+    "title": "The Big Sick",
+    "year": 2017,
+    "runtimeMinutes": 120,
+    "mpaaRating": "R",
+    "scoreRating": 7.5,
+    "directorLastName": "Showalter"
+  },
+  {
+    "id": 688,
+    "title": "The Dark Tower",
+    "year": 2017,
+    "runtimeMinutes": 95,
+    "mpaaRating": "PG-13",
+    "scoreRating": 5.6,
+    "directorLastName": "Arcel"
+  },
+  {
+    "id": 689,
+    "title": "The Death of Stalin",
+    "year": 2017,
+    "runtimeMinutes": 107,
+    "mpaaRating": "R",
+    "scoreRating": 7.3,
+    "directorLastName": "Iannucci"
+  },
+  {
+    "id": 690,
+    "title": "The Disaster Artist",
+    "year": 2017,
+    "runtimeMinutes": 104,
+    "mpaaRating": "R",
+    "scoreRating": 7.3,
+    "directorLastName": "Franco"
+  },
+  {
+    "id": 691,
+    "title": "The Fate of the Furious",
+    "year": 2017,
+    "runtimeMinutes": 136,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.6,
+    "directorLastName": "Gray"
+  },
+  {
+    "id": 692,
+    "title": "The Florida Project",
+    "year": 2017,
+    "runtimeMinutes": 111,
+    "mpaaRating": "R",
+    "scoreRating": 7.6,
+    "directorLastName": "Baker"
+  },
+  {
+    "id": 693,
+    "title": "The Foreigner",
+    "year": 2017,
+    "runtimeMinutes": 113,
+    "mpaaRating": "R",
+    "scoreRating": 7.0,
+    "directorLastName": "Campbell"
+  },
+  {
+    "id": 694,
+    "title": "The Greatest Showman",
+    "year": 2017,
+    "runtimeMinutes": 105,
+    "mpaaRating": "PG",
+    "scoreRating": 7.5,
+    "directorLastName": "Gracey"
+  },
+  {
+    "id": 695,
+    "title": "The Hitman's Bodyguard",
+    "year": 2017,
+    "runtimeMinutes": 118,
+    "mpaaRating": "R",
+    "scoreRating": 6.9,
+    "directorLastName": "Hughes"
+  },
+  {
+    "id": 696,
+    "title": "The Killing of a Sacred Deer",
+    "year": 2017,
+    "runtimeMinutes": 121,
+    "mpaaRating": "R",
+    "scoreRating": 7.0,
+    "directorLastName": "Lanthimos"
+  },
+  {
+    "id": 697,
+    "title": "The Mummy",
+    "year": 2017,
+    "runtimeMinutes": 110,
+    "mpaaRating": "PG-13",
+    "scoreRating": 5.4,
+    "directorLastName": "Kurtzman"
+  },
+  {
+    "id": 698,
+    "title": "The Post",
+    "year": 2017,
+    "runtimeMinutes": 116,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.2,
+    "directorLastName": "Spielberg"
+  },
+  {
+    "id": 699,
+    "title": "The Shape of Water",
+    "year": 2017,
+    "runtimeMinutes": 123,
+    "mpaaRating": "R",
+    "scoreRating": 7.3,
+    "directorLastName": "del Toro"
+  },
+  {
+    "id": 700,
+    "title": "Thor: Ragnarok",
+    "year": 2017,
+    "runtimeMinutes": 130,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.9,
+    "directorLastName": "Waititi"
+  },
+  {
+    "id": 701,
+    "title": "Three Billboards Outside Ebbing, Missouri",
+    "year": 2017,
+    "runtimeMinutes": 115,
+    "mpaaRating": "R",
+    "scoreRating": 8.1,
+    "directorLastName": "McDonagh"
+  },
+  {
+    "id": 702,
+    "title": "Transformers: The Last Knight",
+    "year": 2017,
+    "runtimeMinutes": 154,
+    "mpaaRating": "PG-13",
+    "scoreRating": 5.2,
+    "directorLastName": "Bay"
+  },
+  {
+    "id": 703,
+    "title": "Valerian and the City of a Thousand Planets",
+    "year": 2017,
+    "runtimeMinutes": 136,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.4,
+    "directorLastName": "Besson"
+  },
+  {
+    "id": 704,
+    "title": "War for the Planet of the Apes",
+    "year": 2017,
+    "runtimeMinutes": 140,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.4,
+    "directorLastName": "Reeves"
+  },
+  {
+    "id": 705,
+    "title": "Wind River",
+    "year": 2017,
+    "runtimeMinutes": 107,
+    "mpaaRating": "R",
+    "scoreRating": 7.7,
+    "directorLastName": "Sheridan"
+  },
+  {
+    "id": 706,
+    "title": "Wonder",
+    "year": 2017,
+    "runtimeMinutes": 113,
+    "mpaaRating": "PG",
+    "scoreRating": 7.9,
+    "directorLastName": "Chbosky"
+  },
+  {
+    "id": 707,
+    "title": "You Were Never Really Here",
+    "year": 2017,
+    "runtimeMinutes": 89,
+    "mpaaRating": "R",
+    "scoreRating": 6.7,
+    "directorLastName": "Ramsay"
+  },
+  {
+    "id": 708,
+    "title": "A Quiet Place",
+    "year": 2018,
+    "runtimeMinutes": 90,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.5,
+    "directorLastName": "Krasinski"
+  },
+  {
+    "id": 709,
+    "title": "A Simple Favor",
+    "year": 2018,
+    "runtimeMinutes": 117,
+    "mpaaRating": "R",
+    "scoreRating": 6.7,
+    "directorLastName": "Feig"
+  },
+  {
+    "id": 710,
+    "title": "A Star Is Born",
+    "year": 2018,
+    "runtimeMinutes": 136,
+    "mpaaRating": "R",
+    "scoreRating": 7.6,
+    "directorLastName": "Cooper"
+  },
+  {
+    "id": 711,
+    "title": "Annihilation",
+    "year": 2018,
+    "runtimeMinutes": 115,
+    "mpaaRating": "R",
+    "scoreRating": 6.8,
+    "directorLastName": "Garland"
+  },
+  {
+    "id": 712,
+    "title": "Ant-Man and the Wasp",
+    "year": 2018,
+    "runtimeMinutes": 118,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.0,
+    "directorLastName": "Reed"
+  },
+  {
+    "id": 713,
+    "title": "Aquaman",
+    "year": 2018,
+    "runtimeMinutes": 143,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.8,
+    "directorLastName": "Wan"
+  },
+  {
+    "id": 714,
+    "title": "Bad Times at the El Royale",
+    "year": 2018,
+    "runtimeMinutes": 141,
+    "mpaaRating": "R",
+    "scoreRating": 7.1,
+    "directorLastName": "Goddard"
+  },
+  {
+    "id": 715,
+    "title": "Bird Box",
+    "year": 2018,
+    "runtimeMinutes": 124,
+    "mpaaRating": "R",
+    "scoreRating": 6.6,
+    "directorLastName": "Bier"
+  },
+  {
+    "id": 716,
+    "title": "Black Panther",
+    "year": 2018,
+    "runtimeMinutes": 134,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.3,
+    "directorLastName": "Coogler"
+  },
+  {
+    "id": 717,
+    "title": "BlacKkKlansman",
+    "year": 2018,
+    "runtimeMinutes": 135,
+    "mpaaRating": "R",
+    "scoreRating": 7.5,
+    "directorLastName": "Lee"
+  },
+  {
+    "id": 718,
+    "title": "Bohemian Rhapsody",
+    "year": 2018,
+    "runtimeMinutes": 134,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.9,
+    "directorLastName": "Singer"
+  },
+  {
+    "id": 719,
+    "title": "Bumblebee",
+    "year": 2018,
+    "runtimeMinutes": 114,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.7,
+    "directorLastName": "Knight"
+  },
+  {
+    "id": 720,
+    "title": "Capernaum",
+    "year": 2018,
+    "runtimeMinutes": 126,
+    "mpaaRating": "R",
+    "scoreRating": 8.4,
+    "directorLastName": "Labaki"
+  },
+  {
+    "id": 721,
+    "title": "Crazy Rich Asians",
+    "year": 2018,
+    "runtimeMinutes": 120,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.9,
+    "directorLastName": "Chu"
+  },
+  {
+    "id": 722,
+    "title": "Creed II",
+    "year": 2018,
+    "runtimeMinutes": 130,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.1,
+    "directorLastName": "Caple"
+  },
+  {
+    "id": 723,
+    "title": "Deadpool 2",
+    "year": 2018,
+    "runtimeMinutes": 119,
+    "mpaaRating": "R",
+    "scoreRating": 7.6,
+    "directorLastName": "Leitch"
+  },
+  {
+    "id": 724,
+    "title": "Fantastic Beasts: The Crimes of Grindelwald",
+    "year": 2018,
+    "runtimeMinutes": 134,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.5,
+    "directorLastName": "Yates"
+  },
+  {
+    "id": 725,
+    "title": "First Man",
+    "year": 2018,
+    "runtimeMinutes": 141,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.3,
+    "directorLastName": "Chazelle"
+  },
+  {
+    "id": 726,
+    "title": "Green Book",
+    "year": 2018,
+    "runtimeMinutes": 130,
+    "mpaaRating": "PG-13",
+    "scoreRating": 8.2,
+    "directorLastName": "Farrelly"
+  },
+  {
+    "id": 727,
+    "title": "Halloween",
+    "year": 2018,
+    "runtimeMinutes": 106,
+    "mpaaRating": "R",
+    "scoreRating": 6.5,
+    "directorLastName": "Green"
+  },
+  {
+    "id": 728,
+    "title": "Hereditary",
+    "year": 2018,
+    "runtimeMinutes": 127,
+    "mpaaRating": "R",
+    "scoreRating": 7.3,
+    "directorLastName": "Aster"
+  },
+  {
+    "id": 729,
+    "title": "Instant Family",
+    "year": 2018,
+    "runtimeMinutes": 118,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.3,
+    "directorLastName": "Anders"
+  },
+  {
+    "id": 730,
+    "title": "Jurassic World: Fallen Kingdom",
+    "year": 2018,
+    "runtimeMinutes": 128,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.2,
+    "directorLastName": "García"
+  },
+  {
+    "id": 731,
+    "title": "Love, Simon",
+    "year": 2018,
+    "runtimeMinutes": 110,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.5,
+    "directorLastName": "Berlanti"
+  },
+  {
+    "id": 732,
+    "title": "Maze Runner: The Death Cure",
+    "year": 2018,
+    "runtimeMinutes": 143,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.3,
+    "directorLastName": "Ball"
+  },
+  {
+    "id": 733,
+    "title": "Mission: Impossible - Fallout",
+    "year": 2018,
+    "runtimeMinutes": 147,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.7,
+    "directorLastName": "McQuarrie"
+  },
+  {
+    "id": 734,
+    "title": "Mortal Engines",
+    "year": 2018,
+    "runtimeMinutes": 128,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.1,
+    "directorLastName": "Rivers"
+  },
+  {
+    "id": 735,
+    "title": "Ocean's Eight",
+    "year": 2018,
+    "runtimeMinutes": 110,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.3,
+    "directorLastName": "Ross"
+  },
+  {
+    "id": 736,
+    "title": "Rampage",
+    "year": 2018,
+    "runtimeMinutes": 107,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.1,
+    "directorLastName": "Peyton"
+  },
+  {
+    "id": 737,
+    "title": "Ready Player One",
+    "year": 2018,
+    "runtimeMinutes": 140,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.4,
+    "directorLastName": "Spielberg"
+  },
+  {
+    "id": 738,
+    "title": "Red Sparrow",
+    "year": 2018,
+    "runtimeMinutes": 140,
+    "mpaaRating": "R",
+    "scoreRating": 6.6,
+    "directorLastName": "Lawrence"
+  },
+  {
+    "id": 739,
+    "title": "Roma",
+    "year": 2018,
+    "runtimeMinutes": 135,
+    "mpaaRating": "R",
+    "scoreRating": 7.6,
+    "directorLastName": "Cuarón"
+  },
+  {
+    "id": 740,
+    "title": "Sicario: Day of the Soldado",
+    "year": 2018,
+    "runtimeMinutes": 122,
+    "mpaaRating": "R",
+    "scoreRating": 7.1,
+    "directorLastName": "Sollima"
+  },
+  {
+    "id": 741,
+    "title": "Skyscraper",
+    "year": 2018,
+    "runtimeMinutes": 102,
+    "mpaaRating": "PG-13",
+    "scoreRating": 5.8,
+    "directorLastName": "Thurber"
+  },
+  {
+    "id": 742,
+    "title": "Solo: A Star Wars Story",
+    "year": 2018,
+    "runtimeMinutes": 135,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.9,
+    "directorLastName": "Howard"
+  },
+  {
+    "id": 743,
+    "title": "Tag",
+    "year": 2018,
+    "runtimeMinutes": 100,
+    "mpaaRating": "R",
+    "scoreRating": 6.5,
+    "directorLastName": "Tomsic"
+  },
+  {
+    "id": 744,
+    "title": "The Commuter",
+    "year": 2018,
+    "runtimeMinutes": 104,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.3,
+    "directorLastName": "Collet"
+  },
+  {
+    "id": 745,
+    "title": "The Equalizer 2",
+    "year": 2018,
+    "runtimeMinutes": 121,
+    "mpaaRating": "R",
+    "scoreRating": 6.7,
+    "directorLastName": "Fuqua"
+  },
+  {
+    "id": 746,
+    "title": "The Favourite",
+    "year": 2018,
+    "runtimeMinutes": 119,
+    "mpaaRating": "R",
+    "scoreRating": 7.5,
+    "directorLastName": "Lanthimos"
+  },
+  {
+    "id": 747,
+    "title": "The Meg",
+    "year": 2018,
+    "runtimeMinutes": 113,
+    "mpaaRating": "PG-13",
+    "scoreRating": 5.7,
+    "directorLastName": "Turteltaub"
+  },
+  {
+    "id": 748,
+    "title": "The Mule",
+    "year": 2018,
+    "runtimeMinutes": 116,
+    "mpaaRating": "R",
+    "scoreRating": 7.0,
+    "directorLastName": "Eastwood"
+  },
+  {
+    "id": 749,
+    "title": "The Nun",
+    "year": 2018,
+    "runtimeMinutes": 96,
+    "mpaaRating": "R",
+    "scoreRating": 5.4,
+    "directorLastName": "Hardy"
+  },
+  {
+    "id": 750,
+    "title": "The Predator",
+    "year": 2018,
+    "runtimeMinutes": 107,
+    "mpaaRating": "R",
+    "scoreRating": 5.3,
+    "directorLastName": "Black"
+  },
+  {
+    "id": 751,
+    "title": "Tomb Raider",
+    "year": 2018,
+    "runtimeMinutes": 119,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.3,
+    "directorLastName": "Uthaug"
+  },
+  {
+    "id": 752,
+    "title": "Upgrade",
+    "year": 2018,
+    "runtimeMinutes": 100,
+    "mpaaRating": "R",
+    "scoreRating": 7.5,
+    "directorLastName": "Whannell"
+  },
+  {
+    "id": 753,
+    "title": "Venom",
+    "year": 2018,
+    "runtimeMinutes": 112,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.6,
+    "directorLastName": "Fleischer"
+  },
+  {
+    "id": 754,
+    "title": "Vice",
+    "year": 2018,
+    "runtimeMinutes": 132,
+    "mpaaRating": "R",
+    "scoreRating": 7.2,
+    "directorLastName": "McKay"
+  },
+  {
+    "id": 755,
+    "title": "1917",
+    "year": 2019,
+    "runtimeMinutes": 119,
+    "mpaaRating": "R",
+    "scoreRating": 8.2,
+    "directorLastName": "Mendes"
+  },
+  {
+    "id": 756,
+    "title": "6 Underground",
+    "year": 2019,
+    "runtimeMinutes": 128,
+    "mpaaRating": "R",
+    "scoreRating": 6.1,
+    "directorLastName": "Bay"
+  },
+  {
+    "id": 757,
+    "title": "Ad Astra",
+    "year": 2019,
+    "runtimeMinutes": 123,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.5,
+    "directorLastName": "Gray"
+  },
+  {
+    "id": 758,
+    "title": "Aladdin",
+    "year": 2019,
+    "runtimeMinutes": 128,
+    "mpaaRating": "PG",
+    "scoreRating": 6.9,
+    "directorLastName": "Ritchie"
+  },
+  {
+    "id": 759,
+    "title": "Alita: Battle Angel",
+    "year": 2019,
+    "runtimeMinutes": 122,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.3,
+    "directorLastName": "Rodríguez"
+  },
+  {
+    "id": 760,
+    "title": "Bombshell",
+    "year": 2019,
+    "runtimeMinutes": 109,
+    "mpaaRating": "R",
+    "scoreRating": 6.8,
+    "directorLastName": "Roach"
+  },
+  {
+    "id": 761,
+    "title": "Booksmart",
+    "year": 2019,
+    "runtimeMinutes": 102,
+    "mpaaRating": "R",
+    "scoreRating": 7.1,
+    "directorLastName": "Cockburn"
+  },
+  {
+    "id": 762,
+    "title": "Doctor Sleep",
+    "year": 2019,
+    "runtimeMinutes": 152,
+    "mpaaRating": "R",
+    "scoreRating": 7.3,
+    "directorLastName": "Flanagan"
+  },
+  {
+    "id": 763,
+    "title": "Escape Room",
+    "year": 2019,
+    "runtimeMinutes": 99,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.4,
+    "directorLastName": "Robitel"
+  },
+  {
+    "id": 764,
+    "title": "Fast & Furious Presents: Hobbs & Shaw",
+    "year": 2019,
+    "runtimeMinutes": 137,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.4,
+    "directorLastName": "Leitch"
+  },
+  {
+    "id": 765,
+    "title": "Ford v Ferrari",
+    "year": 2019,
+    "runtimeMinutes": 152,
+    "mpaaRating": "PG-13",
+    "scoreRating": 8.1,
+    "directorLastName": "Mangold"
+  },
+  {
+    "id": 766,
+    "title": "Glass",
+    "year": 2019,
+    "runtimeMinutes": 129,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.6,
+    "directorLastName": "Shyamalan"
+  },
+  {
+    "id": 767,
+    "title": "Godzilla: King of the Monsters",
+    "year": 2019,
+    "runtimeMinutes": 132,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.0,
+    "directorLastName": "Dougherty"
+  },
+  {
+    "id": 768,
+    "title": "It: Chapter Two",
+    "year": 2019,
+    "runtimeMinutes": 169,
+    "mpaaRating": "R",
+    "scoreRating": 6.5,
+    "directorLastName": "Muschietti"
+  },
+  {
+    "id": 769,
+    "title": "Jojo Rabbit",
+    "year": 2019,
+    "runtimeMinutes": 108,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.9,
+    "directorLastName": "Waititi"
+  },
+  {
+    "id": 770,
+    "title": "Joker",
+    "year": 2019,
+    "runtimeMinutes": 122,
+    "mpaaRating": "R",
+    "scoreRating": 8.3,
+    "directorLastName": "Phillips"
+  },
+  {
+    "id": 771,
+    "title": "Jumanji: The Next Level",
+    "year": 2019,
+    "runtimeMinutes": 123,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.6,
+    "directorLastName": "Kasdan"
+  },
+  {
+    "id": 772,
+    "title": "Knives Out",
+    "year": 2019,
+    "runtimeMinutes": 130,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.9,
+    "directorLastName": "Johnson"
+  },
+  {
+    "id": 773,
+    "title": "Little Women",
+    "year": 2019,
+    "runtimeMinutes": 135,
+    "mpaaRating": "PG",
+    "scoreRating": 7.7,
+    "directorLastName": "Gerwig"
+  },
+  {
+    "id": 774,
+    "title": "Maleficent: Mistress of Evil",
+    "year": 2019,
+    "runtimeMinutes": 119,
+    "mpaaRating": "PG",
+    "scoreRating": 6.6,
+    "directorLastName": "Rønning"
+  },
+  {
+    "id": 775,
+    "title": "Marriage Story",
+    "year": 2019,
+    "runtimeMinutes": 137,
+    "mpaaRating": "R",
+    "scoreRating": 7.9,
+    "directorLastName": "Baumbach"
+  },
+  {
+    "id": 776,
+    "title": "Men in Black: International",
+    "year": 2019,
+    "runtimeMinutes": 114,
+    "mpaaRating": "PG-13",
+    "scoreRating": 5.6,
+    "directorLastName": "Gray"
+  },
+  {
+    "id": 777,
+    "title": "Midsommar",
+    "year": 2019,
+    "runtimeMinutes": 148,
+    "mpaaRating": "R",
+    "scoreRating": 7.1,
+    "directorLastName": "Aster"
+  },
+  {
+    "id": 778,
+    "title": "Once Upon a Time in... Hollywood",
+    "year": 2019,
+    "runtimeMinutes": 161,
+    "mpaaRating": "R",
+    "scoreRating": 7.6,
+    "directorLastName": "Tarantino"
+  },
+  {
+    "id": 779,
+    "title": "Parasite",
+    "year": 2019,
+    "runtimeMinutes": 132,
+    "mpaaRating": "R",
+    "scoreRating": 8.5,
+    "directorLastName": "Bong"
+  },
+  {
+    "id": 780,
+    "title": "Pokémon: Detective Pikachu",
+    "year": 2019,
+    "runtimeMinutes": 104,
+    "mpaaRating": "PG",
+    "scoreRating": 6.5,
+    "directorLastName": "Letterman"
+  },
+  {
+    "id": 781,
+    "title": "Portrait of a Lady on Fire",
+    "year": 2019,
+    "runtimeMinutes": 122,
+    "mpaaRating": "R",
+    "scoreRating": 8.0,
+    "directorLastName": "Sciamma"
+  },
+  {
+    "id": 782,
+    "title": "Ready or Not",
+    "year": 2019,
+    "runtimeMinutes": 95,
+    "mpaaRating": "R",
+    "scoreRating": 6.9,
+    "directorLastName": "Gillett"
+  },
+  {
+    "id": 783,
+    "title": "Rocketman",
+    "year": 2019,
+    "runtimeMinutes": 121,
+    "mpaaRating": "R",
+    "scoreRating": 7.3,
+    "directorLastName": "Fletcher"
+  },
+  {
+    "id": 784,
+    "title": "Shazam!",
+    "year": 2019,
+    "runtimeMinutes": 132,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.0,
+    "directorLastName": "Sandberg"
+  },
+  {
+    "id": 785,
+    "title": "Sound of Metal",
+    "year": 2019,
+    "runtimeMinutes": 120,
+    "mpaaRating": "R",
+    "scoreRating": 7.7,
+    "directorLastName": "Marder"
+  },
+  {
+    "id": 786,
+    "title": "Spider-Man: Far from Home",
+    "year": 2019,
+    "runtimeMinutes": 129,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.3,
+    "directorLastName": "Watts"
+  },
+  {
+    "id": 787,
+    "title": "Star Wars: Episode IX - The Rise of Skywalker",
+    "year": 2019,
+    "runtimeMinutes": 141,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.3,
+    "directorLastName": "Abrams"
+  },
+  {
+    "id": 788,
+    "title": "Terminator: Dark Fate",
+    "year": 2019,
+    "runtimeMinutes": 128,
+    "mpaaRating": "R",
+    "scoreRating": 6.2,
+    "directorLastName": "Miller"
+  },
+  {
+    "id": 789,
+    "title": "The Gentlemen",
+    "year": 2019,
+    "runtimeMinutes": 113,
+    "mpaaRating": "R",
+    "scoreRating": 7.8,
+    "directorLastName": "Ritchie"
+  },
+  {
+    "id": 790,
+    "title": "The Irishman",
+    "year": 2019,
+    "runtimeMinutes": 209,
+    "mpaaRating": "R",
+    "scoreRating": 7.8,
+    "directorLastName": "Scorsese"
+  },
+  {
+    "id": 791,
+    "title": "The Lighthouse",
+    "year": 2019,
+    "runtimeMinutes": 109,
+    "mpaaRating": "R",
+    "scoreRating": 7.3,
+    "directorLastName": "Eggers"
+  },
+  {
+    "id": 792,
+    "title": "The Lion King",
+    "year": 2019,
+    "runtimeMinutes": 118,
+    "mpaaRating": "PG",
+    "scoreRating": 6.8,
+    "directorLastName": "Favreau"
+  },
+  {
+    "id": 793,
+    "title": "The Two Popes",
+    "year": 2019,
+    "runtimeMinutes": 125,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.6,
+    "directorLastName": "Meirelles"
+  },
+  {
+    "id": 794,
+    "title": "Us",
+    "year": 2019,
+    "runtimeMinutes": 116,
+    "mpaaRating": "R",
+    "scoreRating": 6.8,
+    "directorLastName": "Peele"
+  },
+  {
+    "id": 795,
+    "title": "X-Men: Dark Phoenix",
+    "year": 2019,
+    "runtimeMinutes": 113,
+    "mpaaRating": "PG-13",
+    "scoreRating": 5.7,
+    "directorLastName": "Kinberg"
+  },
+  {
+    "id": 796,
+    "title": "Yesterday",
+    "year": 2019,
+    "runtimeMinutes": 116,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.8,
+    "directorLastName": "Boyle"
+  },
+  {
+    "id": 797,
+    "title": "Zombieland: Double Tap",
+    "year": 2019,
+    "runtimeMinutes": 99,
+    "mpaaRating": "R",
+    "scoreRating": 6.6,
+    "directorLastName": "Fleischer"
+  },
+  {
+    "id": 798,
+    "title": "A Quiet Place Part II",
+    "year": 2020,
+    "runtimeMinutes": 97,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.2,
+    "directorLastName": "Krasinski"
+  },
+  {
+    "id": 799,
+    "title": "Birds of Prey and the Fantabulous Emancipation of One Harley Quinn",
+    "year": 2020,
+    "runtimeMinutes": 109,
+    "mpaaRating": "R",
+    "scoreRating": 6.1,
+    "directorLastName": "Yan"
+  },
+  {
+    "id": 800,
+    "title": "Greyhound",
+    "year": 2020,
+    "runtimeMinutes": 91,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.0,
+    "directorLastName": "Schneider"
+  },
+  {
+    "id": 801,
+    "title": "Hamilton",
+    "year": 2020,
+    "runtimeMinutes": 160,
+    "mpaaRating": "PG-13",
+    "scoreRating": 8.3,
+    "directorLastName": "Kail"
+  },
+  {
+    "id": 802,
+    "title": "I Care a Lot",
+    "year": 2020,
+    "runtimeMinutes": 118,
+    "mpaaRating": "R",
+    "scoreRating": 6.4,
+    "directorLastName": "Blakeson"
+  },
+  {
+    "id": 803,
+    "title": "Love and Monsters",
+    "year": 2020,
+    "runtimeMinutes": 109,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.9,
+    "directorLastName": "Matthews"
+  },
+  {
+    "id": 804,
+    "title": "Minari",
+    "year": 2020,
+    "runtimeMinutes": 115,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.4,
+    "directorLastName": "Chung"
+  },
+  {
+    "id": 805,
+    "title": "Mulan",
+    "year": 2020,
+    "runtimeMinutes": 115,
+    "mpaaRating": "PG-13",
+    "scoreRating": 5.8,
+    "directorLastName": "Caro"
+  },
+  {
+    "id": 806,
+    "title": "Nomadland",
+    "year": 2020,
+    "runtimeMinutes": 107,
+    "mpaaRating": "R",
+    "scoreRating": 7.3,
+    "directorLastName": "Zhao"
+  },
+  {
+    "id": 807,
+    "title": "Onward",
+    "year": 2020,
+    "runtimeMinutes": 102,
+    "mpaaRating": "PG",
+    "scoreRating": 7.3,
+    "directorLastName": "Scanlon"
+  },
+  {
+    "id": 808,
+    "title": "Promising Young Woman",
+    "year": 2020,
+    "runtimeMinutes": 113,
+    "mpaaRating": "R",
+    "scoreRating": 7.5,
+    "directorLastName": "Fennell"
+  },
+  {
+    "id": 809,
+    "title": "Sonic the Hedgehog",
+    "year": 2020,
+    "runtimeMinutes": 99,
+    "mpaaRating": "PG",
+    "scoreRating": 6.5,
+    "directorLastName": "Fowler"
+  },
+  {
+    "id": 810,
+    "title": "Tenet",
+    "year": 2020,
+    "runtimeMinutes": 150,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.3,
+    "directorLastName": "Nolan"
+  },
+  {
+    "id": 811,
+    "title": "The Devil All the Time",
+    "year": 2020,
+    "runtimeMinutes": 138,
+    "mpaaRating": "R",
+    "scoreRating": 7.1,
+    "directorLastName": "Campos"
+  },
+  {
+    "id": 812,
+    "title": "The Hunt",
+    "year": 2020,
+    "runtimeMinutes": 90,
+    "mpaaRating": "R",
+    "scoreRating": 6.6,
+    "directorLastName": "Zobel"
+  },
+  {
+    "id": 813,
+    "title": "The Invisible Man",
+    "year": 2020,
+    "runtimeMinutes": 124,
+    "mpaaRating": "R",
+    "scoreRating": 7.1,
+    "directorLastName": "Whannell"
+  },
+  {
+    "id": 814,
+    "title": "The Trial of the Chicago 7",
+    "year": 2020,
+    "runtimeMinutes": 129,
+    "mpaaRating": "R",
+    "scoreRating": 7.7,
+    "directorLastName": "Sorkin"
+  },
+  {
+    "id": 815,
+    "title": "Army of the Dead",
+    "year": 2021,
+    "runtimeMinutes": 148,
+    "mpaaRating": "R",
+    "scoreRating": 5.8,
+    "directorLastName": "Snyder"
+  },
+  {
+    "id": 816,
+    "title": "Belfast",
+    "year": 2021,
+    "runtimeMinutes": 98,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.2,
+    "directorLastName": "Branagh"
+  },
+  {
+    "id": 817,
+    "title": "Black Widow",
+    "year": 2021,
+    "runtimeMinutes": 134,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.6,
+    "directorLastName": "Shortland"
+  },
+  {
+    "id": 818,
+    "title": "CODA",
+    "year": 2021,
+    "runtimeMinutes": 111,
+    "mpaaRating": "PG-13",
+    "scoreRating": 8.0,
+    "directorLastName": "Heder"
+  },
+  {
+    "id": 819,
+    "title": "Cruella",
+    "year": 2021,
+    "runtimeMinutes": 134,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.3,
+    "directorLastName": "Gillespie"
+  },
+  {
+    "id": 820,
+    "title": "Don't Look Up",
+    "year": 2021,
+    "runtimeMinutes": 138,
+    "mpaaRating": "R",
+    "scoreRating": 7.1,
+    "directorLastName": "McKay"
+  },
+  {
+    "id": 821,
+    "title": "Dune: Part One",
+    "year": 2021,
+    "runtimeMinutes": 155,
+    "mpaaRating": "PG-13",
+    "scoreRating": 8.0,
+    "directorLastName": "Villeneuve"
+  },
+  {
+    "id": 822,
+    "title": "Eternals",
+    "year": 2021,
+    "runtimeMinutes": 156,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.2,
+    "directorLastName": "Zhao"
+  },
+  {
+    "id": 823,
+    "title": "F9: The Fast Saga",
+    "year": 2021,
+    "runtimeMinutes": 143,
+    "mpaaRating": "PG-13",
+    "scoreRating": 5.2,
+    "directorLastName": "Lin"
+  },
+  {
+    "id": 824,
+    "title": "Free Guy",
+    "year": 2021,
+    "runtimeMinutes": 115,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.1,
+    "directorLastName": "Levy"
+  },
+  {
+    "id": 825,
+    "title": "Ghostbusters: Afterlife",
+    "year": 2021,
+    "runtimeMinutes": 124,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.0,
+    "directorLastName": "Reitman"
+  },
+  {
+    "id": 826,
+    "title": "Godzilla vs. Kong",
+    "year": 2021,
+    "runtimeMinutes": 113,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.3,
+    "directorLastName": "Wingard"
+  },
+  {
+    "id": 827,
+    "title": "House of Gucci",
+    "year": 2021,
+    "runtimeMinutes": 158,
+    "mpaaRating": "R",
+    "scoreRating": 6.6,
+    "directorLastName": "Scott"
+  },
+  {
+    "id": 828,
+    "title": "Jungle Cruise",
+    "year": 2021,
+    "runtimeMinutes": 127,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.5,
+    "directorLastName": "Collet"
+  },
+  {
+    "id": 829,
+    "title": "King Richard",
+    "year": 2021,
+    "runtimeMinutes": 144,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.5,
+    "directorLastName": "Green"
+  },
+  {
+    "id": 830,
+    "title": "Last Night in Soho",
+    "year": 2021,
+    "runtimeMinutes": 116,
+    "mpaaRating": "R",
+    "scoreRating": 7.0,
+    "directorLastName": "Wright"
+  },
+  {
+    "id": 831,
+    "title": "Licorice Pizza",
+    "year": 2021,
+    "runtimeMinutes": 133,
+    "mpaaRating": "R",
+    "scoreRating": 7.1,
+    "directorLastName": "Anderson"
+  },
+  {
+    "id": 832,
+    "title": "Mortal Kombat",
+    "year": 2021,
+    "runtimeMinutes": 110,
+    "mpaaRating": "R",
+    "scoreRating": 6.1,
+    "directorLastName": "McQuoid"
+  },
+  {
+    "id": 833,
+    "title": "Nightmare Alley",
+    "year": 2021,
+    "runtimeMinutes": 150,
+    "mpaaRating": "R",
+    "scoreRating": 7.0,
+    "directorLastName": "del Toro"
+  },
+  {
+    "id": 834,
+    "title": "No Time to Die",
+    "year": 2021,
+    "runtimeMinutes": 163,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.3,
+    "directorLastName": "Fukunaga"
+  },
+  {
+    "id": 835,
+    "title": "Old",
+    "year": 2021,
+    "runtimeMinutes": 108,
+    "mpaaRating": "PG-13",
+    "scoreRating": 5.8,
+    "directorLastName": "Shyamalan"
+  },
+  {
+    "id": 836,
+    "title": "Red Notice",
+    "year": 2021,
+    "runtimeMinutes": 118,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.3,
+    "directorLastName": "Thurber"
+  },
+  {
+    "id": 837,
+    "title": "Shang-Chi and the Legend of the Ten Rings",
+    "year": 2021,
+    "runtimeMinutes": 132,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.3,
+    "directorLastName": "Cretton"
+  },
+  {
+    "id": 838,
+    "title": "Spider-Man: No Way Home",
+    "year": 2021,
+    "runtimeMinutes": 148,
+    "mpaaRating": "PG-13",
+    "scoreRating": 8.1,
+    "directorLastName": "Watts"
+  },
+  {
+    "id": 839,
+    "title": "The Conjuring: The Devil Made Me Do It",
+    "year": 2021,
+    "runtimeMinutes": 112,
+    "mpaaRating": "R",
+    "scoreRating": 6.2,
+    "directorLastName": "Chaves"
+  },
+  {
+    "id": 840,
+    "title": "The French Dispatch",
+    "year": 2021,
+    "runtimeMinutes": 107,
+    "mpaaRating": "R",
+    "scoreRating": 7.1,
+    "directorLastName": "Anderson"
+  },
+  {
+    "id": 841,
+    "title": "The Green Knight",
+    "year": 2021,
+    "runtimeMinutes": 130,
+    "mpaaRating": "R",
+    "scoreRating": 6.5,
+    "directorLastName": "Lowery"
+  },
+  {
+    "id": 842,
+    "title": "The Guilty",
+    "year": 2021,
+    "runtimeMinutes": 90,
+    "mpaaRating": "R",
+    "scoreRating": 6.3,
+    "directorLastName": "Fuqua"
+  },
+  {
+    "id": 843,
+    "title": "The King's Man",
+    "year": 2021,
+    "runtimeMinutes": 131,
+    "mpaaRating": "R",
+    "scoreRating": 6.3,
+    "directorLastName": "Vaughn"
+  },
+  {
+    "id": 844,
+    "title": "The Last Duel",
+    "year": 2021,
+    "runtimeMinutes": 152,
+    "mpaaRating": "R",
+    "scoreRating": 7.3,
+    "directorLastName": "Scott"
+  },
+  {
+    "id": 845,
+    "title": "The Little Things",
+    "year": 2021,
+    "runtimeMinutes": 128,
+    "mpaaRating": "R",
+    "scoreRating": 6.3,
+    "directorLastName": "Hancock"
+  },
+  {
+    "id": 846,
+    "title": "The Matrix Resurrections",
+    "year": 2021,
+    "runtimeMinutes": 148,
+    "mpaaRating": "R",
+    "scoreRating": 5.6,
+    "directorLastName": "Wachowski"
+  },
+  {
+    "id": 847,
+    "title": "The Power of the Dog",
+    "year": 2021,
+    "runtimeMinutes": 126,
+    "mpaaRating": "R",
+    "scoreRating": 6.8,
+    "directorLastName": "Campion"
+  },
+  {
+    "id": 848,
+    "title": "The Suicide Squad",
+    "year": 2021,
+    "runtimeMinutes": 132,
+    "mpaaRating": "R",
+    "scoreRating": 7.2,
+    "directorLastName": "Gunn"
+  },
+  {
+    "id": 849,
+    "title": "The Tomorrow War",
+    "year": 2021,
+    "runtimeMinutes": 138,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.6,
+    "directorLastName": "McKay"
+  },
+  {
+    "id": 850,
+    "title": "The Worst Person in the World",
+    "year": 2021,
+    "runtimeMinutes": 128,
+    "mpaaRating": "R",
+    "scoreRating": 7.7,
+    "directorLastName": "Trier"
+  },
+  {
+    "id": 851,
+    "title": "Venom: Let There Be Carnage",
+    "year": 2021,
+    "runtimeMinutes": 97,
+    "mpaaRating": "PG-13",
+    "scoreRating": 5.9,
+    "directorLastName": "Serkis"
+  },
+  {
+    "id": 852,
+    "title": "West Side Story",
+    "year": 2021,
+    "runtimeMinutes": 156,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.1,
+    "directorLastName": "Spielberg"
+  },
+  {
+    "id": 853,
+    "title": "Wrath of Man",
+    "year": 2021,
+    "runtimeMinutes": 119,
+    "mpaaRating": "R",
+    "scoreRating": 7.1,
+    "directorLastName": "Ritchie"
+  },
+  {
+    "id": 854,
+    "title": "Zack Snyder's Justice League",
+    "year": 2021,
+    "runtimeMinutes": 242,
+    "mpaaRating": "R",
+    "scoreRating": 7.9,
+    "directorLastName": "Snyder"
+  },
+  {
+    "id": 855,
+    "title": "A Man Called Otto",
+    "year": 2022,
+    "runtimeMinutes": 126,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.5,
+    "directorLastName": "Forster"
+  },
+  {
+    "id": 856,
+    "title": "Aftersun",
+    "year": 2022,
+    "runtimeMinutes": 102,
+    "mpaaRating": "R",
+    "scoreRating": 7.6,
+    "directorLastName": "Wells"
+  },
+  {
+    "id": 857,
+    "title": "All Quiet on the Western Front",
+    "year": 2022,
+    "runtimeMinutes": 148,
+    "mpaaRating": "R",
+    "scoreRating": 7.8,
+    "directorLastName": "Berger"
+  },
+  {
+    "id": 858,
+    "title": "Avatar: The Way of Water",
+    "year": 2022,
+    "runtimeMinutes": 192,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.5,
+    "directorLastName": "Cameron"
+  },
+  {
+    "id": 859,
+    "title": "Babylon",
+    "year": 2022,
+    "runtimeMinutes": 189,
+    "mpaaRating": "R",
+    "scoreRating": 7.1,
+    "directorLastName": "Chazelle"
+  },
+  {
+    "id": 860,
+    "title": "Barbarian",
+    "year": 2022,
+    "runtimeMinutes": 102,
+    "mpaaRating": "R",
+    "scoreRating": 7.0,
+    "directorLastName": "Cregger"
+  },
+  {
+    "id": 861,
+    "title": "Black Adam",
+    "year": 2022,
+    "runtimeMinutes": 125,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.1,
+    "directorLastName": "Collet"
+  },
+  {
+    "id": 862,
+    "title": "Black Panther: Wakanda Forever",
+    "year": 2022,
+    "runtimeMinutes": 161,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.6,
+    "directorLastName": "Coogler"
+  },
+  {
+    "id": 863,
+    "title": "Bullet Train",
+    "year": 2022,
+    "runtimeMinutes": 127,
+    "mpaaRating": "R",
+    "scoreRating": 7.3,
+    "directorLastName": "Leitch"
+  },
+  {
+    "id": 864,
+    "title": "Death on the Nile",
+    "year": 2022,
+    "runtimeMinutes": 127,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.3,
+    "directorLastName": "Branagh"
+  },
+  {
+    "id": 865,
+    "title": "Doctor Strange in the Multiverse of Madness",
+    "year": 2022,
+    "runtimeMinutes": 126,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.8,
+    "directorLastName": "Raimi"
+  },
+  {
+    "id": 866,
+    "title": "Don't Worry Darling",
+    "year": 2022,
+    "runtimeMinutes": 123,
+    "mpaaRating": "R",
+    "scoreRating": 6.3,
+    "directorLastName": "Cockburn"
+  },
+  {
+    "id": 867,
+    "title": "Elvis",
+    "year": 2022,
+    "runtimeMinutes": 159,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.3,
+    "directorLastName": "Luhrmann"
+  },
+  {
+    "id": 868,
+    "title": "Fantastic Beasts: The Secrets of Dumbledore",
+    "year": 2022,
+    "runtimeMinutes": 142,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.2,
+    "directorLastName": "Yates"
+  },
+  {
+    "id": 869,
+    "title": "Glass Onion",
+    "year": 2022,
+    "runtimeMinutes": 139,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.1,
+    "directorLastName": "Johnson"
+  },
+  {
+    "id": 870,
+    "title": "Jurassic World: Dominion",
+    "year": 2022,
+    "runtimeMinutes": 147,
+    "mpaaRating": "PG-13",
+    "scoreRating": 5.6,
+    "directorLastName": "Trevorrow"
+  },
+  {
+    "id": 871,
+    "title": "Morbius",
+    "year": 2022,
+    "runtimeMinutes": 104,
+    "mpaaRating": "PG-13",
+    "scoreRating": 5.1,
+    "directorLastName": "Espinosa"
+  },
+  {
+    "id": 872,
+    "title": "Nope",
+    "year": 2022,
+    "runtimeMinutes": 130,
+    "mpaaRating": "R",
+    "scoreRating": 6.8,
+    "directorLastName": "Peele"
+  },
+  {
+    "id": 873,
+    "title": "Pearl",
+    "year": 2022,
+    "runtimeMinutes": 103,
+    "mpaaRating": "R",
+    "scoreRating": 7.0,
+    "directorLastName": "West"
+  },
+  {
+    "id": 874,
+    "title": "Prey",
+    "year": 2022,
+    "runtimeMinutes": 100,
+    "mpaaRating": "R",
+    "scoreRating": 7.1,
+    "directorLastName": "Trachtenberg"
+  },
+  {
+    "id": 875,
+    "title": "Scream",
+    "year": 2022,
+    "runtimeMinutes": 114,
+    "mpaaRating": "R",
+    "scoreRating": 6.3,
+    "directorLastName": "Gillett"
+  },
+  {
+    "id": 876,
+    "title": "Sisu",
+    "year": 2022,
+    "runtimeMinutes": 91,
+    "mpaaRating": "R",
+    "scoreRating": 6.9,
+    "directorLastName": "Helander"
+  },
+  {
+    "id": 877,
+    "title": "Smile",
+    "year": 2022,
+    "runtimeMinutes": 115,
+    "mpaaRating": "R",
+    "scoreRating": 6.5,
+    "directorLastName": "Finn"
+  },
+  {
+    "id": 878,
+    "title": "The Adam Project",
+    "year": 2022,
+    "runtimeMinutes": 106,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.7,
+    "directorLastName": "Levy"
+  },
+  {
+    "id": 879,
+    "title": "The Banshees of Inisherin",
+    "year": 2022,
+    "runtimeMinutes": 114,
+    "mpaaRating": "R",
+    "scoreRating": 7.6,
+    "directorLastName": "McDonagh"
+  },
+  {
+    "id": 880,
+    "title": "The Batman",
+    "year": 2022,
+    "runtimeMinutes": 176,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.8,
+    "directorLastName": "Reeves"
+  },
+  {
+    "id": 881,
+    "title": "The Fabelmans",
+    "year": 2022,
+    "runtimeMinutes": 151,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.5,
+    "directorLastName": "Spielberg"
+  },
+  {
+    "id": 882,
+    "title": "The Menu",
+    "year": 2022,
+    "runtimeMinutes": 107,
+    "mpaaRating": "R",
+    "scoreRating": 7.1,
+    "directorLastName": "Mylod"
+  },
+  {
+    "id": 883,
+    "title": "The Northman",
+    "year": 2022,
+    "runtimeMinutes": 137,
+    "mpaaRating": "R",
+    "scoreRating": 7.0,
+    "directorLastName": "Eggers"
+  },
+  {
+    "id": 884,
+    "title": "The Pale Blue Eye",
+    "year": 2022,
+    "runtimeMinutes": 128,
+    "mpaaRating": "R",
+    "scoreRating": 6.6,
+    "directorLastName": "Cooper"
+  },
+  {
+    "id": 885,
+    "title": "The Whale",
+    "year": 2022,
+    "runtimeMinutes": 117,
+    "mpaaRating": "R",
+    "scoreRating": 7.6,
+    "directorLastName": "Aronofsky"
+  },
+  {
+    "id": 886,
+    "title": "Thor: Love and Thunder",
+    "year": 2022,
+    "runtimeMinutes": 118,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.1,
+    "directorLastName": "Waititi"
+  },
+  {
+    "id": 887,
+    "title": "Top Gun: Maverick",
+    "year": 2022,
+    "runtimeMinutes": 130,
+    "mpaaRating": "PG-13",
+    "scoreRating": 8.2,
+    "directorLastName": "Kosinski"
+  },
+  {
+    "id": 888,
+    "title": "Triangle of Sadness",
+    "year": 2022,
+    "runtimeMinutes": 147,
+    "mpaaRating": "R",
+    "scoreRating": 7.2,
+    "directorLastName": "Östlund"
+  },
+  {
+    "id": 889,
+    "title": "Uncharted",
+    "year": 2022,
+    "runtimeMinutes": 116,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.3,
+    "directorLastName": "Fleischer"
+  },
+  {
+    "id": 890,
+    "title": "Where the Crawdads Sing",
+    "year": 2022,
+    "runtimeMinutes": 125,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.2,
+    "directorLastName": "Newman"
+  },
+  {
+    "id": 891,
+    "title": "X",
+    "year": 2022,
+    "runtimeMinutes": 105,
+    "mpaaRating": "R",
+    "scoreRating": 6.5,
+    "directorLastName": "West"
+  },
+  {
+    "id": 892,
+    "title": "A Haunting in Venice",
+    "year": 2023,
+    "runtimeMinutes": 103,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.5,
+    "directorLastName": "Branagh"
+  },
+  {
+    "id": 893,
+    "title": "Air",
+    "year": 2023,
+    "runtimeMinutes": 111,
+    "mpaaRating": "R",
+    "scoreRating": 7.4,
+    "directorLastName": "Affleck"
+  },
+  {
+    "id": 894,
+    "title": "American Fiction",
+    "year": 2023,
+    "runtimeMinutes": 117,
+    "mpaaRating": "R",
+    "scoreRating": 7.5,
+    "directorLastName": "Jefferson"
+  },
+  {
+    "id": 895,
+    "title": "Anatomy of a Fall",
+    "year": 2023,
+    "runtimeMinutes": 151,
+    "mpaaRating": "R",
+    "scoreRating": 7.6,
+    "directorLastName": "Triet"
+  },
+  {
+    "id": 896,
+    "title": "Ant-Man and the Wasp: Quantumania",
+    "year": 2023,
+    "runtimeMinutes": 124,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.0,
+    "directorLastName": "Reed"
+  },
+  {
+    "id": 897,
+    "title": "Anyone But You",
+    "year": 2023,
+    "runtimeMinutes": 103,
+    "mpaaRating": "R",
+    "scoreRating": 6.1,
+    "directorLastName": "Gluck"
+  },
+  {
+    "id": 898,
+    "title": "Asteroid City",
+    "year": 2023,
+    "runtimeMinutes": 105,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.4,
+    "directorLastName": "Anderson"
+  },
+  {
+    "id": 899,
+    "title": "Barbie",
+    "year": 2023,
+    "runtimeMinutes": 114,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.8,
+    "directorLastName": "Gerwig"
+  },
+  {
+    "id": 900,
+    "title": "Evil Dead Rise",
+    "year": 2023,
+    "runtimeMinutes": 96,
+    "mpaaRating": "R",
+    "scoreRating": 6.5,
+    "directorLastName": "Cronin"
+  },
+  {
+    "id": 901,
+    "title": "Extraction II",
+    "year": 2023,
+    "runtimeMinutes": 122,
+    "mpaaRating": "R",
+    "scoreRating": 7.0,
+    "directorLastName": "Hargrave"
+  },
+  {
+    "id": 902,
+    "title": "Fast X",
+    "year": 2023,
+    "runtimeMinutes": 141,
+    "mpaaRating": "PG-13",
+    "scoreRating": 5.7,
+    "directorLastName": "Leterrier"
+  },
+  {
+    "id": 903,
+    "title": "Five Nights at Freddy's",
+    "year": 2023,
+    "runtimeMinutes": 109,
+    "mpaaRating": "PG-13",
+    "scoreRating": 5.4,
+    "directorLastName": "Tammi"
+  },
+  {
+    "id": 904,
+    "title": "Godzilla Minus One",
+    "year": 2023,
+    "runtimeMinutes": 124,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.6,
+    "directorLastName": "Yamazaki"
+  },
+  {
+    "id": 905,
+    "title": "Guardians of the Galaxy Vol. 3",
+    "year": 2023,
+    "runtimeMinutes": 150,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.9,
+    "directorLastName": "Gunn"
+  },
+  {
+    "id": 906,
+    "title": "Hit Man",
+    "year": 2023,
+    "runtimeMinutes": 115,
+    "mpaaRating": "R",
+    "scoreRating": 6.8,
+    "directorLastName": "Linklater"
+  },
+  {
+    "id": 907,
+    "title": "Indiana Jones and the Dial of Destiny",
+    "year": 2023,
+    "runtimeMinutes": 154,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.5,
+    "directorLastName": "Mangold"
+  },
+  {
+    "id": 908,
+    "title": "Killers of the Flower Moon",
+    "year": 2023,
+    "runtimeMinutes": 206,
+    "mpaaRating": "R",
+    "scoreRating": 7.5,
+    "directorLastName": "Scorsese"
+  },
+  {
+    "id": 909,
+    "title": "Knock at the Cabin",
+    "year": 2023,
+    "runtimeMinutes": 100,
+    "mpaaRating": "R",
+    "scoreRating": 6.1,
+    "directorLastName": "Shyamalan"
+  },
+  {
+    "id": 910,
+    "title": "Leave the World Behind",
+    "year": 2023,
+    "runtimeMinutes": 138,
+    "mpaaRating": "R",
+    "scoreRating": 6.4,
+    "directorLastName": "Esmail"
+  },
+  {
+    "id": 911,
+    "title": "Mission: Impossible - Dead Reckoning Part One",
+    "year": 2023,
+    "runtimeMinutes": 163,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.6,
+    "directorLastName": "McQuarrie"
+  },
+  {
+    "id": 912,
+    "title": "Napoleon",
+    "year": 2023,
+    "runtimeMinutes": 158,
+    "mpaaRating": "R",
+    "scoreRating": 6.3,
+    "directorLastName": "Scott"
+  },
+  {
+    "id": 913,
+    "title": "Oppenheimer",
+    "year": 2023,
+    "runtimeMinutes": 180,
+    "mpaaRating": "R",
+    "scoreRating": 8.2,
+    "directorLastName": "Nolan"
+  },
+  {
+    "id": 914,
+    "title": "Past Lives",
+    "year": 2023,
+    "runtimeMinutes": 105,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.8,
+    "directorLastName": "Song"
+  },
+  {
+    "id": 915,
+    "title": "Poor Things",
+    "year": 2023,
+    "runtimeMinutes": 141,
+    "mpaaRating": "R",
+    "scoreRating": 7.7,
+    "directorLastName": "Lanthimos"
+  },
+  {
+    "id": 916,
+    "title": "Saltburn",
+    "year": 2023,
+    "runtimeMinutes": 130,
+    "mpaaRating": "R",
+    "scoreRating": 7.0,
+    "directorLastName": "Fennell"
+  },
+  {
+    "id": 917,
+    "title": "Scream VI",
+    "year": 2023,
+    "runtimeMinutes": 122,
+    "mpaaRating": "R",
+    "scoreRating": 6.4,
+    "directorLastName": "Gillett"
+  },
+  {
+    "id": 918,
+    "title": "Shazam! Fury of the Gods",
+    "year": 2023,
+    "runtimeMinutes": 130,
+    "mpaaRating": "PG-13",
+    "scoreRating": 5.9,
+    "directorLastName": "Sandberg"
+  },
+  {
+    "id": 919,
+    "title": "Society of the Snow",
+    "year": 2023,
+    "runtimeMinutes": 144,
+    "mpaaRating": "R",
+    "scoreRating": 7.8,
+    "directorLastName": "García"
+  },
+  {
+    "id": 920,
+    "title": "Sound of Freedom",
+    "year": 2023,
+    "runtimeMinutes": 131,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.6,
+    "directorLastName": "Gómez"
+  },
+  {
+    "id": 921,
+    "title": "The Covenant",
+    "year": 2023,
+    "runtimeMinutes": 123,
+    "mpaaRating": "R",
+    "scoreRating": 7.5,
+    "directorLastName": "Ritchie"
+  },
+  {
+    "id": 922,
+    "title": "The Creator",
+    "year": 2023,
+    "runtimeMinutes": 133,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.7,
+    "directorLastName": "Edwards"
+  },
+  {
+    "id": 923,
+    "title": "The Equalizer 3",
+    "year": 2023,
+    "runtimeMinutes": 109,
+    "mpaaRating": "R",
+    "scoreRating": 6.8,
+    "directorLastName": "Fuqua"
+  },
+  {
+    "id": 924,
+    "title": "The Flash",
+    "year": 2023,
+    "runtimeMinutes": 144,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.6,
+    "directorLastName": "Muschietti"
+  },
+  {
+    "id": 925,
+    "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+    "year": 2023,
+    "runtimeMinutes": 157,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.6,
+    "directorLastName": "Lawrence"
+  },
+  {
+    "id": 926,
+    "title": "The Killer",
+    "year": 2023,
+    "runtimeMinutes": 118,
+    "mpaaRating": "R",
+    "scoreRating": 6.7,
+    "directorLastName": "Fincher"
+  },
+  {
+    "id": 927,
+    "title": "The Little Mermaid",
+    "year": 2023,
+    "runtimeMinutes": 135,
+    "mpaaRating": "PG",
+    "scoreRating": 7.2,
+    "directorLastName": "Marshall"
+  },
+  {
+    "id": 928,
+    "title": "The Marvels",
+    "year": 2023,
+    "runtimeMinutes": 105,
+    "mpaaRating": "PG-13",
+    "scoreRating": 5.4,
+    "directorLastName": "DaCosta"
+  },
+  {
+    "id": 929,
+    "title": "The Zone of Interest",
+    "year": 2023,
+    "runtimeMinutes": 105,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.3,
+    "directorLastName": "Glazer"
+  },
+  {
+    "id": 930,
+    "title": "Transformers: Rise of the Beasts",
+    "year": 2023,
+    "runtimeMinutes": 127,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.0,
+    "directorLastName": "Caple"
+  },
+  {
+    "id": 931,
+    "title": "Wonka",
+    "year": 2023,
+    "runtimeMinutes": 116,
+    "mpaaRating": "PG",
+    "scoreRating": 6.9,
+    "directorLastName": "King"
+  },
+  {
+    "id": 932,
+    "title": "A Real Pain",
+    "year": 2024,
+    "runtimeMinutes": 90,
+    "mpaaRating": "R",
+    "scoreRating": 7.0,
+    "directorLastName": "Eisenberg"
+  },
+  {
+    "id": 933,
+    "title": "Alien: Romulus",
+    "year": 2024,
+    "runtimeMinutes": 119,
+    "mpaaRating": "R",
+    "scoreRating": 7.1,
+    "directorLastName": "Álvarez"
+  },
+  {
+    "id": 934,
+    "title": "Anora",
+    "year": 2024,
+    "runtimeMinutes": 139,
+    "mpaaRating": "R",
+    "scoreRating": 7.4,
+    "directorLastName": "Baker"
+  },
+  {
+    "id": 935,
+    "title": "Beetlejuice Beetlejuice",
+    "year": 2024,
+    "runtimeMinutes": 105,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.6,
+    "directorLastName": "Burton"
+  },
+  {
+    "id": 936,
+    "title": "Blink Twice",
+    "year": 2024,
+    "runtimeMinutes": 102,
+    "mpaaRating": "R",
+    "scoreRating": 6.5,
+    "directorLastName": "Kravitz"
+  },
+  {
+    "id": 937,
+    "title": "Carry-On",
+    "year": 2024,
+    "runtimeMinutes": 119,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.5,
+    "directorLastName": "Collet"
+  },
+  {
+    "id": 938,
+    "title": "Challengers",
+    "year": 2024,
+    "runtimeMinutes": 131,
+    "mpaaRating": "R",
+    "scoreRating": 7.0,
+    "directorLastName": "Guadagnino"
+  },
+  {
+    "id": 939,
+    "title": "Civil War",
+    "year": 2024,
+    "runtimeMinutes": 109,
+    "mpaaRating": "R",
+    "scoreRating": 7.0,
+    "directorLastName": "Garland"
+  },
+  {
+    "id": 940,
+    "title": "Conclave",
+    "year": 2024,
+    "runtimeMinutes": 120,
+    "mpaaRating": "PG",
+    "scoreRating": 7.4,
+    "directorLastName": "Berger"
+  },
+  {
+    "id": 941,
+    "title": "Deadpool & Wolverine",
+    "year": 2024,
+    "runtimeMinutes": 128,
+    "mpaaRating": "R",
+    "scoreRating": 7.5,
+    "directorLastName": "Levy"
+  },
+  {
+    "id": 942,
+    "title": "Dune: Part Two",
+    "year": 2024,
+    "runtimeMinutes": 166,
+    "mpaaRating": "PG-13",
+    "scoreRating": 8.4,
+    "directorLastName": "Villeneuve"
+  },
+  {
+    "id": 943,
+    "title": "Emilia Pérez",
+    "year": 2024,
+    "runtimeMinutes": 132,
+    "mpaaRating": "R",
+    "scoreRating": 5.3,
+    "directorLastName": "Audiard"
+  },
+  {
+    "id": 944,
+    "title": "Furiosa: A Mad Max Saga",
+    "year": 2024,
+    "runtimeMinutes": 148,
+    "mpaaRating": "R",
+    "scoreRating": 7.4,
+    "directorLastName": "Miller"
+  },
+  {
+    "id": 945,
+    "title": "Gladiator II",
+    "year": 2024,
+    "runtimeMinutes": 148,
+    "mpaaRating": "R",
+    "scoreRating": 6.4,
+    "directorLastName": "Scott"
+  },
+  {
+    "id": 946,
+    "title": "Godzilla X Kong: The New Empire",
+    "year": 2024,
+    "runtimeMinutes": 115,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.0,
+    "directorLastName": "Wingard"
+  },
+  {
+    "id": 947,
+    "title": "I'm Still Here",
+    "year": 2024,
+    "runtimeMinutes": 137,
+    "mpaaRating": "PG-13",
+    "scoreRating": 8.1,
+    "directorLastName": "Salles"
+  },
+  {
+    "id": 948,
+    "title": "Joker: Folie à Deux",
+    "year": 2024,
+    "runtimeMinutes": 138,
+    "mpaaRating": "R",
+    "scoreRating": 5.2,
+    "directorLastName": "Phillips"
+  },
+  {
+    "id": 949,
+    "title": "Juror #2",
+    "year": 2024,
+    "runtimeMinutes": 114,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.0,
+    "directorLastName": "Eastwood"
+  },
+  {
+    "id": 950,
+    "title": "Kingdom of the Planet of the Apes",
+    "year": 2024,
+    "runtimeMinutes": 145,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.8,
+    "directorLastName": "Ball"
+  },
+  {
+    "id": 951,
+    "title": "Longlegs",
+    "year": 2024,
+    "runtimeMinutes": 101,
+    "mpaaRating": "R",
+    "scoreRating": 6.5,
+    "directorLastName": "Perkins"
+  },
+  {
+    "id": 952,
+    "title": "Nosferatu",
+    "year": 2024,
+    "runtimeMinutes": 132,
+    "mpaaRating": "R",
+    "scoreRating": 7.1,
+    "directorLastName": "Eggers"
+  },
+  {
+    "id": 953,
+    "title": "Red One",
+    "year": 2024,
+    "runtimeMinutes": 123,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.2,
+    "directorLastName": "Kasdan"
+  },
+  {
+    "id": 954,
+    "title": "Road House",
+    "year": 2024,
+    "runtimeMinutes": 121,
+    "mpaaRating": "R",
+    "scoreRating": 6.2,
+    "directorLastName": "Liman"
+  },
+  {
+    "id": 955,
+    "title": "Smile 2",
+    "year": 2024,
+    "runtimeMinutes": 127,
+    "mpaaRating": "R",
+    "scoreRating": 6.7,
+    "directorLastName": "Finn"
+  },
+  {
+    "id": 956,
+    "title": "Speak No Evil",
+    "year": 2024,
+    "runtimeMinutes": 110,
+    "mpaaRating": "R",
+    "scoreRating": 6.8,
+    "directorLastName": "Watkins"
+  },
+  {
+    "id": 957,
+    "title": "The Beekeeper",
+    "year": 2024,
+    "runtimeMinutes": 105,
+    "mpaaRating": "R",
+    "scoreRating": 6.3,
+    "directorLastName": "Ayer"
+  },
+  {
+    "id": 958,
+    "title": "The Brutalist",
+    "year": 2024,
+    "runtimeMinutes": 216,
+    "mpaaRating": "R",
+    "scoreRating": 7.2,
+    "directorLastName": "Corbet"
+  },
+  {
+    "id": 959,
+    "title": "The Fall Guy",
+    "year": 2024,
+    "runtimeMinutes": 126,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.8,
+    "directorLastName": "Leitch"
+  },
+  {
+    "id": 960,
+    "title": "The Ministry of Ungentlemanly Warfare",
+    "year": 2024,
+    "runtimeMinutes": 122,
+    "mpaaRating": "R",
+    "scoreRating": 6.8,
+    "directorLastName": "Ritchie"
+  },
+  {
+    "id": 961,
+    "title": "Trap",
+    "year": 2024,
+    "runtimeMinutes": 105,
+    "mpaaRating": "PG-13",
+    "scoreRating": 5.8,
+    "directorLastName": "Shyamalan"
+  },
+  {
+    "id": 962,
+    "title": "Twisters",
+    "year": 2024,
+    "runtimeMinutes": 122,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.5,
+    "directorLastName": "Chung"
+  },
+  {
+    "id": 963,
+    "title": "Venom: The Last Dance",
+    "year": 2024,
+    "runtimeMinutes": 110,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.0,
+    "directorLastName": "Marcel"
+  },
+  {
+    "id": 964,
+    "title": "Wicked",
+    "year": 2024,
+    "runtimeMinutes": 160,
+    "mpaaRating": "PG",
+    "scoreRating": 7.3,
+    "directorLastName": "Chu"
+  },
+  {
+    "id": 965,
+    "title": "28 Years Later",
+    "year": 2025,
+    "runtimeMinutes": 115,
+    "mpaaRating": "R",
+    "scoreRating": 6.6,
+    "directorLastName": "Boyle"
+  },
+  {
+    "id": 966,
+    "title": "A Minecraft Movie",
+    "year": 2025,
+    "runtimeMinutes": 101,
+    "mpaaRating": "PG",
+    "scoreRating": 5.6,
+    "directorLastName": "Hess"
+  },
+  {
+    "id": 967,
+    "title": "Avatar: Fire and Ash",
+    "year": 2025,
+    "runtimeMinutes": 197,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.2,
+    "directorLastName": "Cameron"
+  },
+  {
+    "id": 968,
+    "title": "Ballerina",
+    "year": 2025,
+    "runtimeMinutes": 124,
+    "mpaaRating": "R",
+    "scoreRating": 6.8,
+    "directorLastName": "Wiseman"
+  },
+  {
+    "id": 969,
+    "title": "Bugonia",
+    "year": 2025,
+    "runtimeMinutes": 118,
+    "mpaaRating": "R",
+    "scoreRating": 7.4,
+    "directorLastName": "Lanthimos"
+  },
+  {
+    "id": 970,
+    "title": "Companion",
+    "year": 2025,
+    "runtimeMinutes": 97,
+    "mpaaRating": "R",
+    "scoreRating": 6.9,
+    "directorLastName": "Hancock"
+  },
+  {
+    "id": 971,
+    "title": "F1: The Movie",
+    "year": 2025,
+    "runtimeMinutes": 155,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.6,
+    "directorLastName": "Kosinski"
+  },
+  {
+    "id": 972,
+    "title": "Frankenstein",
+    "year": 2025,
+    "runtimeMinutes": 149,
+    "mpaaRating": "R",
+    "scoreRating": 7.4,
+    "directorLastName": "del Toro"
+  },
+  {
+    "id": 973,
+    "title": "Hamnet",
+    "year": 2025,
+    "runtimeMinutes": 125,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.8,
+    "directorLastName": "Zhao"
+  },
+  {
+    "id": 974,
+    "title": "How to Train Your Dragon",
+    "year": 2025,
+    "runtimeMinutes": 125,
+    "mpaaRating": "PG",
+    "scoreRating": 7.7,
+    "directorLastName": "Deblois"
+  },
+  {
+    "id": 975,
+    "title": "Jurassic World: Rebirth",
+    "year": 2025,
+    "runtimeMinutes": 133,
+    "mpaaRating": "PG-13",
+    "scoreRating": 5.8,
+    "directorLastName": "Edwards"
+  },
+  {
+    "id": 976,
+    "title": "Marty Supreme",
+    "year": 2025,
+    "runtimeMinutes": 149,
+    "mpaaRating": "R",
+    "scoreRating": 7.5,
+    "directorLastName": "Safdie"
+  },
+  {
+    "id": 977,
+    "title": "Mickey 17",
+    "year": 2025,
+    "runtimeMinutes": 137,
+    "mpaaRating": "R",
+    "scoreRating": 6.7,
+    "directorLastName": "Bong"
+  },
+  {
+    "id": 978,
+    "title": "Mission: Impossible - The Final Reckoning",
+    "year": 2025,
+    "runtimeMinutes": 169,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.1,
+    "directorLastName": "McQuarrie"
+  },
+  {
+    "id": 979,
+    "title": "Obsession",
+    "year": 2025,
+    "runtimeMinutes": 109,
+    "mpaaRating": "R",
+    "scoreRating": 7.8,
+    "directorLastName": "Barker"
+  },
+  {
+    "id": 980,
+    "title": "One Battle After Another",
+    "year": 2025,
+    "runtimeMinutes": 161,
+    "mpaaRating": "R",
+    "scoreRating": 7.6,
+    "directorLastName": "Anderson"
+  },
+  {
+    "id": 981,
+    "title": "Predator: Badlands",
+    "year": 2025,
+    "runtimeMinutes": 107,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.2,
+    "directorLastName": "Trachtenberg"
+  },
+  {
+    "id": 982,
+    "title": "Sinners",
+    "year": 2025,
+    "runtimeMinutes": 137,
+    "mpaaRating": "R",
+    "scoreRating": 7.5,
+    "directorLastName": "Coogler"
+  },
+  {
+    "id": 983,
+    "title": "Snow White",
+    "year": 2025,
+    "runtimeMinutes": 109,
+    "mpaaRating": "PG",
+    "scoreRating": 2.2,
+    "directorLastName": "Webb"
+  },
+  {
+    "id": 984,
+    "title": "Superman",
+    "year": 2025,
+    "runtimeMinutes": 129,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.0,
+    "directorLastName": "Gunn"
+  },
+  {
+    "id": 985,
+    "title": "The Accountant 2",
+    "year": 2025,
+    "runtimeMinutes": 132,
+    "mpaaRating": "R",
+    "scoreRating": 6.6,
+    "directorLastName": "O'Connor"
+  },
+  {
+    "id": 986,
+    "title": "The Fantastic Four: First Steps",
+    "year": 2025,
+    "runtimeMinutes": 115,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.8,
+    "directorLastName": "Shakman"
+  },
+  {
+    "id": 987,
+    "title": "The Housemaid",
+    "year": 2025,
+    "runtimeMinutes": 131,
+    "mpaaRating": "R",
+    "scoreRating": 6.7,
+    "directorLastName": "Feig"
+  },
+  {
+    "id": 988,
+    "title": "The Long Walk",
+    "year": 2025,
+    "runtimeMinutes": 108,
+    "mpaaRating": "R",
+    "scoreRating": 6.6,
+    "directorLastName": "Lawrence"
+  },
+  {
+    "id": 989,
+    "title": "The Naked Gun",
+    "year": 2025,
+    "runtimeMinutes": 85,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.3,
+    "directorLastName": "Schaffer"
+  },
+  {
+    "id": 990,
+    "title": "Thunderbolts*",
+    "year": 2025,
+    "runtimeMinutes": 127,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.1,
+    "directorLastName": "Schreier"
+  },
+  {
+    "id": 991,
+    "title": "Wake Up Dead Man",
+    "year": 2025,
+    "runtimeMinutes": 144,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.3,
+    "directorLastName": "Johnson"
+  },
+  {
+    "id": 992,
+    "title": "Weapons",
+    "year": 2025,
+    "runtimeMinutes": 128,
+    "mpaaRating": "R",
+    "scoreRating": 7.4,
+    "directorLastName": "Cregger"
+  },
+  {
+    "id": 993,
+    "title": "28 Years Later: The Bone Temple",
+    "year": 2026,
+    "runtimeMinutes": 109,
+    "mpaaRating": "R",
+    "scoreRating": 7.2,
+    "directorLastName": "DaCosta"
+  },
+  {
+    "id": 994,
+    "title": "Backrooms",
+    "year": 2026,
+    "runtimeMinutes": 126,
+    "mpaaRating": "R",
+    "scoreRating": 6.8,
+    "directorLastName": "Parsons"
+  },
+  {
+    "id": 995,
+    "title": "Disclosure Day",
+    "year": 2026,
+    "runtimeMinutes": 145,
+    "mpaaRating": "PG-13",
+    "scoreRating": 6.4,
+    "directorLastName": "Spielberg"
+  },
+  {
+    "id": 996,
+    "title": "Michael",
+    "year": 2026,
+    "runtimeMinutes": 127,
+    "mpaaRating": "PG-13",
+    "scoreRating": 7.4,
+    "directorLastName": "Fuqua"
+  },
+  {
+    "id": 997,
+    "title": "Send Help",
+    "year": 2026,
+    "runtimeMinutes": 113,
+    "mpaaRating": "R",
+    "scoreRating": 6.7,
+    "directorLastName": "Raimi"
+  },
+  {
+    "id": 998,
+    "title": "Spider-Man: Brand New Day",
+    "year": 2026,
+    "runtimeMinutes": 145,
+    "mpaaRating": "PG-13",
+    "scoreRating": 8.0,
+    "directorLastName": "Cretton"
+  },
+  {
+    "id": 999,
+    "title": "The Odyssey",
+    "year": 2026,
+    "runtimeMinutes": 172,
+    "mpaaRating": "R",
+    "scoreRating": 8.4,
+    "directorLastName": "Nolan"
+  },
+  {
+    "id": 1000,
+    "title": "The Rip",
+    "year": 2026,
+    "runtimeMinutes": 113,
+    "mpaaRating": "R",
+    "scoreRating": 6.8,
+    "directorLastName": "Carnahan"
+  }
+]
