@@ -8,7 +8,7 @@ GitHub and the public API will run on Cloudflare Workers.
 
 - Public endpoint: <https://api.cosmic-lab.workers.dev>
 - GitHub repository: <https://github.com/matt22/cosmic-lab-api>
-- Repository visibility: private
+- Repository visibility: public
 - Production branch: `main`
 
 ## Current status
