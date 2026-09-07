@@ -14,7 +14,8 @@ GitHub and the public API will run on Cloudflare Workers.
 ## Current status
 
 Repository and deployment plumbing are connected, and the initial practice
-datasets are complete. The first API endpoint is implemented for airports.
+datasets are complete. Versioned API endpoints are implemented for airports and
+cities.
 
 - The repository contains five validated, flat practice datasets in `data/`:
   movies, cities, US airports, books, and fictional service incidents.
@@ -27,6 +28,8 @@ datasets are complete. The first API endpoint is implemented for airports.
   command must be changed to `uv run pywrangler deploy` before deploying this
   Python Worker.
 - `GET /api/v1/airports` supports state-code filtering and fixed three-record
+  page-based pagination.
+- `GET /api/v1/cities` supports country-code filtering and fixed three-record
   page-based pagination.
 - The Python Worker is deployed at <https://api.cosmic-lab.workers.dev> and the
   versioned airports endpoint has been verified in production.
@@ -91,6 +94,7 @@ Example endpoints may eventually look like:
 GET /api/movies
 GET /api/movies?year=2020&scoreRating_gte=7
 GET /api/cities?countryCode=JP&sort=cityName
+GET /api/v1/cities?country_code=JP
 GET /api/v1/airports?state_code=CA
 GET /api/books?publicationDate_gte=2000-01-01&pages_lte=400
 GET /api/incidents?endTime=null
@@ -118,6 +122,26 @@ Those two values are returned as a comma-delimited `coordinates` string:
 ```json
 {
   "coordinates": "33.9425,-118.408"
+}
+```
+
+## Cities endpoint
+
+The cities endpoint requires a two-letter `country_code`. It accepts an
+optional positive `page`, which defaults to `1`; its page size is fixed at
+three.
+
+```text
+GET /api/v1/cities?country_code=JP
+GET /api/v1/cities?country_code=JP&page=2
+```
+
+City records use snake_case response keys. Like airport records, `latitude`
+and `longitude` are replaced by one comma-delimited `coordinates` string:
+
+```json
+{
+  "coordinates": "35.6762,139.6503"
 }
 ```
 
