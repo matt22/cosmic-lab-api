@@ -14,8 +14,8 @@ GitHub and the public API will run on Cloudflare Workers.
 ## Current status
 
 Repository and deployment plumbing are connected, and the initial practice
-datasets are complete. Versioned API endpoints are implemented for airports and
-cities.
+datasets are complete. Versioned API endpoints are implemented for airports,
+cities, books, movies, and incidents.
 
 - The repository contains five validated, flat practice datasets in `data/`:
   movies, cities, US airports, books, and fictional service incidents.
@@ -30,6 +30,12 @@ cities.
   page-based pagination.
 - `GET /api/v1/cities` supports country-code filtering and fixed ten-record
   page-based pagination.
+- `GET /api/v1/books` supports case-insensitive substring searches with the
+  `title` parameter and fixed ten-record page-based pagination.
+- `GET /api/v1/movies` supports case-insensitive substring searches with the
+  `title` parameter and fixed ten-record page-based pagination.
+- `GET /api/v1/incidents` supports case-insensitive substring searches with the
+  `service_name` parameter and fixed ten-record page-based pagination.
 - The Python Worker is deployed at <https://api.cosmic-lab.workers.dev> and the
   versioned airports endpoint has been verified in production.
 - The Python Worker entry point, package manifest, and initial tests are tracked
@@ -161,6 +167,21 @@ Airport responses place pagination metadata before the result array:
   "data": []
 }
 ```
+
+## Books, movies, and incidents endpoints
+
+The remaining dataset endpoints require a case-insensitive substring query and
+accept an optional positive `page`, which defaults to `1`:
+
+```text
+GET /api/v1/books?title=atomic
+GET /api/v1/movies?title=Jurassic%20P
+GET /api/v1/incidents?service_name=gateway
+```
+
+The query values are treated as literal text. Search results use case-folded
+substring checks, so SQL injection syntax cannot be executed by these
+endpoints. Unsupported query parameters are rejected.
 
 Run the unit tests with:
 
