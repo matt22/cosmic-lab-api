@@ -19,8 +19,8 @@ cities, books, movies, incidents, and oil fields.
 
 - The repository contains five validated, flat practice datasets in `data/`:
   movies, cities, US airports, books, and fictional service incidents.
-- `offshore_oil_fields.json` contains 50 curated oil-field records (25 land-based and 25 ocean-based),
-  ranked by approximate recoverable reserves for API practice, split evenly
+- `offshore_oil_fields.json` contains 50 oil-field records (25 land-based and 25 ocean-based),
+  ranked by reported daily production for API practice, split evenly
   between land-based and ocean-based settings.
 - Cloudflare Worker `api` is connected to `matt22/cosmic-lab-api`.
 - Cloudflare KV namespace `cosmic-lab-api-query-cache` is configured as the
@@ -62,7 +62,7 @@ live in [`data/README.md`](data/README.md).
 | `airports.json` | 100 | `id`, `airportName`, `iataCode`, `icaoCode`, `city`, `stateCode`, `stateName`, `countryCode`, `countryName`, `latitude`, `longitude` |
 | `books.json` | 1,000 | `id`, `title`, `author`, `isbn13`, `publicationDate`, `pages` |
 | `incidents.json` | 100 | `id`, `serviceName`, `severity`, `status`, `startTime`, `endTime` |
-| `offshore_oil_fields.json` | 50 | `id`, `fieldName`, `country`, `operator`, `latitude`, `longitude`, `wellDepthM`, `recoverableReservesBbl`, `discoveryYear`, `basin` |
+| `offshore_oil_fields.json` | 50 | `id`, `fieldName`, `country`, `operator`, `latitude`, `longitude`, `wellDepthM`, `dailyProductionBbl`, `discoveryYear`, `basin` |
 
 The movie, city, airport, and book datasets contain sourced real-world data.
 Incidents are fictional and deterministic. Their null timestamps carry meaning:
