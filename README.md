@@ -15,10 +15,13 @@ GitHub and the public API will run on Cloudflare Workers.
 
 Repository and deployment plumbing are connected, and the initial practice
 datasets are complete. Versioned API endpoints are implemented for airports,
-cities, books, movies, and incidents.
+cities, books, movies, incidents, and oil fields.
 
 - The repository contains five validated, flat practice datasets in `data/`:
   movies, cities, US airports, books, and fictional service incidents.
+- `offshore_oil_fields.json` contains 50 curated oil-field records (25 land-based and 25 ocean-based),
+  ranked by approximate recoverable reserves for API practice, split evenly
+  between land-based and ocean-based settings.
 - Cloudflare Worker `api` is connected to `matt22/cosmic-lab-api`.
 - Cloudflare KV namespace `cosmic-lab-api-query-cache` is configured as the
   `QUERY_CACHE` Worker binding in `wrangler.jsonc`.
@@ -59,6 +62,7 @@ live in [`data/README.md`](data/README.md).
 | `airports.json` | 100 | `id`, `airportName`, `iataCode`, `icaoCode`, `city`, `stateCode`, `stateName`, `countryCode`, `countryName`, `latitude`, `longitude` |
 | `books.json` | 1,000 | `id`, `title`, `author`, `isbn13`, `publicationDate`, `pages` |
 | `incidents.json` | 100 | `id`, `serviceName`, `severity`, `status`, `startTime`, `endTime` |
+| `offshore_oil_fields.json` | 50 | `id`, `fieldName`, `country`, `operator`, `latitude`, `longitude`, `wellDepthM`, `recoverableReservesBbl`, `discoveryYear`, `basin` |
 
 The movie, city, airport, and book datasets contain sourced real-world data.
 Incidents are fictional and deterministic. Their null timestamps carry meaning:
@@ -197,6 +201,7 @@ an optional positive `page`, which defaults to `1`:
 
 ```text
 GET /api/v1/incidents?service_name=gateway
+GET /api/v1/offshore-oil-fields?country_code=BR
 ```
 
 [View a live incidents response](https://api.cosmic-lab.workers.dev/api/v1/incidents?service_name=gateway&page=1).

@@ -25,6 +25,11 @@ from incidents_api import (
     query_incidents,
 )
 from movies_api import load_movies, parse_query as parse_movies_query, query_movies
+from offshore_oil_fields_api import (
+    load_offshore_oil_fields,
+    parse_query as parse_offshore_oil_fields_query,
+    query_offshore_oil_fields,
+)
 
 
 AIRPORTS = load_airports()
@@ -32,6 +37,7 @@ CITIES = load_cities()
 BOOKS = load_books()
 MOVIES = load_movies()
 INCIDENTS = load_incidents()
+OFFSHORE_OIL_FIELDS = load_offshore_oil_fields()
 
 README_URL = "https://github.com/matt22/cosmic-lab-api/blob/main/README.md"
 DATASETS = (
@@ -40,6 +46,7 @@ DATASETS = (
     ("BOOKS", "1,000 records · Books and authors", "Search by title", "/api/v1/books?title=atomic&page=1"),
     ("MOVIES", "1,000 records · Films and ratings", "Search by title", "/api/v1/movies?title=Jurassic%20P&page=1"),
     ("INCIDENTS", "100 records · Fictional service events", "Search by service name", "/api/v1/incidents?service_name=gateway&page=1"),
+    ("OIL FIELDS", "50 records · 25 land / 25 ocean fields", "Filter by country code", "/api/v1/offshore-oil-fields?country_code=BR&page=1"),
 )
 
 DATASET_EXAMPLES = {
@@ -48,6 +55,8 @@ DATASET_EXAMPLES = {
     "BOOKS": '{\n  "id": 1,\n  "title": "Atomic Habits",\n  "author": "James Clear",\n  "isbn13": "9781804220207",\n  "publicationDate": "2018-10-16",\n  "pages": 168\n}',
     "MOVIES": '{\n  "id": 1,\n  "title": "Back to the Future Part III",\n  "year": 1990,\n  "runtimeMinutes": 118,\n  "mpaaRating": "PG",\n  "scoreRating": 7.5,\n  "directorLastName": "Zemeckis"\n}',
     "INCIDENTS": '{\n  "id": 1,\n  "serviceName": "Practice API Gateway",\n  "severity": "major",\n  "status": "resolved",\n  "startTime": "2026-03-18T16:56:00Z",\n  "endTime": "2026-03-19T04:33:00Z"\n}',
+    "OFFSHORE OIL FIELDS": '{\n  "id": 1,\n  "fieldName": "Ghawar Offshore Extension",
+  "locationType": "ocean_based",\n  "country": "Saudi Arabia",\n  "operator": "Saudi Aramco",\n  "latitude": 26.45,\n  "longitude": 50.25,\n  "wellDepthM": 85,\n  "recoverableReservesBbl": 4800\n}',
 }
 
 
@@ -103,14 +112,14 @@ section{{margin-top:76px}}.section-label{{color:var(--muted);font-size:11px;lett
 .callout{{display:grid;grid-template-columns:1fr 1fr;gap:24px;border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:28px 0}}.callout h3{{font:600 26px/1.1 ui-sans-serif,system-ui,sans-serif;margin:0;letter-spacing:-.04em}}.callout p{{color:var(--muted);margin:0}}footer{{margin-top:28px;color:var(--muted);font-size:11px}}@media(max-width:700px){{.hero,.callout{{grid-template-columns:1fr}}.grid{{grid-template-columns:1fr}}.links{{display:none}}main{{padding-top:42px}}}}
 .response{{border:1px solid var(--line);background:var(--panel)}}.response-head{{display:flex;justify-content:space-between;gap:16px;padding:15px 18px;border-bottom:1px solid var(--line);color:var(--accent);font-size:11px}}.response-head a{{color:var(--muted);white-space:nowrap}}pre{{margin:0;padding:22px;overflow:auto;color:#d9dbc9;font:12px/1.7 ui-monospace,SFMono-Regular,Menlo,monospace}} 
 </style></head><body><div class="shell"><header><div class="brand"><div class="mark">CL</div><div><h1>COSMIC LAB API</h1><div class="eyebrow">PUBLIC API</div></div></div><nav class="links"><a href="{README_URL}">README ↗</a><a href="{base_url}/api/v1/airports?state_code=CA&page=1">LIVE API ↗</a></nav></header>
-<main><div class="hero"><div><div class="eyebrow">API ONLINE · REST · JSON</div><h2>Cosmic Lab API.</h2><p>A REST API with five datasets, readable endpoints, query parameters, filtering, pagination, and JSON responses.</p></div></div>
+<main><div class="hero"><div><div class="eyebrow">API ONLINE · REST · JSON</div><h2>Cosmic Lab API.</h2><p>A REST API with six datasets, readable endpoints, query parameters, filtering, pagination, and JSON responses.</p></div></div>
 <section><div class="section-label">RESPONSE METADATA</div><div class="response"><div class="response-head"><span>GET /api/v1/airports?state_code=CA&amp;page=1</span><a href="{base_url}/api/v1/airports?state_code=CA&amp;page=1">OPEN JSON ↗</a></div><pre>{{
   "page": 1,
   "pageSize": 3,
   "total": 10,
   "data": [ ... ]
 }}</pre></div></section>
-<section><div class="section-label">DATASETS / 05 · ONE RECORD EACH</div><div class="grid">{dataset_cards}<div class="cosmic-cell" aria-hidden="true"></div></div></section>
+<section><div class="section-label">DATASETS / 06 · ONE RECORD EACH</div><div class="grid">{dataset_cards}<div class="cosmic-cell" aria-hidden="true"></div></div></section>
 <section><div class="section-label">START HERE</div><div class="callout"><h3>Make a request.<br>Inspect the response.</h3><p>Every endpoint accepts a simple GET request and returns a consistent JSON response. Open an example above, then change the parameters and see what happens.</p></div></section></main><footer>Cosmic Lab · Built for curious developers · <a href="{README_URL}">Documentation ↗</a></footer></div></body></html>'''
 
 
@@ -124,6 +133,7 @@ def root_response(base_url: str) -> dict[str, object]:
             "books": f"{base_url}/api/v1/books?title=atomic&page=1",
             "movies": f"{base_url}/api/v1/movies?title=Jurassic%20P&page=1",
             "incidents": f"{base_url}/api/v1/incidents?service_name=gateway&page=1",
+            "offshore_oil_fields": f"{base_url}/api/v1/offshore-oil-fields?country_code=BR&page=1",
         },
     }
 
@@ -151,6 +161,7 @@ class Default(WorkerEntrypoint):
             "/api/v1/books",
             "/api/v1/movies",
             "/api/v1/incidents",
+            "/api/v1/offshore-oil-fields",
         }:
             return error_response("Not found", 404)
 
@@ -164,6 +175,8 @@ class Default(WorkerEntrypoint):
                 title, page = parse_books_query(params)
             elif url.path == "/api/v1/movies":
                 title, page = parse_movies_query(params)
+            elif url.path == "/api/v1/offshore-oil-fields":
+                field_name, page = parse_offshore_oil_fields_query(params)
             else:
                 service_name, page = parse_incidents_query(params)
         except (QueryError, CitiesQueryError) as error:
@@ -184,6 +197,8 @@ class Default(WorkerEntrypoint):
             return Response.json(query_movies(MOVIES, title, page))
         if url.path == "/api/v1/incidents":
             return Response.json(query_incidents(INCIDENTS, service_name, page))
+        if url.path == "/api/v1/offshore-oil-fields":
+            return Response.json(query_offshore_oil_fields(OFFSHORE_OIL_FIELDS, field_name, page))
 
         result_set = await get_cities_result_set(
             self.env.QUERY_CACHE,
