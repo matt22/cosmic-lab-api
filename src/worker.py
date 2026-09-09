@@ -43,11 +43,11 @@ DATASETS = (
 )
 
 DATASET_EXAMPLES = {
-    "AIRPORTS": '{\n  "id": 1,\n  "airportName": "Los Angeles International Airport",\n  "iataCode": "LAX",\n  "city": "Los Angeles",\n  "stateCode": "CA"\n}',
-    "CITIES": '{\n  "id": 1,\n  "cityName": "Tokyo",\n  "countryCode": "JP",\n  "countryName": "Japan",\n  "continent": "Asia"\n}',
-    "BOOKS": '{\n  "id": 1,\n  "title": "Atomic Habits",\n  "author": "James Clear",\n  "isbn13": "9780735211292",\n  "pages": 320\n}',
-    "MOVIES": '{\n  "id": 1,\n  "title": "Jurassic Park",\n  "year": 1993,\n  "runtimeMinutes": 127,\n  "scoreRating": 8.2\n}',
-    "INCIDENTS": '{\n  "id": 1,\n  "serviceName": "gateway",\n  "severity": "minor",\n  "status": "resolved",\n  "startTime": "2026-01-14T09:00:00Z"\n}',
+    "AIRPORTS": '{\n  "id": 1,\n  "airportName": "Hartsfield Jackson Atlanta International Airport",\n  "iataCode": "ATL",\n  "icaoCode": "KATL",\n  "city": "Atlanta",\n  "stateCode": "GA",\n  "stateName": "Georgia",\n  "countryCode": "US",\n  "countryName": "United States",\n  "latitude": 33.6367,\n  "longitude": -84.4281\n}',
+    "CITIES": '{\n  "id": 1,\n  "cityName": "Aba",\n  "countryCode": "NG",\n  "countryName": "Nigeria",\n  "continent": "Africa",\n  "latitude": 5.1066,\n  "longitude": 7.3667\n}',
+    "BOOKS": '{\n  "id": 1,\n  "title": "Atomic Habits",\n  "author": "James Clear",\n  "isbn13": "9781804220207",\n  "publicationDate": "2018-10-16",\n  "pages": 168\n}',
+    "MOVIES": '{\n  "id": 1,\n  "title": "Back to the Future Part III",\n  "year": 1990,\n  "runtimeMinutes": 118,\n  "mpaaRating": "PG",\n  "scoreRating": 7.5,\n  "directorLastName": "Zemeckis"\n}',
+    "INCIDENTS": '{\n  "id": 1,\n  "serviceName": "Practice API Gateway",\n  "severity": "major",\n  "status": "resolved",\n  "startTime": "2026-03-18T16:56:00Z",\n  "endTime": "2026-03-19T04:33:00Z"\n}',
 }
 
 
@@ -63,15 +63,27 @@ def html_document(base_url: str) -> str:
       "id": 1,
       "airportName": "Los Angeles International Airport",
       "iataCode": "LAX",
+      "icaoCode": "KLAX",
       "city": "Los Angeles",
-      "stateCode": "CA"
+      "stateCode": "CA",
+      "stateName": "California",
+      "countryCode": "US",
+      "countryName": "United States",
+      "latitude": 33.9425,
+      "longitude": -118.4081
     },
     {
       "id": 2,
       "airportName": "San Francisco International Airport",
       "iataCode": "SFO",
+      "icaoCode": "KSFO",
       "city": "San Francisco",
-      "stateCode": "CA"
+      "stateCode": "CA",
+      "stateName": "California",
+      "countryCode": "US",
+      "countryName": "United States",
+      "latitude": 37.6213,
+      "longitude": -122.3790
     }
   ],
   "page": 1,
