@@ -54,7 +54,7 @@ DATASET_EXAMPLES = {
     "BOOKS": '{\n  "id": 1,\n  "title": "Atomic Habits",\n  "author": "James Clear",\n  "isbn13": "9781804220207",\n  "publicationDate": "2018-10-16",\n  "pages": 168\n}',
     "MOVIES": '{\n  "id": 1,\n  "title": "Back to the Future Part III",\n  "year": 1990,\n  "runtimeMinutes": 118,\n  "mpaaRating": "PG",\n  "scoreRating": 7.5,\n  "directorLastName": "Zemeckis"\n}',
     "INCIDENTS": '{\n  "id": 1,\n  "serviceName": "Practice API Gateway",\n  "severity": "major",\n  "status": "resolved",\n  "startTime": "2026-03-18T16:56:00Z",\n  "endTime": "2026-03-19T04:33:00Z"\n}',
-    "OIL FIELDS": '{\n  "id": 1,\n  "fieldName": "Ghawar Offshore Extension",\n  "locationType": "ocean_based",\n  "country": "Saudi Arabia",\n  "operator": "Saudi Aramco",\n  "latitude": 26.45,\n  "longitude": 50.25,\n  "wellDepthM": 85,\n  "dailyProductionBbl": 4800\n}',
+    "OIL FIELDS": '{\n  "id": 1,\n  "fieldName": "Ghawar Offshore Extension",\n  "locationType": "ocean_based",\n  "country": "Saudi Arabia",\n  "operator": "Saudi Aramco",\n  "latitude": 26.45,\n  "longitude": 50.25,\n  "wellDepthM": 85,\n  "dailyProductionBbl": 4800,\n  "discoveryYear": 1948,\n  "basin": "Arabian Gulf"\n}',
 }
 
 
