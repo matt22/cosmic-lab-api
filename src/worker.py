@@ -118,7 +118,7 @@ section{{margin-top:52px}}.section-label{{color:var(--muted);font-size:11px;lett
   "total": 10,
   "data": [ ... ]
 }}</pre></div></section>
-<section><div class="section-label">DATASETS / 05 · ONE RECORD EACH</div><div class="grid">{dataset_cards}<div class="oil-sample"><strong>OIL FIELDS · SAMPLE</strong><pre>{DATASET_EXAMPLES["OIL FIELDS"]}</pre></div></div></section>
+<section><div class="section-label">DATASETS / 05 · ONE RECORD EACH</div><div class="grid">{dataset_cards}<div class="oil-sample"><div class="dataset-top"><span>OIL FIELDS</span><span class="dot"></span></div><p>50 records · 25 land / 25 ocean fields</p><small>Filter by country code</small><code><a href="{base_url}/api/v1/offshore-oil-fields?country_code=BR&amp;page=1">{base_url}/api/v1/offshore-oil-fields?country_code=BR&amp;page=1</a></code><pre>{DATASET_EXAMPLES["OIL FIELDS"]}</pre></div></div></section>
 </main><footer>Cosmic Lab · Built for curious developers · <a href="{README_URL}">Documentation ↗</a></footer></div></body></html>'''
 
 
