@@ -46,7 +46,6 @@ DATASETS = (
     ("BOOKS", "1,000 records · Books and authors", "Search by title", "/api/v1/books?title=atomic&page=1"),
     ("MOVIES", "1,000 records · Films and ratings", "Search by title", "/api/v1/movies?title=Jurassic%20P&page=1"),
     ("INCIDENTS", "100 records · Fictional service events", "Search by service name", "/api/v1/incidents?service_name=gateway&page=1"),
-    ("OIL FIELDS", "50 records · 25 land / 25 ocean fields", "Filter by country code", "/api/v1/offshore-oil-fields?country_code=BR&page=1"),
 )
 
 DATASET_EXAMPLES = {
@@ -55,7 +54,6 @@ DATASET_EXAMPLES = {
     "BOOKS": '{\n  "id": 1,\n  "title": "Atomic Habits",\n  "author": "James Clear",\n  "isbn13": "9781804220207",\n  "publicationDate": "2018-10-16",\n  "pages": 168\n}',
     "MOVIES": '{\n  "id": 1,\n  "title": "Back to the Future Part III",\n  "year": 1990,\n  "runtimeMinutes": 118,\n  "mpaaRating": "PG",\n  "scoreRating": 7.5,\n  "directorLastName": "Zemeckis"\n}',
     "INCIDENTS": '{\n  "id": 1,\n  "serviceName": "Practice API Gateway",\n  "severity": "major",\n  "status": "resolved",\n  "startTime": "2026-03-18T16:56:00Z",\n  "endTime": "2026-03-19T04:33:00Z"\n}',
-    "OIL FIELDS": '{\n  "id": 1,\n  "fieldName": "Ghawar Offshore Extension",\n  "locationType": "ocean_based",\n  "country": "Saudi Arabia",\n  "operator": "Saudi Aramco",\n  "latitude": 26.45,\n  "longitude": 50.25,\n  "wellDepthM": 85,\n  "dailyProductionBbl": 4800\n}',
 }
 
 
@@ -119,7 +117,7 @@ section{{margin-top:52px}}.section-label{{color:var(--muted);font-size:11px;lett
   "total": 10,
   "data": [ ... ]
 }}</pre></div></section>
-<section><div class="section-label">DATASETS / 06 · ONE RECORD EACH</div><div class="grid">{dataset_cards}<div class="oil-cell"><div><div class="eyebrow">LOCATION DATA</div><h3>Oil fields.</h3></div><p>50 fields with coordinates, operators, well depth, reserves, and setting.</p><a href="{base_url}/api/v1/offshore-oil-fields?country_code=BR&page=1">OPEN COUNTRY QUERY ↗</a></div></div></section>
+<section><div class="section-label">DATASETS / 05 · ONE RECORD EACH</div><div class="grid">{dataset_cards}</div></section>
 </main><footer>Cosmic Lab · Built for curious developers · <a href="{README_URL}">Documentation ↗</a></footer></div></body></html>'''
 
 
