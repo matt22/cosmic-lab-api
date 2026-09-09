@@ -11,7 +11,7 @@ class OffshoreOilFieldsApiTests(unittest.TestCase):
     def test_has_fifty_ranked_records(self):
         self.assertEqual(len(self.fields), 50)
         self.assertEqual([field["id"] for field in self.fields], list(range(1, 51)))
-        self.assertEqual(self.fields[0]["recoverableReservesBbl"], 4800)
+        self.assertEqual(self.fields[0]["dailyProductionBbl"], 4800)
 
     def test_search_and_pagination(self):
         result = query_offshore_oil_fields(self.fields, "Brazil", 1)
