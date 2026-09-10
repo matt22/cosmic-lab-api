@@ -49,8 +49,8 @@ DATASETS = (
 )
 
 DATASET_EXAMPLES = {
-    "AIRPORTS": '{\n  "id": 1,\n  "airportName": "Hartsfield Jackson Atlanta International Airport",\n  "iataCode": "ATL",\n  "icaoCode": "KATL",\n  "city": "Atlanta",\n  "stateCode": "GA",\n  "stateName": "Georgia",\n  "countryCode": "US",\n  "countryName": "United States",\n  "latitude": 33.6367,\n  "longitude": -84.4281\n}',
-    "CITIES": '{\n  "id": 1,\n  "cityName": "Aba",\n  "countryCode": "NG",\n  "countryName": "Nigeria",\n  "continent": "Africa",\n  "latitude": 5.1066,\n  "longitude": 7.3667\n}',
+    "AIRPORTS": '{\n  "id": 1,\n  "airport_name": "Hartsfield Jackson Atlanta International Airport",\n  "iata_code": "ATL",\n  "icao_code": "KATL",\n  "city": "Atlanta",\n  "state_code": "GA",\n  "state_name": "Georgia",\n  "country_code": "US",\n  "country_name": "United States",\n  "coordinates": "33.6367,-84.4281"\n}',
+    "CITIES": '{\n  "id": 1,\n  "city_name": "Aba",\n  "country_code": "NG",\n  "country_name": "Nigeria",\n  "continent": "Africa",\n  "coordinates": "5.1066,7.3667"\n}',
     "BOOKS": '{\n  "id": 1,\n  "title": "Atomic Habits",\n  "author": "James Clear",\n  "isbn13": "9781804220207",\n  "publicationDate": "2018-10-16",\n  "pages": 168\n}',
     "MOVIES": '{\n  "id": 1,\n  "title": "Back to the Future Part III",\n  "year": 1990,\n  "runtimeMinutes": 118,\n  "mpaaRating": "PG",\n  "scoreRating": 7.5,\n  "directorLastName": "Zemeckis"\n}',
     "INCIDENTS": '{\n  "id": 1,\n  "serviceName": "Practice API Gateway",\n  "severity": "major",\n  "status": "resolved",\n  "startTime": "2026-03-18T16:56:00Z",\n  "endTime": "2026-03-19T04:33:00Z"\n}',
