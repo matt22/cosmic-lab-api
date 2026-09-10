@@ -61,7 +61,7 @@ DATASET_EXAMPLES = {
 def html_document(base_url: str) -> str:
     dataset_cards = "".join(
         f'''<article class="dataset"><div class="dataset-top"><span>{name}</span><span class="dot"></span></div>
-        <p>{description}</p><small>{action}</small><code><a href="{path}">{base_url}{path}</a></code><pre>{DATASET_EXAMPLES[name]}</pre></article>'''
+        <p>{description}</p><small>{action}</small><code><a href="{path}" target="_blank" rel="noopener noreferrer">{base_url}{path}</a></code><pre>{DATASET_EXAMPLES[name]}</pre></article>'''
         for name, description, action, path in DATASETS
     )
     sample_json = '''{
@@ -110,16 +110,16 @@ section{{margin-top:52px}}.section-label{{color:var(--muted);font-size:11px;lett
 .callout{{display:grid;grid-template-columns:1fr 1fr;gap:24px;border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:28px 0}}.callout h3{{font:600 26px/1.1 ui-sans-serif,system-ui,sans-serif;margin:0;letter-spacing:-.04em}}.callout p{{color:var(--muted);margin:0}}footer{{margin-top:28px;color:var(--muted);font-size:11px}}@media(max-width:700px){{.hero,.callout{{grid-template-columns:1fr}}.grid{{grid-template-columns:1fr}}.links{{display:none}}main{{padding-top:42px}}}}
 .response{{border:1px solid var(--line);background:var(--panel)}}.response-head{{display:flex;justify-content:space-between;gap:16px;padding:15px 18px;border-bottom:1px solid var(--line);color:var(--accent);font-size:11px}}.response-head a{{color:var(--muted);white-space:nowrap}}pre{{margin:0;padding:22px;overflow:auto;color:#d9dbc9;font:12px/1.7 ui-monospace,SFMono-Regular,Menlo,monospace}} 
 .oil-cell{{min-height:300px;padding:20px;background:radial-gradient(circle at 76% 25%,rgba(215,243,107,.85) 0 3px,transparent 4px),linear-gradient(145deg,#101b24,#123e49 52%,#1c263b);display:flex;flex-direction:column;justify-content:space-between}}.oil-cell h3{{margin:0;font:700 30px/.95 ui-sans-serif,system-ui,sans-serif;letter-spacing:-.05em}}.oil-cell p{{max-width:270px;color:#dce8d9;margin:0;font-size:12px;line-height:1.6}}.oil-cell a{{color:var(--accent);font-size:11px;text-decoration:none;letter-spacing:.08em}}.oil-sample{{background:#181b18;padding:16px;min-height:300px;overflow:hidden}}.oil-sample strong{{display:block;color:var(--accent);font-size:12px;letter-spacing:.1em;margin-bottom:12px}}.oil-sample pre{{padding:0;font-size:11px;line-height:1.55}}
-</style></head><body><div class="shell"><header><div class="brand"><div class="mark">CL</div><div><h1>COSMIC LAB API</h1><div class="eyebrow">PUBLIC API</div></div></div><nav class="links"><a href="{README_URL}">README ↗</a><a href="{base_url}/api/v1/airports?state_code=CA&page=1">LIVE API ↗</a></nav></header>
+</style></head><body><div class="shell"><header><div class="brand"><div class="mark">CL</div><div><h1>COSMIC LAB API</h1><div class="eyebrow">PUBLIC API</div></div></div><nav class="links"><a href="{README_URL}" target="_blank" rel="noopener noreferrer">README ↗</a><a href="{base_url}/api/v1/airports?state_code=CA&amp;page=1" target="_blank" rel="noopener noreferrer">LIVE API ↗</a></nav></header>
 <main><div class="hero"><div><div class="eyebrow">API ONLINE · REST · JSON</div><h2>Cosmic Lab API.</h2><p>A REST API with six datasets, readable endpoints, query parameters, filtering, pagination, and JSON responses.</p></div></div>
-<section><div class="section-label">RESPONSE METADATA</div><div class="response"><div class="response-head"><span>GET /api/v1/airports?state_code=CA&amp;page=1</span><a href="{base_url}/api/v1/airports?state_code=CA&amp;page=1">OPEN JSON ↗</a></div><pre>{{
+<section><div class="section-label">RESPONSE METADATA</div><div class="response"><div class="response-head"><span>GET /api/v1/airports?state_code=CA&amp;page=1</span><a href="{base_url}/api/v1/airports?state_code=CA&amp;page=1" target="_blank" rel="noopener noreferrer">OPEN JSON ↗</a></div><pre>{{
   "page": 1,
   "pageSize": 3,
   "total": 10,
   "data": [ ... ]
 }}</pre></div></section>
-<section><div class="section-label">DATASETS / 05 · ONE RECORD EACH</div><div class="grid">{dataset_cards}<div class="oil-sample"><div class="dataset-top"><span>OIL FIELDS</span><span class="dot"></span></div><p>50 records · 25 land / 25 ocean fields</p><small>Filter by country code</small><code><a href="{base_url}/api/v1/offshore-oil-fields?country_code=BR&amp;page=1">{base_url}/api/v1/offshore-oil-fields?country_code=BR&amp;page=1</a></code><pre>{DATASET_EXAMPLES["OIL FIELDS"]}</pre></div></div></section>
-</main><footer>Cosmic Lab · Built for curious developers · <a href="{README_URL}">Documentation ↗</a></footer></div></body></html>'''
+<section><div class="section-label">DATASETS / 05 · ONE RECORD EACH</div><div class="grid">{dataset_cards}<div class="oil-sample"><div class="dataset-top"><span>OIL FIELDS</span><span class="dot"></span></div><p>50 records · 25 land / 25 ocean fields</p><small>Filter by country code</small><code><a href="{base_url}/api/v1/offshore-oil-fields?country_code=BR&amp;page=1" target="_blank" rel="noopener noreferrer">{base_url}/api/v1/offshore-oil-fields?country_code=BR&amp;page=1</a></code><pre>{DATASET_EXAMPLES["OIL FIELDS"]}</pre></div></div></section>
+</main><footer>Cosmic Lab · Built for curious developers · <a href="{README_URL}" target="_blank" rel="noopener noreferrer">Documentation ↗</a></footer></div></body></html>'''
 
 
 def root_response(base_url: str) -> dict[str, object]:
