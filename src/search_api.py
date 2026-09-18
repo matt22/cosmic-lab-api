@@ -36,12 +36,14 @@ def paginate(records: Sequence[Mapping[str, Any]], page: int, page_size: int):
     """Return one fixed-size page and pagination metadata."""
     start = (page - 1) * page_size
     page_records = records[start : start + page_size]
+    total = len(records)
     return {
         "pagination": {
             "page": page,
             "page_size": page_size,
             "count": len(page_records),
-            "total": len(records),
+            "total": total,
+            "total_pages": -(-total // page_size),
         },
         "data": list(page_records),
     }

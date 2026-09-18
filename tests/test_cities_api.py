@@ -37,6 +37,10 @@ class CitiesApiTests(unittest.TestCase):
         self.assertEqual(result["pagination"]["page"], 1)
         self.assertEqual(result["pagination"]["page_size"], 10)
         self.assertEqual(result["pagination"]["count"], 10)
+        total = result["pagination"]["total"]
+        self.assertEqual(
+            result["pagination"]["total_pages"], -(-total // CITIES_PAGE_SIZE)
+        )
 
     def test_second_page_uses_page_number(self):
         first_page = query_cities(self.cities, "NG", 1)
@@ -86,6 +90,7 @@ class CitiesApiTests(unittest.TestCase):
         self.assertEqual(result["data"], [])
         self.assertEqual(result["pagination"]["count"], 0)
         self.assertEqual(result["pagination"]["total"], 0)
+        self.assertEqual(result["pagination"]["total_pages"], 0)
 
     def test_bundled_dataset_matches_source_dataset(self):
         repository_root = Path(__file__).parents[1]

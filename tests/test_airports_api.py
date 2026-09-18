@@ -37,6 +37,7 @@ class AirportsApiTests(unittest.TestCase):
         self.assertEqual(result["pagination"]["page"], 1)
         self.assertEqual(result["pagination"]["page_size"], 3)
         self.assertEqual(result["pagination"]["count"], 3)
+        self.assertEqual(result["pagination"]["total_pages"], 4)
 
     def test_second_page_uses_page_number(self):
         first_page = query_airports(self.airports, "CA", 1)
@@ -108,6 +109,7 @@ class AirportsApiTests(unittest.TestCase):
         self.assertEqual(result["data"], [])
         self.assertEqual(result["pagination"]["count"], 0)
         self.assertEqual(result["pagination"]["total"], 0)
+        self.assertEqual(result["pagination"]["total_pages"], 0)
 
     def test_bundled_dataset_matches_source_dataset(self):
         repository_root = Path(__file__).parents[1]

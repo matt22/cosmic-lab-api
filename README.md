@@ -166,7 +166,8 @@ Airport responses place pagination metadata before the result array:
     "page": 1,
     "page_size": 3,
     "count": 3,
-    "total": 12
+    "total": 12,
+    "total_pages": 4
   },
   "data": []
 }

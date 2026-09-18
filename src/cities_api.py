@@ -88,7 +88,7 @@ async def get_result_set(
     """Read a country result set from KV, populating it on a cache miss."""
     key = cache_key(country_code)
     cached_value = await cache.get(key)
-    if cached_value is not None:
+    if cached_value:
         return json.loads(cached_value)
 
     result_set = build_result_set(cities, country_code)
@@ -106,13 +106,15 @@ def paginate_result_set(
     """Return one fixed-size page from an ordered cities result set."""
     start_index = (page - 1) * CITIES_PAGE_SIZE
     page_records = result_set[start_index : start_index + CITIES_PAGE_SIZE]
+    total = len(result_set)
 
     return {
         "pagination": {
             "page": page,
             "page_size": CITIES_PAGE_SIZE,
             "count": len(page_records),
-            "total": len(result_set),
+            "total": total,
+            "total_pages": -(-total // CITIES_PAGE_SIZE),
         },
         "data": list(page_records),
     }
