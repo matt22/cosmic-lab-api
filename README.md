@@ -202,10 +202,20 @@ an optional positive `page`, which defaults to `1`:
 
 ```text
 GET /api/v1/incidents?service_name=gateway
-GET /api/v1/offshore-oil-fields?country_code=BR
 ```
 
 [View a live incidents response](https://api.cosmic-lab.workers.dev/api/v1/incidents?service_name=gateway&page=1).
+
+## Offshore oil fields endpoint
+
+The offshore oil fields endpoint filters by country code and accepts an
+optional positive `page`, which defaults to `1`:
+
+```text
+GET /api/v1/offshore-oil-fields?country_code=BR
+```
+
+[View a live oil fields response](https://api.cosmic-lab.workers.dev/api/v1/offshore-oil-fields?country_code=BR&page=1).
 
 The query values are treated as literal text. Search results use case-folded
 substring checks, so SQL injection syntax cannot be executed by these
