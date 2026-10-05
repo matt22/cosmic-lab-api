@@ -1,5 +1,6 @@
 """Cloudflare Python Worker entry point for Cosmic Lab API."""
 
+import json
 from urllib.parse import parse_qs, urlparse
 
 from workers import Response, WorkerEntrypoint
@@ -145,8 +146,17 @@ def root_response(base_url: str) -> dict[str, object]:
     }
 
 
+def json_response(data, status: int = 200) -> Response:
+    # Indented so raw responses are readable in browsers and curl; parsed data is unchanged.
+    return Response(
+        json.dumps(data, indent=2),
+        status=status,
+        headers={"Content-Type": "application/json"},
+    )
+
+
 def error_response(message: str, status: int) -> Response:
-    return Response.json({"error": {"message": message}}, status=status)
+    return json_response({"error": {"message": message}}, status=status)
 
 
 class Default(WorkerEntrypoint):
@@ -159,7 +169,7 @@ class Default(WorkerEntrypoint):
         if url.path == "/":
             base_url = f"{url.scheme}://{url.netloc}"
             if "application/json" in request.headers.get("Accept", ""):
-                return Response.json(root_response(base_url))
+                return json_response(root_response(base_url))
             return Response(html_document(base_url), headers={"Content-Type": "text/html; charset=utf-8"})
 
         if url.path not in {
@@ -196,16 +206,16 @@ class Default(WorkerEntrypoint):
                 state_code,
                 int(self.env.AIRPORTS_CACHE_TTL_SECONDS),
             )
-            return Response.json(paginate_result_set(result_set, page))
+            return json_response(paginate_result_set(result_set, page))
 
         if url.path == "/api/v1/books":
-            return Response.json(query_books(BOOKS, title, page))
+            return json_response(query_books(BOOKS, title, page))
         if url.path == "/api/v1/movies":
-            return Response.json(query_movies(MOVIES, title, page))
+            return json_response(query_movies(MOVIES, title, page))
         if url.path == "/api/v1/incidents":
-            return Response.json(query_incidents(INCIDENTS, service_name, page))
+            return json_response(query_incidents(INCIDENTS, service_name, page))
         if url.path == "/api/v1/offshore-oil-fields":
-            return Response.json(query_offshore_oil_fields(OFFSHORE_OIL_FIELDS, field_name, page))
+            return json_response(query_offshore_oil_fields(OFFSHORE_OIL_FIELDS, field_name, page))
 
         result_set = await get_cities_result_set(
             self.env.QUERY_CACHE,
@@ -213,4 +223,4 @@ class Default(WorkerEntrypoint):
             country_code,
             int(self.env.CITIES_CACHE_TTL_SECONDS),
         )
-        return Response.json(paginate_cities_result_set(result_set, page))
+        return json_response(paginate_cities_result_set(result_set, page))
