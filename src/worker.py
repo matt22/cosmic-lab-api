@@ -1,6 +1,7 @@
 """Cloudflare Python Worker entry point for Cosmic Lab API."""
 
 import json
+from pathlib import Path
 from urllib.parse import parse_qs, urlparse
 
 from workers import Response, WorkerEntrypoint
@@ -37,6 +38,7 @@ BOOKS = load_books()
 MOVIES = load_movies()
 INCIDENTS = load_incidents()
 OFFSHORE_OIL_FIELDS = load_offshore_oil_fields()
+OPENAPI_SPEC = Path(__file__).with_name("openapi.json").read_text(encoding="utf-8")
 
 README_URL = "https://github.com/matt22/cosmic-lab-api/blob/main/README.md"
 JSON_FORMATTER_URL = "https://chromewebstore.google.com/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa"
@@ -111,7 +113,7 @@ section{{margin-top:52px}}.section-label{{color:var(--muted);font-size:11px;lett
 .response{{border:1px solid var(--line);background:var(--panel)}}.response-head{{display:flex;justify-content:space-between;gap:16px;padding:15px 18px;border-bottom:1px solid var(--line);color:var(--accent);font-size:11px}}.response-head a{{color:var(--accent);text-decoration:underline;white-space:nowrap}}pre{{margin:0;padding:22px;overflow:auto;color:#d9dbc9;font:12px/1.7 ui-monospace,SFMono-Regular,Menlo,monospace}}
 .chrome-tip{{display:none;margin:10px 0 0;color:var(--muted);font-size:12px}}.chrome-tip a{{color:var(--accent);text-decoration:underline}}.tip-icon{{color:var(--accent);vertical-align:-2px;margin-right:8px}}
 .oil-cell{{min-height:300px;padding:20px;background:radial-gradient(circle at 76% 25%,rgba(215,243,107,.85) 0 3px,transparent 4px),linear-gradient(145deg,#101b24,#123e49 52%,#1c263b);display:flex;flex-direction:column;justify-content:space-between}}.oil-cell h3{{margin:0;font:700 30px/.95 ui-sans-serif,system-ui,sans-serif;letter-spacing:-.05em}}.oil-cell p{{max-width:270px;color:#dce8d9;margin:0;font-size:12px;line-height:1.6}}.oil-cell a{{color:var(--accent);font-size:11px;text-decoration:underline;letter-spacing:.08em}}.oil-sample{{background:#181b18;padding:16px;min-height:300px;overflow:hidden}}.oil-sample strong{{display:block;color:var(--accent);font-size:12px;letter-spacing:.1em;margin-bottom:12px}}.oil-sample pre{{padding:0;font-size:11px;line-height:1.55}}
-</style></head><body><div class="shell"><header><div class="brand"><div class="mark">CL</div><div><h1>COSMIC LAB API</h1><div class="eyebrow">PUBLIC API</div></div></div><nav class="links"><a href="{README_URL}" target="_blank" rel="noopener noreferrer">README ↗</a></nav></header>
+</style></head><body><div class="shell"><header><div class="brand"><div class="mark">CL</div><div><h1>COSMIC LAB API</h1><div class="eyebrow">PUBLIC API</div></div></div><nav class="links"><a href="/docs">API DOCS</a><a href="{README_URL}" target="_blank" rel="noopener noreferrer">README ↗</a></nav></header>
 <main><div class="hero"><div><h2>Cosmic Lab API.</h2><p>A REST API with six datasets, query parameters, filtering, pagination, KV-cached lookups, and JSON responses.</p></div></div>
 <section><div class="section-label">RESPONSE METADATA</div><div class="response"><div class="response-head"><span>GET /api/v1/airports?state_code=CA&amp;page=1</span><a href="{base_url}/api/v1/airports?state_code=CA&amp;page=1" target="_blank" rel="noopener noreferrer">OPEN JSON ↗</a></div><pre>{{
   "page": 1,
@@ -129,10 +131,23 @@ if (uaData && !uaData.mobile && uaData.brands.some((b) => b.brand === "Google Ch
 </script></body></html>'''
 
 
+def docs_document() -> str:
+    return '''<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Cosmic Lab API Docs</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swagger-ui-dist@5/swagger-ui.css">
+</head><body><div id="swagger-ui"></div>
+<script src="https://cdn.jsdelivr.net/npm/swagger-ui-dist@5/swagger-ui-bundle.js"></script>
+<script>SwaggerUIBundle({ url: "/openapi.json", dom_id: "#swagger-ui", tryItOutEnabled: true });</script>
+</body></html>'''
+
+
 def root_response(base_url: str) -> dict[str, object]:
     return {
         "message": "Cosmic Lab API",
         "readme": README_URL,
+        "openapi": f"{base_url}/openapi.json",
+        "docs": f"{base_url}/docs",
         "examples": {
             "airports": f"{base_url}/api/v1/airports?state_code=CA&page=1",
             "cities": f"{base_url}/api/v1/cities?country_code=JP&page=1",
@@ -169,6 +184,11 @@ class Default(WorkerEntrypoint):
             if "application/json" in request.headers.get("Accept", ""):
                 return json_response(root_response(base_url))
             return Response(html_document(base_url), headers={"Content-Type": "text/html; charset=utf-8"})
+
+        if url.path == "/openapi.json":
+            return Response(OPENAPI_SPEC, headers={"Content-Type": "application/json"})
+        if url.path == "/docs":
+            return Response(docs_document(), headers={"Content-Type": "text/html; charset=utf-8"})
 
         if url.path not in {
             "/api/v1/airports",

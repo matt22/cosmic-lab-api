@@ -221,6 +221,18 @@ The query values are treated as literal text. Search results use case-folded
 substring checks, so SQL injection syntax cannot be executed by these
 endpoints. Unsupported query parameters are rejected.
 
+## OpenAPI spec
+
+`src/openapi.json` is a hand-written OpenAPI 3.1 description of every
+endpoint. The Worker serves it at
+<https://api.cosmic-lab.workers.dev/openapi.json>, with an interactive Swagger
+UI at <https://api.cosmic-lab.workers.dev/docs>. Import the spec into Postman,
+Bruno or Insomnia, or generate a client from it.
+
+When an endpoint, parameter or response field changes, update the spec too.
+`tests/test_openapi_spec.py` fails if the spec's paths, parameters or record
+schemas drift from the code.
+
 Run the unit tests with:
 
 ```bash
