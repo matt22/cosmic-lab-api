@@ -136,6 +136,7 @@ def docs_document() -> str:
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Cosmic Lab API Docs</title>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swagger-ui-dist@5/swagger-ui.css">
+<style>html{color-scheme:light}body{margin:0;background:#fff}</style>
 </head><body><div id="swagger-ui"></div>
 <script src="https://cdn.jsdelivr.net/npm/swagger-ui-dist@5/swagger-ui-bundle.js"></script>
 <script>SwaggerUIBundle({ url: "/openapi.json", dom_id: "#swagger-ui", tryItOutEnabled: true });</script>
