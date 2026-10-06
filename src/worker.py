@@ -6,14 +6,12 @@ from urllib.parse import parse_qs, urlparse
 from workers import Response, WorkerEntrypoint
 
 from airports_api import (
-    QueryError,
     get_result_set,
     load_airports,
     paginate_result_set,
     parse_query,
 )
 from cities_api import (
-    QueryError as CitiesQueryError,
     get_result_set as get_cities_result_set,
     load_cities,
     paginate_result_set as paginate_cities_result_set,
@@ -196,7 +194,8 @@ class Default(WorkerEntrypoint):
                 field_name, page = parse_offshore_oil_fields_query(params)
             else:
                 service_name, page = parse_incidents_query(params)
-        except (QueryError, CitiesQueryError) as error:
+        # QueryError subclasses ValueError, which search_api raises directly.
+        except ValueError as error:
             return error_response(str(error), 400)
 
         if url.path == "/api/v1/airports":
