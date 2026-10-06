@@ -1,0 +1,364 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "Cosmic Lab API",
+    "version": "1.0.0",
+    "description": "A small JSON API for practicing HTTP requests, query parameters, filtering, and pagination. Every list endpoint requires one filter parameter, accepts an optional `page`, and rejects unsupported parameters.",
+    "license": { "name": "MIT", "identifier": "MIT" }
+  },
+  "servers": [{ "url": "https://api.cosmic-lab.workers.dev" }],
+  "security": [],
+  "externalDocs": {
+    "description": "README",
+    "url": "https://github.com/matt22/cosmic-lab-api/blob/main/README.md"
+  },
+  "tags": [
+    { "name": "Filtered", "description": "Exact two-letter code filters with KV-cached result sets." },
+    { "name": "Search", "description": "Case-insensitive substring searches." }
+  ],
+  "paths": {
+    "/api/v1/airports": {
+      "get": {
+        "operationId": "listAirports",
+        "summary": "List US airports in a state",
+        "description": "Returns airports whose `state_code` matches exactly. Fixed page size of 3.",
+        "tags": ["Filtered"],
+        "parameters": [
+          {
+            "name": "state_code",
+            "in": "query",
+            "required": true,
+            "description": "Two-letter US state code. Case-insensitive.",
+            "schema": { "type": "string", "pattern": "^[A-Za-z]{2}$" },
+            "example": "CA"
+          },
+          { "$ref": "#/components/parameters/Page" }
+        ],
+        "responses": {
+          "200": {
+            "description": "One page of airports.",
+            "content": {
+              "application/json": {
+                "schema": { "$ref": "#/components/schemas/AirportPage" }
+              }
+            }
+          },
+          "400": { "$ref": "#/components/responses/BadRequest" },
+          "405": { "$ref": "#/components/responses/MethodNotAllowed" }
+        }
+      }
+    },
+    "/api/v1/cities": {
+      "get": {
+        "operationId": "listCities",
+        "summary": "List cities in a country",
+        "description": "Returns cities whose `country_code` matches exactly. Fixed page size of 10.",
+        "tags": ["Filtered"],
+        "parameters": [
+          {
+            "name": "country_code",
+            "in": "query",
+            "required": true,
+            "description": "Two-letter ISO 3166-1 country code. Case-insensitive.",
+            "schema": { "type": "string", "pattern": "^[A-Za-z]{2}$" },
+            "example": "JP"
+          },
+          { "$ref": "#/components/parameters/Page" }
+        ],
+        "responses": {
+          "200": {
+            "description": "One page of cities.",
+            "content": {
+              "application/json": {
+                "schema": { "$ref": "#/components/schemas/CityPage" }
+              }
+            }
+          },
+          "400": { "$ref": "#/components/responses/BadRequest" },
+          "405": { "$ref": "#/components/responses/MethodNotAllowed" }
+        }
+      }
+    },
+    "/api/v1/books": {
+      "get": {
+        "operationId": "searchBooks",
+        "summary": "Search books by title",
+        "description": "Case-insensitive substring match on `title`. Fixed page size of 10.",
+        "tags": ["Search"],
+        "parameters": [
+          {
+            "name": "title",
+            "in": "query",
+            "required": true,
+            "description": "Text to find anywhere in the book title.",
+            "schema": { "type": "string", "minLength": 1 },
+            "example": "atomic"
+          },
+          { "$ref": "#/components/parameters/Page" }
+        ],
+        "responses": {
+          "200": {
+            "description": "One page of books.",
+            "content": {
+              "application/json": {
+                "schema": { "$ref": "#/components/schemas/BookPage" }
+              }
+            }
+          },
+          "400": { "$ref": "#/components/responses/BadRequest" },
+          "405": { "$ref": "#/components/responses/MethodNotAllowed" }
+        }
+      }
+    },
+    "/api/v1/movies": {
+      "get": {
+        "operationId": "searchMovies",
+        "summary": "Search movies by title",
+        "description": "Case-insensitive substring match on `title`. Fixed page size of 10.",
+        "tags": ["Search"],
+        "parameters": [
+          {
+            "name": "title",
+            "in": "query",
+            "required": true,
+            "description": "Text to find anywhere in the movie title.",
+            "schema": { "type": "string", "minLength": 1 },
+            "example": "Jurassic P"
+          },
+          { "$ref": "#/components/parameters/Page" }
+        ],
+        "responses": {
+          "200": {
+            "description": "One page of movies.",
+            "content": {
+              "application/json": {
+                "schema": { "$ref": "#/components/schemas/MoviePage" }
+              }
+            }
+          },
+          "400": { "$ref": "#/components/responses/BadRequest" },
+          "405": { "$ref": "#/components/responses/MethodNotAllowed" }
+        }
+      }
+    },
+    "/api/v1/incidents": {
+      "get": {
+        "operationId": "searchIncidents",
+        "summary": "Search fictional service incidents",
+        "description": "Case-insensitive substring match on `serviceName`. Fixed page size of 10.",
+        "tags": ["Search"],
+        "parameters": [
+          {
+            "name": "service_name",
+            "in": "query",
+            "required": true,
+            "description": "Text to find anywhere in the service name.",
+            "schema": { "type": "string", "minLength": 1 },
+            "example": "gateway"
+          },
+          { "$ref": "#/components/parameters/Page" }
+        ],
+        "responses": {
+          "200": {
+            "description": "One page of incidents.",
+            "content": {
+              "application/json": {
+                "schema": { "$ref": "#/components/schemas/IncidentPage" }
+              }
+            }
+          },
+          "400": { "$ref": "#/components/responses/BadRequest" },
+          "405": { "$ref": "#/components/responses/MethodNotAllowed" }
+        }
+      }
+    },
+    "/api/v1/offshore-oil-fields": {
+      "get": {
+        "operationId": "searchOilFields",
+        "summary": "Search oil fields by country",
+        "description": "Case-insensitive substring match of `country_code` against the full `country` name, so `BR` matches `Brazil`. Fixed page size of 10.",
+        "tags": ["Search"],
+        "parameters": [
+          {
+            "name": "country_code",
+            "in": "query",
+            "required": true,
+            "description": "Text to find anywhere in the country name.",
+            "schema": { "type": "string", "minLength": 1 },
+            "example": "BR"
+          },
+          { "$ref": "#/components/parameters/Page" }
+        ],
+        "responses": {
+          "200": {
+            "description": "One page of oil fields.",
+            "content": {
+              "application/json": {
+                "schema": { "$ref": "#/components/schemas/OilFieldPage" }
+              }
+            }
+          },
+          "400": { "$ref": "#/components/responses/BadRequest" },
+          "405": { "$ref": "#/components/responses/MethodNotAllowed" }
+        }
+      }
+    }
+  },
+  "components": {
+    "parameters": {
+      "Page": {
+        "name": "page",
+        "in": "query",
+        "required": false,
+        "description": "1-based page number. Pages past the end return an empty `data` array.",
+        "schema": { "type": "integer", "minimum": 1, "default": 1 }
+      }
+    },
+    "responses": {
+      "BadRequest": {
+        "description": "A required parameter is missing or repeated, a value is invalid, or an unsupported parameter was sent.",
+        "content": {
+          "application/json": {
+            "schema": { "$ref": "#/components/schemas/Error" },
+            "example": { "error": { "message": "page must be a positive integer" } }
+          }
+        }
+      },
+      "MethodNotAllowed": {
+        "description": "Only GET is supported.",
+        "content": {
+          "application/json": {
+            "schema": { "$ref": "#/components/schemas/Error" },
+            "example": { "error": { "message": "Method not allowed" } }
+          }
+        }
+      }
+    },
+    "schemas": {
+      "Error": {
+        "type": "object",
+        "required": ["error"],
+        "properties": {
+          "error": {
+            "type": "object",
+            "required": ["message"],
+            "properties": { "message": { "type": "string" } }
+          }
+        }
+      },
+      "Pagination": {
+        "type": "object",
+        "required": ["page", "page_size", "count", "total", "total_pages"],
+        "properties": {
+          "page": { "type": "integer", "minimum": 1 },
+          "page_size": { "type": "integer", "description": "Fixed per endpoint." },
+          "count": { "type": "integer", "description": "Records on this page." },
+          "total": { "type": "integer", "description": "Records matching the query across all pages." },
+          "total_pages": { "type": "integer" }
+        }
+      },
+      "Coordinates": {
+        "type": "string",
+        "description": "Comma-delimited `latitude,longitude`.",
+        "pattern": "^-?\\d+(\\.\\d+)?,-?\\d+(\\.\\d+)?$",
+        "example": "33.9425,-118.4081"
+      },
+      "Airport": {
+        "type": "object",
+        "required": ["id", "airport_name", "iata_code", "icao_code", "city", "state_code", "state_name", "country_code", "country_name", "coordinates"],
+        "properties": {
+          "id": { "type": "integer" },
+          "airport_name": { "type": "string" },
+          "iata_code": { "type": "string" },
+          "icao_code": { "type": "string" },
+          "city": { "type": "string" },
+          "state_code": { "type": "string" },
+          "state_name": { "type": "string" },
+          "country_code": { "type": "string" },
+          "country_name": { "type": "string" },
+          "coordinates": { "$ref": "#/components/schemas/Coordinates" }
+        }
+      },
+      "City": {
+        "type": "object",
+        "required": ["id", "city_name", "country_code", "country_name", "continent", "coordinates"],
+        "properties": {
+          "id": { "type": "integer" },
+          "city_name": { "type": "string" },
+          "country_code": { "type": "string" },
+          "country_name": { "type": "string" },
+          "continent": { "type": "string" },
+          "coordinates": { "$ref": "#/components/schemas/Coordinates" }
+        }
+      },
+      "Book": {
+        "type": "object",
+        "required": ["id", "title", "author", "isbn13", "publicationDate", "pages"],
+        "properties": {
+          "id": { "type": "integer" },
+          "title": { "type": "string" },
+          "author": { "type": "string" },
+          "isbn13": { "type": "string" },
+          "publicationDate": { "type": "string", "format": "date" },
+          "pages": { "type": "integer" }
+        }
+      },
+      "Movie": {
+        "type": "object",
+        "required": ["id", "title", "year", "runtimeMinutes", "mpaaRating", "scoreRating", "directorLastName"],
+        "properties": {
+          "id": { "type": "integer" },
+          "title": { "type": "string" },
+          "year": { "type": "integer" },
+          "runtimeMinutes": { "type": "integer" },
+          "mpaaRating": { "type": "string", "enum": ["G", "PG", "PG-13", "R", "NC-17"] },
+          "scoreRating": { "type": "number" },
+          "directorLastName": { "type": "string" }
+        }
+      },
+      "Incident": {
+        "type": "object",
+        "required": ["id", "serviceName", "severity", "status", "startTime", "endTime"],
+        "properties": {
+          "id": { "type": "integer" },
+          "serviceName": { "type": "string" },
+          "severity": { "type": "string", "enum": ["minor", "major", "critical"] },
+          "status": { "type": "string", "enum": ["planned", "active", "resolved"] },
+          "startTime": { "type": ["string", "null"], "format": "date-time", "description": "Null for `planned` incidents." },
+          "endTime": { "type": ["string", "null"], "format": "date-time", "description": "Null for `active` incidents; a future target for `planned` ones." }
+        }
+      },
+      "OilField": {
+        "type": "object",
+        "required": ["id", "locationType", "fieldName", "country", "operator", "latitude", "longitude", "wellDepthM", "dailyProductionBbl", "discoveryYear", "basin"],
+        "properties": {
+          "id": { "type": "integer" },
+          "locationType": { "type": "string", "enum": ["land_based", "ocean_based"] },
+          "fieldName": { "type": "string" },
+          "country": { "type": "string" },
+          "operator": { "type": "string" },
+          "latitude": { "type": "number" },
+          "longitude": { "type": "number" },
+          "wellDepthM": { "type": "integer" },
+          "dailyProductionBbl": { "type": "integer" },
+          "discoveryYear": { "type": "integer" },
+          "basin": { "type": "string" }
+        }
+      },
+      "AirportPage": { "allOf": [{ "$ref": "#/components/schemas/PageOf" }, { "properties": { "data": { "items": { "$ref": "#/components/schemas/Airport" } } } }] },
+      "CityPage": { "allOf": [{ "$ref": "#/components/schemas/PageOf" }, { "properties": { "data": { "items": { "$ref": "#/components/schemas/City" } } } }] },
+      "BookPage": { "allOf": [{ "$ref": "#/components/schemas/PageOf" }, { "properties": { "data": { "items": { "$ref": "#/components/schemas/Book" } } } }] },
+      "MoviePage": { "allOf": [{ "$ref": "#/components/schemas/PageOf" }, { "properties": { "data": { "items": { "$ref": "#/components/schemas/Movie" } } } }] },
+      "IncidentPage": { "allOf": [{ "$ref": "#/components/schemas/PageOf" }, { "properties": { "data": { "items": { "$ref": "#/components/schemas/Incident" } } } }] },
+      "OilFieldPage": { "allOf": [{ "$ref": "#/components/schemas/PageOf" }, { "properties": { "data": { "items": { "$ref": "#/components/schemas/OilField" } } } }] },
+      "PageOf": {
+        "type": "object",
+        "required": ["pagination", "data"],
+        "properties": {
+          "pagination": { "$ref": "#/components/schemas/Pagination" },
+          "data": { "type": "array" }
+        }
+      }
+    }
+  }
+}
