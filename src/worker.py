@@ -115,10 +115,14 @@ section{{margin-top:52px}}.section-label{{color:var(--muted);font-size:11px;lett
 .oil-cell{{min-height:300px;padding:20px;background:radial-gradient(circle at 76% 25%,rgba(215,243,107,.85) 0 3px,transparent 4px),linear-gradient(145deg,#101b24,#123e49 52%,#1c263b);display:flex;flex-direction:column;justify-content:space-between}}.oil-cell h3{{margin:0;font:700 30px/.95 ui-sans-serif,system-ui,sans-serif;letter-spacing:-.05em}}.oil-cell p{{max-width:270px;color:#dce8d9;margin:0;font-size:12px;line-height:1.6}}.oil-cell a{{color:var(--accent);font-size:11px;text-decoration:underline;letter-spacing:.08em}}.oil-sample{{background:#181b18;padding:16px;min-height:300px;overflow:hidden}}.oil-sample strong{{display:block;color:var(--accent);font-size:12px;letter-spacing:.1em;margin-bottom:12px}}.oil-sample pre{{padding:0;font-size:11px;line-height:1.55}}
 </style></head><body><div class="shell"><header><div class="brand"><div class="mark">CL</div><div><h1>COSMIC LAB API</h1><div class="eyebrow">PUBLIC API</div></div></div><nav class="links"><a href="/docs">API DOCS</a><a href="{README_URL}" target="_blank" rel="noopener noreferrer">README ↗</a></nav></header>
 <main><div class="hero"><div><h2>Cosmic Lab API.</h2><p>A REST API with six datasets, query parameters, filtering, pagination, KV-cached lookups, and JSON responses.</p></div></div>
-<section><div class="section-label">RESPONSE METADATA</div><div class="response"><div class="response-head"><span>GET /api/v1/airports?state_code=CA&amp;page=1</span><a href="{base_url}/api/v1/airports?state_code=CA&amp;page=1" target="_blank" rel="noopener noreferrer">OPEN JSON ↗</a></div><pre>{{
-  "page": 1,
-  "pageSize": 3,
-  "total": 10,
+<section><div class="section-label">RESPONSE METADATA</div><div class="response"><div class="response-head"><span>GET /api/v1/movies?page=1</span><a href="{base_url}/api/v1/movies?page=1" target="_blank" rel="noopener noreferrer">OPEN JSON ↗</a></div><pre>{{
+  "pagination": {{
+    "page": 1,
+    "page_size": 10,
+    "count": 10,
+    "total": 1000,
+    "total_pages": 100
+  }},
   "data": [ ... ]
 }}</pre></div><p class="chrome-tip" id="chrome-tip"><svg class="tip-icon" viewBox="0 0 16 16" width="14" height="14" aria-hidden="true"><circle cx="8" cy="8" r="7" fill="none" stroke="currentColor" stroke-width="1.4"/><path d="M8 7v4.5" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><circle cx="8" cy="4.6" r="1" fill="currentColor"/></svg>Using Chrome? Its built-in JSON view is plain text. <a href="{JSON_FORMATTER_URL}" target="_blank" rel="noopener noreferrer">JSON Formatter ↗</a> adds highlighting and collapsible trees.</p></section>
 <section><div class="section-label">DATASETS</div><div class="grid">{dataset_cards}<div class="oil-sample"><div class="dataset-top"><span>OIL FIELDS</span><span class="dot"></span></div><p>50 records · 25 land / 25 ocean fields</p><small>Filter by country code</small><code><a href="{base_url}/api/v1/offshore-oil-fields?country_code=BR&amp;page=1" target="_blank" rel="noopener noreferrer">{base_url}/api/v1/offshore-oil-fields?country_code=BR&amp;page=1</a></code><span class="all-records">or <a href="/api/v1/offshore-oil-fields?page=1" target="_blank" rel="noopener noreferrer">All records</a></span><pre>{DATASET_EXAMPLES["OIL FIELDS"]}</pre></div></div></section>
