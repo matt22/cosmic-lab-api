@@ -33,8 +33,9 @@ cities, books, movies, incidents, and oil fields.
   page-based pagination.
 - `GET /api/v1/cities` supports country-code filtering and fixed ten-record
   page-based pagination.
-- `GET /api/v1/books` supports case-insensitive substring searches with the
-  `title` parameter and fixed ten-record page-based pagination.
+- `GET /api/v1/books` lists all books, supports optional case-insensitive
+  substring searches with the `title` parameter, and uses fixed ten-record
+  page-based pagination.
 - `GET /api/v1/movies` lists all movies, supports optional case-insensitive
   substring searches with the `title` parameter, and uses fixed ten-record
   page-based pagination.
@@ -177,10 +178,12 @@ Airport responses place pagination metadata before the result array:
 
 ## Books endpoint
 
-The books endpoint requires a case-insensitive substring query and accepts an
-optional positive `page`, which defaults to `1`:
+The books endpoint lists every book when called without parameters. An
+optional `title` narrows it with a case-insensitive substring match, and an
+optional positive `page` defaults to `1`:
 
 ```text
+GET /api/v1/books
 GET /api/v1/books?title=atomic
 ```
 

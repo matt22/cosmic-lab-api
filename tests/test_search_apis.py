@@ -1,6 +1,7 @@
 import unittest
 
 from src.books_api import load_books, query_books
+from src.books_api import parse_query as parse_books_query
 from src.incidents_api import load_incidents, query_incidents
 from src.incidents_api import parse_query as parse_incidents_query
 from src.movies_api import load_movies, query_movies
@@ -42,6 +43,11 @@ class SearchApiTests(unittest.TestCase):
         movies = load_movies()
         title, page = parse_movies_query({})
         self.assertEqual(query_movies(movies, title, page)["pagination"]["total"], len(movies))
+
+    def test_missing_book_title_lists_all_books(self):
+        books = load_books()
+        title, page = parse_books_query({})
+        self.assertEqual(query_books(books, title, page)["pagination"]["total"], len(books))
 
     def test_injection_like_input_is_treated_as_literal_text(self):
         query = "' OR 1=1 --"

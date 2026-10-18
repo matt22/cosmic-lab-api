@@ -83,14 +83,14 @@
       "get": {
         "operationId": "searchBooks",
         "summary": "Search books by title",
-        "description": "Case-insensitive substring match on `title`. Fixed page size of 10.",
+        "description": "Lists all books, or filters them with a case-insensitive substring match on `title`. Fixed page size of 10.",
         "tags": ["Search"],
         "parameters": [
           {
             "name": "title",
             "in": "query",
-            "required": true,
-            "description": "Text to find anywhere in the book title.",
+            "required": false,
+            "description": "Text to find anywhere in the book title. Leave it out to list every book.",
             "schema": { "type": "string", "minLength": 1 },
             "example": "atomic"
           },
