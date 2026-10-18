@@ -114,14 +114,14 @@
       "get": {
         "operationId": "searchMovies",
         "summary": "Search movies by title",
-        "description": "Case-insensitive substring match on `title`. Fixed page size of 10.",
+        "description": "Lists all movies, or filters them with a case-insensitive substring match on `title`. Fixed page size of 10.",
         "tags": ["Search"],
         "parameters": [
           {
             "name": "title",
             "in": "query",
-            "required": true,
-            "description": "Text to find anywhere in the movie title.",
+            "required": false,
+            "description": "Text to find anywhere in the movie title. Leave it out to list every movie.",
             "schema": { "type": "string", "minLength": 1 },
             "example": "Jurassic P"
           },

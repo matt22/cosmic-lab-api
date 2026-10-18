@@ -35,8 +35,9 @@ cities, books, movies, incidents, and oil fields.
   page-based pagination.
 - `GET /api/v1/books` supports case-insensitive substring searches with the
   `title` parameter and fixed ten-record page-based pagination.
-- `GET /api/v1/movies` supports case-insensitive substring searches with the
-  `title` parameter and fixed ten-record page-based pagination.
+- `GET /api/v1/movies` lists all movies, supports optional case-insensitive
+  substring searches with the `title` parameter, and uses fixed ten-record
+  page-based pagination.
 - `GET /api/v1/incidents` lists all incidents, supports optional
   case-insensitive substring searches with the `service_name` parameter, and
   uses fixed ten-record page-based pagination.
@@ -187,10 +188,12 @@ GET /api/v1/books?title=atomic
 
 ## Movies endpoint
 
-The movies endpoint requires a case-insensitive substring query and accepts an
-optional positive `page`, which defaults to `1`:
+The movies endpoint lists every movie when called without parameters. An
+optional `title` narrows it with a case-insensitive substring match, and an
+optional positive `page` defaults to `1`:
 
 ```text
+GET /api/v1/movies
 GET /api/v1/movies?title=Jurassic%20P
 ```
 

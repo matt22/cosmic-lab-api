@@ -4,6 +4,7 @@ from src.books_api import load_books, query_books
 from src.incidents_api import load_incidents, query_incidents
 from src.incidents_api import parse_query as parse_incidents_query
 from src.movies_api import load_movies, query_movies
+from src.movies_api import parse_query as parse_movies_query
 
 
 class SearchApiTests(unittest.TestCase):
@@ -36,6 +37,11 @@ class SearchApiTests(unittest.TestCase):
         for params in ({"service_name": [""]}, {"service_name": ["api", "book"]}):
             with self.assertRaises(ValueError):
                 parse_incidents_query(params)
+
+    def test_missing_movie_title_lists_all_movies(self):
+        movies = load_movies()
+        title, page = parse_movies_query({})
+        self.assertEqual(query_movies(movies, title, page)["pagination"]["total"], len(movies))
 
     def test_injection_like_input_is_treated_as_literal_text(self):
         query = "' OR 1=1 --"

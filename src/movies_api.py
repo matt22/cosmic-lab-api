@@ -18,7 +18,7 @@ def load_movies(path: Path = MOVIES_PATH) -> list[dict[str, Any]]:
 
 
 def parse_query(params: Mapping[str, Sequence[str]]) -> tuple[str, int]:
-    return parse_search_query(params, "title")
+    return parse_search_query(params, "title", required=False)
 
 
 def query_movies(movies: Sequence[Mapping[str, Any]], title: str, page: int):
