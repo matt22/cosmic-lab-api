@@ -87,14 +87,17 @@ class OpenApiSpecTests(unittest.TestCase):
     def test_documented_parameters_match_validation(self):
         for path, (module, _, _) in ENDPOINTS.items():
             parameters = [self.resolve(p) for p in self.spec["paths"][path]["get"]["parameters"]]
-            required = [p for p in parameters if p["required"]]
-            self.assertEqual(len(required), 1, path)
-            name, example = required[0]["name"], required[0]["example"]
+            filters = [p for p in parameters if p["name"] != "page"]
+            self.assertEqual(len(filters), 1, path)
+            name, example = filters[0]["name"], filters[0]["example"]
             self.assertEqual({p["name"] for p in parameters}, {name, "page"}, path)
 
             self.assertEqual(module.parse_query({name: [example]})[1], 1, path)
-            with self.assertRaises(ValueError, msg=path):
-                module.parse_query({})
+            if filters[0]["required"]:
+                with self.assertRaises(ValueError, msg=path):
+                    module.parse_query({})
+            else:
+                self.assertEqual(module.parse_query({}), ("", 1), path)
             with self.assertRaises(ValueError, msg=path):
                 module.parse_query({name: [example], "page": ["0"]})
             with self.assertRaises(ValueError, msg=path):
@@ -103,8 +106,10 @@ class OpenApiSpecTests(unittest.TestCase):
     def test_example_responses_match_schemas(self):
         for path, (module, load, query) in ENDPOINTS.items():
             operation = self.spec["paths"][path]["get"]
-            required = next(self.resolve(p) for p in operation["parameters"] if p.get("required"))
-            value, page = module.parse_query({required["name"]: [required["example"]]})
+            search = next(
+                p for p in map(self.resolve, operation["parameters"]) if p["name"] != "page"
+            )
+            value, page = module.parse_query({search["name"]: [search["example"]]})
             response = query(load(), value, page)
             self.assertTrue(response["data"], f"{path} example returns no records")
             schema = operation["responses"]["200"]["content"]["application/json"]["schema"]

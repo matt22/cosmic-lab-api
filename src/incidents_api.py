@@ -18,7 +18,7 @@ def load_incidents(path: Path = INCIDENTS_PATH) -> list[dict[str, Any]]:
 
 
 def parse_query(params: Mapping[str, Sequence[str]]) -> tuple[str, int]:
-    return parse_search_query(params, "service_name")
+    return parse_search_query(params, "service_name", required=False)
 
 
 def query_incidents(

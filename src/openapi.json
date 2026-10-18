@@ -145,14 +145,14 @@
       "get": {
         "operationId": "searchIncidents",
         "summary": "Search fictional service incidents",
-        "description": "Case-insensitive substring match on `serviceName`. Fixed page size of 10.",
+        "description": "Lists all incidents, or filters them with a case-insensitive substring match on `serviceName`. Fixed page size of 10.",
         "tags": ["Search"],
         "parameters": [
           {
             "name": "service_name",
             "in": "query",
-            "required": true,
-            "description": "Text to find anywhere in the service name.",
+            "required": false,
+            "description": "Text to find anywhere in the service name. Leave it out to list every incident. Service names: Airport Data API, Book Catalog API, City Search API, Movie Search API, Practice API Gateway.",
             "schema": { "type": "string", "minLength": 1 },
             "example": "gateway"
           },

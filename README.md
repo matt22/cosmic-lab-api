@@ -37,8 +37,9 @@ cities, books, movies, incidents, and oil fields.
   `title` parameter and fixed ten-record page-based pagination.
 - `GET /api/v1/movies` supports case-insensitive substring searches with the
   `title` parameter and fixed ten-record page-based pagination.
-- `GET /api/v1/incidents` supports case-insensitive substring searches with the
-  `service_name` parameter and fixed ten-record page-based pagination.
+- `GET /api/v1/incidents` lists all incidents, supports optional
+  case-insensitive substring searches with the `service_name` parameter, and
+  uses fixed ten-record page-based pagination.
 - The Python Worker is deployed at <https://api.cosmic-lab.workers.dev> and the
   versioned airports endpoint has been verified in production.
 - The Python Worker entry point, package manifest, and initial tests are tracked
@@ -197,12 +198,17 @@ GET /api/v1/movies?title=Jurassic%20P
 
 ## Incidents endpoint
 
-The incidents endpoint requires a case-insensitive substring query and accepts
-an optional positive `page`, which defaults to `1`:
+The incidents endpoint lists every incident when called without parameters.
+An optional `service_name` narrows it with a case-insensitive substring match,
+and an optional positive `page` defaults to `1`:
 
 ```text
+GET /api/v1/incidents
 GET /api/v1/incidents?service_name=gateway
 ```
+
+The service names are Airport Data API, Book Catalog API, City Search API,
+Movie Search API, and Practice API Gateway.
 
 [View a live incidents response](https://api.cosmic-lab.workers.dev/api/v1/incidents?service_name=gateway&page=1).
 

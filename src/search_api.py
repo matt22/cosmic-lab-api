@@ -6,18 +6,28 @@ from typing import Any, Mapping, Sequence
 
 
 def parse_search_query(
-    params: Mapping[str, Sequence[str]], field: str
+    params: Mapping[str, Sequence[str]], field: str, required: bool = True
 ) -> tuple[str, int]:
-    """Validate a required search value and optional page number."""
+    """Validate a search value and optional page number.
+
+    An optional field that is left out returns an empty search value, which
+    matches every record.
+    """
     unsupported = sorted(set(params) - {field, "page"})
     if unsupported:
         raise ValueError(
             "Unsupported query parameter(s): " + ", ".join(unsupported)
         )
 
-    values = params.get(field, [])
-    if len(values) != 1 or not values[0].strip():
-        raise ValueError(f"{field} is required and must appear exactly once")
+    values = params.get(field, [] if required else [None])
+    if values == [None]:
+        search = ""
+    elif len(values) != 1 or not values[0].strip():
+        if required:
+            raise ValueError(f"{field} is required and must appear exactly once")
+        raise ValueError(f"{field} must not be empty and must appear at most once")
+    else:
+        search = values[0].strip()
 
     page_values = params.get("page", ["1"])
     if len(page_values) != 1:
@@ -29,7 +39,7 @@ def parse_search_query(
     if page < 1:
         raise ValueError("page must be a positive integer")
 
-    return values[0].strip(), page
+    return search, page
 
 
 def paginate(records: Sequence[Mapping[str, Any]], page: int, page_size: int):
