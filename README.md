@@ -29,8 +29,8 @@ cities, books, movies, incidents, and oil fields.
   TTLs currently default to three hours (`10800` seconds).
 - Cloudflare watches the `main` branch and deploys this Python Worker with
   `uv run pywrangler deploy`.
-- `GET /api/v1/airports` supports state-code filtering and fixed three-record
-  page-based pagination.
+- `GET /api/v1/airports` lists all airports, supports optional state-code
+  filtering, and uses fixed three-record page-based pagination.
 - `GET /api/v1/cities` supports country-code filtering and fixed ten-record
   page-based pagination.
 - `GET /api/v1/books` lists all books, supports optional case-insensitive
@@ -119,11 +119,13 @@ practice exercises remain undecided.
 
 ## Airports endpoint
 
-The initial endpoint requires a two-letter `state_code`. It accepts an optional
-positive `page`, which defaults to `1`. The airports page size is fixed at
+The airports endpoint lists every airport when called without parameters. An
+optional two-letter `state_code` filters by state, and an optional positive
+`page` defaults to `1`. The airports page size is fixed at
 three; other datasets can define their own pagination rules.
 
 ```text
+GET /api/v1/airports
 GET /api/v1/airports?state_code=CA
 GET /api/v1/airports?state_code=CA&page=2
 ```

@@ -103,6 +103,17 @@ class AirportsApiTests(unittest.TestCase):
         with self.assertRaisesRegex(ValueError, "Unsupported query parameter"):
             parse_query({"state_code": ["CA"], "city": ["Oakland"]})
 
+    def test_missing_state_code_lists_all_airports(self):
+        state_code, page = parse_query({})
+        result = query_airports(self.airports, state_code, page)
+
+        self.assertEqual(result["pagination"]["total"], len(self.airports))
+        self.assertEqual(cache_key(state_code).rsplit(":", 1)[1], "*")
+
+    def test_empty_state_code_is_rejected(self):
+        with self.assertRaisesRegex(ValueError, "state_code must not be empty"):
+            parse_query({"state_code": [""]})
+
     def test_empty_result_has_pagination_metadata(self):
         result = query_airports(self.airports, "ZZ", 1)
 

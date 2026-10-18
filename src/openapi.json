@@ -21,14 +21,14 @@
       "get": {
         "operationId": "listAirports",
         "summary": "List US airports in a state",
-        "description": "Returns airports whose `state_code` matches exactly. Fixed page size of 3.",
+        "description": "Lists all airports, or the airports whose `state_code` matches exactly. Fixed page size of 3.",
         "tags": ["Filtered"],
         "parameters": [
           {
             "name": "state_code",
             "in": "query",
-            "required": true,
-            "description": "Two-letter US state code. Case-insensitive.",
+            "required": false,
+            "description": "Two-letter US state code. Case-insensitive. Leave it out to list every airport.",
             "schema": { "type": "string", "pattern": "^[A-Za-z]{2}$" },
             "example": "CA"
           },

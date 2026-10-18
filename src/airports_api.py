@@ -29,13 +29,16 @@ def parse_query(params: Mapping[str, Sequence[str]]) -> tuple[str, int]:
             "Unsupported query parameter(s): " + ", ".join(unsupported)
         )
 
-    state_values = params.get("state_code", [])
-    if len(state_values) != 1 or not state_values[0].strip():
-        raise QueryError("state_code is required and must appear exactly once")
-
-    state_code = state_values[0].strip().upper()
-    if len(state_code) != 2 or not state_code.isalpha():
-        raise QueryError("state_code must be a two-letter code")
+    # A missing state_code returns an empty code, which matches every record.
+    state_values = params.get("state_code", [None])
+    if state_values == [None]:
+        state_code = ""
+    elif len(state_values) != 1 or not state_values[0].strip():
+        raise QueryError("state_code must not be empty and must appear at most once")
+    else:
+        state_code = state_values[0].strip().upper()
+        if len(state_code) != 2 or not state_code.isalpha():
+            raise QueryError("state_code must be a two-letter code")
 
     page_values = params.get("page", ["1"])
     if len(page_values) != 1:
@@ -74,13 +77,13 @@ def build_result_set(
     return [
         serialize_airport(airport)
         for airport in airports
-        if airport["stateCode"] == state_code
+        if not state_code or airport["stateCode"] == state_code
     ]
 
 
 def cache_key(state_code: str) -> str:
     """Return a versioned key shared by every page of a state query."""
-    return f"api:v1:airports:{AIRPORTS_CACHE_KEY_VERSION}:state_code:{state_code}"
+    return f"api:v1:airports:{AIRPORTS_CACHE_KEY_VERSION}:state_code:{state_code or '*'}"
 
 
 async def get_result_set(
