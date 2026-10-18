@@ -84,6 +84,17 @@ class CitiesApiTests(unittest.TestCase):
         with self.assertRaisesRegex(ValueError, "Unsupported query parameter"):
             parse_query({"country_code": ["NG"], "city": ["Aba"]})
 
+    def test_missing_country_code_lists_all_cities(self):
+        country_code, page = parse_query({})
+        result = query_cities(self.cities, country_code, page)
+
+        self.assertEqual(result["pagination"]["total"], len(self.cities))
+        self.assertEqual(cache_key(country_code).rsplit(":", 1)[1], "*")
+
+    def test_empty_country_code_is_rejected(self):
+        with self.assertRaisesRegex(ValueError, "country_code must not be empty"):
+            parse_query({"country_code": [""]})
+
     def test_empty_result_has_pagination_metadata(self):
         result = query_cities(self.cities, "ZZ", 1)
 

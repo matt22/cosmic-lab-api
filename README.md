@@ -31,8 +31,8 @@ cities, books, movies, incidents, and oil fields.
   `uv run pywrangler deploy`.
 - `GET /api/v1/airports` lists all airports, supports optional state-code
   filtering, and uses fixed three-record page-based pagination.
-- `GET /api/v1/cities` supports country-code filtering and fixed ten-record
-  page-based pagination.
+- `GET /api/v1/cities` lists all cities, supports optional country-code
+  filtering, and uses fixed ten-record page-based pagination.
 - `GET /api/v1/books` lists all books, supports optional case-insensitive
   substring searches with the `title` parameter, and uses fixed ten-record
   page-based pagination.
@@ -143,11 +143,12 @@ Those two values are returned as a comma-delimited `coordinates` string:
 
 ## Cities endpoint
 
-The cities endpoint requires a two-letter `country_code`. It accepts an
-optional positive `page`, which defaults to `1`; its page size is fixed at
-10.
+The cities endpoint lists every city when called without parameters. An
+optional two-letter `country_code` filters by country, and an optional positive
+`page` defaults to `1`; its page size is fixed at 10.
 
 ```text
+GET /api/v1/cities
 GET /api/v1/cities?country_code=JP
 GET /api/v1/cities?country_code=JP&page=2
 ```

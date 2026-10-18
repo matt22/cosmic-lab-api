@@ -29,13 +29,16 @@ def parse_query(params: Mapping[str, Sequence[str]]) -> tuple[str, int]:
             "Unsupported query parameter(s): " + ", ".join(unsupported)
         )
 
-    country_values = params.get("country_code", [])
-    if len(country_values) != 1 or not country_values[0].strip():
-        raise QueryError("country_code is required and must appear exactly once")
-
-    country_code = country_values[0].strip().upper()
-    if len(country_code) != 2 or not country_code.isalpha():
-        raise QueryError("country_code must be a two-letter code")
+    # A missing country_code returns an empty code, which matches every record.
+    country_values = params.get("country_code", [None])
+    if country_values == [None]:
+        country_code = ""
+    elif len(country_values) != 1 or not country_values[0].strip():
+        raise QueryError("country_code must not be empty and must appear at most once")
+    else:
+        country_code = country_values[0].strip().upper()
+        if len(country_code) != 2 or not country_code.isalpha():
+            raise QueryError("country_code must be a two-letter code")
 
     page_values = params.get("page", ["1"])
     if len(page_values) != 1:
@@ -70,13 +73,13 @@ def build_result_set(
     return [
         serialize_city(city)
         for city in cities
-        if city["countryCode"] == country_code
+        if not country_code or city["countryCode"] == country_code
     ]
 
 
 def cache_key(country_code: str) -> str:
     """Return a versioned key shared by every page of a country query."""
-    return f"api:v1:cities:{CITIES_CACHE_KEY_VERSION}:country_code:{country_code}"
+    return f"api:v1:cities:{CITIES_CACHE_KEY_VERSION}:country_code:{country_code or '*'}"
 
 
 async def get_result_set(

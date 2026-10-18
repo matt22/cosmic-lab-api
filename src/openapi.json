@@ -52,14 +52,14 @@
       "get": {
         "operationId": "listCities",
         "summary": "List cities in a country",
-        "description": "Returns cities whose `country_code` matches exactly. Fixed page size of 10.",
+        "description": "Lists all cities, or the cities whose `country_code` matches exactly. Fixed page size of 10.",
         "tags": ["Filtered"],
         "parameters": [
           {
             "name": "country_code",
             "in": "query",
-            "required": true,
-            "description": "Two-letter ISO 3166-1 country code. Case-insensitive.",
+            "required": false,
+            "description": "Two-letter ISO 3166-1 country code. Case-insensitive. Leave it out to list every city.",
             "schema": { "type": "string", "pattern": "^[A-Za-z]{2}$" },
             "example": "JP"
           },
