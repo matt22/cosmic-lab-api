@@ -14,7 +14,7 @@ def load_offshore_oil_fields(path: Path = OFFSHORE_OIL_FIELDS_PATH) -> list[dict
     return json.loads(path.read_text(encoding="utf-8"))
 
 def parse_query(params: Mapping[str, Sequence[str]]) -> tuple[str, int]:
-    return parse_search_query(params, "country_code")
+    return parse_search_query(params, "country_code", required=False)
 
 def query_offshore_oil_fields(fields: Sequence[Mapping[str, Any]], country_code: str, page: int):
     return paginate(substring_matches(fields, "country", country_code), page, OFFSHORE_OIL_FIELDS_PAGE_SIZE)

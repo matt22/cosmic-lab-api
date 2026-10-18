@@ -220,10 +220,12 @@ Movie Search API, and Practice API Gateway.
 
 ## Offshore oil fields endpoint
 
-The offshore oil fields endpoint filters by country code and accepts an
-optional positive `page`, which defaults to `1`:
+The offshore oil fields endpoint lists every oil field when called without
+parameters. An optional `country_code` filters by country, and an optional
+positive `page` defaults to `1`:
 
 ```text
+GET /api/v1/offshore-oil-fields
 GET /api/v1/offshore-oil-fields?country_code=BR
 ```
 

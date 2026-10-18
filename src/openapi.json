@@ -176,14 +176,14 @@
       "get": {
         "operationId": "searchOilFields",
         "summary": "Search oil fields by country",
-        "description": "Case-insensitive substring match of `country_code` against the full `country` name, so `BR` matches `Brazil`. Fixed page size of 10.",
+        "description": "Lists all oil fields, or filters them with a case-insensitive substring match of `country_code` against the full `country` name, so `BR` matches `Brazil`. Fixed page size of 10.",
         "tags": ["Search"],
         "parameters": [
           {
             "name": "country_code",
             "in": "query",
-            "required": true,
-            "description": "Text to find anywhere in the country name.",
+            "required": false,
+            "description": "Text to find anywhere in the country name. Leave it out to list every oil field.",
             "schema": { "type": "string", "minLength": 1 },
             "example": "BR"
           },

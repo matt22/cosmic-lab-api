@@ -24,5 +24,11 @@ class OffshoreOilFieldsApiTests(unittest.TestCase):
             parse_query({"country_code": ["BR"], "page": ["0"]})
 
 
+    def test_missing_country_code_lists_all_fields(self):
+        country_code, page = parse_query({})
+        result = query_offshore_oil_fields(self.fields, country_code, page)
+        self.assertEqual(result["pagination"]["total"], len(self.fields))
+
+
 if __name__ == "__main__":
     unittest.main()
