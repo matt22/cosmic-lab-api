@@ -20,7 +20,7 @@
     "/api/v1/airports": {
       "get": {
         "operationId": "listAirports",
-        "summary": "List US airports in a state",
+        "summary": "List US airports, optionally by state",
         "description": "Lists all airports, or the airports whose `state_code` matches exactly. Fixed page size of 3.",
         "tags": ["Filtered"],
         "parameters": [
@@ -51,7 +51,7 @@
     "/api/v1/cities": {
       "get": {
         "operationId": "listCities",
-        "summary": "List cities in a country",
+        "summary": "List cities, optionally by country",
         "description": "Lists all cities, or the cities whose `country_code` matches exactly. Fixed page size of 10.",
         "tags": ["Filtered"],
         "parameters": [
@@ -82,7 +82,7 @@
     "/api/v1/books": {
       "get": {
         "operationId": "searchBooks",
-        "summary": "Search books by title",
+        "summary": "List books, optionally searched by title",
         "description": "Lists all books, or filters them with a case-insensitive substring match on `title`. Fixed page size of 10.",
         "tags": ["Search"],
         "parameters": [
@@ -113,7 +113,7 @@
     "/api/v1/movies": {
       "get": {
         "operationId": "searchMovies",
-        "summary": "Search movies by title",
+        "summary": "List movies, optionally searched by title",
         "description": "Lists all movies, or filters them with a case-insensitive substring match on `title`. Fixed page size of 10.",
         "tags": ["Search"],
         "parameters": [
@@ -144,7 +144,7 @@
     "/api/v1/incidents": {
       "get": {
         "operationId": "searchIncidents",
-        "summary": "Search fictional service incidents",
+        "summary": "List fictional service incidents, optionally by service name",
         "description": "Lists all incidents, or filters them with a case-insensitive substring match on `serviceName`. Fixed page size of 10.",
         "tags": ["Search"],
         "parameters": [
@@ -175,7 +175,7 @@
     "/api/v1/offshore-oil-fields": {
       "get": {
         "operationId": "searchOilFields",
-        "summary": "Search oil fields by country",
+        "summary": "List oil fields, optionally by country",
         "description": "Lists all oil fields, or filters them with a case-insensitive substring match of `country_code` against the full `country` name, so `BR` matches `Brazil`. Fixed page size of 10.",
         "tags": ["Search"],
         "parameters": [
